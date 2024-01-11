@@ -55,6 +55,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-10**|**Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection**|Pingping Zhang et.al.|[2401.05182](http://arxiv.org/abs/2401.05182)|null|
+|**2024-01-10**|**Quantum Inspired Microwave Phase Super-Resolution at Room Temperature**|Leonid Vidro et.al.|[2401.05026](http://arxiv.org/abs/2401.05026)|null|
 |**2024-01-09**|**RadarCam-Depth: Radar-Camera Fusion for Depth Estimation with Learned Metric Scale**|Han Li et.al.|[2401.04325](http://arxiv.org/abs/2401.04325)|null|
 |**2024-01-07**|**Real-Time Asphalt Pavement Layer Thickness Prediction Using Ground-Penetrating Radar Based on a Modified Extended Common Mid-Point (XCMP) Approach**|Siqi Wang et.al.|[2401.03375](http://arxiv.org/abs/2401.03375)|null|
 |**2024-01-06**|**Quantum Noise Limited Phased Arrays for Single-Electron Cyclotron Radiation Emission Spectroscopy**|Stafford Withington et.al.|[2401.03247](http://arxiv.org/abs/2401.03247)|null|
