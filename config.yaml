@@ -24,6 +24,8 @@ md_wechat_path: './docs/wechat.md'
 keywords:
     "Radar SLAM": 
         filters: ["Radar SLAM", "Radar Localization"]
+    "Radar": 
+        filters: ["Radar"]
     "Lidar SLAM":
         filters: ["Lidar SLAM", "Lidar Localization"]
     # "Visual Localization":
