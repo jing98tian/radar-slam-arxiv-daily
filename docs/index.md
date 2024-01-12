@@ -46,6 +46,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-11**|**Sea ice detection using concurrent multispectral and synthetic aperture radar imagery**|Martin S J Rogers et.al.|[2401.06009](http://arxiv.org/abs/2401.06009)|null|
+|**2024-01-11**|**End-to-End Learning for SLP-Based ISAC Systems**|Yixian Zheng et.al.|[2401.05663](http://arxiv.org/abs/2401.05663)|null|
 |**2024-01-10**|**Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection**|Pingping Zhang et.al.|[2401.05182](http://arxiv.org/abs/2401.05182)|null|
 |**2024-01-10**|**Quantum Inspired Microwave Phase Super-Resolution at Room Temperature**|Leonid Vidro et.al.|[2401.05026](http://arxiv.org/abs/2401.05026)|null|
 |**2024-01-09**|**RadarCam-Depth: Radar-Camera Fusion for Depth Estimation with Learned Metric Scale**|Han Li et.al.|[2401.04325](http://arxiv.org/abs/2401.04325)|null|
