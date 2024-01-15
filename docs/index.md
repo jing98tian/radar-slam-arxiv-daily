@@ -46,6 +46,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-12**|**Resource-Efficient Gesture Recognition using Low-Resolution Thermal Camera via Spiking Neural Networks and Sparse Segmentation**|Ali Safa et.al.|[2401.06563](http://arxiv.org/abs/2401.06563)|null|
+|**2024-01-12**|**RIS-Aided NLoS Monostatic Sensing under Mobility and Angle-Doppler Coupling**|Mahmut Kemal Ercan et.al.|[2401.06544](http://arxiv.org/abs/2401.06544)|null|
+|**2024-01-12**|**Harnessing Holes for Spatial Smoothing with Applications in Automotive Radar**|Yinyan Bu et.al.|[2401.06502](http://arxiv.org/abs/2401.06502)|null|
 |**2024-01-11**|**Sea ice detection using concurrent multispectral and synthetic aperture radar imagery**|Martin S J Rogers et.al.|[2401.06009](http://arxiv.org/abs/2401.06009)|null|
 |**2024-01-11**|**End-to-End Learning for SLP-Based ISAC Systems**|Yixian Zheng et.al.|[2401.05663](http://arxiv.org/abs/2401.05663)|null|
 |**2024-01-10**|**Integrated Sensing and Communication with Reconfigurable Distributed Antenna and Reflecting Surface: Joint Beamforming and Mode Selection**|Pingping Zhang et.al.|[2401.05182](http://arxiv.org/abs/2401.05182)|null|
