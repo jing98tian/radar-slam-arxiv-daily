@@ -46,6 +46,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-16**|**Sparse array design for MIMO radar in multipath scenarios**|Xuchen Li et.al.|[2401.08300](http://arxiv.org/abs/2401.08300)|null|
+|**2024-01-16**|**Ship Detection in SAR Images with Human-in-the-Loop**|Hecheng Jia et.al.|[2401.08213](http://arxiv.org/abs/2401.08213)|null|
+|**2024-01-16**|**Index Modulation for Integrated Sensing and Communications: A Signal Processing Perspective**|Ahmet M. Elbir et.al.|[2401.08186](http://arxiv.org/abs/2401.08186)|null|
+|**2024-01-15**|**PolMERLIN: Self-Supervised Polarimetric Complex SAR Image Despeckling with Masked Networks**|Shunya Kato et.al.|[2401.07503](http://arxiv.org/abs/2401.07503)|null|
+|**2024-01-14**|**Nanoantennas and Nanoradars: The Future of Integrated Sensing and Communication at the Nanoscale**|M Javad Fakhimi et.al.|[2401.07252](http://arxiv.org/abs/2401.07252)|null|
+|**2024-01-12**|**Multi-View Near-field Imaging in NLOS with Non-Reconfigurable EM Skins**|Davide Tornielli Bellini et.al.|[2401.06891](http://arxiv.org/abs/2401.06891)|null|
 |**2024-01-12**|**Resource-Efficient Gesture Recognition using Low-Resolution Thermal Camera via Spiking Neural Networks and Sparse Segmentation**|Ali Safa et.al.|[2401.06563](http://arxiv.org/abs/2401.06563)|null|
 |**2024-01-12**|**RIS-Aided NLoS Monostatic Sensing under Mobility and Angle-Doppler Coupling**|Mahmut Kemal Ercan et.al.|[2401.06544](http://arxiv.org/abs/2401.06544)|null|
 |**2024-01-12**|**Harnessing Holes for Spatial Smoothing with Applications in Automotive Radar**|Yinyan Bu et.al.|[2401.06502](http://arxiv.org/abs/2401.06502)|null|
