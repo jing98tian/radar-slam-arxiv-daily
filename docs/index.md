@@ -30,6 +30,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684](http://arxiv.org/abs/2312.02684)|null|
 |**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327](http://arxiv.org/abs/2311.02327)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
 |**2023-11-03**|**Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving**|Florian Sauerbeck et.al.|[2311.01823](http://arxiv.org/abs/2311.01823)|null|
@@ -46,6 +47,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-17**|**Direct $N$ -body simulations of satellite formation around small asteroids: insights from DART's encounter with the Didymos system**|Harrison F. Agrusa et.al.|[2401.09269](http://arxiv.org/abs/2401.09269)|null|
+|**2024-01-17**|**Offloading platooning applications from 5.9\,GHz V2X to Radar Communications: effects on safety and efficiency**|Elena Haller et.al.|[2401.09242](http://arxiv.org/abs/2401.09242)|null|
+|**2024-01-17**|**AI Empowered Channel Semantic Acquisition for 6G Integrated Sensing and Communication Networks**|Yifei Zhang et.al.|[2401.09127](http://arxiv.org/abs/2401.09127)|null|
+|**2024-01-17**|**Multi-target Detection for Reconfigurable Holographic Surfaces Enabled Radar**|Xiaoyu Zhang et.al.|[2401.09098](http://arxiv.org/abs/2401.09098)|null|
 |**2024-01-16**|**Sparse array design for MIMO radar in multipath scenarios**|Xuchen Li et.al.|[2401.08300](http://arxiv.org/abs/2401.08300)|null|
 |**2024-01-16**|**Ship Detection in SAR Images with Human-in-the-Loop**|Hecheng Jia et.al.|[2401.08213](http://arxiv.org/abs/2401.08213)|null|
 |**2024-01-16**|**Index Modulation for Integrated Sensing and Communications: A Signal Processing Perspective**|Ahmet M. Elbir et.al.|[2401.08186](http://arxiv.org/abs/2401.08186)|null|
