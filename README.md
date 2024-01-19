@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.18
+## Updated on 2024.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240119>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -50,14 +50,14 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240119>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-01-17**|**Direct $N$ -body simulations of satellite formation around small asteroids: insights from DART's encounter with the Didymos system**|Harrison F. Agrusa et.al.|[2401.09269](http://arxiv.org/abs/2401.09269)|null|
-|**2024-01-17**|**Offloading platooning applications from 5.9\,GHz V2X to Radar Communications: effects on safety and efficiency**|Elena Haller et.al.|[2401.09242](http://arxiv.org/abs/2401.09242)|null|
+|**2024-01-18**|**Offloading platooning applications from 5.9 GHz V2X to Radar Communications: effects on safety and efficiency**|Elena Haller et.al.|[2401.09242](http://arxiv.org/abs/2401.09242)|null|
 |**2024-01-17**|**AI Empowered Channel Semantic Acquisition for 6G Integrated Sensing and Communication Networks**|Yifei Zhang et.al.|[2401.09127](http://arxiv.org/abs/2401.09127)|null|
 |**2024-01-17**|**Multi-target Detection for Reconfigurable Holographic Surfaces Enabled Radar**|Xiaoyu Zhang et.al.|[2401.09098](http://arxiv.org/abs/2401.09098)|null|
 |**2024-01-16**|**Sparse array design for MIMO radar in multipath scenarios**|Xuchen Li et.al.|[2401.08300](http://arxiv.org/abs/2401.08300)|null|
@@ -84,7 +84,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240118>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240119>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

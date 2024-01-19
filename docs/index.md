@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.18
+## Updated on 2024.01.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -48,7 +48,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-17**|**Direct $N$ -body simulations of satellite formation around small asteroids: insights from DART's encounter with the Didymos system**|Harrison F. Agrusa et.al.|[2401.09269](http://arxiv.org/abs/2401.09269)|null|
-|**2024-01-17**|**Offloading platooning applications from 5.9\,GHz V2X to Radar Communications: effects on safety and efficiency**|Elena Haller et.al.|[2401.09242](http://arxiv.org/abs/2401.09242)|null|
+|**2024-01-18**|**Offloading platooning applications from 5.9 GHz V2X to Radar Communications: effects on safety and efficiency**|Elena Haller et.al.|[2401.09242](http://arxiv.org/abs/2401.09242)|null|
 |**2024-01-17**|**AI Empowered Channel Semantic Acquisition for 6G Integrated Sensing and Communication Networks**|Yifei Zhang et.al.|[2401.09127](http://arxiv.org/abs/2401.09127)|null|
 |**2024-01-17**|**Multi-target Detection for Reconfigurable Holographic Surfaces Enabled Radar**|Xiaoyu Zhang et.al.|[2401.09098](http://arxiv.org/abs/2401.09098)|null|
 |**2024-01-16**|**Sparse array design for MIMO radar in multipath scenarios**|Xuchen Li et.al.|[2401.08300](http://arxiv.org/abs/2401.08300)|null|
