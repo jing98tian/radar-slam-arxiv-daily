@@ -34,7 +34,7 @@ layout: default
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684](http://arxiv.org/abs/2312.02684)|null|
 |**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327](http://arxiv.org/abs/2311.02327)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
 |**2023-11-03**|**Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving**|Florian Sauerbeck et.al.|[2311.01823](http://arxiv.org/abs/2311.01823)|null|
-|**2023-11-02**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928](http://arxiv.org/abs/2311.00928)|null|
+|**2024-01-22**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928](http://arxiv.org/abs/2311.00928)|null|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|**[link](https://github.com/pamphlett/outram)**|
 |**2023-09-15**|**Pointing the Way: Refining Radar-Lidar Localization Using Learned ICP Weights**|Daniil Lisus et.al.|[2309.08731](http://arxiv.org/abs/2309.08731)|null|
 |**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086](http://arxiv.org/abs/2309.08086)|null|
@@ -47,6 +47,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-01-19**|**Waveform-Domain Complementary Signal Sets for Interrupted Sampling Repeater Jamming Suppression**|Hanning Su et.al.|[2401.12173](http://arxiv.org/abs/2401.12173)|null|
+|**2024-01-20**|**Data-Driven Target Localization: Benchmarking Gradient Descent Using the Cramér-Rao Bound**|Shyam Venkatasubramanian et.al.|[2401.11176](http://arxiv.org/abs/2401.11176)|null|
+|**2024-01-20**|**Reconfigurable Intelligent Surface-Enabled Array Radar for Interference Mitigation**|Shengyao Chen et.al.|[2401.11137](http://arxiv.org/abs/2401.11137)|null|
 |**2024-01-19**|**Exploring ISAC Technology for UAV SAR Imaging**|Stefano Moro et.al.|[2401.10606](http://arxiv.org/abs/2401.10606)|null|
 |**2024-01-18**|**Iteratively Reweighted Least Squares for Phase Unwrapping**|Benjamin Dubois-Taine et.al.|[2401.09961](http://arxiv.org/abs/2401.09961)|null|
 |**2024-01-18**|**Ammonia or methanol would enable subsurface liquid water in the Martian South Pole**|Isabel Egea-González et.al.|[2401.09873](http://arxiv.org/abs/2401.09873)|null|
