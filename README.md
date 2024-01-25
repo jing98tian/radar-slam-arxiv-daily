@@ -56,6 +56,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-24**|**Beyond Accuracy-Fairness: Stop evaluating bias mitigation methods solely on between-group metrics**|Sofie Goethals et.al.|[2401.13391](http://arxiv.org/abs/2401.13391)|null|
+|**2024-01-24**|**AMANet: Advancing SAR Ship Detection with Adaptive Multi-Hierarchical Attention Network**|Xiaolin Ma et.al.|[2401.13214](http://arxiv.org/abs/2401.13214)|null|
 |**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761](http://arxiv.org/abs/2401.12761)|null|
 |**2024-01-24**|**Approximation of sea surface velocity field by fitting surrogate two-dimensional flow to scattered measurements**|Karlo Jakac et.al.|[2401.12746](http://arxiv.org/abs/2401.12746)|null|
 |**2024-01-23**|**Towards Adaptive Subspace Detection in Heterogeneous Environment**|Aref Miri Rekavandi et.al.|[2401.12469](http://arxiv.org/abs/2401.12469)|null|
