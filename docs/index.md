@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.24
+## Updated on 2024.01.25
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -48,7 +48,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-01-23**|**MUSES: The Multi-Sensor Semantic Perception Dataset for Driving under Uncertainty**|Tim Brödermann et.al.|[2401.12761](http://arxiv.org/abs/2401.12761)|null|
-|**2024-01-23**|**Approximation of sea surface velocity field by fitting surrogate two-dimensional flow to scattered measurements**|Karlo Jakac et.al.|[2401.12746](http://arxiv.org/abs/2401.12746)|null|
+|**2024-01-24**|**Approximation of sea surface velocity field by fitting surrogate two-dimensional flow to scattered measurements**|Karlo Jakac et.al.|[2401.12746](http://arxiv.org/abs/2401.12746)|null|
 |**2024-01-23**|**Towards Adaptive Subspace Detection in Heterogeneous Environment**|Aref Miri Rekavandi et.al.|[2401.12469](http://arxiv.org/abs/2401.12469)|null|
 |**2024-01-19**|**Waveform-Domain Complementary Signal Sets for Interrupted Sampling Repeater Jamming Suppression**|Hanning Su et.al.|[2401.12173](http://arxiv.org/abs/2401.12173)|null|
 |**2024-01-20**|**Data-Driven Target Localization: Benchmarking Gradient Descent Using the Cramér-Rao Bound**|Shyam Venkatasubramanian et.al.|[2401.11176](http://arxiv.org/abs/2401.11176)|null|
