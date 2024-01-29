@@ -56,6 +56,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-26**|**Joint Transmitter Design for Robust Secure Radar-Communication Coexistence Systems**|Peng Liu et.al.|[2401.14666](http://arxiv.org/abs/2401.14666)|null|
+|**2024-01-25**|**Static Reflectivity and Micro-Doppler Signature of Drones for Distributed ICAS**|Heraldo Cesar Alves Costa et.al.|[2401.14448](http://arxiv.org/abs/2401.14448)|null|
 |**2024-01-25**|**Small-size reflectionless band-pass filter**|Nickolay D. Malyutin et.al.|[2401.13969](http://arxiv.org/abs/2401.13969)|null|
 |**2024-01-24**|**How long-lived grains dominate the shape of the Zodiacal Cloud**|Petr Pokorny et.al.|[2401.13776](http://arxiv.org/abs/2401.13776)|null|
 |**2024-01-24**|**Beyond Accuracy-Fairness: Stop evaluating bias mitigation methods solely on between-group metrics**|Sofie Goethals et.al.|[2401.13391](http://arxiv.org/abs/2401.13391)|null|
