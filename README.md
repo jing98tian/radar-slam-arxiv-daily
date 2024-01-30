@@ -56,6 +56,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-29**|**Amazon's 2023 Drought: Sentinel-1 Reveals Extreme Rio Negro River Contraction**|Fabien H Wagner et.al.|[2401.16393](http://arxiv.org/abs/2401.16393)|null|
+|**2024-01-28**|**A Survey on Integrated Sensing and Communication with Intelligent Metasurfaces: Trends, Challenges, and Opportunities**|Ahmed Magbool et.al.|[2401.15562](http://arxiv.org/abs/2401.15562)|null|
+|**2024-01-27**|**Open-RadVLAD: Fast and Robust Radar Place Recognition**|Matthew Gadd et.al.|[2401.15380](http://arxiv.org/abs/2401.15380)|null|
+|**2024-01-26**|**Backscatter Measurements and Models for RF Sensing Applications in Cluttered Environments**|Dmitry Chizhik et.al.|[2401.15206](http://arxiv.org/abs/2401.15206)|null|
+|**2024-01-26**|**Overview of Sensing Attacks on Autonomous Vehicle Technologies and Impact on Traffic Flow**|Zihao Li et.al.|[2401.15193](http://arxiv.org/abs/2401.15193)|null|
+|**2024-01-25**|**Towards Global Glacier Mapping with Deep Learning and Open Earth Observation Data**|Konstantin A. Maslov et.al.|[2401.15113](http://arxiv.org/abs/2401.15113)|null|
 |**2024-01-26**|**Joint Transmitter Design for Robust Secure Radar-Communication Coexistence Systems**|Peng Liu et.al.|[2401.14666](http://arxiv.org/abs/2401.14666)|null|
 |**2024-01-25**|**Static Reflectivity and Micro-Doppler Signature of Drones for Distributed ICAS**|Heraldo Cesar Alves Costa et.al.|[2401.14448](http://arxiv.org/abs/2401.14448)|null|
 |**2024-01-25**|**Small-size reflectionless band-pass filter**|Nickolay D. Malyutin et.al.|[2401.13969](http://arxiv.org/abs/2401.13969)|null|
