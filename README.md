@@ -56,6 +56,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-01-31**|**Fundamental Trade-Offs in Monostatic ISAC: A Holistic Investigation Towards 6G**|Musa Furkan Keskin et.al.|[2401.18011](http://arxiv.org/abs/2401.18011)|null|
+|**2024-01-31**|**Joint Transceiver Optimization for MmWave/THz MU-MIMO ISAC Systems**|Peilan Wang et.al.|[2401.17681](http://arxiv.org/abs/2401.17681)|null|
+|**2024-01-30**|**ROAMER: Robust Offroad Autonomy using Multimodal State Estimation with Radar Velocity Integration**|Morten Nissov et.al.|[2401.17404](http://arxiv.org/abs/2401.17404)|null|
 |**2024-01-30**|**Ptycho-endoscopy on a lensless ultrathin fiber bundle tip**|Pengming Song et.al.|[2401.17213](http://arxiv.org/abs/2401.17213)|null|
 |**2024-01-30**|**Towards Assessing the Synthetic-to-Measured Adversarial Vulnerability of SAR ATR**|Bowen Peng et.al.|[2401.17038](http://arxiv.org/abs/2401.17038)|**[link](https://github.com/scenarri/s2m-tea)**|
 |**2024-01-30**|**LOFAR observations of asymmetric quasi-periodic scintillations in the mid-latitude ionosphere**|Gareth Dorrian et.al.|[2401.16932](http://arxiv.org/abs/2401.16932)|null|
