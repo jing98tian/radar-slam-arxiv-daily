@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -56,7 +56,7 @@ layout: default
 |**2024-01-26**|**A Benchmark Dataset for Tornado Detection and Prediction using Full-Resolution Polarimetric Weather Radar Data**|Mark S. Veillette et.al.|[2401.16437](http://arxiv.org/abs/2401.16437)|null|
 |**2024-01-29**|**Amazon's 2023 Drought: Sentinel-1 Reveals Extreme Rio Negro River Contraction**|Fabien H Wagner et.al.|[2401.16393](http://arxiv.org/abs/2401.16393)|null|
 |**2024-01-28**|**A Survey on Integrated Sensing and Communication with Intelligent Metasurfaces: Trends, Challenges, and Opportunities**|Ahmed Magbool et.al.|[2401.15562](http://arxiv.org/abs/2401.15562)|null|
-|**2024-01-27**|**Open-RadVLAD: Fast and Robust Radar Place Recognition**|Matthew Gadd et.al.|[2401.15380](http://arxiv.org/abs/2401.15380)|null|
+|**2024-01-27**|**Open-RadVLAD: Fast and Robust Radar Place Recognition**|Matthew Gadd et.al.|[2401.15380](http://arxiv.org/abs/2401.15380)|**[link](https://github.com/mttgdd/open-radvlad)**|
 |**2024-01-26**|**Backscatter Measurements and Models for RF Sensing Applications in Cluttered Environments**|Dmitry Chizhik et.al.|[2401.15206](http://arxiv.org/abs/2401.15206)|null|
 |**2024-01-26**|**Overview of Sensing Attacks on Autonomous Vehicle Technologies and Impact on Traffic Flow**|Zihao Li et.al.|[2401.15193](http://arxiv.org/abs/2401.15193)|null|
 |**2024-01-25**|**Towards Global Glacier Mapping with Deep Learning and Open Earth Observation Data**|Konstantin A. Maslov et.al.|[2401.15113](http://arxiv.org/abs/2401.15113)|null|

@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.01.31
+## Updated on 2024.02.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -31,7 +31,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -50,7 +50,7 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 ## Radar
 
@@ -65,7 +65,7 @@
 |**2024-01-26**|**A Benchmark Dataset for Tornado Detection and Prediction using Full-Resolution Polarimetric Weather Radar Data**|Mark S. Veillette et.al.|[2401.16437](http://arxiv.org/abs/2401.16437)|null|
 |**2024-01-29**|**Amazon's 2023 Drought: Sentinel-1 Reveals Extreme Rio Negro River Contraction**|Fabien H Wagner et.al.|[2401.16393](http://arxiv.org/abs/2401.16393)|null|
 |**2024-01-28**|**A Survey on Integrated Sensing and Communication with Intelligent Metasurfaces: Trends, Challenges, and Opportunities**|Ahmed Magbool et.al.|[2401.15562](http://arxiv.org/abs/2401.15562)|null|
-|**2024-01-27**|**Open-RadVLAD: Fast and Robust Radar Place Recognition**|Matthew Gadd et.al.|[2401.15380](http://arxiv.org/abs/2401.15380)|null|
+|**2024-01-27**|**Open-RadVLAD: Fast and Robust Radar Place Recognition**|Matthew Gadd et.al.|[2401.15380](http://arxiv.org/abs/2401.15380)|**[link](https://github.com/mttgdd/open-radvlad)**|
 |**2024-01-26**|**Backscatter Measurements and Models for RF Sensing Applications in Cluttered Environments**|Dmitry Chizhik et.al.|[2401.15206](http://arxiv.org/abs/2401.15206)|null|
 |**2024-01-26**|**Overview of Sensing Attacks on Autonomous Vehicle Technologies and Impact on Traffic Flow**|Zihao Li et.al.|[2401.15193](http://arxiv.org/abs/2401.15193)|null|
 |**2024-01-25**|**Towards Global Glacier Mapping with Deep Learning and Open Earth Observation Data**|Konstantin A. Maslov et.al.|[2401.15113](http://arxiv.org/abs/2401.15113)|null|
@@ -113,7 +113,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240131>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240201>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
