@@ -47,6 +47,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-02**|**Dynamic Occupancy Grids for Object Detection: A Radar-Centric Approach**|Max Peter Ronecker et.al.|[2402.01488](http://arxiv.org/abs/2402.01488)|null|
+|**2024-02-02**|**QSpeckleFilter: a Quantum Machine Learning approach for SAR speckle filtering**|Francesco Mauro et.al.|[2402.01235](http://arxiv.org/abs/2402.01235)|null|
+|**2024-02-02**|**A Robust Super-resolution Gridless Imaging Framework for UAV-borne SAR Tomography**|Silin Gao et.al.|[2402.01194](http://arxiv.org/abs/2402.01194)|null|
 |**2024-02-01**|**A System Level Analysis for Integrated Sensing and Communication**|Roberto Bomfin et.al.|[2402.00750](http://arxiv.org/abs/2402.00750)|null|
 |**2024-02-01**|**A Single Graph Convolution Is All You Need: Efficient Grayscale Image Classification**|Jacob Fein-Ashley et.al.|[2402.00564](http://arxiv.org/abs/2402.00564)|**[link](https://github.com/geccoproject/gecco)**|
 |**2024-02-01**|**New Lower Bounds on Aperiodic Ambiguity Function of Unimodular Sequences**|Lingsheng Meng et.al.|[2402.00455](http://arxiv.org/abs/2402.00455)|null|
