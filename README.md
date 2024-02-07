@@ -56,6 +56,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-06**|**On the Modelling of Ship Wakes in S-Band SAR Images and an Application to Ship Identification**|Kamirul Kamirul et.al.|[2402.04066](http://arxiv.org/abs/2402.04066)|null|
+|**2024-02-06**|**Sensing Mutual Information with Random Signals in Gaussian Channels: Bridging Sensing and Communication Metrics**|Lei Xie et.al.|[2402.03919](http://arxiv.org/abs/2402.03919)|null|
+|**2024-02-06**|**MMAUD: A Comprehensive Multi-Modal Anti-UAV Dataset for Modern Miniature Drone Threats**|Shenghai Yuan et.al.|[2402.03706](http://arxiv.org/abs/2402.03706)|**[link](https://github.com/ntu-aris/mmaud)**|
 |**2024-02-03**|**Less is More: Physical-enhanced Radar-Inertial Odometry**|Qiucan Huang et.al.|[2402.02200](http://arxiv.org/abs/2402.02200)|null|
 |**2024-02-03**|**Secure Wireless Communication in Active RIS-Assisted DFRC System**|Yang Zhang et.al.|[2402.02122](http://arxiv.org/abs/2402.02122)|null|
 |**2024-02-03**|**RIDERS: Radar-Infrared Depth Estimation for Robust Sensing**|Han Li et.al.|[2402.02067](http://arxiv.org/abs/2402.02067)|**[link](https://github.com/mmocking/riders)**|
