@@ -56,6 +56,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-07**|**Broadband squeezed light field by magnetostriction in an opto-magnomechanical**|Ke Di et.al.|[2402.04983](http://arxiv.org/abs/2402.04983)|null|
+|**2024-02-07**|**Joint Beamforming Design for Double Active RIS-assisted Radar-Communication Coexistence Systems**|Mengyu Liu et.al.|[2402.04532](http://arxiv.org/abs/2402.04532)|null|
+|**2024-02-06**|**Micro-Doppler-Coded Drone Identification**|Dmytro Vovchuk et.al.|[2402.04368](http://arxiv.org/abs/2402.04368)|null|
+|**2024-02-06**|**CasCast: Skillful High-resolution Precipitation Nowcasting via Cascaded Modelling**|Junchao Gong et.al.|[2402.04290](http://arxiv.org/abs/2402.04290)|null|
 |**2024-02-06**|**On the Modelling of Ship Wakes in S-Band SAR Images and an Application to Ship Identification**|Kamirul Kamirul et.al.|[2402.04066](http://arxiv.org/abs/2402.04066)|null|
 |**2024-02-06**|**Sensing Mutual Information with Random Signals in Gaussian Channels: Bridging Sensing and Communication Metrics**|Lei Xie et.al.|[2402.03919](http://arxiv.org/abs/2402.03919)|null|
 |**2024-02-06**|**MMAUD: A Comprehensive Multi-Modal Anti-UAV Dataset for Modern Miniature Drone Threats**|Shenghai Yuan et.al.|[2402.03706](http://arxiv.org/abs/2402.03706)|**[link](https://github.com/ntu-aris/mmaud)**|
