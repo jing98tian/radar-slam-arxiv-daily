@@ -56,6 +56,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-08**|**A Survey on Detection, Classification, and Tracking of Aerial Threats using Radar and Communications Systems**|Wahab Khawaja et.al.|[2402.05909](http://arxiv.org/abs/2402.05909)|null|
+|**2024-02-08**|**Reconfigurable Intelligent Surface-Aided Dual-Function Radar and Communication Systems With MU-MIMO Communication**|Yasheng Jin et.al.|[2402.05847](http://arxiv.org/abs/2402.05847)|null|
+|**2024-02-08**|**Optimal probe states for single-mode quantum target detection in arbitrary object reflectivity**|Wei-Ming Chen et.al.|[2402.05726](http://arxiv.org/abs/2402.05726)|null|
+|**2024-02-08**|**A Comprehensive Overview on UWB Radar: Applications, Standards, Signal Processing Techniques, Datasets, Radio Chips, Trends and Future Research Directions**|Mohammad Cheraghinia et.al.|[2402.05649](http://arxiv.org/abs/2402.05649)|null|
 |**2024-02-07**|**Broadband squeezed light field by magnetostriction in an opto-magnomechanical**|Ke Di et.al.|[2402.04983](http://arxiv.org/abs/2402.04983)|null|
 |**2024-02-07**|**Joint Beamforming Design for Double Active RIS-assisted Radar-Communication Coexistence Systems**|Mengyu Liu et.al.|[2402.04532](http://arxiv.org/abs/2402.04532)|null|
 |**2024-02-06**|**Micro-Doppler-Coded Drone Identification**|Dmytro Vovchuk et.al.|[2402.04368](http://arxiv.org/abs/2402.04368)|null|
