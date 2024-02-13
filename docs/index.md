@@ -47,9 +47,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-12**|**Localization in Massive MIMO Networks: From Near-Field to Far-Field**|Parisa Ramezani et.al.|[2402.07644](http://arxiv.org/abs/2402.07644)|null|
+|**2024-02-11**|**RIS-Augmented Millimeter-Wave MIMO Systems for Passive Drone Detection**|Jiguang He et.al.|[2402.07259](http://arxiv.org/abs/2402.07259)|null|
 |**2024-02-09**|**Accelerating Innovation in 6G Research: Real-Time Capable SDR System Architecture for Rapid Prototyping**|Maximilian Engelhardt et.al.|[2402.06520](http://arxiv.org/abs/2402.06520)|null|
 |**2024-02-09**|**Multisource Semisupervised Adversarial Domain Generalization Network for Cross-Scene Sea\textendash Land Clutter Classification**|Xiaoxuan Zhang et.al.|[2402.06315](http://arxiv.org/abs/2402.06315)|null|
-|**2024-02-09**|**Continuous-Time Radar-Inertial and Lidar-Inertial Odometry using a Gaussian Process Motion Prior**|Keenan Burnett et.al.|[2402.06174](http://arxiv.org/abs/2402.06174)|null|
+|**2024-02-09**|**Continuous-Time Radar-Inertial and Lidar-Inertial Odometry using a Gaussian Process Motion Prior**|Keenan Burnett et.al.|[2402.06174](http://arxiv.org/abs/2402.06174)|**[link](https://github.com/utiasasrl/steam_icp)**|
 |**2024-02-08**|**A Survey on Detection, Classification, and Tracking of Aerial Threats using Radar and Communications Systems**|Wahab Khawaja et.al.|[2402.05909](http://arxiv.org/abs/2402.05909)|null|
 |**2024-02-08**|**Reconfigurable Intelligent Surface-Aided Dual-Function Radar and Communication Systems With MU-MIMO Communication**|Yasheng Jin et.al.|[2402.05847](http://arxiv.org/abs/2402.05847)|null|
 |**2024-02-08**|**Optimal probe states for single-mode quantum target detection in arbitrary object reflectivity**|Wei-Ming Chen et.al.|[2402.05726](http://arxiv.org/abs/2402.05726)|null|
