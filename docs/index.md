@@ -47,6 +47,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-13**|**Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection**|Colin Decourt et.al.|[2402.08427](http://arxiv.org/abs/2402.08427)|null|
 |**2024-02-12**|**Localization in Massive MIMO Networks: From Near-Field to Far-Field**|Parisa Ramezani et.al.|[2402.07644](http://arxiv.org/abs/2402.07644)|null|
 |**2024-02-11**|**RIS-Augmented Millimeter-Wave MIMO Systems for Passive Drone Detection**|Jiguang He et.al.|[2402.07259](http://arxiv.org/abs/2402.07259)|null|
 |**2024-02-09**|**Accelerating Innovation in 6G Research: Real-Time Capable SDR System Architecture for Rapid Prototyping**|Maximilian Engelhardt et.al.|[2402.06520](http://arxiv.org/abs/2402.06520)|null|
