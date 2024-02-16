@@ -47,6 +47,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-15**|**A Deep Learning Approach to Radar-based QPE**|Ting-Shuo Yo et.al.|[2402.09846](http://arxiv.org/abs/2402.09846)|null|
+|**2024-02-15**|**Long-Range Backscatter Connectivity via Spaceborne Synthetic Aperture Radar**|Geneva Ecola et.al.|[2402.09682](http://arxiv.org/abs/2402.09682)|null|
+|**2024-02-14**|**TDOA-TWR based positioning algorithm for UWB localization system**|Marcin Kolakowski et.al.|[2402.09534](http://arxiv.org/abs/2402.09534)|null|
 |**2024-02-14**|**Deinterleaving of Discrete Renewal Process Mixtures with Application to Electronic Support Measures**|Jean Pinsolle et.al.|[2402.09166](http://arxiv.org/abs/2402.09166)|null|
 |**2024-02-14**|**Joint and Robust Beamforming Framework for Integrated Sensing and Communication Systems**|Jinseok Choi et.al.|[2402.09155](http://arxiv.org/abs/2402.09155)|null|
 |**2024-02-13**|**Leveraging Self-Supervised Instance Contrastive Learning for Radar Object Detection**|Colin Decourt et.al.|[2402.08427](http://arxiv.org/abs/2402.08427)|null|
