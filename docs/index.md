@@ -47,6 +47,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-19**|**An Index Policy Based on Sarsa and Q-learning for Heterogeneous Smart Target Tracking**|Yuhang Hao et.al.|[2402.12015](http://arxiv.org/abs/2402.12015)|null|
+|**2024-02-19**|**Antenna Array Design for Mono-Static ISAC**|Alexander Felix et.al.|[2402.11983](http://arxiv.org/abs/2402.11983)|null|
+|**2024-02-19**|**Kerr optical frequency division with integrated photonics for stable microwave and mmWave generation**|Shuman Sun et.al.|[2402.11772](http://arxiv.org/abs/2402.11772)|null|
+|**2024-02-18**|**LiRaFusion: Deep Adaptive LiDAR-Radar Fusion for 3D Object Detection**|Jingyu Song et.al.|[2402.11735](http://arxiv.org/abs/2402.11735)|null|
+|**2024-02-18**|**SVD-based factored-form Cubature Kalman Filtering for continuous-time stochastic systems with discrete measurements**|Maria V. Kulikova et.al.|[2402.11555](http://arxiv.org/abs/2402.11555)|null|
+|**2024-02-17**|**Power Optimization for Integrated Active and Passive Sensing in DFRC Systems**|Xingliang Lou et.al.|[2402.11294](http://arxiv.org/abs/2402.11294)|null|
 |**2024-02-16**|**Real-Time Model-Based Quantitative Ultrasound and Radar**|Tom Sharon et.al.|[2402.10520](http://arxiv.org/abs/2402.10520)|null|
 |**2024-02-15**|**A Deep Learning Approach to Radar-based QPE**|Ting-Shuo Yo et.al.|[2402.09846](http://arxiv.org/abs/2402.09846)|null|
 |**2024-02-15**|**Long-Range Backscatter Connectivity via Spaceborne Synthetic Aperture Radar**|Geneva Ecola et.al.|[2402.09682](http://arxiv.org/abs/2402.09682)|null|
