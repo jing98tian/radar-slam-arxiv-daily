@@ -47,6 +47,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-02-21**|**Performance Evaluation and Analysis of Thresholding-based Interference Mitigation for Automotive Radar Systems**|Jun Li et.al.|[2402.14018](http://arxiv.org/abs/2402.14018)|null|
+|**2024-02-21**|**Reconfigurable Intelligent Surface assisted Integrated Sensing, Communication and Computation Systems**|Jiahua Wan et.al.|[2402.13692](http://arxiv.org/abs/2402.13692)|null|
+|**2024-02-21**|**Robustness of Deep Neural Networks for Micro-Doppler Radar Classification**|Mikolaj Czerkawski et.al.|[2402.13651](http://arxiv.org/abs/2402.13651)|null|
 |**2024-02-20**|**Multistatic OFDM Radar Fusion of MUSIC-based Angle Estimation**|Martin Willame et.al.|[2402.13118](http://arxiv.org/abs/2402.13118)|null|
 |**2024-02-20**|**3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application**|Sen Yuan et.al.|[2402.13062](http://arxiv.org/abs/2402.13062)|null|
 |**2024-02-20**|**See Further Than CFAR: a Data-Driven Radar Detector Trained by Lidar**|Ignacio Roldan et.al.|[2402.12970](http://arxiv.org/abs/2402.12970)|null|
