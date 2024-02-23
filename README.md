@@ -56,9 +56,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-22**|**Fast and Efficient Sequential Radar Parameter Estimation in MIMO-OTFS Systems**|Kuranage Roche Rayan Ranasinghe et.al.|[2402.14612](http://arxiv.org/abs/2402.14612)|null|
+|**2024-02-22**|**RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation**|Changsong Pang et.al.|[2402.14380](http://arxiv.org/abs/2402.14380)|null|
+|**2024-02-22**|**Large Array Antenna Spectrum Sensing in Cognitive Radio Networks**|Amirhossein Taherpour et.al.|[2402.14219](http://arxiv.org/abs/2402.14219)|null|
+|**2024-02-21**|**Beyond Diagonal RIS: Key to Next-Generation Integrated Sensing and Communications?**|Tara Esmaeilbeig et.al.|[2402.14157](http://arxiv.org/abs/2402.14157)|null|
 |**2024-02-21**|**Performance Evaluation and Analysis of Thresholding-based Interference Mitigation for Automotive Radar Systems**|Jun Li et.al.|[2402.14018](http://arxiv.org/abs/2402.14018)|null|
 |**2024-02-21**|**Reconfigurable Intelligent Surface assisted Integrated Sensing, Communication and Computation Systems**|Jiahua Wan et.al.|[2402.13692](http://arxiv.org/abs/2402.13692)|null|
-|**2024-02-21**|**Robustness of Deep Neural Networks for Micro-Doppler Radar Classification**|Mikolaj Czerkawski et.al.|[2402.13651](http://arxiv.org/abs/2402.13651)|null|
+|**2024-02-22**|**Robustness of Deep Neural Networks for Micro-Doppler Radar Classification**|Mikolaj Czerkawski et.al.|[2402.13651](http://arxiv.org/abs/2402.13651)|null|
 |**2024-02-20**|**Multistatic OFDM Radar Fusion of MUSIC-based Angle Estimation**|Martin Willame et.al.|[2402.13118](http://arxiv.org/abs/2402.13118)|null|
 |**2024-02-20**|**3D high-resolution imaging algorithm using 1D MIMO array for autonomous driving application**|Sen Yuan et.al.|[2402.13062](http://arxiv.org/abs/2402.13062)|null|
 |**2024-02-20**|**See Further Than CFAR: a Data-Driven Radar Detector Trained by Lidar**|Ignacio Roldan et.al.|[2402.12970](http://arxiv.org/abs/2402.12970)|null|
