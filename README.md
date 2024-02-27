@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082](http://arxiv.org/abs/2402.16082)|null|
 |**2023-11-25**|**UWB Radar SLAM: an Anchorless Approach in Vision Denied Indoor Environments**|H. A. G. C. Premachandra et.al.|[2311.14970](http://arxiv.org/abs/2311.14970)|null|
 |**2023-11-19**|**Radarize: Large-Scale Radar SLAM for Indoor Environments**|Emerson Sie et.al.|[2311.11260](http://arxiv.org/abs/2311.11260)|null|
 |**2023-09-18**|**RaLF: Flow-based Global and Metric Radar Localization in LiDAR Maps**|Abhijeet Nayak et.al.|[2309.09875](http://arxiv.org/abs/2309.09875)|null|
@@ -56,6 +57,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-26**|**Radar Anti-jamming Strategy Learning via Domain-knowledge Enhanced Online Convex Optimization**|Liangqi Liu et.al.|[2402.16274](http://arxiv.org/abs/2402.16274)|null|
+|**2024-02-26**|**Chip-scale high-performance photonic microwave oscillator**|Yang He et.al.|[2402.16229](http://arxiv.org/abs/2402.16229)|null|
+|**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082](http://arxiv.org/abs/2402.16082)|null|
+|**2024-02-25**|**Optimizing single-photon quantum radar detection through partially postselected filtering**|Liangsheng Li et.al.|[2402.16031](http://arxiv.org/abs/2402.16031)|null|
+|**2024-02-25**|**Spherical Geometry Algorithm for Space-borne Synthetic Aperture Radar Imaging**|Xinhua Mao et.al.|[2402.15982](http://arxiv.org/abs/2402.15982)|null|
+|**2024-02-24**|**MMW-Carry: Enhancing Carry Object Detection through Millimeter-Wave Radar-Camera Fusion**|Xiangyu Gao et.al.|[2402.15897](http://arxiv.org/abs/2402.15897)|null|
+|**2024-02-23**|**Technical Note: An Efficient Implementation of the Spherical Radon Transform with Cylindrical Apertures**|Luke Lozenski et.al.|[2402.15641](http://arxiv.org/abs/2402.15641)|null|
 |**2024-02-23**|**Networked Collaborative Sensing using Multi-domain Measurements: Architectures, Performance Limits and Algorithms**|Yihua Ma et.al.|[2402.15047](http://arxiv.org/abs/2402.15047)|null|
 |**2024-02-22**|**Fast and Efficient Sequential Radar Parameter Estimation in MIMO-OTFS Systems**|Kuranage Roche Rayan Ranasinghe et.al.|[2402.14612](http://arxiv.org/abs/2402.14612)|null|
 |**2024-02-22**|**RadarMOSEVE: A Spatial-Temporal Transformer Network for Radar-Only Moving Object Segmentation and Ego-Velocity Estimation**|Changsong Pang et.al.|[2402.14380](http://arxiv.org/abs/2402.14380)|**[link](https://github.com/orca-uboat/radarmoseve)**|
