@@ -57,6 +57,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-27**|**SDF2Net: Shallow to Deep Feature Fusion Network for PolSAR Image Classification**|Mohammed Q. Alkhatib et.al.|[2402.17672](http://arxiv.org/abs/2402.17672)|**[link](https://github.com/mqalkhatib/sdf2net)**|
+|**2024-02-27**|**Radar Resource Management for Active Tracking Using Split-Aperture Phased Arrays**|Pepijn B. Cox et.al.|[2402.17607](http://arxiv.org/abs/2402.17607)|null|
+|**2024-02-26**|**Leveraging power of deep learning for fast and efficient elite pixel selection in time series SAR interferometry**|Ashutosh Tiwari et.al.|[2402.17069](http://arxiv.org/abs/2402.17069)|null|
+|**2024-02-26**|**An Analysis of Capacity-Distortion Trade-Offs in Memoryless ISAC Systems**|Xinyang Li et.al.|[2402.17058](http://arxiv.org/abs/2402.17058)|null|
+|**2024-02-26**|**Ambiguity Function Shaping in FMCW Automotive Radar**|Zahra Esmaeilbeig et.al.|[2402.16754](http://arxiv.org/abs/2402.16754)|null|
+|**2024-02-26**|**Integrated MIMO Passive Radar Target Detection**|Amir Zaimbashi et.al.|[2402.16675](http://arxiv.org/abs/2402.16675)|null|
+|**2024-02-26**|**Sounding-Based Evaluation of Multi-Sensor ISAC Networks for Drone Applications: Measurement and Simulation Perspectives**|Julia Beuster et.al.|[2402.16591](http://arxiv.org/abs/2402.16591)|null|
 |**2024-02-26**|**Radar Anti-jamming Strategy Learning via Domain-knowledge Enhanced Online Convex Optimization**|Liangqi Liu et.al.|[2402.16274](http://arxiv.org/abs/2402.16274)|null|
 |**2024-02-26**|**Chip-scale high-performance photonic microwave oscillator**|Yang He et.al.|[2402.16229](http://arxiv.org/abs/2402.16229)|null|
 |**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082](http://arxiv.org/abs/2402.16082)|null|
