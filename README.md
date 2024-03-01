@@ -57,6 +57,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-02-29**|**Analysis of Processing Pipelines for Indoor Human Tracking using FMCW radar**|Dingyang Wang et.al.|[2402.19124](http://arxiv.org/abs/2402.19124)|null|
+|**2024-02-29**|**Automatic Radar Signal Detection and FFT Estimation using Deep Learning**|Akila Pemasiri et.al.|[2402.19073](http://arxiv.org/abs/2402.19073)|null|
 |**2024-02-28**|**SFTformer: A Spatial-Frequency-Temporal Correlation-Decoupling Transformer for Radar Echo Extrapolation**|Liangyu Xu et.al.|[2402.18044](http://arxiv.org/abs/2402.18044)|null|
 |**2024-02-28**|**Multistatic-Radar RCS-Signature Recognition of Aerial Vehicles: A Bayesian Fusion Approach**|Michael Potter et.al.|[2402.17987](http://arxiv.org/abs/2402.17987)|null|
 |**2024-02-27**|**AN An ica-ensemble learning approach for prediction of uwb nlos signals data classification**|Jiya A. Enoch et.al.|[2402.17808](http://arxiv.org/abs/2402.17808)|null|
