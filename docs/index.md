@@ -31,6 +31,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175](http://arxiv.org/abs/2403.02175)|null|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684](http://arxiv.org/abs/2312.02684)|null|
 |**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327](http://arxiv.org/abs/2311.02327)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
@@ -48,6 +49,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-05**|**Remote sensing of soil moisture using Rydberg atoms and satellite signals of opportunity**|Darmindra Arumugam et.al.|[2403.03175](http://arxiv.org/abs/2403.03175)|null|
+|**2024-03-05**|**DIFNet: SAR RFI suppression based on domain invariant features**|Fuping Fang et.al.|[2403.02894](http://arxiv.org/abs/2403.02894)|null|
+|**2024-03-05**|**OORD: The Oxford Offroad Radar Dataset**|Matthew Gadd et.al.|[2403.02845](http://arxiv.org/abs/2403.02845)|null|
+|**2024-03-05**|**A chip-integrated comb-based microwave oscillator**|Wei Sun et.al.|[2403.02828](http://arxiv.org/abs/2403.02828)|null|
+|**2024-03-05**|**LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry**|Hyesu Jang et.al.|[2403.02773](http://arxiv.org/abs/2403.02773)|null|
+|**2024-03-05**|**An Optimal Baseband Delay-Based Beam Squint Removal Scheme across a Range of Steering Angles for Digital Wideband Beamformers in Radars**|Neeraja P. K. et.al.|[2403.02679](http://arxiv.org/abs/2403.02679)|null|
+|**2024-03-04**|**Hybrid Quantum Neural Network Advantage for Radar-Based Drone Detection and Classification in Low Signal-to-Noise Ratio**|Aiswariya Sweety Malarvanan et.al.|[2403.02080](http://arxiv.org/abs/2403.02080)|**[link](https://github.com/AishSweety/hybrid-quantum-classical-Neural-Network-for-radar-data)**|
+|**2024-03-04**|**Continuous emission ultrasound: a new paradigm to ultrafast ultrasound imaging**|A. Adam et.al.|[2403.02020](http://arxiv.org/abs/2403.02020)|null|
+|**2024-03-04**|**Gesture recognition with Brownian reservoir computing using geometrically confined skyrmion dynamics**|Grischa Beneke et.al.|[2403.01877](http://arxiv.org/abs/2403.01877)|null|
+|**2024-03-04**|**PillarGen: Enhancing Radar Point Cloud Density and Quality via Pillar-based Point Generation Network**|Jisong Kim et.al.|[2403.01663](http://arxiv.org/abs/2403.01663)|null|
 |**2024-03-02**|**SAR-AE-SFP: SAR Imagery Adversarial Example in Real Physics domain with Target Scattering Feature Parameters**|Jiahao Cui et.al.|[2403.01210](http://arxiv.org/abs/2403.01210)|null|
 |**2024-03-02**|**Broadband transmissive polarization rotator by gradiently-twisted $α$-MoO$_3$**|Songyan Hou et.al.|[2403.01122](http://arxiv.org/abs/2403.01122)|null|
 |**2024-03-02**|**Battery quality at scale**|Peter M. Attia et.al.|[2403.01065](http://arxiv.org/abs/2403.01065)|**[link](https://github.com/petermattia/battery-quality-at-scale)**|
