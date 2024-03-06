@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.05
+## Updated on 2024.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240306>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -51,7 +51,7 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240306>back to top</a>)</p>
 
 ## Radar
 
@@ -59,7 +59,7 @@
 |---|---|---|---|---|
 |**2024-03-02**|**SAR-AE-SFP: SAR Imagery Adversarial Example in Real Physics domain with Target Scattering Feature Parameters**|Jiahao Cui et.al.|[2403.01210](http://arxiv.org/abs/2403.01210)|null|
 |**2024-03-02**|**Broadband transmissive polarization rotator by gradiently-twisted $α$-MoO$_3$**|Songyan Hou et.al.|[2403.01122](http://arxiv.org/abs/2403.01122)|null|
-|**2024-03-02**|**Battery quality at scale**|Peter M. Attia et.al.|[2403.01065](http://arxiv.org/abs/2403.01065)|null|
+|**2024-03-02**|**Battery quality at scale**|Peter M. Attia et.al.|[2403.01065](http://arxiv.org/abs/2403.01065)|**[link](https://github.com/petermattia/battery-quality-at-scale)**|
 |**2024-02-29**|**On Target Detection by Quantum Radar (Preprint)**|Gaspare Galati et.al.|[2403.00047](http://arxiv.org/abs/2403.00047)|null|
 |**2024-02-29**|**Analysis of Processing Pipelines for Indoor Human Tracking using FMCW radar**|Dingyang Wang et.al.|[2402.19124](http://arxiv.org/abs/2402.19124)|null|
 |**2024-02-29**|**Automatic Radar Signal Detection and FFT Estimation using Deep Learning**|Akila Pemasiri et.al.|[2402.19073](http://arxiv.org/abs/2402.19073)|null|
@@ -193,7 +193,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240305>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240306>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.05
+## Updated on 2024.03.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -50,7 +50,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-03-02**|**SAR-AE-SFP: SAR Imagery Adversarial Example in Real Physics domain with Target Scattering Feature Parameters**|Jiahao Cui et.al.|[2403.01210](http://arxiv.org/abs/2403.01210)|null|
 |**2024-03-02**|**Broadband transmissive polarization rotator by gradiently-twisted $α$-MoO$_3$**|Songyan Hou et.al.|[2403.01122](http://arxiv.org/abs/2403.01122)|null|
-|**2024-03-02**|**Battery quality at scale**|Peter M. Attia et.al.|[2403.01065](http://arxiv.org/abs/2403.01065)|null|
+|**2024-03-02**|**Battery quality at scale**|Peter M. Attia et.al.|[2403.01065](http://arxiv.org/abs/2403.01065)|**[link](https://github.com/petermattia/battery-quality-at-scale)**|
 |**2024-02-29**|**On Target Detection by Quantum Radar (Preprint)**|Gaspare Galati et.al.|[2403.00047](http://arxiv.org/abs/2403.00047)|null|
 |**2024-02-29**|**Analysis of Processing Pipelines for Indoor Human Tracking using FMCW radar**|Dingyang Wang et.al.|[2402.19124](http://arxiv.org/abs/2402.19124)|null|
 |**2024-02-29**|**Automatic Radar Signal Detection and FFT Estimation using Deep Learning**|Akila Pemasiri et.al.|[2402.19073](http://arxiv.org/abs/2402.19073)|null|
