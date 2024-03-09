@@ -53,9 +53,9 @@ layout: default
 |**2024-03-06**|**DART: Implicit Doppler Tomography for Radar Novel View Synthesis**|Tianshu Huang et.al.|[2403.03896](http://arxiv.org/abs/2403.03896)|null|
 |**2024-03-05**|**Remote sensing of soil moisture using Rydberg atoms and satellite signals of opportunity**|Darmindra Arumugam et.al.|[2403.03175](http://arxiv.org/abs/2403.03175)|null|
 |**2024-03-05**|**DIFNet: SAR RFI suppression based on domain invariant features**|Fuping Fang et.al.|[2403.02894](http://arxiv.org/abs/2403.02894)|null|
-|**2024-03-05**|**OORD: The Oxford Offroad Radar Dataset**|Matthew Gadd et.al.|[2403.02845](http://arxiv.org/abs/2403.02845)|null|
+|**2024-03-05**|**OORD: The Oxford Offroad Radar Dataset**|Matthew Gadd et.al.|[2403.02845](http://arxiv.org/abs/2403.02845)|**[link](https://github.com/mttgdd/oord-dataset)**|
 |**2024-03-05**|**A chip-integrated comb-based microwave oscillator**|Wei Sun et.al.|[2403.02828](http://arxiv.org/abs/2403.02828)|null|
-|**2024-03-05**|**LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry**|Hyesu Jang et.al.|[2403.02773](http://arxiv.org/abs/2403.02773)|null|
+|**2024-03-05**|**LodeStar: Maritime Radar Descriptor for Semi-Direct Radar Odometry**|Hyesu Jang et.al.|[2403.02773](http://arxiv.org/abs/2403.02773)|**[link](https://github.com/hyesu-jang/lodestar)**|
 |**2024-03-05**|**An Optimal Baseband Delay-Based Beam Squint Removal Scheme across a Range of Steering Angles for Digital Wideband Beamformers in Radars**|Neeraja P. K. et.al.|[2403.02679](http://arxiv.org/abs/2403.02679)|null|
 |**2024-03-04**|**Hybrid Quantum Neural Network Advantage for Radar-Based Drone Detection and Classification in Low Signal-to-Noise Ratio**|Aiswariya Sweety Malarvanan et.al.|[2403.02080](http://arxiv.org/abs/2403.02080)|**[link](https://github.com/AishSweety/hybrid-quantum-classical-Neural-Network-for-radar-data)**|
 |**2024-03-04**|**Continuous emission ultrasound: a new paradigm to ultrafast ultrasound imaging**|A. Adam et.al.|[2403.02020](http://arxiv.org/abs/2403.02020)|null|
