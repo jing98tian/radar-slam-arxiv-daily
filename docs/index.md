@@ -31,6 +31,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
+|**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341](http://arxiv.org/abs/2403.06341)|null|
 |**2024-03-05**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175](http://arxiv.org/abs/2403.02175)|null|
 |**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684](http://arxiv.org/abs/2312.02684)|null|
@@ -49,6 +51,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-11**|**Multiobject Tracking for Thresholded Cell Measurements**|Thomas Kropfreiter et.al.|[2403.06899](http://arxiv.org/abs/2403.06899)|null|
+|**2024-03-11**|**One-Bit Target Detection in Collocated MIMO Radar with Colored Background Noise**|Yu-Hang Xiao et.al.|[2403.06756](http://arxiv.org/abs/2403.06756)|null|
+|**2024-03-11**|**SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection**|Yuxuan Li et.al.|[2403.06534](http://arxiv.org/abs/2403.06534)|**[link](https://github.com/zcablii/sardet_100k)**|
+|**2024-03-11**|**LiDAR Point Cloud-based Multiple Vehicle Tracking with Probabilistic Measurement-Region Association**|Guanhua Ding et.al.|[2403.06423](http://arxiv.org/abs/2403.06423)|null|
+|**2024-03-10**|**Sparse Spatial Smoothing: Reduced Complexity and Improved Beamforming Gain via Sparse Sub-Arrays**|Yinyan Bu et.al.|[2403.06337](http://arxiv.org/abs/2403.06337)|null|
+|**2024-03-10**|**Quantized Constant-Envelope Waveform Design for Massive MIMO DFRC Systems**|Zheyu Wu et.al.|[2403.06185](http://arxiv.org/abs/2403.06185)|null|
+|**2024-03-10**|**Analyticity, superoscillations and supershifts in several variables**|F. Colombo et.al.|[2403.06169](http://arxiv.org/abs/2403.06169)|null|
+|**2024-03-09**|**RadCloud: Real-Time High-Resolution Point Cloud Generation Using Low-Cost Radars for Aerial and Ground Vehicles**|David Hunt et.al.|[2403.05964](http://arxiv.org/abs/2403.05964)|null|
+|**2024-03-08**|**Advanced Millimeter-Wave Radar System for Real-Time Multiple Human Tracking and Fall Detection**|Zichao Shen et.al.|[2403.05634](http://arxiv.org/abs/2403.05634)|null|
 |**2024-03-08**|**A Detection and Filtering Framework for Collaborative Localization**|Thirumalaesh Ashokkumar et.al.|[2403.05513](http://arxiv.org/abs/2403.05513)|null|
 |**2024-03-08**|**Degradation Resilient LiDAR-Radar-Inertial Odometry**|Morten Nissov et.al.|[2403.05332](http://arxiv.org/abs/2403.05332)|null|
 |**2024-03-08**|**DeRO: Dead Reckoning Based on Radar Odometry With Accelerometers Aided for Robot Localization**|Hoang Viet Do et.al.|[2403.05136](http://arxiv.org/abs/2403.05136)|**[link](https://github.com/hoangvietdo/dero)**|
