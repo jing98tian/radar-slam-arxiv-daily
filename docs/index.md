@@ -51,6 +51,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-12**|**Unleashing HyDRa: Hybrid Fusion, Depth Consistency and Radar for Unified 3D Perception**|Philipp Wolters et.al.|[2403.07746](http://arxiv.org/abs/2403.07746)|null|
+|**2024-03-12**|**Towards a Unified Formalism of Multivariate Coefficients of Variation -- Application to the Analysis of Polarimetric Speckle Time Series**|Elise Colin et.al.|[2403.07683](http://arxiv.org/abs/2403.07683)|null|
+|**2024-03-12**|**Enhancing Physical Layer Security in Dual-Function Radar-Communication Systems with Hybrid Beamforming Architecture**|Lingyun Xu et.al.|[2403.07655](http://arxiv.org/abs/2403.07655)|null|
 |**2024-03-11**|**Multiobject Tracking for Thresholded Cell Measurements**|Thomas Kropfreiter et.al.|[2403.06899](http://arxiv.org/abs/2403.06899)|null|
 |**2024-03-11**|**One-Bit Target Detection in Collocated MIMO Radar with Colored Background Noise**|Yu-Hang Xiao et.al.|[2403.06756](http://arxiv.org/abs/2403.06756)|null|
 |**2024-03-11**|**SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection**|Yuxuan Li et.al.|[2403.06534](http://arxiv.org/abs/2403.06534)|**[link](https://github.com/zcablii/sardet_100k)**|
