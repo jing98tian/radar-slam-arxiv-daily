@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.12
+## Updated on 2024.03.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -54,7 +54,7 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
 
 ## Radar
 
@@ -63,7 +63,7 @@
 |**2024-03-11**|**Multiobject Tracking for Thresholded Cell Measurements**|Thomas Kropfreiter et.al.|[2403.06899](http://arxiv.org/abs/2403.06899)|null|
 |**2024-03-11**|**One-Bit Target Detection in Collocated MIMO Radar with Colored Background Noise**|Yu-Hang Xiao et.al.|[2403.06756](http://arxiv.org/abs/2403.06756)|null|
 |**2024-03-11**|**SARDet-100K: Towards Open-Source Benchmark and ToolKit for Large-Scale SAR Object Detection**|Yuxuan Li et.al.|[2403.06534](http://arxiv.org/abs/2403.06534)|**[link](https://github.com/zcablii/sardet_100k)**|
-|**2024-03-11**|**LiDAR Point Cloud-based Multiple Vehicle Tracking with Probabilistic Measurement-Region Association**|Guanhua Ding et.al.|[2403.06423](http://arxiv.org/abs/2403.06423)|null|
+|**2024-03-12**|**LiDAR Point Cloud-based Multiple Vehicle Tracking with Probabilistic Measurement-Region Association**|Guanhua Ding et.al.|[2403.06423](http://arxiv.org/abs/2403.06423)|null|
 |**2024-03-10**|**Sparse Spatial Smoothing: Reduced Complexity and Improved Beamforming Gain via Sparse Sub-Arrays**|Yinyan Bu et.al.|[2403.06337](http://arxiv.org/abs/2403.06337)|null|
 |**2024-03-10**|**Quantized Constant-Envelope Waveform Design for Massive MIMO DFRC Systems**|Zheyu Wu et.al.|[2403.06185](http://arxiv.org/abs/2403.06185)|null|
 |**2024-03-10**|**Analyticity, superoscillations and supershifts in several variables**|F. Colombo et.al.|[2403.06169](http://arxiv.org/abs/2403.06169)|null|
@@ -221,7 +221,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240312>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240313>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
