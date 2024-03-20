@@ -60,6 +60,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-19**|**Small Distance Increment Method for Measuring Complex Permittivity With mmWave Radar**|Hang Song et.al.|[2403.12726](http://arxiv.org/abs/2403.12726)|null|
+|**2024-03-19**|**WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**|Runwei Guan et.al.|[2403.12686](http://arxiv.org/abs/2403.12686)|null|
+|**2024-03-19**|**A New Intelligent Reflecting Surface-Aided Electromagnetic Stealth Strategy**|Xue Xiong et.al.|[2403.12352](http://arxiv.org/abs/2403.12352)|null|
+|**2024-03-18**|**Adaptive LPD Radar Waveform Design with Generative Deep Learning**|Matthew R. Ziemann et.al.|[2403.12254](http://arxiv.org/abs/2403.12254)|null|
+|**2024-03-18**|**Evaluation cartographique du niveau de potentialit{é}s {é}cologiques des sites des partenaires (CARPO). Cadre m{é}thodologique V0**|Santiago Forero et.al.|[2403.12113](http://arxiv.org/abs/2403.12113)|null|
+|**2024-03-18**|**Towards Real-Time Fast Unmanned Aerial Vehicle Detection Using Dynamic Vision Sensors**|Jakub Mandula et.al.|[2403.11875](http://arxiv.org/abs/2403.11875)|null|
+|**2024-03-18**|**RIS-aided Single-frequency 3D Imaging by Exploiting Multi-view Image Correlations**|Yixuan Huang et.al.|[2403.11764](http://arxiv.org/abs/2403.11764)|null|
+|**2024-03-18**|**BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation**|Jonas Schramm et.al.|[2403.11761](http://arxiv.org/abs/2403.11761)|null|
 |**2024-03-18**|**Task-Oriented Hybrid Beamforming for OFDM-DFRC Systems with Flexibly Controlled Space-Frequency Spectra**|Lingyun Xu et.al.|[2403.11575](http://arxiv.org/abs/2403.11575)|null|
 |**2024-03-17**|**A Lie Group Approach to Riemannian Batch Normalization**|Ziheng Chen et.al.|[2403.11261](http://arxiv.org/abs/2403.11261)|**[link](https://github.com/gitzh-chen/liebn)**|
 |**2024-03-16**|**Automatic Spatial Calibration of Near-Field MIMO Radar With Respect to Optical Sensors**|Vanessa Wirth et.al.|[2403.10981](http://arxiv.org/abs/2403.10981)|null|
