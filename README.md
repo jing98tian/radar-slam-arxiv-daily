@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.03.19
+## Updated on 2024.03.20
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -32,7 +32,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -47,19 +47,23 @@
 |**2023-11-03**|**Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving**|Florian Sauerbeck et.al.|[2311.01823](http://arxiv.org/abs/2311.01823)|null|
 |**2024-01-22**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928](http://arxiv.org/abs/2311.00928)|null|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|**[link](https://github.com/pamphlett/outram)**|
-|**2023-09-15**|**Pointing the Way: Refining Radar-Lidar Localization Using Learned ICP Weights**|Daniil Lisus et.al.|[2309.08731](http://arxiv.org/abs/2309.08731)|null|
+|**2024-03-15**|**Pointing the Way: Refining Radar-Lidar Localization Using Learned ICP Weights**|Daniil Lisus et.al.|[2309.08731](http://arxiv.org/abs/2309.08731)|null|
 |**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086](http://arxiv.org/abs/2309.08086)|null|
 |**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937](http://arxiv.org/abs/2309.04937)|null|
 |**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-18**|**Task-Oriented Hybrid Beamforming for OFDM-DFRC Systems with Flexibly Controlled Space-Frequency Spectra**|Lingyun Xu et.al.|[2403.11575](http://arxiv.org/abs/2403.11575)|null|
+|**2024-03-17**|**A Lie Group Approach to Riemannian Batch Normalization**|Ziheng Chen et.al.|[2403.11261](http://arxiv.org/abs/2403.11261)|**[link](https://github.com/gitzh-chen/liebn)**|
+|**2024-03-16**|**Automatic Spatial Calibration of Near-Field MIMO Radar With Respect to Optical Sensors**|Vanessa Wirth et.al.|[2403.10981](http://arxiv.org/abs/2403.10981)|null|
+|**2024-03-15**|**Multiple Spectrally Null Constrained Complete Complementary Codes of Various Lengths Over Small Alphabet**|Rajen Kumar et.al.|[2403.10644](http://arxiv.org/abs/2403.10644)|null|
 |**2024-03-15**|**Resolving Full-Wave Through-Wall Transmission Effects in Multi-Static Synthetic Aperture Radar**|Francis Watson et.al.|[2403.10354](http://arxiv.org/abs/2403.10354)|null|
 |**2024-03-14**|**Cloud gap-filling with deep learning for improved grassland monitoring**|Iason Tsardanidis et.al.|[2403.09554](http://arxiv.org/abs/2403.09554)|null|
 |**2024-03-14**|**Improving Real-Time Omnidirectional 3D Multi-Person Human Pose Estimation with People Matching and Unsupervised 2D-3D Lifting**|Pawel Knap et.al.|[2403.09437](http://arxiv.org/abs/2403.09437)|null|
@@ -232,7 +236,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240319>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240320>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
