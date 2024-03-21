@@ -51,6 +51,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-20**|**Insight Into the Collocation of Multi-Source Satellite Imagery for Multi-Scale Vessel Detection**|Tran-Vu La et.al.|[2403.13698](http://arxiv.org/abs/2403.13698)|null|
 |**2024-03-19**|**Small Distance Increment Method for Measuring Complex Permittivity With mmWave Radar**|Hang Song et.al.|[2403.12726](http://arxiv.org/abs/2403.12726)|null|
 |**2024-03-19**|**WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**|Runwei Guan et.al.|[2403.12686](http://arxiv.org/abs/2403.12686)|null|
 |**2024-03-19**|**A New Intelligent Reflecting Surface-Aided Electromagnetic Stealth Strategy**|Xue Xiong et.al.|[2403.12352](http://arxiv.org/abs/2403.12352)|null|
