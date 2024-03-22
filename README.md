@@ -60,6 +60,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-03-21**|**Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis -- A Proof-of-Concept**|Thanh Huy Nguyen et.al.|[2403.14394](http://arxiv.org/abs/2403.14394)|null|
+|**2024-03-21**|**Adaptive Target Detection for FDA-MIMO Radar with Training Data in Gaussian noise**|Ping Li et.al.|[2403.14180](http://arxiv.org/abs/2403.14180)|null|
+|**2024-03-21**|**ReFeree: Radar-based efficient global descriptor using a Feature and Free space for Place Recognition**|Byunghee Choi et.al.|[2403.14176](http://arxiv.org/abs/2403.14176)|null|
+|**2024-03-21**|**Sub-Nyquist Sampling OFDM Radar With a Time-Frequency Phase-Coded Waveform**|Seonghyeon Kang et.al.|[2403.14126](http://arxiv.org/abs/2403.14126)|null|
+|**2024-03-20**|**Maximum Likelihood Alternating Summation for Multistatic Angle-based Multitarget Localization**|Martin Willame et.al.|[2403.13992](http://arxiv.org/abs/2403.13992)|null|
 |**2024-03-20**|**Insight Into the Collocation of Multi-Source Satellite Imagery for Multi-Scale Vessel Detection**|Tran-Vu La et.al.|[2403.13698](http://arxiv.org/abs/2403.13698)|null|
 |**2024-03-19**|**Small Distance Increment Method for Measuring Complex Permittivity With mmWave Radar**|Hang Song et.al.|[2403.12726](http://arxiv.org/abs/2403.12726)|null|
 |**2024-03-19**|**WaterVG: Waterway Visual Grounding based on Text-Guided Vision and mmWave Radar**|Runwei Guan et.al.|[2403.12686](http://arxiv.org/abs/2403.12686)|null|
