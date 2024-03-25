@@ -51,6 +51,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-22**|**Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities**|Zhitong Xiong et.al.|[2403.15356](http://arxiv.org/abs/2403.15356)|null|
+|**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313](http://arxiv.org/abs/2403.15313)|null|
+|**2024-03-22**|**CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition**|Shaowei Fu et.al.|[2403.15183](http://arxiv.org/abs/2403.15183)|null|
+|**2024-03-22**|**Range-Angle Estimation for FDA-MIMO System With Frequency Offset**|Mengjiang Sun et.al.|[2403.14978](http://arxiv.org/abs/2403.14978)|null|
 |**2024-03-21**|**Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis -- A Proof-of-Concept**|Thanh Huy Nguyen et.al.|[2403.14394](http://arxiv.org/abs/2403.14394)|null|
 |**2024-03-21**|**Adaptive Target Detection for FDA-MIMO Radar with Training Data in Gaussian noise**|Ping Li et.al.|[2403.14180](http://arxiv.org/abs/2403.14180)|null|
 |**2024-03-21**|**ReFeree: Radar-based efficient global descriptor using a Feature and Free space for Place Recognition**|Byunghee Choi et.al.|[2403.14176](http://arxiv.org/abs/2403.14176)|null|
