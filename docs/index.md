@@ -52,6 +52,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-03-27**|**Addressing Data Annotation Challenges in Multiple Sensors: A Solution for Scania Collected Datasets**|Ajinkya Khoche et.al.|[2403.18649](http://arxiv.org/abs/2403.18649)|null|
+|**2024-03-27**|**Noise Suppression with Cryogenic Resonators**|Eugene N. Ivanov et.al.|[2403.18427](http://arxiv.org/abs/2403.18427)|null|
+|**2024-03-27**|**Imaging radar and LiDAR image translation for 3-DOF extrinsic calibration**|Sangwoo Jung et.al.|[2403.18358](http://arxiv.org/abs/2403.18358)|null|
+|**2024-03-27**|**Uncertainty-Aware SAR ATR: Defending Against Adversarial Attacks via Bayesian Neural Networks**|Tian Ye et.al.|[2403.18318](http://arxiv.org/abs/2403.18318)|null|
 |**2024-03-26**|**Waveform Design for Joint Communication and SAR Imaging Under Random Signaling**|Bowen Zheng et.al.|[2403.17627](http://arxiv.org/abs/2403.17627)|null|
 |**2024-03-26**|**Adaptive LiDAR-Radar Fusion for Outdoor Odometry Across Dense Smoke Conditions**|Chiyun Noh et.al.|[2403.17441](http://arxiv.org/abs/2403.17441)|null|
 |**2024-03-25**|**Complex-Valued Signal Recovery using the Bayesian LASSO**|Dylan Green et.al.|[2403.16992](http://arxiv.org/abs/2403.16992)|null|
