@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-01**|**Scalable Radar-based ITS: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
 |**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082](http://arxiv.org/abs/2402.16082)|null|
 |**2023-11-25**|**UWB Radar SLAM: an Anchorless Approach in Vision Denied Indoor Environments**|H. A. G. C. Premachandra et.al.|[2311.14970](http://arxiv.org/abs/2311.14970)|null|
 |**2023-11-19**|**Radarize: Large-Scale Radar SLAM for Indoor Environments**|Emerson Sie et.al.|[2311.11260](http://arxiv.org/abs/2311.11260)|null|
@@ -38,6 +39,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2023-12-23**|**Versatile LiDAR-Inertial Odometry With SE (2) Constraints for Ground Vehicles**|Jiaying Chen et.al.|[2404.01584](http://arxiv.org/abs/2404.01584)|null|
 |**2024-03-26**|**Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System**|Leonard Freißmuth et.al.|[2403.17622](http://arxiv.org/abs/2403.17622)|null|
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341](http://arxiv.org/abs/2403.06341)|null|
@@ -61,6 +63,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781](http://arxiv.org/abs/2404.01781)|null|
+|**2024-04-02**|**The Meta Distribution of the SIR in Joint Communication and Sensing Networks**|Kun Ma et.al.|[2404.01672](http://arxiv.org/abs/2404.01672)|null|
+|**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537](http://arxiv.org/abs/2404.01537)|null|
+|**2024-04-01**|**The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar Data**|Florian Kraus et.al.|[2404.01437](http://arxiv.org/abs/2404.01437)|null|
+|**2024-04-01**|**Robust Trajectory and Resource Optimization for Communication-assisted UAV SAR Sensing**|Mohamed-Amine Lahmeri et.al.|[2404.01195](http://arxiv.org/abs/2404.01195)|null|
+|**2024-04-01**|**Scalable Radar-based ITS: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
+|**2024-04-01**|**An incremental hybrid adaptive network-based IDS in Software Defined Networks to detect stealth attacks**|Abdullah H Alqahtani et.al.|[2404.01109](http://arxiv.org/abs/2404.01109)|null|
+|**2024-04-01**|**Prompt Learning for Oriented Power Transmission Tower Detection in High-Resolution SAR Images**|Tianyang Li et.al.|[2404.01074](http://arxiv.org/abs/2404.01074)|null|
+|**2024-03-31**|**2D Ego-Motion with Yaw Estimation using Only mmWave Radars via Two-Way weighted ICP**|Hojune Kim et.al.|[2404.00830](http://arxiv.org/abs/2404.00830)|null|
+|**2024-03-31**|**Complex Neural Network based Joint AoA and AoD Estimation for Bistatic ISAC**|Salmane Naoumi et.al.|[2404.00582](http://arxiv.org/abs/2404.00582)|null|
 |**2024-03-29**|**CATSNet: a context-aware network for Height Estimation in a Forested Area based on Pol-TomoSAR data**|Wenyu Yang et.al.|[2403.20273](http://arxiv.org/abs/2403.20273)|null|
 |**2024-03-29**|**Cooperative Sensing and Communication for ISAC Networks: Performance Analysis and Optimization**|Kaitao Meng et.al.|[2403.20228](http://arxiv.org/abs/2403.20228)|null|
 |**2024-03-29**|**Heterogeneous Network Based Contrastive Learning Method for PolSAR Land Cover Classification**|Jianfeng Cai et.al.|[2403.19902](http://arxiv.org/abs/2403.19902)|**[link](https://github.com/cai-jianfeng/HCLNet)**|
