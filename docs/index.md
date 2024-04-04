@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -54,7 +54,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781](http://arxiv.org/abs/2404.01781)|null|
+|**2024-04-03**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781](http://arxiv.org/abs/2404.01781)|null|
 |**2024-04-02**|**The Meta Distribution of the SIR in Joint Communication and Sensing Networks**|Kun Ma et.al.|[2404.01672](http://arxiv.org/abs/2404.01672)|null|
 |**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537](http://arxiv.org/abs/2404.01537)|null|
 |**2024-04-01**|**The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar Data**|Florian Kraus et.al.|[2404.01437](http://arxiv.org/abs/2404.01437)|null|

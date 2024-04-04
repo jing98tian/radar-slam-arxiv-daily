@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.03
+## Updated on 2024.04.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -33,7 +33,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -57,13 +57,13 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-04-02**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781](http://arxiv.org/abs/2404.01781)|null|
+|**2024-04-03**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781](http://arxiv.org/abs/2404.01781)|null|
 |**2024-04-02**|**The Meta Distribution of the SIR in Joint Communication and Sensing Networks**|Kun Ma et.al.|[2404.01672](http://arxiv.org/abs/2404.01672)|null|
 |**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537](http://arxiv.org/abs/2404.01537)|null|
 |**2024-04-01**|**The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar Data**|Florian Kraus et.al.|[2404.01437](http://arxiv.org/abs/2404.01437)|null|
@@ -289,7 +289,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240403>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240404>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
