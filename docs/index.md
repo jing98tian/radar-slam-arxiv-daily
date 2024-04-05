@@ -54,6 +54,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-04**|**AMC-backed Twin Arrow Antenna for Wearable Electronic Travel Aid System at 24 GHz**|Alicia Flórez Berdasco et.al.|[2404.03525](http://arxiv.org/abs/2404.03525)|null|
+|**2024-04-04**|**FACTUAL: A Novel Framework for Contrastive Learning Based Robust SAR Image Classification**|Xu Wang et.al.|[2404.03225](http://arxiv.org/abs/2404.03225)|null|
+|**2024-04-03**|**Comparison of Extended and Unscented Kalman Filters Performance in a Hybrid BLE-UWB Localization System**|Marcin Kolakowski et.al.|[2404.03077](http://arxiv.org/abs/2404.03077)|null|
+|**2024-04-03**|**DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**|Felix Fent et.al.|[2404.03015](http://arxiv.org/abs/2404.03015)|null|
+|**2024-04-03**|**Optimizing the Deployment of Tiny Transformers on Low-Power MCUs**|Victor J. B. Jung et.al.|[2404.02945](http://arxiv.org/abs/2404.02945)|**[link](https://github.com/pulp-platform/pulp-transformer)**|
 |**2024-04-04**|**Identifying Climate Targets in National Laws and Policies using Machine Learning**|Matyas Juhasz et.al.|[2404.02822](http://arxiv.org/abs/2404.02822)|null|
 |**2024-04-03**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781](http://arxiv.org/abs/2404.01781)|null|
 |**2024-04-02**|**The Meta Distribution of the SIR in Joint Communication and Sensing Networks**|Kun Ma et.al.|[2404.01672](http://arxiv.org/abs/2404.01672)|null|
