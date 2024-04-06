@@ -69,7 +69,7 @@
 |**2024-04-03**|**DPFT: Dual Perspective Fusion Transformer for Camera-Radar-based Object Detection**|Felix Fent et.al.|[2404.03015](http://arxiv.org/abs/2404.03015)|null|
 |**2024-04-03**|**Optimizing the Deployment of Tiny Transformers on Low-Power MCUs**|Victor J. B. Jung et.al.|[2404.02945](http://arxiv.org/abs/2404.02945)|**[link](https://github.com/pulp-platform/pulp-transformer)**|
 |**2024-04-04**|**Identifying Climate Targets in National Laws and Policies using Machine Learning**|Matyas Juhasz et.al.|[2404.02822](http://arxiv.org/abs/2404.02822)|null|
-|**2024-04-03**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781](http://arxiv.org/abs/2404.01781)|null|
+|**2024-04-03**|**An evaluation of CFEAR Radar Odometry**|Daniel Adolfsson et.al.|[2404.01781](http://arxiv.org/abs/2404.01781)|**[link](https://github.com/dan11003/CFEAR_Radarodometry_code_public)**|
 |**2024-04-02**|**The Meta Distribution of the SIR in Joint Communication and Sensing Networks**|Kun Ma et.al.|[2404.01672](http://arxiv.org/abs/2404.01672)|null|
 |**2024-04-02**|**Are Doppler Velocity Measurements Useful for Spinning Radar Odometry?**|Daniil Lisus et.al.|[2404.01537](http://arxiv.org/abs/2404.01537)|null|
 |**2024-04-01**|**The Radar Ghost Dataset -- An Evaluation of Ghost Objects in Automotive Radar Data**|Florian Kraus et.al.|[2404.01437](http://arxiv.org/abs/2404.01437)|null|
