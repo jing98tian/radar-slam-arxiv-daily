@@ -14,6 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-01**|**Scalable Radar-based ITS: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
 |**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082](http://arxiv.org/abs/2402.16082)|null|
 |**2023-11-25**|**UWB Radar SLAM: an Anchorless Approach in Vision Denied Indoor Environments**|H. A. G. C. Premachandra et.al.|[2311.14970](http://arxiv.org/abs/2311.14970)|null|
@@ -54,6 +55,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-05**|**PASO -- Astronomy and Space Situational Awareness in a Dark Sky Destination**|Domingos Barbosa et.al.|[2404.04090](http://arxiv.org/abs/2404.04090)|null|
+|**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-04**|**AMC-backed Twin Arrow Antenna for Wearable Electronic Travel Aid System at 24 GHz**|Alicia Flórez Berdasco et.al.|[2404.03525](http://arxiv.org/abs/2404.03525)|null|
 |**2024-04-04**|**FACTUAL: A Novel Framework for Contrastive Learning Based Robust SAR Image Classification**|Xu Wang et.al.|[2404.03225](http://arxiv.org/abs/2404.03225)|null|
 |**2024-04-03**|**Comparison of Extended and Unscented Kalman Filters Performance in a Hybrid BLE-UWB Localization System**|Marcin Kolakowski et.al.|[2404.03077](http://arxiv.org/abs/2404.03077)|null|
