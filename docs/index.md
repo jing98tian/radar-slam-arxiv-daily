@@ -56,6 +56,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165](http://arxiv.org/abs/2404.06165)|null|
+|**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012](http://arxiv.org/abs/2404.06012)|null|
+|**2024-04-08**|**Interference Reduction Design for Improved Multitarget Detection in ISAC Systems**|Mamady Delamou et.al.|[2404.05895](http://arxiv.org/abs/2404.05895)|null|
 |**2024-04-08**|**Seamlessly merging radar ranging/imaging, wireless communications, and spectrum sensing, for 6G empowered by microwave photonics**|Taixia Shi et.al.|[2404.05374](http://arxiv.org/abs/2404.05374)|null|
 |**2024-04-08**|**Human Detection from 4D Radar Data in Low-Visibility Field Conditions**|Mikael Skog et.al.|[2404.05307](http://arxiv.org/abs/2404.05307)|null|
 |**2024-04-06**|**Reconstruction of a function from its two spherical Radon transforms with the centers on a plane**|Rafik Aramyan et.al.|[2404.04630](http://arxiv.org/abs/2404.04630)|null|
