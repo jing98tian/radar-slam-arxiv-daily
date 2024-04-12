@@ -40,6 +40,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|null|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492](http://arxiv.org/abs/2404.04492)|null|
 |**2023-12-23**|**Versatile LiDAR-Inertial Odometry With SE (2) Constraints for Ground Vehicles**|Jiaying Chen et.al.|[2404.01584](http://arxiv.org/abs/2404.01584)|null|
 |**2024-03-26**|**Online Tree Reconstruction and Forest Inventory on a Mobile Robotic System**|Leonard Freißmuth et.al.|[2403.17622](http://arxiv.org/abs/2403.17622)|null|
@@ -65,6 +66,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-11**|**Illicit Promotion on Twitter**|Hongyu Wang et.al.|[2404.07797](http://arxiv.org/abs/2404.07797)|null|
+|**2024-04-11**|**Reconfigurable Superdirective and Superabsorptive Aperiodic Metasurfaces**|Yongming Li et.al.|[2404.07608](http://arxiv.org/abs/2404.07608)|null|
+|**2024-04-11**|**Novel Active Sensing and Inference for mmWave Beam Alignment Using Single RF Chain Systems**|Rohan R. Pote et.al.|[2404.07604](http://arxiv.org/abs/2404.07604)|null|
 |**2024-04-09**|**Enhanced Radar Perception via Multi-Task Learning: Towards Refined Data for Sensor Fusion Applications**|Huawei Sun et.al.|[2404.06165](http://arxiv.org/abs/2404.06165)|null|
 |**2024-04-09**|**Diffusion-Based Point Cloud Super-Resolution for mmWave Radar Data**|Kai Luan et.al.|[2404.06012](http://arxiv.org/abs/2404.06012)|null|
 |**2024-04-08**|**Interference Reduction Design for Improved Multitarget Detection in ISAC Systems**|Mamady Delamou et.al.|[2404.05895](http://arxiv.org/abs/2404.05895)|null|
