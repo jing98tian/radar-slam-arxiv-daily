@@ -66,6 +66,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-16**|**Worst-Case Riemannian Optimization with Uncertain Target Steering Vector for Slow-Time Transmit Sequence of Cognitive Radar**|Xinyu Zhang et.al.|[2404.10388](http://arxiv.org/abs/2404.10388)|null|
+|**2024-04-16**|**TEL'M: Test and Evaluation of Language Models**|George Cybenko et.al.|[2404.10200](http://arxiv.org/abs/2404.10200)|null|
+|**2024-04-15**|**Using Long Short-term Memory (LSTM) to merge precipitation data over mountainous area in Sierra Nevada**|Yihan Wang et.al.|[2404.10135](http://arxiv.org/abs/2404.10135)|null|
+|**2024-04-15**|**Ultra-Wide Dual-band Rydberg Atomic Receiver Based on Space Division Multiplexing RF-Chip Modules**|Li-Hua Zhang et.al.|[2404.09757](http://arxiv.org/abs/2404.09757)|null|
 |**2024-04-15**|**Dynamic Ego-Velocity estimation Using Moving mmWave Radar: A Phase-Based Approach**|Argha Sen et.al.|[2404.09691](http://arxiv.org/abs/2404.09691)|null|
 |**2024-04-15**|**DIDLM:A Comprehensive Multi-Sensor Dataset with Infrared Cameras, Depth Cameras, LiDAR, and 4D Millimeter-Wave Radar in Challenging Scenarios for 3D Mapping**|WeiSheng Gong et.al.|[2404.09622](http://arxiv.org/abs/2404.09622)|null|
 |**2024-04-15**|**Non-invasive Diver Respiration Rate Monitoring in Hyperbaric Lifeboat Environments using Short-Range Radar**|Mikolaj Czerkawski et.al.|[2404.09598](http://arxiv.org/abs/2404.09598)|null|
