@@ -57,6 +57,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-17**|**Deciphering seasonal depression variations and interplays between weather changes, physical activity, and depression severity in real-world settings: Learnings from RADAR-MDD longitudinal mobile health study**|Yuezhou Zhang et.al.|[2404.11212](http://arxiv.org/abs/2404.11212)|null|
 |**2024-04-16**|**Worst-Case Riemannian Optimization with Uncertain Target Steering Vector for Slow-Time Transmit Sequence of Cognitive Radar**|Xinyu Zhang et.al.|[2404.10388](http://arxiv.org/abs/2404.10388)|null|
 |**2024-04-16**|**TEL'M: Test and Evaluation of Language Models**|George Cybenko et.al.|[2404.10200](http://arxiv.org/abs/2404.10200)|null|
 |**2024-04-15**|**Using Long Short-term Memory (LSTM) to merge precipitation data over mountainous area in Sierra Nevada**|Yihan Wang et.al.|[2404.10135](http://arxiv.org/abs/2404.10135)|null|
