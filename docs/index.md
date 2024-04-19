@@ -57,6 +57,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
+|**2024-04-18**|**An Overview of Electromagnetic Illusions: Empowering Smart Environments with Reconfigurable Metasurfaces**|Hamidreza Taghvaee et.al.|[2404.12089](http://arxiv.org/abs/2404.12089)|null|
+|**2024-04-18**|**RAGAR, Your Falsehood RADAR: RAG-Augmented Reasoning for Political Fact-Checking using Multimodal Large Language Models**|M. Abdul Khaliq et.al.|[2404.12065](http://arxiv.org/abs/2404.12065)|null|
 |**2024-04-17**|**Deciphering seasonal depression variations and interplays between weather changes, physical activity, and depression severity in real-world settings: Learnings from RADAR-MDD longitudinal mobile health study**|Yuezhou Zhang et.al.|[2404.11212](http://arxiv.org/abs/2404.11212)|null|
 |**2024-04-16**|**Worst-Case Riemannian Optimization with Uncertain Target Steering Vector for Slow-Time Transmit Sequence of Cognitive Radar**|Xinyu Zhang et.al.|[2404.10388](http://arxiv.org/abs/2404.10388)|null|
 |**2024-04-16**|**TEL'M: Test and Evaluation of Language Models**|George Cybenko et.al.|[2404.10200](http://arxiv.org/abs/2404.10200)|null|
