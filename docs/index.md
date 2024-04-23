@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.04.22
+## Updated on 2024.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -15,7 +15,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
-|**2024-04-01**|**Scalable Radar-based ITS: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
+|**2024-04-19**|**Scalable Radar-based Roadside Perception: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
 |**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082](http://arxiv.org/abs/2402.16082)|null|
 |**2023-11-25**|**UWB Radar SLAM: an Anchorless Approach in Vision Denied Indoor Environments**|H. A. G. C. Premachandra et.al.|[2311.14970](http://arxiv.org/abs/2311.14970)|null|
 |**2023-11-19**|**Radarize: Large-Scale Radar SLAM for Indoor Environments**|Emerson Sie et.al.|[2311.11260](http://arxiv.org/abs/2311.11260)|null|
@@ -64,7 +64,7 @@ layout: default
 |**2024-04-17**|**Deciphering seasonal depression variations and interplays between weather changes, physical activity, and depression severity in real-world settings: Learnings from RADAR-MDD longitudinal mobile health study**|Yuezhou Zhang et.al.|[2404.11212](http://arxiv.org/abs/2404.11212)|null|
 |**2024-04-16**|**Worst-Case Riemannian Optimization with Uncertain Target Steering Vector for Slow-Time Transmit Sequence of Cognitive Radar**|Xinyu Zhang et.al.|[2404.10388](http://arxiv.org/abs/2404.10388)|null|
 |**2024-04-16**|**TEL'M: Test and Evaluation of Language Models**|George Cybenko et.al.|[2404.10200](http://arxiv.org/abs/2404.10200)|null|
-|**2024-04-15**|**Using Long Short-term Memory (LSTM) to merge precipitation data over mountainous area in Sierra Nevada**|Yihan Wang et.al.|[2404.10135](http://arxiv.org/abs/2404.10135)|null|
+|**2024-04-19**|**Using Long Short-term Memory (LSTM) to merge precipitation data over mountainous area in Sierra Nevada**|Yihan Wang et.al.|[2404.10135](http://arxiv.org/abs/2404.10135)|null|
 |**2024-04-17**|**Ultra-Wide Dual-band Rydberg Atomic Receiver Based on Space Division Multiplexing RF-Chip Modules**|Li-Hua Zhang et.al.|[2404.09757](http://arxiv.org/abs/2404.09757)|null|
 |**2024-04-15**|**Dynamic Ego-Velocity estimation Using Moving mmWave Radar: A Phase-Based Approach**|Argha Sen et.al.|[2404.09691](http://arxiv.org/abs/2404.09691)|null|
 |**2024-04-15**|**DIDLM:A Comprehensive Multi-Sensor Dataset with Infrared Cameras, Depth Cameras, LiDAR, and 4D Millimeter-Wave Radar in Challenging Scenarios for 3D Mapping**|WeiSheng Gong et.al.|[2404.09622](http://arxiv.org/abs/2404.09622)|null|
