@@ -57,6 +57,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-22**|**Hybrid Fusion for 802.11ax Wi-Fi-based Passive Radars Exploiting Beamforming Feedbacks**|Martin Willame et.al.|[2404.14269](http://arxiv.org/abs/2404.14269)|null|
+|**2024-04-22**|**Large-scale photonic chip based pulse interleaver for low-noise microwave generation**|Zheru Qiu et.al.|[2404.14242](http://arxiv.org/abs/2404.14242)|null|
+|**2024-04-22**|**A multi-robot system for the detection of explosive devices**|Ken Hasselmann et.al.|[2404.14167](http://arxiv.org/abs/2404.14167)|null|
+|**2024-04-20**|**What can Hurricane SAM (2021) tell us about ocean waves under tropical cyclones?**|Xiaolu Zhao et.al.|[2404.13457](http://arxiv.org/abs/2404.13457)|null|
+|**2024-04-19**|**Denoising Sphere-Valued Data by Relaxed Total Variation Regularization**|Robert Beinert et.al.|[2404.13181](http://arxiv.org/abs/2404.13181)|null|
+|**2024-04-19**|**FoMo: A Proposal for a Multi-Season Dataset for Robot Navigation in Forêt Montmorency**|Matěj Boxan et.al.|[2404.13166](http://arxiv.org/abs/2404.13166)|null|
 |**2024-04-19**|**Recurrent Neural Networks for Modelling Gross Primary Production**|David Montero et.al.|[2404.12745](http://arxiv.org/abs/2404.12745)|null|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
 |**2024-04-18**|**An Overview of Electromagnetic Illusions: Empowering Smart Environments with Reconfigurable Metasurfaces**|Hamidreza Taghvaee et.al.|[2404.12089](http://arxiv.org/abs/2404.12089)|null|
