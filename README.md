@@ -66,6 +66,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-23**|**Joint Soil and Above-Ground Biomass Characterization Using Radars**|Luke Jacobs et.al.|[2404.15508](http://arxiv.org/abs/2404.15508)|null|
+|**2024-04-20**|**Efficient Verification of a RADAR SoC Using Formal and Simulation-Based Methods**|Aman Kumar et.al.|[2404.15371](http://arxiv.org/abs/2404.15371)|null|
 |**2024-04-23**|**G3R: Generating Rich and Fine-grained mmWave Radar Data from 2D Videos for Generalized Gesture Recognition**|Kaikai Deng et.al.|[2404.14934](http://arxiv.org/abs/2404.14934)|null|
 |**2024-04-23**|**Device-Free 3D Drone Localization in RIS-Assisted mmWave MIMO Networks**|Jiguang He et.al.|[2404.14879](http://arxiv.org/abs/2404.14879)|null|
 |**2024-04-22**|**Cooperative ISAC Networks: Performance Analysis, Scaling Laws and Optimization**|Kaitao Meng et.al.|[2404.14514](http://arxiv.org/abs/2404.14514)|null|
