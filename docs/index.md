@@ -57,6 +57,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
+|**2024-04-25**|**STAR-RIS-Assisted Communication Radar Coexistence: Analysis and Optimization**|Anastasios Papazafeiropoulos et.al.|[2404.16394](http://arxiv.org/abs/2404.16394)|null|
+|**2024-04-24**|**Mitigating Automotive Radar Interference using Onboard Intelligent Reflective Surface**|Shree Prasad Maruthi et.al.|[2404.16253](http://arxiv.org/abs/2404.16253)|null|
+|**2024-04-24**|**Soil analysis with machine-learning-based processing of stepped-frequency GPR field measurements: Preliminary study**|Chunlei Xu et.al.|[2404.15961](http://arxiv.org/abs/2404.15961)|null|
+|**2024-04-24**|**A Reconfigurable Subarray Architecture and Hybrid Beamforming for Millimeter-Wave Dual-Function-Radar-Communication Systems**|Xin Jin et.al.|[2404.15750](http://arxiv.org/abs/2404.15750)|null|
 |**2024-04-23**|**Joint Soil and Above-Ground Biomass Characterization Using Radars**|Luke Jacobs et.al.|[2404.15508](http://arxiv.org/abs/2404.15508)|null|
 |**2024-04-20**|**Efficient Verification of a RADAR SoC Using Formal and Simulation-Based Methods**|Aman Kumar et.al.|[2404.15371](http://arxiv.org/abs/2404.15371)|null|
 |**2024-04-23**|**G3R: Generating Rich and Fine-grained mmWave Radar Data from 2D Videos for Generalized Gesture Recognition**|Kaikai Deng et.al.|[2404.14934](http://arxiv.org/abs/2404.14934)|null|
