@@ -80,7 +80,7 @@
 |**2024-04-22**|**Large-scale photonic chip based pulse interleaver for low-noise microwave generation**|Zheru Qiu et.al.|[2404.14242](http://arxiv.org/abs/2404.14242)|null|
 |**2024-04-22**|**A multi-robot system for the detection of explosive devices**|Ken Hasselmann et.al.|[2404.14167](http://arxiv.org/abs/2404.14167)|null|
 |**2024-04-20**|**What can Hurricane SAM (2021) tell us about ocean waves under tropical cyclones?**|Xiaolu Zhao et.al.|[2404.13457](http://arxiv.org/abs/2404.13457)|null|
-|**2024-04-19**|**Denoising Sphere-Valued Data by Relaxed Total Variation Regularization**|Robert Beinert et.al.|[2404.13181](http://arxiv.org/abs/2404.13181)|null|
+|**2024-04-19**|**Denoising Sphere-Valued Data by Relaxed Total Variation Regularization**|Robert Beinert et.al.|[2404.13181](http://arxiv.org/abs/2404.13181)|**[link](https://github.com/JJEWBresch/relaxed_tikhonov_regularization)**|
 |**2024-04-19**|**FoMo: A Proposal for a Multi-Season Dataset for Robot Navigation in Forêt Montmorency**|Matěj Boxan et.al.|[2404.13166](http://arxiv.org/abs/2404.13166)|null|
 |**2024-04-19**|**Recurrent Neural Networks for Modelling Gross Primary Production**|David Montero et.al.|[2404.12745](http://arxiv.org/abs/2404.12745)|null|
 |**2024-04-18**|**Fortify the Guardian, Not the Treasure: Resilient Adversarial Detectors**|Raz Lapid et.al.|[2404.12120](http://arxiv.org/abs/2404.12120)|null|
@@ -172,7 +172,7 @@
 |**2024-03-18**|**Evaluation cartographique du niveau de potentialit{é}s {é}cologiques des sites des partenaires (CARPO). Cadre m{é}thodologique V0**|Santiago Forero et.al.|[2403.12113](http://arxiv.org/abs/2403.12113)|null|
 |**2024-03-18**|**Towards Real-Time Fast Unmanned Aerial Vehicle Detection Using Dynamic Vision Sensors**|Jakub Mandula et.al.|[2403.11875](http://arxiv.org/abs/2403.11875)|null|
 |**2024-03-18**|**RIS-aided Single-frequency 3D Imaging by Exploiting Multi-view Image Correlations**|Yixuan Huang et.al.|[2403.11764](http://arxiv.org/abs/2403.11764)|null|
-|**2024-03-18**|**BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation**|Jonas Schramm et.al.|[2403.11761](http://arxiv.org/abs/2403.11761)|null|
+|**2024-03-18**|**BEVCar: Camera-Radar Fusion for BEV Map and Object Segmentation**|Jonas Schramm et.al.|[2403.11761](http://arxiv.org/abs/2403.11761)|**[link](https://github.com/robot-learning-freiburg/BEVCar)**|
 |**2024-03-18**|**Task-Oriented Hybrid Beamforming for OFDM-DFRC Systems with Flexibly Controlled Space-Frequency Spectra**|Lingyun Xu et.al.|[2403.11575](http://arxiv.org/abs/2403.11575)|null|
 |**2024-03-17**|**A Lie Group Approach to Riemannian Batch Normalization**|Ziheng Chen et.al.|[2403.11261](http://arxiv.org/abs/2403.11261)|**[link](https://github.com/gitzh-chen/liebn)**|
 |**2024-03-16**|**Automatic Spatial Calibration of Near-Field MIMO Radar With Respect to Optical Sensors**|Vanessa Wirth et.al.|[2403.10981](http://arxiv.org/abs/2403.10981)|null|
