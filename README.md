@@ -66,6 +66,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-04-28**|**FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method**|Yanbing Bai et.al.|[2404.18245](http://arxiv.org/abs/2404.18245)|null|
+|**2024-04-28**|**Event-scale Internal Tide Variability via X-band Marine Radar**|Alexandra J. Simpson et.al.|[2404.18218](http://arxiv.org/abs/2404.18218)|null|
+|**2024-04-28**|**RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation**|Oded Bialer et.al.|[2404.18150](http://arxiv.org/abs/2404.18150)|null|
+|**2024-04-27**|**3D Extended Object Tracking by Fusing Roadside Sparse Radar Point Clouds and Pixel Keypoints**|Jiayin Deng et.al.|[2404.17903](http://arxiv.org/abs/2404.17903)|null|
+|**2024-04-27**|**BoostRad: Enhancing Object Detection by Boosting Radar Reflections**|Yuval Haitman et.al.|[2404.17861](http://arxiv.org/abs/2404.17861)|null|
+|**2024-04-27**|**Dual-Functional Waveform Design with Local Sidelobe Suppression via OTFS Signaling**|Kecheng Zhang et.al.|[2404.17755](http://arxiv.org/abs/2404.17755)|null|
+|**2024-04-26**|**Enhancing Track Management Systems with Vehicle-To-Vehicle Enabled Sensor Fusion**|Thomas Billington et.al.|[2404.17697](http://arxiv.org/abs/2404.17697)|null|
 |**2024-04-26**|**Integrated Sensing and Communication Channel Modeling: A Survey**|Zhiqing Wei et.al.|[2404.17462](http://arxiv.org/abs/2404.17462)|null|
 |**2024-04-26**|**Enhancing mmWave Radar Point Cloud via Visual-inertial Supervision**|Cong Fan et.al.|[2404.17229](http://arxiv.org/abs/2404.17229)|null|
 |**2024-04-25**|**Cross-Domain Spatial Matching for Camera and Radar Sensor Data Fusion in Autonomous Vehicle Perception System**|Daniel Dworak et.al.|[2404.16548](http://arxiv.org/abs/2404.16548)|null|
