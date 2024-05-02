@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600](http://arxiv.org/abs/2405.00600)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-19**|**Scalable Radar-based Roadside Perception: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
 |**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082](http://arxiv.org/abs/2402.16082)|null|
@@ -66,6 +67,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600](http://arxiv.org/abs/2405.00600)|null|
+|**2024-05-01**|**Pseudo-noise pulse-compression thermography: a powerful tool for time-domain thermography analysis**|Marco Ricci et.al.|[2405.00598](http://arxiv.org/abs/2405.00598)|null|
+|**2024-04-30**|**Indoor Synthetic Aperture Radar Measurements of Point-Like Targets Using a Wheeled Mobile Robot**|Yuma E. Ritterbusch et.al.|[2405.00121](http://arxiv.org/abs/2405.00121)|null|
+|**2024-04-30**|**Successive Interference Cancellation for ISAC in a Large Full-Duplex Cellular Network**|Konpal Shaukat Ali et.al.|[2405.00109](http://arxiv.org/abs/2405.00109)|null|
 |**2024-04-28**|**FAD-SAR: A Novel Fishing Activity Detection System via Synthetic Aperture Radar Images Based on Deep Learning Method**|Yanbing Bai et.al.|[2404.18245](http://arxiv.org/abs/2404.18245)|null|
 |**2024-04-28**|**Event-scale Internal Tide Variability via X-band Marine Radar**|Alexandra J. Simpson et.al.|[2404.18218](http://arxiv.org/abs/2404.18218)|null|
 |**2024-04-28**|**RadSimReal: Bridging the Gap Between Synthetic and Real Data in Radar Object Detection With Simulation**|Oded Bialer et.al.|[2404.18150](http://arxiv.org/abs/2404.18150)|null|
