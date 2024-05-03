@@ -58,6 +58,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-02**|**Evaluation and Optimization of Adaptive Cruise Control in Autonomous Vehicles using the CARLA Simulator: A Study on Performance under Wet and Dry Weather Conditions**|Roza Al-Hindaw et.al.|[2405.01504](http://arxiv.org/abs/2405.01504)|null|
+|**2024-05-02**|**CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation**|Chenying Liu et.al.|[2405.01217](http://arxiv.org/abs/2405.01217)|null|
+|**2024-05-02**|**Optimal Beamforming for Bistatic MIMO Sensing**|Tobias Laas et.al.|[2405.01197](http://arxiv.org/abs/2405.01197)|null|
+|**2024-05-02**|**Experimental Evaluation of Moving Target Compensation in High Time-Bandwidth Noise Radar**|Martin Ankel et.al.|[2405.01023](http://arxiv.org/abs/2405.01023)|null|
+|**2024-05-02**|**Can FSK Be Optimised for Integrated Sensing and Communications?**|Tian Han et.al.|[2405.00945](http://arxiv.org/abs/2405.00945)|null|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600](http://arxiv.org/abs/2405.00600)|null|
 |**2024-05-01**|**Pseudo-noise pulse-compression thermography: a powerful tool for time-domain thermography analysis**|Marco Ricci et.al.|[2405.00598](http://arxiv.org/abs/2405.00598)|null|
 |**2024-04-30**|**Indoor Synthetic Aperture Radar Measurements of Point-Like Targets Using a Wheeled Mobile Robot**|Yuma E. Ritterbusch et.al.|[2405.00121](http://arxiv.org/abs/2405.00121)|null|
