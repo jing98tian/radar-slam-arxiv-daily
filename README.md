@@ -67,6 +67,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-03**|**IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals**|Li Yadong et.al.|[2405.02023](http://arxiv.org/abs/2405.02023)|null|
+|**2024-05-03**|**Analysing PolSAR data from vegetation by using the subaperture decomposition approach**|J. David Ballester-Berman et.al.|[2405.02007](http://arxiv.org/abs/2405.02007)|null|
+|**2024-05-03**|**Cooperation and Federation in Distributed Radar Point Cloud Processing**|S. Savazzi et.al.|[2405.01995](http://arxiv.org/abs/2405.01995)|null|
+|**2024-05-03**|**Unleashing the Power of AI: Transforming Marketing Decision-Making in Heavy Machinery with Machine Learning, Radar Chart Simulation, and Markov Chain Analysis**|Tian Tian et.al.|[2405.01913](http://arxiv.org/abs/2405.01913)|null|
+|**2024-05-03**|**Millimeter Wave Radar-based Human Activity Recognition for Healthcare Monitoring Robot**|Zhanzhong Gu et.al.|[2405.01882](http://arxiv.org/abs/2405.01882)|null|
 |**2024-05-02**|**Evaluation and Optimization of Adaptive Cruise Control in Autonomous Vehicles using the CARLA Simulator: A Study on Performance under Wet and Dry Weather Conditions**|Roza Al-Hindaw et.al.|[2405.01504](http://arxiv.org/abs/2405.01504)|null|
 |**2024-05-02**|**CromSS: Cross-modal pre-training with noisy labels for remote sensing image segmentation**|Chenying Liu et.al.|[2405.01217](http://arxiv.org/abs/2405.01217)|null|
 |**2024-05-02**|**Optimal Beamforming for Bistatic MIMO Sensing**|Tobias Laas et.al.|[2405.01197](http://arxiv.org/abs/2405.01197)|null|
