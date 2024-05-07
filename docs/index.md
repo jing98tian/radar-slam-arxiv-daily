@@ -58,6 +58,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-06**|**Flexible terahertz metasurface absorbers empowered by bound states in the continuum**|Guizhen Xu et.al.|[2405.03600](http://arxiv.org/abs/2405.03600)|null|
+|**2024-05-05**|**Optical phased array using phase-controlled optical frequency comb**|Takashi Kato et.al.|[2405.03053](http://arxiv.org/abs/2405.03053)|null|
+|**2024-05-05**|**Antenna Failure Resilience: Deep Learning-Enabled Robust DOA Estimation with Single Snapshot Sparse Arrays**|Ruxin Zheng et.al.|[2405.02788](http://arxiv.org/abs/2405.02788)|null|
+|**2024-05-04**|**EM-based Algorithm for Unsupervised Clustering of Measurements from a Radar Sensor Network**|Linjie Yan et.al.|[2405.02643](http://arxiv.org/abs/2405.02643)|null|
+|**2024-05-03**|**Technical report on target classification in SAR track**|Haonan Xu et.al.|[2405.02361](http://arxiv.org/abs/2405.02361)|null|
 |**2024-05-06**|**IFNet: Deep Imaging and Focusing for Handheld SAR with Millimeter-wave Signals**|Yadong Li et.al.|[2405.02023](http://arxiv.org/abs/2405.02023)|null|
 |**2024-05-03**|**Analysing PolSAR data from vegetation by using the subaperture decomposition approach**|J. David Ballester-Berman et.al.|[2405.02007](http://arxiv.org/abs/2405.02007)|null|
 |**2024-05-03**|**Cooperation and Federation in Distributed Radar Point Cloud Processing**|S. Savazzi et.al.|[2405.01995](http://arxiv.org/abs/2405.01995)|null|
