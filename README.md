@@ -67,6 +67,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-06**|**"Benchmark" Performance Analysis and Covariance Matrix-Free Calibration of Uniform Linear Arrays**|Yuri Abramovich et.al.|[2405.03819](http://arxiv.org/abs/2405.03819)|null|
+|**2024-05-06**|**Photonic Millimeter-wave Generation Beyond the Cavity Thermal Limit**|William Groman et.al.|[2405.03788](http://arxiv.org/abs/2405.03788)|null|
 |**2024-05-06**|**Flexible terahertz metasurface absorbers empowered by bound states in the continuum**|Guizhen Xu et.al.|[2405.03600](http://arxiv.org/abs/2405.03600)|null|
 |**2024-05-05**|**Optical phased array using phase-controlled optical frequency comb**|Takashi Kato et.al.|[2405.03053](http://arxiv.org/abs/2405.03053)|null|
 |**2024-05-05**|**Antenna Failure Resilience: Deep Learning-Enabled Robust DOA Estimation with Single Snapshot Sparse Arrays**|Ruxin Zheng et.al.|[2405.02788](http://arxiv.org/abs/2405.02788)|null|
