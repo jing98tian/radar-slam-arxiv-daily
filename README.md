@@ -67,6 +67,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-09**|**Compressed Bayesian Federated Learning for Reliable Passive Radio Sensing in Industrial IoT**|Luca Barbieri et.al.|[2405.05855](http://arxiv.org/abs/2405.05855)|null|
+|**2024-05-09**|**Array SAR 3D Sparse Imaging Based on Regularization by Denoising Under Few Observed Data**|Yangyang Wang et.al.|[2405.05565](http://arxiv.org/abs/2405.05565)|null|
 |**2024-05-08**|**ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion**|Bing Zhu et.al.|[2405.05164](http://arxiv.org/abs/2405.05164)|null|
 |**2024-05-08**|**DenserRadar: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds**|Zeyu Han et.al.|[2405.05131](http://arxiv.org/abs/2405.05131)|null|
 |**2024-05-08**|**On Stochastic Fundamental Limits in a Downlink Integrated Sensing and Communication Network**|Marziyeh Soltani et.al.|[2405.04993](http://arxiv.org/abs/2405.04993)|null|
