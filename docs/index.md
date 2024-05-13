@@ -58,6 +58,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-10**|**Continuous-variable Quantum Boltzmann Machine**|Shikha Bangar et.al.|[2405.06580](http://arxiv.org/abs/2405.06580)|null|
+|**2024-05-10**|**An Efficient Algorithm for Sum-Rate Maximization in Fluid Antenna-Assisted ISAC System**|Qian Zhang et.al.|[2405.06516](http://arxiv.org/abs/2405.06516)|null|
+|**2024-05-10**|**On RadCom channel capacity for V2V applications**|Elena Haller et.al.|[2405.06482](http://arxiv.org/abs/2405.06482)|null|
+|**2024-05-10**|**Open Access Battle Damage Detection via Pixel-Wise T-Test on Sentinel-1 Imagery**|Ollie Ballinger et.al.|[2405.06323](http://arxiv.org/abs/2405.06323)|null|
+|**2024-05-10**|**DisBeaNet: A Deep Neural Network to augment Unmanned Surface Vessels for maritime situational awareness**|Srikanth Vemula et.al.|[2405.06149](http://arxiv.org/abs/2405.06149)|null|
+|**2024-05-08**|**CloudSense: A Model for Cloud Type Identification using Machine Learning from Radar data**|Mehzooz Nizar et.al.|[2405.05988](http://arxiv.org/abs/2405.05988)|null|
 |**2024-05-09**|**Compressed Bayesian Federated Learning for Reliable Passive Radio Sensing in Industrial IoT**|Luca Barbieri et.al.|[2405.05855](http://arxiv.org/abs/2405.05855)|null|
 |**2024-05-09**|**Array SAR 3D Sparse Imaging Based on Regularization by Denoising Under Few Observed Data**|Yangyang Wang et.al.|[2405.05565](http://arxiv.org/abs/2405.05565)|null|
 |**2024-05-08**|**ProbRadarM3F: mmWave Radar based Human Skeletal Pose Estimation with Probability Map Guided Multi-Format Feature Fusion**|Bing Zhu et.al.|[2405.05164](http://arxiv.org/abs/2405.05164)|null|
