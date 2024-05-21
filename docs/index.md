@@ -58,6 +58,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-20**|**A Flat Dual-Polarized Millimeter-Wave Luneburg Lens Antenna Using Transformation Optics with Reduced Anisotropy and Impedance Mismatch**|Yuanyan Su et.al.|[2405.11935](http://arxiv.org/abs/2405.11935)|null|
+|**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682](http://arxiv.org/abs/2405.11682)|**[link](https://github.com/ziongo6/fadet)**|
+|**2024-05-19**|**Towards Optimal Beacon Placement for Range-Aided Localization**|Ethan Sequeira et.al.|[2405.11550](http://arxiv.org/abs/2405.11550)|null|
 |**2024-05-17**|**SynDy: Synthetic Dynamic Dataset Generation Framework for Misinformation Tasks**|Michael Shliselberg et.al.|[2405.10700](http://arxiv.org/abs/2405.10700)|null|
 |**2024-05-17**|**Carrier Aggregation Enabled MIMO-OFDM Integrated Sensing and Communication**|Haotian Liu et.al.|[2405.10606](http://arxiv.org/abs/2405.10606)|null|
 |**2024-05-17**|**Radar Positioning for Accurate Sensing of Pulse Waves at Multiple Sites Using a 3D Human Model**|Takehito Koshisaka et.al.|[2405.10540](http://arxiv.org/abs/2405.10540)|null|
