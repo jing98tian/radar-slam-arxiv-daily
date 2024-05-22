@@ -67,6 +67,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-21**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|null|
+|**2024-05-21**|**Predicting the Influence of Adverse Weather on Pedestrian Detection with Automotive Radar and Lidar Sensors**|Daniel Weihmayr et.al.|[2405.12736](http://arxiv.org/abs/2405.12736)|null|
+|**2024-05-21**|**Comprehensive mm-Wave FMCW Radar Dataset for Vital Sign Monitoring: Embracing Extreme Physiological Scenarios**|Ehsan Sadeghi et.al.|[2405.12659](http://arxiv.org/abs/2405.12659)|null|
 |**2024-05-20**|**A Flat Dual-Polarized Millimeter-Wave Luneburg Lens Antenna Using Transformation Optics with Reduced Anisotropy and Impedance Mismatch**|Yuanyan Su et.al.|[2405.11935](http://arxiv.org/abs/2405.11935)|null|
 |**2024-05-19**|**FADet: A Multi-sensor 3D Object Detection Network based on Local Featured Attention**|Ziang Guo et.al.|[2405.11682](http://arxiv.org/abs/2405.11682)|**[link](https://github.com/ziongo6/fadet)**|
 |**2024-05-19**|**Towards Optimal Beacon Placement for Range-Aided Localization**|Ethan Sequeira et.al.|[2405.11550](http://arxiv.org/abs/2405.11550)|null|
