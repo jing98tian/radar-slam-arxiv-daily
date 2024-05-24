@@ -58,6 +58,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-23**|**Learning-Based Intermittent CSI Estimation with Adaptive Intervals in Integrated Sensing and Communication Systems**|Jie Chen et.al.|[2405.14724](http://arxiv.org/abs/2405.14724)|null|
+|**2024-05-23**|**Variational Signal Separation for Automotive Radar Interference Mitigation**|Mate Toth et.al.|[2405.14319](http://arxiv.org/abs/2405.14319)|null|
+|**2024-05-22**|**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**|Fangqiang Ding et.al.|[2405.14014](http://arxiv.org/abs/2405.14014)|null|
+|**2024-05-22**|**Deep Learning-Driven State Correction: A Hybrid Architecture for Radar-Based Dynamic Occupancy Grid Mapping**|Max Peter Ronecker et.al.|[2405.13307](http://arxiv.org/abs/2405.13307)|null|
+|**2024-05-21**|**Multi-Frequency Progressive Refinement for Learned Inverse Scattering**|Owen Melia et.al.|[2405.13214](http://arxiv.org/abs/2405.13214)|null|
 |**2024-05-21**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|null|
 |**2024-05-21**|**Predicting the Influence of Adverse Weather on Pedestrian Detection with Automotive Radar and Lidar Sensors**|Daniel Weihmayr et.al.|[2405.12736](http://arxiv.org/abs/2405.12736)|null|
 |**2024-05-21**|**Comprehensive mm-Wave FMCW Radar Dataset for Vital Sign Monitoring: Embracing Extreme Physiological Scenarios**|Ehsan Sadeghi et.al.|[2405.12659](http://arxiv.org/abs/2405.12659)|null|
