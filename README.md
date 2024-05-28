@@ -67,6 +67,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-27**|**Enhanced Automotive Radar Collaborative Sensing By Exploiting Constructive Interference**|Lifan Xu et.al.|[2405.17297](http://arxiv.org/abs/2405.17297)|null|
+|**2024-05-27**|**SCaRL- A Synthetic Multi-Modal Dataset for Autonomous Driving**|Avinash Nittur Ramesh et.al.|[2405.17030](http://arxiv.org/abs/2405.17030)|null|
+|**2024-05-27**|**A Deep-NN Beamforming Approach for Dual Function Radar-Communication THz UAV**|Gianluca Fontanesi et.al.|[2405.17015](http://arxiv.org/abs/2405.17015)|null|
+|**2024-05-27**|**Joint Channel, Data and Radar Parameter Estimation for AFDM Systems in Doubly-Dispersive Channels**|Kuranage Roche Rayan Ranasinghe et.al.|[2405.16945](http://arxiv.org/abs/2405.16945)|null|
+|**2024-05-26**|**Multi-Modal UAV Detection, Classification and Tracking Algorithm -- Technical Report for CVPR 2024 UG2 Challenge**|Tianchen Deng et.al.|[2405.16464](http://arxiv.org/abs/2405.16464)|**[link](https://github.com/dtc111111/multi-modal-uav)**|
+|**2024-05-24**|**Anomaly distinguishability in an asteroid analogue using quasi-monostatic experimental radar measurements**|Yusuf Oluwatoki Yusuf et.al.|[2405.15955](http://arxiv.org/abs/2405.15955)|null|
 |**2024-05-24**|**Massive MIMO-ISAC System With 1-Bit ADCs/DACs**|Bowen Wang et.al.|[2405.15553](http://arxiv.org/abs/2405.15553)|null|
 |**2024-05-24**|**Comparing remote sensing-based forest biomass mapping approaches using new forest inventory plots in contrasting forests in northeastern and southwestern China**|Wenquan Dong et.al.|[2405.15438](http://arxiv.org/abs/2405.15438)|null|
 |**2024-05-24**|**Seamless Integration and Implementation of Distributed Contact and Contactless Vital Sign Monitoring**|Dingding Liang et.al.|[2405.15271](http://arxiv.org/abs/2405.15271)|null|
