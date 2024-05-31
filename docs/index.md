@@ -58,6 +58,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-05-29**|**Enabling Visual Recognition at Radio Frequency**|Haowen Lai et.al.|[2405.19516](http://arxiv.org/abs/2405.19516)|null|
+|**2024-05-29**|**Integrated Communication and Imaging: Design, Analysis, and Performances of COSMIC Waveforms**|Marco Manzoni et.al.|[2405.19481](http://arxiv.org/abs/2405.19481)|null|
+|**2024-05-29**|**Implications of in-ice volume scattering for radio-frequency neutrino experiments**|A. Nozdrina et.al.|[2405.19472](http://arxiv.org/abs/2405.19472)|null|
 |**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055](http://arxiv.org/abs/2405.19055)|null|
 |**2024-05-30**|**Continuously Optimizing Radar Placement with Model Predictive Path Integrals**|Michael Potter et.al.|[2405.18999](http://arxiv.org/abs/2405.18999)|null|
 |**2024-05-28**|**Joint Radar Sensing, Location, and Communication Resources Optimization in 6G Network**|Haijun Zhang et.al.|[2405.18205](http://arxiv.org/abs/2405.18205)|null|
