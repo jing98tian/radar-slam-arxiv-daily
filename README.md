@@ -67,6 +67,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-05-31**|**Multi-Beam Integrated Sensing and Communication: State-of-the-Art, Challenges and Opportunities**|Yinxiao Zhuo et.al.|[2405.20595](http://arxiv.org/abs/2405.20595)|null|
 |**2024-05-29**|**Enabling Visual Recognition at Radio Frequency**|Haowen Lai et.al.|[2405.19516](http://arxiv.org/abs/2405.19516)|null|
 |**2024-05-29**|**Integrated Communication and Imaging: Design, Analysis, and Performances of COSMIC Waveforms**|Marco Manzoni et.al.|[2405.19481](http://arxiv.org/abs/2405.19481)|null|
 |**2024-05-29**|**Implications of in-ice volume scattering for radio-frequency neutrino experiments**|A. Nozdrina et.al.|[2405.19472](http://arxiv.org/abs/2405.19472)|null|
