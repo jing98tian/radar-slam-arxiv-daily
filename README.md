@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -61,14 +61,14 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2024-06-10**|**The Evolution of Applications, Hardware Design, and Channel Modeling for Terahertz (THz) Band Communications and Sensing: Ready for 6G?**|Josep M. Jornet et.al.|[2406.06105](http://arxiv.org/abs/2406.06105)|null|
-|**2024-06-09**|**Nonlinear Interactions of Planetary-Scale Waves in Mesospheric Winds Observed at 52°N Latitude and Two Longitudes**|Maosheng He et.al.|[2406.05848](http://arxiv.org/abs/2406.05848)|null|
+|**2024-06-11**|**Nonlinear Interactions of Planetary-Scale Waves in Mesospheric Winds Observed at 52°N Latitude and Two Longitudes**|Maosheng He et.al.|[2406.05848](http://arxiv.org/abs/2406.05848)|null|
 |**2024-06-08**|**A Deep Learning-Augmented Stand-off Radar Scheme for Rapidly Detecting Tree Defects**|Jiwei Qian et.al.|[2406.05389](http://arxiv.org/abs/2406.05389)|null|
 |**2024-06-07**|**Hybrid Beamforming Design for RSMA-assisted mmWave Integrated Sensing and Communications**|Jun Gong et.al.|[2406.04985](http://arxiv.org/abs/2406.04985)|null|
 |**2024-06-07**|**A Deep Automotive Radar Detector using the RaDelft Dataset**|Ignacio Roldan et.al.|[2406.04723](http://arxiv.org/abs/2406.04723)|null|
@@ -460,7 +460,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

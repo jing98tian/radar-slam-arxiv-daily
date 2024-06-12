@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.11
+## Updated on 2024.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -59,7 +59,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-06-10**|**The Evolution of Applications, Hardware Design, and Channel Modeling for Terahertz (THz) Band Communications and Sensing: Ready for 6G?**|Josep M. Jornet et.al.|[2406.06105](http://arxiv.org/abs/2406.06105)|null|
-|**2024-06-09**|**Nonlinear Interactions of Planetary-Scale Waves in Mesospheric Winds Observed at 52°N Latitude and Two Longitudes**|Maosheng He et.al.|[2406.05848](http://arxiv.org/abs/2406.05848)|null|
+|**2024-06-11**|**Nonlinear Interactions of Planetary-Scale Waves in Mesospheric Winds Observed at 52°N Latitude and Two Longitudes**|Maosheng He et.al.|[2406.05848](http://arxiv.org/abs/2406.05848)|null|
 |**2024-06-08**|**A Deep Learning-Augmented Stand-off Radar Scheme for Rapidly Detecting Tree Defects**|Jiwei Qian et.al.|[2406.05389](http://arxiv.org/abs/2406.05389)|null|
 |**2024-06-07**|**Hybrid Beamforming Design for RSMA-assisted mmWave Integrated Sensing and Communications**|Jun Gong et.al.|[2406.04985](http://arxiv.org/abs/2406.04985)|null|
 |**2024-06-07**|**A Deep Automotive Radar Detector using the RaDelft Dataset**|Ignacio Roldan et.al.|[2406.04723](http://arxiv.org/abs/2406.04723)|null|
