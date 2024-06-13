@@ -67,6 +67,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-12**|**Doing Battle with the Sun: Lessons From LEO and Operating a Satellite Constellation in the Elevated Atmospheric Drag Environment of Solar Cycle 25**|W. Scott Shambaugh et.al.|[2406.08342](http://arxiv.org/abs/2406.08342)|null|
 |**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399](http://arxiv.org/abs/2406.07399)|null|
 |**2024-06-11**|**Characterizing GPROF Regional Bias Using Radar-Derived Hydrometeor Information**|Eric Goldenstern et.al.|[2406.07344](http://arxiv.org/abs/2406.07344)|null|
 |**2024-06-10**|**The Evolution of Applications, Hardware Design, and Channel Modeling for Terahertz (THz) Band Communications and Sensing: Ready for 6G?**|Josep M. Jornet et.al.|[2406.06105](http://arxiv.org/abs/2406.06105)|null|
