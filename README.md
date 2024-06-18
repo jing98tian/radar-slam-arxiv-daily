@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.17
+## Updated on 2024.06.18
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -61,12 +61,15 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-14**|**SemanticSpray++: A Multimodal Dataset for Autonomous Driving in Wet Surface Conditions**|Aldi Piroli et.al.|[2406.09945](http://arxiv.org/abs/2406.09945)|null|
+|**2024-06-14**|**Semi-Blind Multi-Tag Ambient Backscatter Communications Using Radar Signals**|Luca Venturino et.al.|[2406.09791](http://arxiv.org/abs/2406.09791)|null|
+|**2024-06-14**|**RASPNet: A Benchmark Dataset for Radar Adaptive Signal Processing Applications**|Shyam Venkatasubramanian et.al.|[2406.09638](http://arxiv.org/abs/2406.09638)|null|
 |**2024-06-12**|**Doing Battle with the Sun: Lessons From LEO and Operating a Satellite Constellation in the Elevated Atmospheric Drag Environment of Solar Cycle 25**|W. Scott Shambaugh et.al.|[2406.08342](http://arxiv.org/abs/2406.08342)|null|
 |**2024-06-11**|**Redefining Automotive Radar Imaging: A Domain-Informed 1D Deep Learning Approach for High-Resolution and Efficient Performance**|Ruxin Zheng et.al.|[2406.07399](http://arxiv.org/abs/2406.07399)|null|
 |**2024-06-11**|**Characterizing GPROF Regional Bias Using Radar-Derived Hydrometeor Information**|Eric Goldenstern et.al.|[2406.07344](http://arxiv.org/abs/2406.07344)|null|
@@ -463,7 +466,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240617>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240618>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
