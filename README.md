@@ -41,6 +41,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-04-23**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492](http://arxiv.org/abs/2404.04492)|null|
 |**2023-12-23**|**Versatile LiDAR-Inertial Odometry With SE (2) Constraints for Ground Vehicles**|Jiaying Chen et.al.|[2404.01584](http://arxiv.org/abs/2404.01584)|null|
@@ -67,6 +68,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-17**|**Monolithic Multi-parameter Terahertz Nano-micro Detector Based on Plasmon Polariton Atomic Cavity**|Huanjun Chen et.al.|[2406.11655](http://arxiv.org/abs/2406.11655)|null|
+|**2024-06-17**|**STAR-RIS-based Pulse-Doppler Radars**|Emanuele Grossi et.al.|[2406.11321](http://arxiv.org/abs/2406.11321)|null|
+|**2024-06-17**|**WeatherQA: Can Multimodal Language Models Reason about Severe Weather?**|Chengqian Ma et.al.|[2406.11217](http://arxiv.org/abs/2406.11217)|**[link](https://github.com/chengqianma/weatherqa)**|
+|**2024-06-16**|**Physical-Layer Security for 6G: Safe Jamming against Malicious Sensing**|Pu Xie et.al.|[2406.11038](http://arxiv.org/abs/2406.11038)|null|
+|**2024-06-16**|**Noise reduction in ISAR imaging of UAVs using weighted atomic norm minimization and 2D-ADMM algorithm**|Mohammad Roueinfar et.al.|[2406.10888](http://arxiv.org/abs/2406.10888)|null|
+|**2024-06-15**|**MMVR: Millimeter-wave Multi-View Radar Dataset and Benchmark for Indoor Perception**|M. Mahbubur Rahman et.al.|[2406.10708](http://arxiv.org/abs/2406.10708)|null|
+|**2024-06-15**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600](http://arxiv.org/abs/2406.10600)|null|
+|**2024-06-15**|**Long-Range Entangled Quantum Noise Radar Over Order of Kilometer**|H. Allahverdi et.al.|[2406.10533](http://arxiv.org/abs/2406.10533)|null|
+|**2024-06-14**|**Changes in mesoscale convective system precipitation structures in response to a warming climate**|Wenjun Cui et.al.|[2406.10410](http://arxiv.org/abs/2406.10410)|null|
 |**2024-06-14**|**SemanticSpray++: A Multimodal Dataset for Autonomous Driving in Wet Surface Conditions**|Aldi Piroli et.al.|[2406.09945](http://arxiv.org/abs/2406.09945)|null|
 |**2024-06-14**|**Semi-Blind Multi-Tag Ambient Backscatter Communications Using Radar Signals**|Luca Venturino et.al.|[2406.09791](http://arxiv.org/abs/2406.09791)|null|
 |**2024-06-14**|**RASPNet: A Benchmark Dataset for Radar Adaptive Signal Processing Applications**|Shyam Venkatasubramanian et.al.|[2406.09638](http://arxiv.org/abs/2406.09638)|null|
