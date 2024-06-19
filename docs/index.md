@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.06.18
+## Updated on 2024.06.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -65,7 +65,7 @@ layout: default
 |**2024-06-16**|**Physical-Layer Security for 6G: Safe Jamming against Malicious Sensing**|Pu Xie et.al.|[2406.11038](http://arxiv.org/abs/2406.11038)|null|
 |**2024-06-16**|**Noise reduction in ISAR imaging of UAVs using weighted atomic norm minimization and 2D-ADMM algorithm**|Mohammad Roueinfar et.al.|[2406.10888](http://arxiv.org/abs/2406.10888)|null|
 |**2024-06-15**|**MMVR: Millimeter-wave Multi-View Radar Dataset and Benchmark for Indoor Perception**|M. Mahbubur Rahman et.al.|[2406.10708](http://arxiv.org/abs/2406.10708)|null|
-|**2024-06-15**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600](http://arxiv.org/abs/2406.10600)|null|
+|**2024-06-18**|**SparseRadNet: Sparse Perception Neural Network on Subsampled Radar Data**|Jialong Wu et.al.|[2406.10600](http://arxiv.org/abs/2406.10600)|null|
 |**2024-06-15**|**Long-Range Entangled Quantum Noise Radar Over Order of Kilometer**|H. Allahverdi et.al.|[2406.10533](http://arxiv.org/abs/2406.10533)|null|
 |**2024-06-14**|**Changes in mesoscale convective system precipitation structures in response to a warming climate**|Wenjun Cui et.al.|[2406.10410](http://arxiv.org/abs/2406.10410)|null|
 |**2024-06-14**|**SemanticSpray++: A Multimodal Dataset for Autonomous Driving in Wet Surface Conditions**|Aldi Piroli et.al.|[2406.09945](http://arxiv.org/abs/2406.09945)|null|
