@@ -68,6 +68,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-06-20**|**A tensor model for calibration and imaging with air-coupled ultrasonic sensor arrays**|Raphael Müller et.al.|[2406.14355](http://arxiv.org/abs/2406.14355)|null|
+|**2024-06-20**|**Semi Supervised Heterogeneous Domain Adaptation via Disentanglement and Pseudo-Labelling**|Cassio F. Dantas et.al.|[2406.14087](http://arxiv.org/abs/2406.14087)|**[link](https://github.com/tanodino/sshda)**|
+|**2024-06-20**|**A microwave photonic prototype for concurrent radar detection and spectrum sensing over an 8 to 40 GHz bandwidth**|Taixia Shi et.al.|[2406.14067](http://arxiv.org/abs/2406.14067)|null|
+|**2024-06-19**|**Using Geometrical information to Measure the Vibration of A Swaying Millimeter-wave Radar**|Chengyao Tang et.al.|[2406.13526](http://arxiv.org/abs/2406.13526)|null|
+|**2024-06-19**|**An Efficient yet High-Performance Method for Precise Radar-Based Imaging of Human Hand Poses**|Johanna Bräunig et.al.|[2406.13464](http://arxiv.org/abs/2406.13464)|null|
+|**2024-06-18**|**Scale-Translation Equivariant Network for Oceanic Internal Solitary Wave Localization**|Zhang Wan et.al.|[2406.13060](http://arxiv.org/abs/2406.13060)|**[link](https://github.com/zhangwan-byte/internal_solitary_wave_localization)**|
 |**2024-06-18**|**Feasibility of Non-Line-of-Sight Integrated Sensing and Communication at mmWave**|Paolo Tosi et.al.|[2406.12828](http://arxiv.org/abs/2406.12828)|null|
 |**2024-06-17**|**Monolithic Multi-parameter Terahertz Nano-micro Detector Based on Plasmon Polariton Atomic Cavity**|Huanjun Chen et.al.|[2406.11655](http://arxiv.org/abs/2406.11655)|null|
 |**2024-06-17**|**STAR-RIS-based Pulse-Doppler Radars**|Emanuele Grossi et.al.|[2406.11321](http://arxiv.org/abs/2406.11321)|null|
