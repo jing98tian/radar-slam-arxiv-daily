@@ -59,6 +59,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-06-27**|**Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Optimization Approach**|Byunghyun Lee et.al.|[2406.18951](http://arxiv.org/abs/2406.18951)|null|
+|**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850](http://arxiv.org/abs/2406.18850)|null|
+|**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765](http://arxiv.org/abs/2406.18765)|null|
 |**2024-06-26**|**Multicarrier ISAC: Advances in Waveform Design, Signal Processing and Learning under Non-Idealities**|Visa Koivunen et.al.|[2406.18476](http://arxiv.org/abs/2406.18476)|null|
 |**2024-06-26**|**High Resolution Millimeter Wave Imaging Based on FMCW Radar Systems at W-Band**|Shahrokh Hamidi et.al.|[2406.18244](http://arxiv.org/abs/2406.18244)|null|
 |**2024-06-26**|**Multi-heterodyne differential absorption lidar based on dual-comb spectroscopy for simultaneous greenhouse gas and wind speed measurements**|William Patiño Rosas et.al.|[2406.18208](http://arxiv.org/abs/2406.18208)|null|
