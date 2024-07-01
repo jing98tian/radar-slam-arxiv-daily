@@ -48,7 +48,7 @@ layout: default
 |**2023-11-03**|**Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving**|Florian Sauerbeck et.al.|[2311.01823](http://arxiv.org/abs/2311.01823)|null|
 |**2024-01-22**|**Quatro++: Robust Global Registration Exploiting Ground Segmentation for Loop Closing in LiDAR SLAM**|Hyungtae Lim et.al.|[2311.00928](http://arxiv.org/abs/2311.00928)|null|
 |**2023-09-16**|**Outram: One-shot Global Localization via Triangulated Scene Graph and Global Outlier Pruning**|Pengyu Yin et.al.|[2309.08914](http://arxiv.org/abs/2309.08914)|**[link](https://github.com/pamphlett/outram)**|
-|**2024-03-15**|**Pointing the Way: Refining Radar-Lidar Localization Using Learned ICP Weights**|Daniil Lisus et.al.|[2309.08731](http://arxiv.org/abs/2309.08731)|null|
+|**2024-03-15**|**Pointing the Way: Refining Radar-Lidar Localization Using Learned ICP Weights**|Daniil Lisus et.al.|[2309.08731](http://arxiv.org/abs/2309.08731)|**[link](https://github.com/lisusdaniil/mm_masking)**|
 |**2023-09-15**|**Fast and Accurate Deep Loop Closing and Relocalization for Reliable LiDAR SLAM**|Chenghao Shi et.al.|[2309.08086](http://arxiv.org/abs/2309.08086)|null|
 |**2023-09-12**|**LONER: LiDAR Only Neural Representations for Real-Time SLAM**|Seth Isaacson et.al.|[2309.04937](http://arxiv.org/abs/2309.04937)|null|
 |**2023-08-24**|**VNI-Net: Vector Neurons-based Rotation-Invariant Descriptor for LiDAR Place Recognition**|Gengxuan Tian et.al.|[2308.12870](http://arxiv.org/abs/2308.12870)|null|
