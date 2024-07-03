@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -42,7 +42,7 @@ layout: default
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341](http://arxiv.org/abs/2403.06341)|null|
 |**2024-03-05**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175](http://arxiv.org/abs/2403.02175)|null|
-|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
+|**2024-07-02**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684](http://arxiv.org/abs/2312.02684)|null|
 |**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327](http://arxiv.org/abs/2311.02327)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
 |**2023-11-03**|**Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving**|Florian Sauerbeck et.al.|[2311.01823](http://arxiv.org/abs/2311.01823)|null|

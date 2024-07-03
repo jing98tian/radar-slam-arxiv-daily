@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.02
+## Updated on 2024.07.03
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -49,7 +49,7 @@
 |**2024-03-11**|**SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection**|Yifu Tao et.al.|[2403.06877](http://arxiv.org/abs/2403.06877)|null|
 |**2024-03-10**|**RTAB-Map as an Open-Source Lidar and Visual SLAM Library for Large-Scale and Long-Term Online Operation**|Mathieu Labbé et.al.|[2403.06341](http://arxiv.org/abs/2403.06341)|null|
 |**2024-03-05**|**LiSTA: Geometric Object-Based Change Detection in Cluttered Environments**|Joseph Rowell et.al.|[2403.02175](http://arxiv.org/abs/2403.02175)|null|
-|**2024-01-17**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
+|**2024-07-02**|**PIN-SLAM: LiDAR SLAM Using a Point-Based Implicit Neural Representation for Achieving Global Map Consistency**|Yue Pan et.al.|[2401.09101](http://arxiv.org/abs/2401.09101)|**[link](https://github.com/prbonn/pin_slam)**|
 |**2023-12-05**|**DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors**|Xiaze Zhang et.al.|[2312.02684](http://arxiv.org/abs/2312.02684)|null|
 |**2023-11-04**|**ECMD: An Event-Centric Multisensory Driving Dataset for SLAM**|Peiyu Chen et.al.|[2311.02327](http://arxiv.org/abs/2311.02327)|**[link](https://github.com/arclab-hku/event_based_vo-vio-slam)**|
 |**2023-11-03**|**Multi-LiDAR Localization and Mapping Pipeline for Urban Autonomous Driving**|Florian Sauerbeck et.al.|[2311.01823](http://arxiv.org/abs/2311.01823)|null|
@@ -62,7 +62,7 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
 
 ## Radar
 
@@ -500,7 +500,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240702>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240703>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
