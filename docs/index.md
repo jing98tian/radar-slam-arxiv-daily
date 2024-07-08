@@ -59,6 +59,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-05**|**Arbitrary Waveform Generated Metasurface: A New Paradigm for Direct Modulation and Beamforming Decoupling**|Xuehui Dong et.al.|[2407.04544](http://arxiv.org/abs/2407.04544)|null|
+|**2024-07-05**|**Multi-Antenna Technology for 6G Integrated Sensing and Communication**|Yong Zeng et.al.|[2407.04404](http://arxiv.org/abs/2407.04404)|null|
+|**2024-07-04**|**Gemini: Integrating Full-fledged Sensing upon Millimeter Wave Communications**|Yilong Li et.al.|[2407.04174](http://arxiv.org/abs/2407.04174)|null|
+|**2024-07-04**|**High-Frequency Radar observation of strong and contrasted currents: the Alderney race paradigm**|Dylan Dumas et.al.|[2407.03827](http://arxiv.org/abs/2407.03827)|null|
 |**2024-07-03**|**Machine Learning Models for Improved Tracking from Range-Doppler Map Images**|Elizabeth Hou et.al.|[2407.03140](http://arxiv.org/abs/2407.03140)|null|
 |**2024-07-03**|**Applying Extended Object Tracking for Self-Localization of Roadside Radar Sensors**|Longfei Han et.al.|[2407.03084](http://arxiv.org/abs/2407.03084)|null|
 |**2024-07-03**|**Affine Frequency Division Multiplexing for Compressed Sensing of Time-Varying Channels**|Wissal Benzine et.al.|[2407.02953](http://arxiv.org/abs/2407.02953)|null|
