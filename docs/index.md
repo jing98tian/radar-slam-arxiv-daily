@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.08
+## Updated on 2024.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -59,7 +59,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-07-05**|**Arbitrary Waveform Generated Metasurface: A New Paradigm for Direct Modulation and Beamforming Decoupling**|Xuehui Dong et.al.|[2407.04544](http://arxiv.org/abs/2407.04544)|null|
+|**2024-07-08**|**Arbitrary Waveform Generated Metasurface: A New Paradigm for Direct Modulation and Beamforming Decoupling**|Xuehui Dong et.al.|[2407.04544](http://arxiv.org/abs/2407.04544)|null|
 |**2024-07-05**|**Multi-Antenna Technology for 6G Integrated Sensing and Communication**|Yong Zeng et.al.|[2407.04404](http://arxiv.org/abs/2407.04404)|null|
 |**2024-07-04**|**Gemini: Integrating Full-fledged Sensing upon Millimeter Wave Communications**|Yilong Li et.al.|[2407.04174](http://arxiv.org/abs/2407.04174)|null|
 |**2024-07-04**|**High-Frequency Radar observation of strong and contrasted currents: the Alderney race paradigm**|Dylan Dumas et.al.|[2407.03827](http://arxiv.org/abs/2407.03827)|null|
