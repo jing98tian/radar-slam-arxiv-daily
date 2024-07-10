@@ -68,6 +68,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-09**|**Hiding Local Manipulations on SAR Images: a Counter-Forensic Attack**|Sara Mandelli et.al.|[2407.07041](http://arxiv.org/abs/2407.07041)|null|
+|**2024-07-09**|**HiSAC: High-Resolution Sensing with Multiband Communication Signals**|Jacopo Pegoraro et.al.|[2407.07023](http://arxiv.org/abs/2407.07023)|null|
+|**2024-07-09**|**Full-Duplex V2X Integrated Sensing and Communication Scenario: Stochastic geometry, Monte-Carlo, and Ray-Tracing Comparison**|François De Saint Moulin et.al.|[2407.06822](http://arxiv.org/abs/2407.06822)|null|
+|**2024-07-09**|**UAV Formation and Resource Allocation Optimization for Communication-Assisted 3D InSAR Sensing**|Mohamed-Amine Lahmeri et.al.|[2407.06607](http://arxiv.org/abs/2407.06607)|null|
+|**2024-07-09**|**Not all explicit cues help communicate: Pedestrians' perceptions, fixations, and decisions toward automated vehicles with varied appearance**|Wei Lyu et.al.|[2407.06505](http://arxiv.org/abs/2407.06505)|null|
+|**2024-07-08**|**Soli-enabled Noncontact Heart Rate Detection for Sleep and Meditation Tracking**|Luzhou Xu et.al.|[2407.06458](http://arxiv.org/abs/2407.06458)|null|
 |**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095](http://arxiv.org/abs/2407.06095)|null|
 |**2024-07-08**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820](http://arxiv.org/abs/2407.05820)|null|
 |**2024-07-08**|**Broadband radar absorption in high-filling factor magnetic composites**|Jaume Calvo-de la Rosa et.al.|[2407.05818](http://arxiv.org/abs/2407.05818)|null|
