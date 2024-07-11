@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.10
+## Updated on 2024.07.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -66,7 +66,7 @@ layout: default
 |**2024-07-09**|**Not all explicit cues help communicate: Pedestrians' perceptions, fixations, and decisions toward automated vehicles with varied appearance**|Wei Lyu et.al.|[2407.06505](http://arxiv.org/abs/2407.06505)|null|
 |**2024-07-08**|**Soli-enabled Noncontact Heart Rate Detection for Sleep and Meditation Tracking**|Luzhou Xu et.al.|[2407.06458](http://arxiv.org/abs/2407.06458)|null|
 |**2024-07-08**|**Accelerating Diffusion for SAR-to-Optical Image Translation via Adversarial Consistency Distillation**|Xinyu Bai et.al.|[2407.06095](http://arxiv.org/abs/2407.06095)|null|
-|**2024-07-08**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820](http://arxiv.org/abs/2407.05820)|null|
+|**2024-07-10**|**Co-RaL: Complementary Radar-Leg Odometry with 4-DoF Optimization and Rolling Contact**|Sangwoo Jung et.al.|[2407.05820](http://arxiv.org/abs/2407.05820)|null|
 |**2024-07-08**|**Broadband radar absorption in high-filling factor magnetic composites**|Jaume Calvo-de la Rosa et.al.|[2407.05818](http://arxiv.org/abs/2407.05818)|null|
 |**2024-07-08**|**Continuous broadband Rydberg receiver using AC Stark shifts and Floquet States**|Danni Song et.al.|[2407.05676](http://arxiv.org/abs/2407.05676)|null|
 |**2024-07-08**|**Simultaneous Polarization Conversion and Anomalous Reflection with Anisotropic Printed-Circuit-Board (PCB) Metagratings**|Sharon Elad et.al.|[2407.05648](http://arxiv.org/abs/2407.05648)|null|
