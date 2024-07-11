@@ -59,6 +59,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-10**|**HF radar estimation of ocean wave parameters: second-order Doppler spectrum versus Bragg wave modulation approach**|Verónica Morales-Márquez et.al.|[2407.07658](http://arxiv.org/abs/2407.07658)|null|
+|**2024-07-10**|**Pilot-Based SFO Estimation for Bistatic Integrated Sensing and Communication**|Lucas Giroto de Oliveira et.al.|[2407.07567](http://arxiv.org/abs/2407.07567)|null|
+|**2024-07-10**|**MAN TruckScenes: A multimodal dataset for autonomous trucking in diverse conditions**|Felix Fent et.al.|[2407.07462](http://arxiv.org/abs/2407.07462)|null|
+|**2024-07-10**|**Missile Detection and Destruction robot using Detection Algorithm**|Md Kamrul Siam et.al.|[2407.07452](http://arxiv.org/abs/2407.07452)|null|
+|**2024-07-10**|**Accurate Radar-Based Heartbeat Measurement Using Higher Harmonic Components**|Itsuki Iwata et.al.|[2407.07380](http://arxiv.org/abs/2407.07380)|null|
 |**2024-07-09**|**Hiding Local Manipulations on SAR Images: a Counter-Forensic Attack**|Sara Mandelli et.al.|[2407.07041](http://arxiv.org/abs/2407.07041)|null|
 |**2024-07-09**|**HiSAC: High-Resolution Sensing with Multiband Communication Signals**|Jacopo Pegoraro et.al.|[2407.07023](http://arxiv.org/abs/2407.07023)|null|
 |**2024-07-09**|**Full-Duplex V2X Integrated Sensing and Communication Scenario: Stochastic geometry, Monte-Carlo, and Ray-Tracing Comparison**|François De Saint Moulin et.al.|[2407.06822](http://arxiv.org/abs/2407.06822)|null|
