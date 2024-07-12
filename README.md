@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.07.11
+## Updated on 2024.07.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -62,7 +62,7 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
 ## Radar
 
@@ -71,7 +71,7 @@
 |**2024-07-10**|**HF radar estimation of ocean wave parameters: second-order Doppler spectrum versus Bragg wave modulation approach**|Verónica Morales-Márquez et.al.|[2407.07658](http://arxiv.org/abs/2407.07658)|null|
 |**2024-07-10**|**Pilot-Based SFO Estimation for Bistatic Integrated Sensing and Communication**|Lucas Giroto de Oliveira et.al.|[2407.07567](http://arxiv.org/abs/2407.07567)|null|
 |**2024-07-10**|**MAN TruckScenes: A multimodal dataset for autonomous trucking in diverse conditions**|Felix Fent et.al.|[2407.07462](http://arxiv.org/abs/2407.07462)|null|
-|**2024-07-10**|**Missile Detection and Destruction robot using Detection Algorithm**|Md Kamrul Siam et.al.|[2407.07452](http://arxiv.org/abs/2407.07452)|null|
+|**2024-07-11**|**Missile detection and destruction robot using detection algorithm**|Md Kamrul Siam et.al.|[2407.07452](http://arxiv.org/abs/2407.07452)|null|
 |**2024-07-10**|**Accurate Radar-Based Heartbeat Measurement Using Higher Harmonic Components**|Itsuki Iwata et.al.|[2407.07380](http://arxiv.org/abs/2407.07380)|null|
 |**2024-07-09**|**Hiding Local Manipulations on SAR Images: a Counter-Forensic Attack**|Sara Mandelli et.al.|[2407.07041](http://arxiv.org/abs/2407.07041)|null|
 |**2024-07-09**|**HiSAC: High-Resolution Sensing with Multiband Communication Signals**|Jacopo Pegoraro et.al.|[2407.07023](http://arxiv.org/abs/2407.07023)|null|
@@ -538,7 +538,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240711>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240712>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
