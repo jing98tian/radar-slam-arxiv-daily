@@ -108,7 +108,7 @@
 |**2024-07-01**|**Multi-Functional Beamforming Design for Integrated Sensing, Communication, and Computation**|Yapeng Zhao et.al.|[2407.01006](http://arxiv.org/abs/2407.01006)|null|
 |**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851](http://arxiv.org/abs/2407.00851)|null|
 |**2024-06-30**|**ROM inversion of monostatic data lifted to full MIMO**|V. Druskin et.al.|[2407.00822](http://arxiv.org/abs/2407.00822)|null|
-|**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697](http://arxiv.org/abs/2407.00697)|null|
+|**2024-06-30**|**CaFNet: A Confidence-Driven Framework for Radar Camera Depth Estimation**|Huawei Sun et.al.|[2407.00697](http://arxiv.org/abs/2407.00697)|**[link](https://github.com/harborsarah/cafnet)**|
 |**2024-06-30**|**Active-RIS-Aided Covert Communications in NOMA-Inspired ISAC Wireless Systems**|Miaomiao Zhu et.al.|[2407.00579](http://arxiv.org/abs/2407.00579)|null|
 |**2024-06-27**|**Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Optimization Approach**|Byunghyun Lee et.al.|[2406.18951](http://arxiv.org/abs/2406.18951)|null|
 |**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850](http://arxiv.org/abs/2406.18850)|null|
