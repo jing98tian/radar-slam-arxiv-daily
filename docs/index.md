@@ -60,6 +60,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-14**|**CoSTAP: Clutter Suppression in Co-Pulsing FDA-STAP**|Wanghan Lv et.al.|[2407.10297](http://arxiv.org/abs/2407.10297)|null|
+|**2024-07-14**|**Towards detailed and interpretable hybrid modeling of continental-scale bird migration**|Fiona Lippert et.al.|[2407.10259](http://arxiv.org/abs/2407.10259)|null|
+|**2024-07-14**|**The inverse Kalman filter**|Xinyi Fang et.al.|[2407.10089](http://arxiv.org/abs/2407.10089)|null|
+|**2024-07-13**|**Compact Millimeter-Wave Antenna Array for 5G and Beyond: Design and Over-The-Air (OTA) Measurements Using Compact Antenna Test Range (CATR)**|Abdul Jabbar et.al.|[2407.09944](http://arxiv.org/abs/2407.09944)|null|
 |**2024-07-12**|**A Bistatic ISAC Framework for LEO Satellite Systems: A Rate-Splitting Approach**|Juha Park et.al.|[2407.08923](http://arxiv.org/abs/2407.08923)|null|
 |**2024-07-11**|**CommRad: Context-Aware Sensing-Driven Millimeter-Wave Networks**|Ish Kumar Jain et.al.|[2407.08817](http://arxiv.org/abs/2407.08817)|null|
 |**2024-07-11**|**Digital twins to alleviate the need for real field data in vision-based vehicle speed detection systems**|Antonio Hernández Martínez et.al.|[2407.08380](http://arxiv.org/abs/2407.08380)|null|
