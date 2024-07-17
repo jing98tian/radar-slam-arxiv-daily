@@ -69,6 +69,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-16**|**Thermal Imaging and Radar for Remote Sleep Monitoring of Breathing and Apnea**|Kai Del Regno et.al.|[2407.11936](http://arxiv.org/abs/2407.11936)|null|
+|**2024-07-16**|**RIS-Assisted High Resolution Radar Sensing**|Martin Voigt Vejling et.al.|[2407.11726](http://arxiv.org/abs/2407.11726)|null|
+|**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705](http://arxiv.org/abs/2407.11705)|null|
+|**2024-07-16**|**RIMformer: An End-to-End Transformer for FMCW Radar Interference Mitigation**|Ziang Zhang et.al.|[2407.11459](http://arxiv.org/abs/2407.11459)|null|
+|**2024-07-16**|**iKalibr: Unified Targetless Spatiotemporal Calibration for Resilient Integrated Inertial Systems**|Shuolong Chen et.al.|[2407.11420](http://arxiv.org/abs/2407.11420)|null|
+|**2024-07-16**|**Reconfigurable Intelligent Surface for Sensing, Communication, and Computation: Perspectives, Challenges, and Opportunities**|Bin Li et.al.|[2407.11402](http://arxiv.org/abs/2407.11402)|null|
 |**2024-07-14**|**CoSTAP: Clutter Suppression in Co-Pulsing FDA-STAP**|Wanghan Lv et.al.|[2407.10297](http://arxiv.org/abs/2407.10297)|null|
 |**2024-07-14**|**Towards detailed and interpretable hybrid modeling of continental-scale bird migration**|Fiona Lippert et.al.|[2407.10259](http://arxiv.org/abs/2407.10259)|null|
 |**2024-07-14**|**The inverse Kalman filter**|Xinyi Fang et.al.|[2407.10089](http://arxiv.org/abs/2407.10089)|null|
