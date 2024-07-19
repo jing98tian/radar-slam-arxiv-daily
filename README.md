@@ -69,6 +69,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-18**|**BIRA: A Spherical Bistatic Reflectivity Measurement System**|Carsten Andrich et.al.|[2407.13749](http://arxiv.org/abs/2407.13749)|null|
+|**2024-07-18**|**Conformal Wide-Angle Scanning Leaky-Wave Antenna for V-Band On-Body Applications**|Pratik Vadher et.al.|[2407.13644](http://arxiv.org/abs/2407.13644)|null|
+|**2024-07-18**|**Cooperative Integrated Sensing and Communication Networks: Analysis and Distributed Design**|Bowen Wang et.al.|[2407.13401](http://arxiv.org/abs/2407.13401)|null|
+|**2024-07-18**|**Non-Contact Breath Rate Classification Using SVM Model and mmWave Radar Sensor Data**|Mohammad Wassaf Ali et.al.|[2407.13222](http://arxiv.org/abs/2407.13222)|null|
+|**2024-07-18**|**Wavelet-based Bi-dimensional Aggregation Network for SAR Image Change Detection**|Jiangwei Xie et.al.|[2407.13151](http://arxiv.org/abs/2407.13151)|null|
+|**2024-07-18**|**OE-BevSeg: An Object Informed and Environment Aware Multimodal Framework for Bird's-eye-view Vehicle Semantic Segmentation**|Jian Sun et.al.|[2407.13137](http://arxiv.org/abs/2407.13137)|null|
 |**2024-07-16**|**Thermal Imaging and Radar for Remote Sleep Monitoring of Breathing and Apnea**|Kai Del Regno et.al.|[2407.11936](http://arxiv.org/abs/2407.11936)|null|
 |**2024-07-16**|**RIS-Assisted High Resolution Radar Sensing**|Martin Voigt Vejling et.al.|[2407.11726](http://arxiv.org/abs/2407.11726)|null|
 |**2024-07-16**|**Snail-Radar: A large-scale diverse dataset for the evaluation of 4D-radar-based SLAM systems**|Jianzhu Huai et.al.|[2407.11705](http://arxiv.org/abs/2407.11705)|null|
