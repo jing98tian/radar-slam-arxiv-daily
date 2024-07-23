@@ -60,6 +60,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-22**|**Counter Turing Test ( $CT^2$): Investigating AI-Generated Text Detection for Hindi -- Ranking LLMs based on Hindi AI Detectability Index ($ADI_{hi}$ )**|Ishan Kavathekar et.al.|[2407.15694](http://arxiv.org/abs/2407.15694)|null|
+|**2024-07-21**|**Generalizing Trilateration: Approximate Maximum Likelihood Estimator for Initial Orbit Determination in Low-Earth Orbit**|Ricardo Ferreira et.al.|[2407.15180](http://arxiv.org/abs/2407.15180)|null|
+|**2024-07-21**|**Robust Secure ISAC: How RSMA and Active RIS Manage Eavesdropper's Spatial Uncertainty**|A. Abdelaziz Salem et.al.|[2407.15113](http://arxiv.org/abs/2407.15113)|null|
+|**2024-07-20**|**QoS Aware Mixed-Criticality Task Scheduling in Vehicular Edge Cloud System**|Suvarthi Sarkar et.al.|[2407.14793](http://arxiv.org/abs/2407.14793)|null|
 |**2024-07-19**|**Frontiers of Deep Learning: From Novel Application to Real-World Deployment**|Rui Xie et.al.|[2407.14386](http://arxiv.org/abs/2407.14386)|null|
 |**2024-07-18**|**BRSR-OpGAN: Blind Radar Signal Restoration using Operational Generative Adversarial Network**|Muhammad Uzair Zahid et.al.|[2407.13949](http://arxiv.org/abs/2407.13949)|null|
 |**2024-07-18**|**Boosting Online 3D Multi-Object Tracking through Camera-Radar Cross Check**|Sheng-Yao Kuan et.al.|[2407.13937](http://arxiv.org/abs/2407.13937)|null|
