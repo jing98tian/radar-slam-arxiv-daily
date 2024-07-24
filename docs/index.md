@@ -60,6 +60,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-23**|**Velocity Driven Vision: Asynchronous Sensor Fusion Birds Eye View Models for Autonomous Vehicles**|Seamie Hayes et.al.|[2407.16636](http://arxiv.org/abs/2407.16636)|null|
+|**2024-07-23**|**Inverse Particle and Ensemble Kalman Filters**|Himali Singh et.al.|[2407.16623](http://arxiv.org/abs/2407.16623)|null|
+|**2024-07-23**|**LiCROcc: Teach Radar for Accurate Semantic Occupancy Prediction using LiDAR and Camera**|Yukai Ma et.al.|[2407.16197](http://arxiv.org/abs/2407.16197)|null|
+|**2024-07-22**|**An RF-Domain Leakage Cancellation Scheme for FMCW Radars**|Yikuan Chen et.al.|[2407.15969](http://arxiv.org/abs/2407.15969)|null|
 |**2024-07-22**|**Counter Turing Test ( $CT^2$): Investigating AI-Generated Text Detection for Hindi -- Ranking LLMs based on Hindi AI Detectability Index ($ADI_{hi}$ )**|Ishan Kavathekar et.al.|[2407.15694](http://arxiv.org/abs/2407.15694)|null|
 |**2024-07-21**|**Generalizing Trilateration: Approximate Maximum Likelihood Estimator for Initial Orbit Determination in Low-Earth Orbit**|Ricardo Ferreira et.al.|[2407.15180](http://arxiv.org/abs/2407.15180)|null|
 |**2024-07-21**|**Robust Secure ISAC: How RSMA and Active RIS Manage Eavesdropper's Spatial Uncertainty**|A. Abdelaziz Salem et.al.|[2407.15113](http://arxiv.org/abs/2407.15113)|null|
