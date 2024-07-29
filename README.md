@@ -159,7 +159,7 @@
 |**2024-06-24**|**The CRS: a scalable full-stack control system for Microwave Kinetic Inductance Detectors**|Joshua Montgomery et.al.|[2406.16266](http://arxiv.org/abs/2406.16266)|null|
 |**2024-06-23**|**Target Characteristics on Rotation in Euclidean Space Using Full Polarimetric SAR Data**|Subhadip Dey et.al.|[2406.16060](http://arxiv.org/abs/2406.16060)|null|
 |**2024-06-21**|**Learning Spatio-Temporal Patterns of Polar Ice Layers With Physics-Informed Graph Neural Network**|Zesheng Liu et.al.|[2406.15299](http://arxiv.org/abs/2406.15299)|null|
-|**2024-06-24**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283](http://arxiv.org/abs/2406.15283)|null|
+|**2024-06-24**|**FT-AED: Benchmark Dataset for Early Freeway Traffic Anomalous Event Detection**|Austin Coursey et.al.|[2406.15283](http://arxiv.org/abs/2406.15283)|**[link](https://github.com/acoursey3/freeway-anomaly-data)**|
 |**2024-06-21**|**Optimal Transmit Signal Design for Multi-Target MIMO Sensing Exploiting Prior Information**|Jiayi Yao et.al.|[2406.15047](http://arxiv.org/abs/2406.15047)|null|
 |**2024-06-20**|**A tensor model for calibration and imaging with air-coupled ultrasonic sensor arrays**|Raphael Müller et.al.|[2406.14355](http://arxiv.org/abs/2406.14355)|null|
 |**2024-06-20**|**Semi Supervised Heterogeneous Domain Adaptation via Disentanglement and Pseudo-Labelling**|Cassio F. Dantas et.al.|[2406.14087](http://arxiv.org/abs/2406.14087)|**[link](https://github.com/tanodino/sshda)**|
