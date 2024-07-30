@@ -69,6 +69,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**Sensor Selection via GFlowNets: A Deep Generative Modeling Framework to Navigate Combinatorial Complexity**|Spilios Evmorfos et.al.|[2407.19736](http://arxiv.org/abs/2407.19736)|null|
+|**2024-07-27**|**Exploiting Target Location Distribution in MIMO Radar: PCRB vs. PSBP for Waveform Design**|Lingyun Xu et.al.|[2407.19209](http://arxiv.org/abs/2407.19209)|null|
 |**2024-07-25**|**Multipath Identification and Mitigation with FDA-MIMO Radar**|Yizhen Jia et.al.|[2407.18118](http://arxiv.org/abs/2407.18118)|null|
 |**2024-07-24**|**Wind-farm wake recovery mechanisms in conventionally neutral boundary layers**|Luca Lanzilao et.al.|[2407.17198](http://arxiv.org/abs/2407.17198)|null|
 |**2024-07-24**|**Efffcient Sensing Parameter Estimation with Direct Clutter Mitigation in Perceptive Mobile Networks**|Hang Li et.al.|[2407.17057](http://arxiv.org/abs/2407.17057)|null|
