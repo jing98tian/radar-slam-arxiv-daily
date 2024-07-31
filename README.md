@@ -41,6 +41,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|null|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
 |**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-04-23**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|**[link](https://github.com/littledang/2dliw-slam)**|
@@ -69,6 +70,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-07-30**|**Advanced ISAC Design: Movable Antennas and Accounting for Dynamic RCS**|Ata Khalili et.al.|[2407.20930](http://arxiv.org/abs/2407.20930)|null|
 |**2024-07-29**|**Sensor Selection via GFlowNets: A Deep Generative Modeling Framework to Navigate Combinatorial Complexity**|Spilios Evmorfos et.al.|[2407.19736](http://arxiv.org/abs/2407.19736)|null|
 |**2024-07-27**|**Exploiting Target Location Distribution in MIMO Radar: PCRB vs. PSBP for Waveform Design**|Lingyun Xu et.al.|[2407.19209](http://arxiv.org/abs/2407.19209)|null|
 |**2024-07-25**|**Multipath Identification and Mitigation with FDA-MIMO Radar**|Yizhen Jia et.al.|[2407.18118](http://arxiv.org/abs/2407.18118)|null|
