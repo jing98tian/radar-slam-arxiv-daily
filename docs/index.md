@@ -61,6 +61,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-07-30**|**Multi-task Photonic Reservoir Computing: Wavelength Division Multiplexing for Parallel Computing with a Silicon Microring Resonator**|Bernard J. Giron Castro et.al.|[2407.21189](http://arxiv.org/abs/2407.21189)|null|
+|**2024-07-30**|**A Dataset for Multi-intensity Continuous Human Activity Recognition through Passive Sensing**|Argha Sen et.al.|[2407.21125](http://arxiv.org/abs/2407.21125)|null|
 |**2024-07-30**|**Advanced ISAC Design: Movable Antennas and Accounting for Dynamic RCS**|Ata Khalili et.al.|[2407.20930](http://arxiv.org/abs/2407.20930)|null|
 |**2024-07-29**|**Sensor Selection via GFlowNets: A Deep Generative Modeling Framework to Navigate Combinatorial Complexity**|Spilios Evmorfos et.al.|[2407.19736](http://arxiv.org/abs/2407.19736)|null|
 |**2024-07-27**|**Exploiting Target Location Distribution in MIMO Radar: PCRB vs. PSBP for Waveform Design**|Lingyun Xu et.al.|[2407.19209](http://arxiv.org/abs/2407.19209)|null|
