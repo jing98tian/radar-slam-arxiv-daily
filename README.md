@@ -70,6 +70,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-01**|**Controlled improvement in the radar absorption by bilayer magnetic systems**|Jaume Calvo-de la Rosa et.al.|[2408.00604](http://arxiv.org/abs/2408.00604)|null|
+|**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/abs/2408.00565)|null|
+|**2024-08-01**|**Micro frequency hopping spread spectrum modulation and encryption technology**|Fanping Du et.al.|[2408.00400](http://arxiv.org/abs/2408.00400)|null|
 |**2024-07-30**|**Multi-task Photonic Reservoir Computing: Wavelength Division Multiplexing for Parallel Computing with a Silicon Microring Resonator**|Bernard J. Giron Castro et.al.|[2407.21189](http://arxiv.org/abs/2407.21189)|null|
 |**2024-07-30**|**A Dataset for Multi-intensity Continuous Human Activity Recognition through Passive Sensing**|Argha Sen et.al.|[2407.21125](http://arxiv.org/abs/2407.21125)|null|
 |**2024-07-30**|**Advanced ISAC Design: Movable Antennas and Accounting for Dynamic RCS**|Ata Khalili et.al.|[2407.20930](http://arxiv.org/abs/2407.20930)|null|
