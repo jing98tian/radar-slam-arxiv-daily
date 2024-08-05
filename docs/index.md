@@ -61,6 +61,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-02**|**3D Genetic Metamaterials for Scattering Maximization**|Dmitry Dobrykh et.al.|[2408.01170](http://arxiv.org/abs/2408.01170)|null|
+|**2024-08-02**|**Modelling the three-dimensional, diagnostic anisotropy field of an ice rise**|A. Clara J. Henry et.al.|[2408.01069](http://arxiv.org/abs/2408.01069)|null|
+|**2024-08-02**|**Individual Identification Using Radar-Measured Respiratory and Heartbeat Features**|Haruto Kobayashi et.al.|[2408.00972](http://arxiv.org/abs/2408.00972)|null|
+|**2024-08-01**|**Stop-and-go waves reconstruction via iterative refinement**|Junyi Ji et.al.|[2408.00941](http://arxiv.org/abs/2408.00941)|null|
+|**2024-08-01**|**AI-Enabled sensor fusion of time of flight imaging and mmwave for concealed metal detection**|Chaitanya Kaul et.al.|[2408.00816](http://arxiv.org/abs/2408.00816)|null|
 |**2024-08-01**|**Controlled improvement in the radar absorption by bilayer magnetic systems**|Jaume Calvo-de la Rosa et.al.|[2408.00604](http://arxiv.org/abs/2408.00604)|null|
 |**2024-08-01**|**MUFASA: Multi-View Fusion and Adaptation Network with Spatial Awareness for Radar Object Detection**|Xiangyuan Peng et.al.|[2408.00565](http://arxiv.org/abs/2408.00565)|null|
 |**2024-08-01**|**Micro frequency hopping spread spectrum modulation and encryption technology**|Fanping Du et.al.|[2408.00400](http://arxiv.org/abs/2408.00400)|null|
