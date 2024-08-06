@@ -70,6 +70,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-05**|**RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars and IMUs Based on Continuous-Time Estimation**|Shuolong Chen et.al.|[2408.02444](http://arxiv.org/abs/2408.02444)|null|
+|**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/abs/2408.02088)|null|
+|**2024-08-04**|**JobViz: Skill-driven Visual Exploration of Job Advertisements**|Ran Wang et.al.|[2408.01989](http://arxiv.org/abs/2408.01989)|null|
+|**2024-08-04**|**Harmonic MUSIC Method for mmWave Radar-based Vital Sign Estimation**|Chieh-Hsun Hsieh et.al.|[2408.01951](http://arxiv.org/abs/2408.01951)|null|
+|**2024-08-03**|**radarODE: An ODE-Embedded Deep Learning Model for Contactless ECG Reconstruction from Millimeter-Wave Radar**|Yuanyuan Zhang et.al.|[2408.01672](http://arxiv.org/abs/2408.01672)|null|
 |**2024-08-02**|**3D Genetic Metamaterials for Scattering Maximization**|Dmitry Dobrykh et.al.|[2408.01170](http://arxiv.org/abs/2408.01170)|null|
 |**2024-08-02**|**Modelling the three-dimensional, diagnostic anisotropy field of an ice rise**|A. Clara J. Henry et.al.|[2408.01069](http://arxiv.org/abs/2408.01069)|null|
 |**2024-08-02**|**Individual Identification Using Radar-Measured Respiratory and Heartbeat Features**|Haruto Kobayashi et.al.|[2408.00972](http://arxiv.org/abs/2408.00972)|null|
