@@ -70,6 +70,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-06**|**FDA Jamming Against Airborne Phased-MIMO Radar-Part II: Jamming STAP Performance Analysis**|Yan Sun et.al.|[2408.03055](http://arxiv.org/abs/2408.03055)|null|
+|**2024-08-06**|**FDA Jamming Against Airborne Phased-MIMO Radar-Part I: Matched Filtering and Spatial Filtering**|Yan Sun et.al.|[2408.03050](http://arxiv.org/abs/2408.03050)|null|
+|**2024-08-06**|**Coherent FDA Radar: Transmitter and Receiver Design and Analysis**|Yan Sun et.al.|[2408.03045](http://arxiv.org/abs/2408.03045)|null|
+|**2024-08-05**|**A Novel Hybrid Approach for Tornado Prediction in the United States: Kalman-Convolutional BiLSTM with Multi-Head Attention**|Jiawei Zhou et.al.|[2408.02751](http://arxiv.org/abs/2408.02751)|null|
 |**2024-08-05**|**RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars and IMUs Based on Continuous-Time Estimation**|Shuolong Chen et.al.|[2408.02444](http://arxiv.org/abs/2408.02444)|null|
 |**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/abs/2408.02088)|null|
 |**2024-08-04**|**JobViz: Skill-driven Visual Exploration of Job Advertisements**|Ran Wang et.al.|[2408.01989](http://arxiv.org/abs/2408.01989)|null|
