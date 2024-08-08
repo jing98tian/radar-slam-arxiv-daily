@@ -70,6 +70,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**|Xun Huang et.al.|[2408.03677](http://arxiv.org/abs/2408.03677)|null|
+|**2024-08-07**|**Weakly Contrastive Learning via Batch Instance Discrimination and Feature Clustering for Small Sample SAR ATR**|Yikui Zhai et.al.|[2408.03627](http://arxiv.org/abs/2408.03627)|**[link](https://github.com/wenlve-zhou/bidfc-master)**|
+|**2024-08-07**|**Sub-Resolution mmWave FMCW Radar-based Touch Localization using Deep Learning**|Raghunandan M. Rao et.al.|[2408.03485](http://arxiv.org/abs/2408.03485)|null|
 |**2024-08-06**|**FDA Jamming Against Airborne Phased-MIMO Radar-Part II: Jamming STAP Performance Analysis**|Yan Sun et.al.|[2408.03055](http://arxiv.org/abs/2408.03055)|null|
 |**2024-08-06**|**FDA Jamming Against Airborne Phased-MIMO Radar-Part I: Matched Filtering and Spatial Filtering**|Yan Sun et.al.|[2408.03050](http://arxiv.org/abs/2408.03050)|null|
 |**2024-08-06**|**Coherent FDA Radar: Transmitter and Receiver Design and Analysis**|Yan Sun et.al.|[2408.03045](http://arxiv.org/abs/2408.03045)|null|
