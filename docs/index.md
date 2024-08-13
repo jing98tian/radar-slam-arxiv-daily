@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.12
+## Updated on 2024.08.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -65,7 +65,7 @@ layout: default
 |**2024-08-08**|**Detection of Animal Movement from Weather Radar using Self-Supervised Learning**|Mubin Ul Haque et.al.|[2408.04424](http://arxiv.org/abs/2408.04424)|null|
 |**2024-08-08**|**Detecting Car Speed using Object Detection and Depth Estimation: A Deep Learning Framework**|Subhasis Dasgupta et.al.|[2408.04360](http://arxiv.org/abs/2408.04360)|null|
 |**2024-08-08**|**Dual-branch PolSAR Image Classification Based on GraphMAE and Local Feature Extraction**|Yuchen Wang et.al.|[2408.04294](http://arxiv.org/abs/2408.04294)|null|
-|**2024-08-07**|**L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**|Xun Huang et.al.|[2408.03677](http://arxiv.org/abs/2408.03677)|null|
+|**2024-08-09**|**L4DR: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection**|Xun Huang et.al.|[2408.03677](http://arxiv.org/abs/2408.03677)|null|
 |**2024-08-07**|**Weakly Contrastive Learning via Batch Instance Discrimination and Feature Clustering for Small Sample SAR ATR**|Yikui Zhai et.al.|[2408.03627](http://arxiv.org/abs/2408.03627)|**[link](https://github.com/wenlve-zhou/bidfc-master)**|
 |**2024-08-07**|**Sub-Resolution mmWave FMCW Radar-based Touch Localization using Deep Learning**|Raghunandan M. Rao et.al.|[2408.03485](http://arxiv.org/abs/2408.03485)|null|
 |**2024-08-06**|**FDA Jamming Against Airborne Phased-MIMO Radar-Part II: Jamming STAP Performance Analysis**|Yan Sun et.al.|[2408.03055](http://arxiv.org/abs/2408.03055)|null|
