@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -68,7 +68,7 @@ layout: default
 |**2024-08-12**|**CoFAR Clutter Estimation using Covariance-Free Bayesian Learning**|Kunwar Pritiraj Rajput et.al.|[2408.06078](http://arxiv.org/abs/2408.06078)|null|
 |**2024-08-11**|**Landmark-based Vehicle Self-Localization Using Automotive Polarimetric Radars**|Fabio Weishaupt et.al.|[2408.05811](http://arxiv.org/abs/2408.05811)|null|
 |**2024-08-11**|**Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task**|Hannuo Zhang et.al.|[2408.05777](http://arxiv.org/abs/2408.05777)|null|
-|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764](http://arxiv.org/abs/2408.05764)|null|
+|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764](http://arxiv.org/abs/2408.05764)|**[link](https://github.com/ethz-asl/rio)**|
 |**2024-08-11**|**Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas**|Judith Sáinz-Pardo Díaz et.al.|[2408.05761](http://arxiv.org/abs/2408.05761)|null|
 |**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020](http://arxiv.org/abs/2408.05020)|null|
 |**2024-08-08**|**Detection of Animal Movement from Weather Radar using Self-Supervised Learning**|Mubin Ul Haque et.al.|[2408.04424](http://arxiv.org/abs/2408.04424)|null|

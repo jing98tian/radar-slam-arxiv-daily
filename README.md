@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.16
+## Updated on 2024.08.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -35,7 +35,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -64,7 +64,7 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 ## Radar
 
@@ -77,7 +77,7 @@
 |**2024-08-12**|**CoFAR Clutter Estimation using Covariance-Free Bayesian Learning**|Kunwar Pritiraj Rajput et.al.|[2408.06078](http://arxiv.org/abs/2408.06078)|null|
 |**2024-08-11**|**Landmark-based Vehicle Self-Localization Using Automotive Polarimetric Radars**|Fabio Weishaupt et.al.|[2408.05811](http://arxiv.org/abs/2408.05811)|null|
 |**2024-08-11**|**Seg-CycleGAN : SAR-to-optical image translation guided by a downstream task**|Hannuo Zhang et.al.|[2408.05777](http://arxiv.org/abs/2408.05777)|null|
-|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764](http://arxiv.org/abs/2408.05764)|null|
+|**2024-08-11**|**A robust baro-radar-inertial odometry m-estimator for multicopter navigation in cities and forests**|Rik Girod et.al.|[2408.05764](http://arxiv.org/abs/2408.05764)|**[link](https://github.com/ethz-asl/rio)**|
 |**2024-08-11**|**Personalized Federated Learning for improving radar based precipitation nowcasting on heterogeneous areas**|Judith Sáinz-Pardo Díaz et.al.|[2408.05761](http://arxiv.org/abs/2408.05761)|null|
 |**2024-08-09**|**RadarPillars: Efficient Object Detection from 4D Radar Point Clouds**|Alexander Musiat et.al.|[2408.05020](http://arxiv.org/abs/2408.05020)|null|
 |**2024-08-08**|**Detection of Animal Movement from Weather Radar using Self-Supervised Learning**|Mubin Ul Haque et.al.|[2408.04424](http://arxiv.org/abs/2408.04424)|null|
@@ -615,7 +615,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240816>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240817>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
