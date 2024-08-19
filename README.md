@@ -90,7 +90,7 @@
 |**2024-08-06**|**FDA Jamming Against Airborne Phased-MIMO Radar-Part I: Matched Filtering and Spatial Filtering**|Yan Sun et.al.|[2408.03050](http://arxiv.org/abs/2408.03050)|null|
 |**2024-08-06**|**Coherent FDA Radar: Transmitter and Receiver Design and Analysis**|Yan Sun et.al.|[2408.03045](http://arxiv.org/abs/2408.03045)|null|
 |**2024-08-05**|**A Novel Hybrid Approach for Tornado Prediction in the United States: Kalman-Convolutional BiLSTM with Multi-Head Attention**|Jiawei Zhou et.al.|[2408.02751](http://arxiv.org/abs/2408.02751)|null|
-|**2024-08-05**|**RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars and IMUs Based on Continuous-Time Estimation**|Shuolong Chen et.al.|[2408.02444](http://arxiv.org/abs/2408.02444)|null|
+|**2024-08-05**|**RIs-Calib: An Open-Source Spatiotemporal Calibrator for Multiple 3D Radars and IMUs Based on Continuous-Time Estimation**|Shuolong Chen et.al.|[2408.02444](http://arxiv.org/abs/2408.02444)|**[link](https://github.com/unsigned-long/ris-calib)**|
 |**2024-08-04**|**KAN-RCBEVDepth: A multi-modal fusion algorithm in object detection for autonomous driving**|Zhihao Lai et.al.|[2408.02088](http://arxiv.org/abs/2408.02088)|null|
 |**2024-08-04**|**JobViz: Skill-driven Visual Exploration of Job Advertisements**|Ran Wang et.al.|[2408.01989](http://arxiv.org/abs/2408.01989)|null|
 |**2024-08-04**|**Harmonic MUSIC Method for mmWave Radar-based Vital Sign Estimation**|Chieh-Hsun Hsieh et.al.|[2408.01951](http://arxiv.org/abs/2408.01951)|null|
@@ -143,7 +143,7 @@
 |**2024-07-12**|**A Bistatic ISAC Framework for LEO Satellite Systems: A Rate-Splitting Approach**|Juha Park et.al.|[2407.08923](http://arxiv.org/abs/2407.08923)|null|
 |**2024-07-11**|**CommRad: Context-Aware Sensing-Driven Millimeter-Wave Networks**|Ish Kumar Jain et.al.|[2407.08817](http://arxiv.org/abs/2407.08817)|null|
 |**2024-07-11**|**Digital twins to alleviate the need for real field data in vision-based vehicle speed detection systems**|Antonio Hernández Martínez et.al.|[2407.08380](http://arxiv.org/abs/2407.08380)|null|
-|**2024-07-11**|**HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar Target Recognition**|Lingfeng Chen et.al.|[2407.08236](http://arxiv.org/abs/2407.08236)|null|
+|**2024-07-11**|**HRRPGraphNet: A Graph Neural Network Based Approach for HRRP Radar Target Recognition**|Lingfeng Chen et.al.|[2407.08236](http://arxiv.org/abs/2407.08236)|**[link](https://github.com/MountainChenCad/HRRPGraphNet)**|
 |**2024-07-10**|**Deep Learning-Based Robust Multi-Object Tracking via Fusion of mmWave Radar and Camera Sensors**|Lei Cheng et.al.|[2407.08049](http://arxiv.org/abs/2407.08049)|null|
 |**2024-07-10**|**HF radar estimation of ocean wave parameters: second-order Doppler spectrum versus Bragg wave modulation approach**|Verónica Morales-Márquez et.al.|[2407.07658](http://arxiv.org/abs/2407.07658)|null|
 |**2024-07-10**|**Pilot-Based SFO Estimation for Bistatic Integrated Sensing and Communication**|Lucas Giroto de Oliveira et.al.|[2407.07567](http://arxiv.org/abs/2407.07567)|null|
@@ -266,7 +266,7 @@
 |**2024-05-26**|**RadarOcc: Robust 3D Occupancy Prediction with 4D Imaging Radar**|Fangqiang Ding et.al.|[2405.14014](http://arxiv.org/abs/2405.14014)|null|
 |**2024-05-22**|**Deep Learning-Driven State Correction: A Hybrid Architecture for Radar-Based Dynamic Occupancy Grid Mapping**|Max Peter Ronecker et.al.|[2405.13307](http://arxiv.org/abs/2405.13307)|null|
 |**2024-05-21**|**Multi-Frequency Progressive Refinement for Learned Inverse Scattering**|Owen Melia et.al.|[2405.13214](http://arxiv.org/abs/2405.13214)|null|
-|**2024-05-21**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|null|
+|**2024-05-21**|**Talk2Radar: Bridging Natural Language with 4D mmWave Radar for 3D Referring Expression Comprehension**|Runwei Guan et.al.|[2405.12821](http://arxiv.org/abs/2405.12821)|**[link](https://github.com/guanrunwei/talk2radar)**|
 |**2024-05-21**|**Predicting the Influence of Adverse Weather on Pedestrian Detection with Automotive Radar and Lidar Sensors**|Daniel Weihmayr et.al.|[2405.12736](http://arxiv.org/abs/2405.12736)|null|
 |**2024-05-21**|**Comprehensive mm-Wave FMCW Radar Dataset for Vital Sign Monitoring: Embracing Extreme Physiological Scenarios**|Ehsan Sadeghi et.al.|[2405.12659](http://arxiv.org/abs/2405.12659)|null|
 |**2024-05-20**|**A Flat Dual-Polarized Millimeter-Wave Luneburg Lens Antenna Using Transformation Optics with Reduced Anisotropy and Impedance Mismatch**|Yuanyan Su et.al.|[2405.11935](http://arxiv.org/abs/2405.11935)|null|
@@ -422,7 +422,7 @@
 |**2024-03-24**|**Fisher Information Approach for Masking the Sensing Plan: Applications in Multifunction Radars**|Shashwat Jain et.al.|[2403.15966](http://arxiv.org/abs/2403.15966)|null|
 |**2024-03-23**|**Depth Estimation fusing Image and Radar Measurements with Uncertain Directions**|Masaya Kotani et.al.|[2403.15787](http://arxiv.org/abs/2403.15787)|null|
 |**2024-03-22**|**Neural Plasticity-Inspired Foundation Model for Observing the Earth Crossing Modalities**|Zhitong Xiong et.al.|[2403.15356](http://arxiv.org/abs/2403.15356)|**[link](https://github.com/zhu-xlab/dofa)**|
-|**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313](http://arxiv.org/abs/2403.15313)|null|
+|**2024-03-22**|**CR3DT: Camera-RADAR Fusion for 3D Detection and Tracking**|Nicolas Baumann et.al.|[2403.15313](http://arxiv.org/abs/2403.15313)|**[link](https://github.com/eth-pbl/cr3dt)**|
 |**2024-03-22**|**CRPlace: Camera-Radar Fusion with BEV Representation for Place Recognition**|Shaowei Fu et.al.|[2403.15183](http://arxiv.org/abs/2403.15183)|null|
 |**2024-03-22**|**Range-Angle Estimation for FDA-MIMO System With Frequency Offset**|Mengjiang Sun et.al.|[2403.14978](http://arxiv.org/abs/2403.14978)|null|
 |**2024-03-21**|**Assimilation of SWOT Altimetry and Sentinel-1 Flood Extent Observations for Flood Reanalysis -- A Proof-of-Concept**|Thanh Huy Nguyen et.al.|[2403.14394](http://arxiv.org/abs/2403.14394)|null|
@@ -486,7 +486,7 @@
 |**2024-02-29**|**Analysis of Processing Pipelines for Indoor Human Tracking using FMCW radar**|Dingyang Wang et.al.|[2402.19124](http://arxiv.org/abs/2402.19124)|null|
 |**2024-02-29**|**Automatic Radar Signal Detection and FFT Estimation using Deep Learning**|Akila Pemasiri et.al.|[2402.19073](http://arxiv.org/abs/2402.19073)|null|
 |**2024-02-28**|**SFTformer: A Spatial-Frequency-Temporal Correlation-Decoupling Transformer for Radar Echo Extrapolation**|Liangyu Xu et.al.|[2402.18044](http://arxiv.org/abs/2402.18044)|null|
-|**2024-02-28**|**Multistatic-Radar RCS-Signature Recognition of Aerial Vehicles: A Bayesian Fusion Approach**|Michael Potter et.al.|[2402.17987](http://arxiv.org/abs/2402.17987)|null|
+|**2024-02-28**|**Multistatic-Radar RCS-Signature Recognition of Aerial Vehicles: A Bayesian Fusion Approach**|Michael Potter et.al.|[2402.17987](http://arxiv.org/abs/2402.17987)|**[link](https://github.com/mlpotter/rcs_atr)**|
 |**2024-02-27**|**AN An ica-ensemble learning approach for prediction of uwb nlos signals data classification**|Jiya A. Enoch et.al.|[2402.17808](http://arxiv.org/abs/2402.17808)|null|
 |**2024-02-27**|**SDF2Net: Shallow to Deep Feature Fusion Network for PolSAR Image Classification**|Mohammed Q. Alkhatib et.al.|[2402.17672](http://arxiv.org/abs/2402.17672)|**[link](https://github.com/mqalkhatib/sdf2net)**|
 |**2024-02-27**|**Radar Resource Management for Active Tracking Using Split-Aperture Phased Arrays**|Pepijn B. Cox et.al.|[2402.17607](http://arxiv.org/abs/2402.17607)|null|
