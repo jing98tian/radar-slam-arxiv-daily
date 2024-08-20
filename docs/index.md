@@ -61,6 +61,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-19**|**Stacked Intelligent Metasurfaces for Integrated Sensing and Communications**|Haoxian Niu et.al.|[2408.10043](http://arxiv.org/abs/2408.10043)|null|
+|**2024-08-19**|**Sensing in NLOS: a Stroboscopic Approach**|Davide Tornielli Bellini et.al.|[2408.09883](http://arxiv.org/abs/2408.09883)|null|
+|**2024-08-19**|**ISAC-Fi: Enabling Full-fledged Monostatic Sensing over Wi-Fi Communication**|Zhe Chen et.al.|[2408.09851](http://arxiv.org/abs/2408.09851)|null|
+|**2024-08-19**|**Joint Beamforming and Power Control for D2D-Assisted Integrated Sensing and Communication Networks**|Zhenyu Xue et.al.|[2408.09844](http://arxiv.org/abs/2408.09844)|null|
+|**2024-08-18**|**Angle of Arrival Estimation with Transformer: A Sparse and Gridless Method with Zero-Shot Capability**|Zhaoxuan Zhu et.al.|[2408.09362](http://arxiv.org/abs/2408.09362)|null|
+|**2024-08-17**|**Optical Two-Tone Time Transfer**|Jonathan D. Roslund et.al.|[2408.09290](http://arxiv.org/abs/2408.09290)|null|
 |**2024-08-16**|**Speckle Noise Analysis for Synthetic Aperture Radar (SAR) Space Data**|Sanjjushri Varshini R et.al.|[2408.08774](http://arxiv.org/abs/2408.08774)|null|
 |**2024-08-16**|**Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation**|Linghao Zheng et.al.|[2408.08576](http://arxiv.org/abs/2408.08576)|null|
 |**2024-08-16**|**Deep multi-intentional inverse reinforcement learning for cognitive multi-function radar inverse cognition**|Hancong Feng et.al.|[2408.08478](http://arxiv.org/abs/2408.08478)|null|
