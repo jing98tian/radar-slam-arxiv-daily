@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576](http://arxiv.org/abs/2408.11576)|null|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600](http://arxiv.org/abs/2405.00600)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-19**|**Scalable Radar-based Roadside Perception: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
@@ -41,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|**[link](https://github.com/molaorg/mola)**|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
 |**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
@@ -70,6 +72,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-21**|**M2CS: A Microwave Measurement and Control System for Large-scale Superconducting Quantum Processors**|Jiawei Zhang et.al.|[2408.11696](http://arxiv.org/abs/2408.11696)|null|
+|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576](http://arxiv.org/abs/2408.11576)|null|
+|**2024-08-21**|**High Performance Simulation of Spaceborne Radar for Remote-Sensing Oceanography: Application to an Altimetry Scenario**|Goulven Monnier et.al.|[2408.11472](http://arxiv.org/abs/2408.11472)|null|
+|**2024-08-21**|**Mitigation of Radar Range Deception Jamming Using Random Finite Sets**|Helena Calatrava et.al.|[2408.11361](http://arxiv.org/abs/2408.11361)|null|
+|**2024-08-21**|**Learning Flock: Enhancing Sets of Particles for Multi~Sub-State Particle Filtering with Neural Augmentation**|Itai Nuri et.al.|[2408.11348](http://arxiv.org/abs/2408.11348)|null|
 |**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958](http://arxiv.org/abs/2408.10958)|null|
 |**2024-08-19**|**SDE-based Multiplicative Noise Removal**|An Vuong et.al.|[2408.10283](http://arxiv.org/abs/2408.10283)|null|
 |**2024-08-19**|**Stacked Intelligent Metasurfaces for Integrated Sensing and Communications**|Haoxian Niu et.al.|[2408.10043](http://arxiv.org/abs/2408.10043)|null|
