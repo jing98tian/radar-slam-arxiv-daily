@@ -63,6 +63,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-22**|**Hierarchical Attention and Parallel Filter Fusion Network for Multi-Source Data Classification**|Han Luo et.al.|[2408.12760](http://arxiv.org/abs/2408.12760)|null|
 |**2024-08-22**|**Through-the-Wall Radar Human Activity Micro-Doppler Signature Representation Method Based on Joint Boulic-Sinusoidal Pendulum Model**|Xiaopeng Yang et.al.|[2408.12077](http://arxiv.org/abs/2408.12077)|null|
 |**2024-08-21**|**Quantum radar with unreflected photons**|T. J. Volkoff et.al.|[2408.12016](http://arxiv.org/abs/2408.12016)|null|
 |**2024-08-21**|**M2CS: A Microwave Measurement and Control System for Large-scale Superconducting Quantum Processors**|Jiawei Zhang et.al.|[2408.11696](http://arxiv.org/abs/2408.11696)|null|
