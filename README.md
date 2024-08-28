@@ -72,6 +72,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-27**|**Optimal Joint Radar and Communication User Association in Cell-Free mMIMO Systems**|Ahmed Naeem et.al.|[2408.14861](http://arxiv.org/abs/2408.14861)|null|
 |**2024-08-26**|**CDMA and Non-Uniform Multiplexing: Dynamic Range in MIMO Radar Waveforms**|Aitor Correas-Serrano et.al.|[2408.14303](http://arxiv.org/abs/2408.14303)|null|
 |**2024-08-26**|**Decentralized Singular Value Decomposition for Extremely Large-scale Antenna Array Systems**|Yufan Fan et.al.|[2408.14292](http://arxiv.org/abs/2408.14292)|null|
 |**2024-08-24**|**Modeling and Statistical Characterization of Large-Scale Automotive Radar Networks**|Mohammad Taha Shah et.al.|[2408.13645](http://arxiv.org/abs/2408.13645)|null|
