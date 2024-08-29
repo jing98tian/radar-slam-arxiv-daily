@@ -72,6 +72,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-28**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678](http://arxiv.org/abs/2408.15678)|null|
+|**2024-08-28**|**Can SAR improve RSVQA performance?**|Lucrezia Tosato et.al.|[2408.15642](http://arxiv.org/abs/2408.15642)|null|
 |**2024-08-27**|**Optimal Joint Radar and Communication User Association in Cell-Free mMIMO Systems**|Ahmed Naeem et.al.|[2408.14861](http://arxiv.org/abs/2408.14861)|null|
 |**2024-08-26**|**CDMA and Non-Uniform Multiplexing: Dynamic Range in MIMO Radar Waveforms**|Aitor Correas-Serrano et.al.|[2408.14303](http://arxiv.org/abs/2408.14303)|null|
 |**2024-08-26**|**Decentralized Singular Value Decomposition for Extremely Large-scale Antenna Array Systems**|Yufan Fan et.al.|[2408.14292](http://arxiv.org/abs/2408.14292)|null|
