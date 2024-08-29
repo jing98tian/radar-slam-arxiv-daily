@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.08.28
+## Updated on 2024.08.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -66,7 +66,7 @@ layout: default
 |**2024-08-27**|**Optimal Joint Radar and Communication User Association in Cell-Free mMIMO Systems**|Ahmed Naeem et.al.|[2408.14861](http://arxiv.org/abs/2408.14861)|null|
 |**2024-08-26**|**CDMA and Non-Uniform Multiplexing: Dynamic Range in MIMO Radar Waveforms**|Aitor Correas-Serrano et.al.|[2408.14303](http://arxiv.org/abs/2408.14303)|null|
 |**2024-08-26**|**Decentralized Singular Value Decomposition for Extremely Large-scale Antenna Array Systems**|Yufan Fan et.al.|[2408.14292](http://arxiv.org/abs/2408.14292)|null|
-|**2024-08-24**|**Modeling and Statistical Characterization of Large-Scale Automotive Radar Networks**|Mohammad Taha Shah et.al.|[2408.13645](http://arxiv.org/abs/2408.13645)|null|
+|**2024-08-28**|**Modeling and Statistical Characterization of Large-Scale Automotive Radar Networks**|Mohammad Taha Shah et.al.|[2408.13645](http://arxiv.org/abs/2408.13645)|null|
 |**2024-08-22**|**Hierarchical Attention and Parallel Filter Fusion Network for Multi-Source Data Classification**|Han Luo et.al.|[2408.12760](http://arxiv.org/abs/2408.12760)|null|
 |**2024-08-22**|**Through-the-Wall Radar Human Activity Micro-Doppler Signature Representation Method Based on Joint Boulic-Sinusoidal Pendulum Model**|Xiaopeng Yang et.al.|[2408.12077](http://arxiv.org/abs/2408.12077)|null|
 |**2024-08-21**|**Quantum radar with unreflected photons**|T. J. Volkoff et.al.|[2408.12016](http://arxiv.org/abs/2408.12016)|null|
