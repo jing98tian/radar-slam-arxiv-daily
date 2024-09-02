@@ -63,6 +63,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-30**|**Performance Analysis of Pair-wise Symbol Detection in Uplink NOMA-ISaC Systems**|Haofeng Liu et.al.|[2408.17449](http://arxiv.org/abs/2408.17449)|null|
+|**2024-08-30**|**NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar**|Runwei Guan et.al.|[2408.17207](http://arxiv.org/abs/2408.17207)|null|
+|**2024-08-29**|**CalTag: Robust calibration of mmWave Radar and LiDAR using backscatter tags**|Junyi Xu et.al.|[2408.16867](http://arxiv.org/abs/2408.16867)|null|
 |**2024-08-29**|**Addressing the Mutual Interference in Uplink ISAC Receivers: A Projection Method**|Zhiyuan Yu et.al.|[2408.16455](http://arxiv.org/abs/2408.16455)|null|
 |**2024-08-28**|**Accelerating Sensor Fusion in Neuromorphic Computing: A Case Study on Loihi-2**|Murat Isik et.al.|[2408.16096](http://arxiv.org/abs/2408.16096)|null|
 |**2024-08-29**|**Deep Learning Based Speckle Filtering for Polarimetric SAR Images. Application to Sentinel-1**|Alejandro Mestre-Quereda et.al.|[2408.15678](http://arxiv.org/abs/2408.15678)|null|
