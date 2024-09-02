@@ -78,7 +78,7 @@ layout: default
 |**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576](http://arxiv.org/abs/2408.11576)|null|
 |**2024-08-21**|**High Performance Simulation of Spaceborne Radar for Remote-Sensing Oceanography: Application to an Altimetry Scenario**|Goulven Monnier et.al.|[2408.11472](http://arxiv.org/abs/2408.11472)|null|
 |**2024-08-21**|**Mitigation of Radar Range Deception Jamming Using Random Finite Sets**|Helena Calatrava et.al.|[2408.11361](http://arxiv.org/abs/2408.11361)|null|
-|**2024-08-21**|**Learning Flock: Enhancing Sets of Particles for Multi~Sub-State Particle Filtering with Neural Augmentation**|Itai Nuri et.al.|[2408.11348](http://arxiv.org/abs/2408.11348)|null|
+|**2024-08-21**|**Learning Flock: Enhancing Sets of Particles for Multi~Sub-State Particle Filtering with Neural Augmentation**|Itai Nuri et.al.|[2408.11348](http://arxiv.org/abs/2408.11348)|**[link](https://github.com/itainuri/lf-pf_mtt)**|
 |**2024-08-20**|**Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling**|Jaideep Pathak et.al.|[2408.10958](http://arxiv.org/abs/2408.10958)|null|
 |**2024-08-19**|**SDE-based Multiplicative Noise Removal**|An Vuong et.al.|[2408.10283](http://arxiv.org/abs/2408.10283)|null|
 |**2024-08-19**|**Stacked Intelligent Metasurfaces for Integrated Sensing and Communications**|Haoxian Niu et.al.|[2408.10043](http://arxiv.org/abs/2408.10043)|null|
