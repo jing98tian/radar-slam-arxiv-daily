@@ -63,6 +63,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-02**|**GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling**|Huawei Sun et.al.|[2409.02720](http://arxiv.org/abs/2409.02720)|null|
+|**2024-09-03**|**Correlation Properties in Channels with von Mises-Fisher Distribution of Scatterers**|Kenan Turbic et.al.|[2409.01647](http://arxiv.org/abs/2409.01647)|null|
+|**2024-08-31**|**Leaky Wave Antenna-Equipped RF Chipless Tags for Orientation Estimation**|Onel L. A. López et.al.|[2409.00501](http://arxiv.org/abs/2409.00501)|null|
+|**2024-08-31**|**Studying the Effects of Self-Attention on SAR Automatic Target Recognition**|Jacob Fein-Ashley et.al.|[2409.00473](http://arxiv.org/abs/2409.00473)|null|
+|**2024-08-30**|**A Generative Adversarial Network-based Method for LiDAR-Assisted Radar Image Enhancement**|Thakshila Thilakanayake et.al.|[2409.00196](http://arxiv.org/abs/2409.00196)|null|
 |**2024-08-30**|**Performance Analysis of Pair-wise Symbol Detection in Uplink NOMA-ISaC Systems**|Haofeng Liu et.al.|[2408.17449](http://arxiv.org/abs/2408.17449)|null|
 |**2024-08-30**|**NanoMVG: USV-Centric Low-Power Multi-Task Visual Grounding based on Prompt-Guided Camera and 4D mmWave Radar**|Runwei Guan et.al.|[2408.17207](http://arxiv.org/abs/2408.17207)|null|
 |**2024-08-29**|**CalTag: Robust calibration of mmWave Radar and LiDAR using backscatter tags**|Junyi Xu et.al.|[2408.16867](http://arxiv.org/abs/2408.16867)|null|
