@@ -19,7 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576](http://arxiv.org/abs/2408.11576)|null|
+|**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576](http://arxiv.org/abs/2408.11576)|**[link](https://github.com/igmr-rwth/randt-slam)**|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600](http://arxiv.org/abs/2405.00600)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
 |**2024-04-19**|**Scalable Radar-based Roadside Perception: Self-localization and Occupancy Heat Map for Traffic Analysis**|Longfei Han et.al.|[2404.01166](http://arxiv.org/abs/2404.01166)|null|
@@ -72,6 +72,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-05**|**Transmit Beamforming Design for ISAC with Stacked Intelligent Metasurfaces**|Shunyu Li et.al.|[2409.03259](http://arxiv.org/abs/2409.03259)|null|
 |**2024-09-02**|**GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling**|Huawei Sun et.al.|[2409.02720](http://arxiv.org/abs/2409.02720)|null|
 |**2024-09-03**|**Correlation Properties in Channels with von Mises-Fisher Distribution of Scatterers**|Kenan Turbic et.al.|[2409.01647](http://arxiv.org/abs/2409.01647)|null|
 |**2024-08-31**|**Leaky Wave Antenna-Equipped RF Chipless Tags for Orientation Estimation**|Onel L. A. López et.al.|[2409.00501](http://arxiv.org/abs/2409.00501)|null|
