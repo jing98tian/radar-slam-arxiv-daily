@@ -42,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-08**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|null|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|**[link](https://github.com/molaorg/mola)**|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
@@ -72,6 +73,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-09**|**3D-SAR Tomography and Machine Learning for High-Resolution Tree Height Estimation**|Grace Colverd et.al.|[2409.05636](http://arxiv.org/abs/2409.05636)|null|
+|**2024-09-09**|**LEROjD: Lidar Extended Radar-Only Object Detection**|Patrick Palmer et.al.|[2409.05564](http://arxiv.org/abs/2409.05564)|**[link](https://github.com/rst-tu-dortmund/lerojd)**|
+|**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979](http://arxiv.org/abs/2409.04979)|null|
 |**2024-09-06**|**A MEMS-based terahertz broadband beam steering technique**|Weihua Yu et.al.|[2409.04380](http://arxiv.org/abs/2409.04380)|null|
 |**2024-09-06**|**CLOWN: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245](http://arxiv.org/abs/2409.04245)|null|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
