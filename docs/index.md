@@ -64,6 +64,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-12**|**Sparse R-CNN OBB: Ship Target Detection in SAR Images Based on Oriented Sparse Proposals**|Kamirul Kamirul et.al.|[2409.07973](http://arxiv.org/abs/2409.07973)|null|
+|**2024-09-11**|**Unsupervised Point Cloud Registration with Self-Distillation**|Christian Löwens et.al.|[2409.07558](http://arxiv.org/abs/2409.07558)|**[link](https://github.com/boschresearch/direg)**|
+|**2024-09-11**|**Initial performance of the Radar Echo Telescope for Cosmic Rays, RET-CR**|P. Allison et.al.|[2409.07511](http://arxiv.org/abs/2409.07511)|null|
 |**2024-09-09**|**Advance and Refinement: The Evolution of UAV Detection and Classification Technologies**|Vladislav Semenyuk et.al.|[2409.05985](http://arxiv.org/abs/2409.05985)|null|
 |**2024-09-09**|**3D-SAR Tomography and Machine Learning for High-Resolution Tree Height Estimation**|Grace Colverd et.al.|[2409.05636](http://arxiv.org/abs/2409.05636)|null|
 |**2024-09-09**|**LEROjD: Lidar Extended Radar-Only Object Detection**|Patrick Palmer et.al.|[2409.05564](http://arxiv.org/abs/2409.05564)|**[link](https://github.com/rst-tu-dortmund/lerojd)**|
