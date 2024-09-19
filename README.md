@@ -74,6 +74,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-18**|**Active Reconfigurable Intelligent Surface Empowered Synthetic Aperture Radar Imaging**|Yifan Sun et.al.|[2409.11728](http://arxiv.org/abs/2409.11728)|null|
 |**2024-09-17**|**Robust High-Speed State Estimation for Off-road Navigation using Radar Velocity Factors**|Morten Nissov et.al.|[2409.10953](http://arxiv.org/abs/2409.10953)|null|
 |**2024-09-17**|**Pose estimation of CubeSats via sensor fusion and Error-State Extended Kalman Filter**|Deep Parikh et.al.|[2409.10815](http://arxiv.org/abs/2409.10815)|null|
 |**2024-09-16**|**Radar Teach and Repeat: Architecture and Initial Field Testing**|Xinyuan Qiao et.al.|[2409.10491](http://arxiv.org/abs/2409.10491)|null|
