@@ -36,7 +36,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-17**|**Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping**|Bo Yang et.al.|[2409.10824](http://arxiv.org/abs/2409.10824)|**[link](https://github.com/boyang9602/LiDARLocRobustness)**|
-|**2024-09-10**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|null|
+|**2024-09-10**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|**[link](https://github.com/PengYu-Team/GEODE_dataset)**|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|**[link](https://github.com/molaorg/mola)**|
 |**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
@@ -68,7 +68,7 @@ layout: default
 |**2024-09-18**|**Active Reconfigurable Intelligent Surface Empowered Synthetic Aperture Radar Imaging**|Yifan Sun et.al.|[2409.11728](http://arxiv.org/abs/2409.11728)|null|
 |**2024-09-17**|**Robust High-Speed State Estimation for Off-road Navigation using Radar Velocity Factors**|Morten Nissov et.al.|[2409.10953](http://arxiv.org/abs/2409.10953)|null|
 |**2024-09-17**|**Pose estimation of CubeSats via sensor fusion and Error-State Extended Kalman Filter**|Deep Parikh et.al.|[2409.10815](http://arxiv.org/abs/2409.10815)|null|
-|**2024-09-16**|**Radar Teach and Repeat: Architecture and Initial Field Testing**|Xinyuan Qiao et.al.|[2409.10491](http://arxiv.org/abs/2409.10491)|null|
+|**2024-09-16**|**Radar Teach and Repeat: Architecture and Initial Field Testing**|Xinyuan Qiao et.al.|[2409.10491](http://arxiv.org/abs/2409.10491)|**[link](https://github.com/utiasasrl/vtr3)**|
 |**2024-09-16**|**XLM for Autonomous Driving Systems: A Comprehensive Review**|Sonda Fourati et.al.|[2409.10484](http://arxiv.org/abs/2409.10484)|null|
 |**2024-09-16**|**Integrated nowcasting of convective precipitation with Transformer-based models using multi-source data**|Çağlar Küçük et.al.|[2409.10367](http://arxiv.org/abs/2409.10367)|**[link](https://github.com/caglarkucuk/earthformer-multisource-to-inca)**|
 |**2024-09-16**|**Programmable multifunctional integrated microwave photonic circuit on thin-film lithium niobate**|Chuangchuang Wei et.al.|[2409.10227](http://arxiv.org/abs/2409.10227)|null|
