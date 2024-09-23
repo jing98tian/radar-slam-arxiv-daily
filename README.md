@@ -95,7 +95,7 @@
 |**2024-09-09**|**LEROjD: Lidar Extended Radar-Only Object Detection**|Patrick Palmer et.al.|[2409.05564](http://arxiv.org/abs/2409.05564)|**[link](https://github.com/rst-tu-dortmund/lerojd)**|
 |**2024-09-08**|**RCBEVDet++: Toward High-accuracy Radar-Camera Fusion 3D Perception Network**|Zhiwei Lin et.al.|[2409.04979](http://arxiv.org/abs/2409.04979)|null|
 |**2024-09-06**|**A MEMS-based terahertz broadband beam steering technique**|Weihua Yu et.al.|[2409.04380](http://arxiv.org/abs/2409.04380)|null|
-|**2024-09-06**|**CLOWN: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245](http://arxiv.org/abs/2409.04245)|null|
+|**2024-09-06**|**CLOWN: The PASO cloud detection for optimization of automatic optical surveys**|Luís Gonçalves et.al.|[2409.04245](http://arxiv.org/abs/2409.04245)|**[link](https://github.com/LuisGoncalves1/CLOWN)**|
 |**2024-09-06**|**Matched Filtering based LiDAR Place Recognition for Urban and Natural Environments**|Therese Joseph et.al.|[2409.03998](http://arxiv.org/abs/2409.03998)|null|
 |**2024-09-05**|**Transmit Beamforming Design for ISAC with Stacked Intelligent Metasurfaces**|Shunyu Li et.al.|[2409.03259](http://arxiv.org/abs/2409.03259)|null|
 |**2024-09-08**|**GET-UP: GEomeTric-aware Depth Estimation with Radar Points UPsampling**|Huawei Sun et.al.|[2409.02720](http://arxiv.org/abs/2409.02720)|**[link](https://github.com/harborsarah/get-up)**|
