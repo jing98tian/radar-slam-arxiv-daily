@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.09.25
+## Updated on 2024.09.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -68,12 +68,22 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-24**|**BCRLB Under the Fusion Extended Kalman Filter**|Mushen Lin et.al.|[2409.16020](http://arxiv.org/abs/2409.16020)|null|
+|**2024-09-24**|**EMF-Aware Waveform for Dual-functional Radar Communication Systems**|Mariem Chemingui et.al.|[2409.15956](http://arxiv.org/abs/2409.15956)|null|
+|**2024-09-24**|**Movable Antenna Enabled ISAC Beamforming Design for Low-Altitude Airborne Vehicles**|Yue Xiu et.al.|[2409.15923](http://arxiv.org/abs/2409.15923)|null|
+|**2024-09-23**|**UniBEVFusion: Unified Radar-Vision BEVFusion for 3D Object Detection**|Haocheng Zhao et.al.|[2409.14751](http://arxiv.org/abs/2409.14751)|null|
+|**2024-09-22**|**Distributionally Robust Inverse Reinforcement Learning for Identifying Multi-Agent Coordinated Sensing**|Luke Snow et.al.|[2409.14542](http://arxiv.org/abs/2409.14542)|null|
+|**2024-09-21**|**Soft Segmented Randomization: Enhancing Domain Generalization in SAR-ATR for Synthetic-to-Measured**|Minjun Kim et.al.|[2409.14060](http://arxiv.org/abs/2409.14060)|null|
+|**2024-09-21**|**Adaptive radar detection of subspace-based distributed target in power heterogeneous clutter**|Daipeng Xiao et.al.|[2409.14049](http://arxiv.org/abs/2409.14049)|null|
+|**2024-09-20**|**Model Predictive Control For Multiple Castaway Tracking with an Autonomous Aerial Agent**|Andreas Anastasiou et.al.|[2409.13305](http://arxiv.org/abs/2409.13305)|null|
+|**2024-09-19**|**Cramér-Rao Bound Based Waveform Optimization for MIMO Radar: An Efficient Linear-Proximal Method**|Xiaohua Zhou et.al.|[2409.12569](http://arxiv.org/abs/2409.12569)|null|
+|**2024-09-19**|**UniMSF: A Unified Multi-Sensor Fusion Framework for Intelligent Transportation System Global Localization**|Wei Liu et.al.|[2409.12426](http://arxiv.org/abs/2409.12426)|null|
 |**2024-09-18**|**Active Reconfigurable Intelligent Surface Empowered Synthetic Aperture Radar Imaging**|Yifan Sun et.al.|[2409.11728](http://arxiv.org/abs/2409.11728)|null|
 |**2024-09-17**|**Robust High-Speed State Estimation for Off-road Navigation using Radar Velocity Factors**|Morten Nissov et.al.|[2409.10953](http://arxiv.org/abs/2409.10953)|null|
 |**2024-09-17**|**Pose estimation of CubeSats via sensor fusion and Error-State Extended Kalman Filter**|Deep Parikh et.al.|[2409.10815](http://arxiv.org/abs/2409.10815)|null|
@@ -678,7 +688,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20240925>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20240926>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
