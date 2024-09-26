@@ -65,6 +65,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847](http://arxiv.org/abs/2409.16847)|null|
+|**2024-09-25**|**IRASNet: Improved Feature-Level Clutter Reduction for Domain Generalized SAR-ATR**|Oh-Tae Jang et.al.|[2409.16845](http://arxiv.org/abs/2409.16845)|null|
+|**2024-09-25**|**Is speckle noise more challenging to mitigate than additive noise?**|Reihaneh Malekian et.al.|[2409.16585](http://arxiv.org/abs/2409.16585)|null|
+|**2024-09-24**|**Sub-Nyquist USF Spectral Estimation: $K$ Frequencies with $6K + 4$ Modulo Samples**|Ruiming Guo et.al.|[2409.16472](http://arxiv.org/abs/2409.16472)|null|
+|**2024-09-24**|**Underground Mapping and Localization Based on Ground-Penetrating Radar**|Jinchang Zhang et.al.|[2409.16446](http://arxiv.org/abs/2409.16446)|null|
 |**2024-09-24**|**BCRLB Under the Fusion Extended Kalman Filter**|Mushen Lin et.al.|[2409.16020](http://arxiv.org/abs/2409.16020)|null|
 |**2024-09-24**|**EMF-Aware Waveform for Dual-functional Radar Communication Systems**|Mariem Chemingui et.al.|[2409.15956](http://arxiv.org/abs/2409.15956)|null|
 |**2024-09-24**|**Movable Antenna Enabled ISAC Beamforming Design for Low-Altitude Airborne Vehicles**|Yue Xiu et.al.|[2409.15923](http://arxiv.org/abs/2409.15923)|null|
