@@ -65,6 +65,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
 |**2024-09-26**|**LDA-MIG Detectors for Maritime Targets in Nonhomogeneous Sea Clutter**|Xiaoqiang Hua et.al.|[2409.17911](http://arxiv.org/abs/2409.17911)|null|
 |**2024-09-26**|**Fronthaul-Constrained Distributed Radar Sensing**|Christian Eckrich et.al.|[2409.17753](http://arxiv.org/abs/2409.17753)|null|
 |**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847](http://arxiv.org/abs/2409.16847)|null|
