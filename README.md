@@ -256,7 +256,7 @@
 |**2024-07-03**|**Quantum microwave photonic mixer with a large spurious-free dynamic range**|Xinghua Li et.al.|[2407.02774](http://arxiv.org/abs/2407.02774)|null|
 |**2024-07-02**|**SUPER: Seated Upper Body Pose Estimation using mmWave Radars**|Bo Zhang et.al.|[2407.02455](http://arxiv.org/abs/2407.02455)|null|
 |**2024-07-02**|**Intelligent Reflecting Surface-Assisted NLOS Sensing With OFDM Signals**|Jilin Wang et.al.|[2407.02160](http://arxiv.org/abs/2407.02160)|null|
-|**2024-07-02**|**GPTCast: a weather language model for precipitation nowcasting**|Gabriele Franch et.al.|[2407.02089](http://arxiv.org/abs/2407.02089)|null|
+|**2024-07-02**|**GPTCast: a weather language model for precipitation nowcasting**|Gabriele Franch et.al.|[2407.02089](http://arxiv.org/abs/2407.02089)|**[link](https://github.com/DSIP-FBK/GPTCast)**|
 |**2024-07-01**|**Compressed Sensing Inspired User Acquisition for Downlink Integrated Sensing and Communication Transmissions**|Yi Song et.al.|[2407.01336](http://arxiv.org/abs/2407.01336)|null|
 |**2024-07-01**|**Multi-Functional Beamforming Design for Integrated Sensing, Communication, and Computation**|Yapeng Zhao et.al.|[2407.01006](http://arxiv.org/abs/2407.01006)|null|
 |**2024-06-30**|**SAFE: a SAR Feature Extractor based on self-supervised learning and masked Siamese ViTs**|Max Muzeau et.al.|[2407.00851](http://arxiv.org/abs/2407.00851)|**[link](https://github.com/muzmax/safe)**|
