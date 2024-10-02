@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -69,7 +69,7 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
 
 ## Radar
 
@@ -77,12 +77,12 @@
 |---|---|---|---|---|
 |**2024-09-30**|**Waveform Design of Multi-User-Multi-Target ISAC System based on Kullback-Leibler Divergence**|Yousef Kloob et.al.|[2409.20245](http://arxiv.org/abs/2409.20245)|null|
 |**2024-09-29**|**Impact of Imprecision of the Time Delay on Imaging Result in Confocal Algorithm**|Wenyi Shao et.al.|[2409.19517](http://arxiv.org/abs/2409.19517)|null|
-|**2024-09-28**|**Deep Learning-based Automated Diagnosis of Obstructive Sleep Apnea and Sleep Stage Classification in Children Using Millimeter-wave Radar and Pulse Oximeter**|Wei Wang et.al.|[2409.19276](http://arxiv.org/abs/2409.19276)|null|
+|**2024-10-01**|**Deep Learning-based Automated Diagnosis of Obstructive Sleep Apnea and Sleep Stage Classification in Children Using Millimeter-wave Radar and Pulse Oximeter**|Wei Wang et.al.|[2409.19276](http://arxiv.org/abs/2409.19276)|null|
 |**2024-09-28**|**Detection of Sleep Apnea-Hypopnea Events Using Millimeter-wave Radar and Pulse Oximeter**|Wei Wang et.al.|[2409.19217](http://arxiv.org/abs/2409.19217)|null|
 |**2024-09-28**|**Dynamic Adaptive Resource Scheduling for Phased Array Radar: Enhancing Efficiency through Synthesis Priorities and Pulse Interleaving**|Mingguang Han et.al.|[2409.19201](http://arxiv.org/abs/2409.19201)|null|
 |**2024-09-28**|**Efficient Dual-Blind Deconvolution for Joint Radar-Communication Systems Using ADMM: Enhancing Channel Estimation and Signal Recovery in 5G mmWave Networks**|Anis Hamadouche et.al.|[2409.19187](http://arxiv.org/abs/2409.19187)|null|
 |**2024-09-27**|**Robust Proximity Operations using Probabilistic Markov Models**|Deep Parikh et.al.|[2409.19062](http://arxiv.org/abs/2409.19062)|null|
-|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
+|**2024-10-01**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
 |**2024-09-26**|**LDA-MIG Detectors for Maritime Targets in Nonhomogeneous Sea Clutter**|Xiaoqiang Hua et.al.|[2409.17911](http://arxiv.org/abs/2409.17911)|null|
 |**2024-09-26**|**Fronthaul-Constrained Distributed Radar Sensing**|Christian Eckrich et.al.|[2409.17753](http://arxiv.org/abs/2409.17753)|null|
 |**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847](http://arxiv.org/abs/2409.16847)|null|
@@ -704,7 +704,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20241001>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241002>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

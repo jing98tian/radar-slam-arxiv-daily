@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.01
+## Updated on 2024.10.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -68,12 +68,12 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-09-30**|**Waveform Design of Multi-User-Multi-Target ISAC System based on Kullback-Leibler Divergence**|Yousef Kloob et.al.|[2409.20245](http://arxiv.org/abs/2409.20245)|null|
 |**2024-09-29**|**Impact of Imprecision of the Time Delay on Imaging Result in Confocal Algorithm**|Wenyi Shao et.al.|[2409.19517](http://arxiv.org/abs/2409.19517)|null|
-|**2024-09-28**|**Deep Learning-based Automated Diagnosis of Obstructive Sleep Apnea and Sleep Stage Classification in Children Using Millimeter-wave Radar and Pulse Oximeter**|Wei Wang et.al.|[2409.19276](http://arxiv.org/abs/2409.19276)|null|
+|**2024-10-01**|**Deep Learning-based Automated Diagnosis of Obstructive Sleep Apnea and Sleep Stage Classification in Children Using Millimeter-wave Radar and Pulse Oximeter**|Wei Wang et.al.|[2409.19276](http://arxiv.org/abs/2409.19276)|null|
 |**2024-09-28**|**Detection of Sleep Apnea-Hypopnea Events Using Millimeter-wave Radar and Pulse Oximeter**|Wei Wang et.al.|[2409.19217](http://arxiv.org/abs/2409.19217)|null|
 |**2024-09-28**|**Dynamic Adaptive Resource Scheduling for Phased Array Radar: Enhancing Efficiency through Synthesis Priorities and Pulse Interleaving**|Mingguang Han et.al.|[2409.19201](http://arxiv.org/abs/2409.19201)|null|
 |**2024-09-28**|**Efficient Dual-Blind Deconvolution for Joint Radar-Communication Systems Using ADMM: Enhancing Channel Estimation and Signal Recovery in 5G mmWave Networks**|Anis Hamadouche et.al.|[2409.19187](http://arxiv.org/abs/2409.19187)|null|
 |**2024-09-27**|**Robust Proximity Operations using Probabilistic Markov Models**|Deep Parikh et.al.|[2409.19062](http://arxiv.org/abs/2409.19062)|null|
-|**2024-09-27**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
+|**2024-10-01**|**Get It For Free: Radar Segmentation without Expert Labels and Its Application in Odometry and Localization**|Siru Li et.al.|[2409.18434](http://arxiv.org/abs/2409.18434)|null|
 |**2024-09-26**|**LDA-MIG Detectors for Maritime Targets in Nonhomogeneous Sea Clutter**|Xiaoqiang Hua et.al.|[2409.17911](http://arxiv.org/abs/2409.17911)|null|
 |**2024-09-26**|**Fronthaul-Constrained Distributed Radar Sensing**|Christian Eckrich et.al.|[2409.17753](http://arxiv.org/abs/2409.17753)|null|
 |**2024-09-25**|**CREVE: An Acceleration-based Constraint Approach for Robust Radar Ego-Velocity Estimation**|Hoang Viet Do et.al.|[2409.16847](http://arxiv.org/abs/2409.16847)|null|
