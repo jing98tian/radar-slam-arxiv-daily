@@ -42,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-09-27**|**FlashMix: Fast Map-Free LiDAR Localization via Feature Mixing and Contrastive-Constrained Accelerated Training**|Raktim Gautam Goswami et.al.|[2410.00702](http://arxiv.org/abs/2410.00702)|null|
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597](http://arxiv.org/abs/2409.19597)|null|
 |**2024-09-17**|**Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping**|Bo Yang et.al.|[2409.10824](http://arxiv.org/abs/2409.10824)|**[link](https://github.com/boyang9602/LiDARLocRobustness)**|
 |**2024-09-10**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|**[link](https://github.com/PengYu-Team/GEODE_dataset)**|
@@ -75,6 +76,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737](http://arxiv.org/abs/2410.01737)|null|
+|**2024-10-02**|**Jamming Detection in MIMO-OFDM ISAC Systems Using Variational Autoencoders**|Luca Arcangeloni et.al.|[2410.01632](http://arxiv.org/abs/2410.01632)|null|
+|**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325](http://arxiv.org/abs/2410.01325)|null|
+|**2024-10-02**|**High and Low Resolution Tradeoffs in Roadside Multimodal Sensing**|Shaozu Ding et.al.|[2410.01250](http://arxiv.org/abs/2410.01250)|null|
+|**2024-10-02**|**Proof-of-principle experimental demonstration of quantum secure imaging based on quantum key distribution**|Yi-Bo Zhao et.al.|[2410.01172](http://arxiv.org/abs/2410.01172)|null|
+|**2024-10-01**|**M2P2: A Multi-Modal Passive Perception Dataset for Off-Road Mobility in Extreme Low-Light Conditions**|Aniket Datar et.al.|[2410.01105](http://arxiv.org/abs/2410.01105)|null|
+|**2024-10-01**|**Interference Cancellation Schemes for Full-Duplex Integrated Sensing and Communication**|François De Saint Moulin et.al.|[2410.00888](http://arxiv.org/abs/2410.00888)|null|
+|**2024-10-01**|**Radar Meets Vision: Robustifying Monocular Metric Depth Prediction for Mobile Robotics**|Marco Job et.al.|[2410.00736](http://arxiv.org/abs/2410.00736)|null|
+|**2024-10-01**|**Generative Precipitation Downscaling using Score-based Diffusion with Wasserstein Regularization**|Yuhao Liu et.al.|[2410.00381](http://arxiv.org/abs/2410.00381)|null|
+|**2024-10-01**|**Frequency Diverse Array-enabled RIS-aided Integrated Sensing and Communication**|Hanyu Yang et.al.|[2410.00376](http://arxiv.org/abs/2410.00376)|null|
 |**2024-09-30**|**Waveform Design of Multi-User-Multi-Target ISAC System based on Kullback-Leibler Divergence**|Yousef Kloob et.al.|[2409.20245](http://arxiv.org/abs/2409.20245)|null|
 |**2024-09-29**|**Impact of Imprecision of the Time Delay on Imaging Result in Confocal Algorithm**|Wenyi Shao et.al.|[2409.19517](http://arxiv.org/abs/2409.19517)|null|
 |**2024-10-01**|**Deep Learning-based Automated Diagnosis of Obstructive Sleep Apnea and Sleep Stage Classification in Children Using Millimeter-wave Radar and Pulse Oximeter**|Wei Wang et.al.|[2409.19276](http://arxiv.org/abs/2409.19276)|null|
