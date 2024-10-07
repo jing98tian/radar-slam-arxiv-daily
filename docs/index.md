@@ -35,6 +35,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961](http://arxiv.org/abs/2410.02961)|null|
 |**2024-09-27**|**FlashMix: Fast Map-Free LiDAR Localization via Feature Mixing and Contrastive-Constrained Accelerated Training**|Raktim Gautam Goswami et.al.|[2410.00702](http://arxiv.org/abs/2410.00702)|null|
 |**2024-09-29**|**CELLmap: Enhancing LiDAR SLAM through Elastic and Lightweight Spherical Map Representation**|Yifan Duan et.al.|[2409.19597](http://arxiv.org/abs/2409.19597)|null|
 |**2024-09-17**|**Evaluating and Improving the Robustness of LiDAR-based Localization and Mapping**|Bo Yang et.al.|[2409.10824](http://arxiv.org/abs/2409.10824)|**[link](https://github.com/boyang9602/LiDARLocRobustness)**|
@@ -67,6 +68,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-04**|**Movable-Antenna Aided Secure Transmission for RIS-ISAC Systems**|Yaodong Ma et.al.|[2410.03426](http://arxiv.org/abs/2410.03426)|null|
+|**2024-10-04**|**Aircraft Radar Altimeter Interference Mitigation Through a CNN-Layer Only Denoising Autoencoder Architecture**|Samuel B. Brown et.al.|[2410.03423](http://arxiv.org/abs/2410.03423)|null|
+|**2024-10-04**|**Fast Algorithm for Full-wave EM Scattering Analysis of Large-scale Chaff Cloud with Arbitrary Orientation, Spatial Distribution, and Length**|Chung Hyun Lee et.al.|[2410.03060](http://arxiv.org/abs/2410.03060)|null|
+|**2024-10-03**|**Ultrasound Autofocusing: Common Midpoint Phase Error Optimization via Differentiable Beamforming**|Walter Simson et.al.|[2410.03008](http://arxiv.org/abs/2410.03008)|null|
 |**2024-10-02**|**RADAR: Robust Two-stage Modality-incomplete Industrial Anomaly Detection**|Bingchen Miao et.al.|[2410.01737](http://arxiv.org/abs/2410.01737)|null|
 |**2024-10-02**|**Jamming Detection in MIMO-OFDM ISAC Systems Using Variational Autoencoders**|Luca Arcangeloni et.al.|[2410.01632](http://arxiv.org/abs/2410.01632)|null|
 |**2024-10-02**|**ReFeree: Radar-Based Lightweight and Robust Localization using Feature and Free space**|Hogyun Kim et.al.|[2410.01325](http://arxiv.org/abs/2410.01325)|null|
