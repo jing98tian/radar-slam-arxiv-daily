@@ -77,6 +77,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-07**|**Large Language Model Based Multi-Objective Optimization for Integrated Sensing and Communications in UAV Networks**|Haoyun Li et.al.|[2410.05062](http://arxiv.org/abs/2410.05062)|null|
+|**2024-10-07**|**Near-Field ISAC in 6G: Addressing Phase Nonlinearity via Lifted Super-Resolution**|Sajad Daei et.al.|[2410.04930](http://arxiv.org/abs/2410.04930)|null|
+|**2024-10-07**|**Windshield Integration of Thermal and Color Fusion for Automatic Emergency Braking in Low Visibility Conditions**|Gabriel Jobert et.al.|[2410.04928](http://arxiv.org/abs/2410.04928)|null|
+|**2024-10-07**|**Transmit Beampattern Synthesis for Active RIS-Aided MIMO Radar via Waveform and Beamforming Optimization**|Shengyao Chen et.al.|[2410.04835](http://arxiv.org/abs/2410.04835)|null|
+|**2024-10-04**|**SpecSAR-Former: A Lightweight Transformer-based Network for Global LULC Mapping Using Integrated Sentinel-1 and Sentinel-2**|Hao Yu et.al.|[2410.03962](http://arxiv.org/abs/2410.03962)|null|
+|**2024-10-04**|**Modeling and Analysis of Spatial and Temporal Land Clutter Statistics in SAR Imaging Based on MSTAR Data**|Shahrokh Hamidi et.al.|[2410.03816](http://arxiv.org/abs/2410.03816)|null|
 |**2024-10-04**|**Movable-Antenna Aided Secure Transmission for RIS-ISAC Systems**|Yaodong Ma et.al.|[2410.03426](http://arxiv.org/abs/2410.03426)|null|
 |**2024-10-04**|**Aircraft Radar Altimeter Interference Mitigation Through a CNN-Layer Only Denoising Autoencoder Architecture**|Samuel B. Brown et.al.|[2410.03423](http://arxiv.org/abs/2410.03423)|null|
 |**2024-10-04**|**Fast Algorithm for Full-wave EM Scattering Analysis of Large-scale Chaff Cloud with Arbitrary Orientation, Spatial Distribution, and Length**|Chung Hyun Lee et.al.|[2410.03060](http://arxiv.org/abs/2410.03060)|null|
