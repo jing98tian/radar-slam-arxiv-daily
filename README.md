@@ -77,6 +77,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-10**|**On the Detection of Aircraft Single Engine Taxi using Deep Learning Models**|Gabriel Jarry et.al.|[2410.07727](http://arxiv.org/abs/2410.07727)|null|
+|**2024-10-10**|**Unique Word-Based Frame Design for Bistatic Integrated Sensing and Communication**|Roberto Bomfin et.al.|[2410.07667](http://arxiv.org/abs/2410.07667)|null|
+|**2024-10-10**|**Simplified radar architecture based on information metasurface**|Si Ran Wang et.al.|[2410.07576](http://arxiv.org/abs/2410.07576)|null|
+|**2024-10-10**|**Generalization Ability Analysis of Through-the-Wall Radar Human Activity Recognition**|Weicheng Gao et.al.|[2410.07543](http://arxiv.org/abs/2410.07543)|null|
+|**2024-10-10**|**Generalizable Indoor Human Activity Recognition Method Based on Micro-Doppler Corner Point Cloud and Dynamic Graph Learning**|Xiaopeng Yang et.al.|[2410.07542](http://arxiv.org/abs/2410.07542)|null|
 |**2024-10-09**|**Quantum Frequency Combs with Path Identity for Quantum Remote Sensing**|D. A. R. Dalvit et.al.|[2410.07044](http://arxiv.org/abs/2410.07044)|null|
 |**2024-10-09**|**RIS-Assisted ISAC: Precoding and Phase-Shift Optimization for Mono-Static Target Detection**|Özlem Tuğfe Demir et.al.|[2410.06855](http://arxiv.org/abs/2410.06855)|null|
 |**2024-10-08**|**Improved PCRLB for radar tracking in clutter with geometry-dependent target measurement uncertainty and application to radar trajectory control**|Yifang Shi et.al.|[2410.05883](http://arxiv.org/abs/2410.05883)|null|
