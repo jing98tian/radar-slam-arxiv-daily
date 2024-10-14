@@ -68,6 +68,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-11**|**A physics-guided neural network for flooding area detection using SAR imagery and local river gauge observations**|Monika Gierszewska et.al.|[2410.08837](http://arxiv.org/abs/2410.08837)|null|
+|**2024-10-11**|**Multi-Functional RIS for a Multi-Functional System: Integrating Sensing, Communication, and Wireless Power Transfer**|Ahmed Magbool et.al.|[2410.08715](http://arxiv.org/abs/2410.08715)|null|
+|**2024-10-11**|**radarODE-MTL: A Multi-Task Learning Framework with Eccentric Gradient Alignment for Robust Radar-Based ECG Reconstruction**|Yuanyuan Zhang et.al.|[2410.08656](http://arxiv.org/abs/2410.08656)|**[link](https://github.com/ZYY0844/radarODE-MTL)**|
+|**2024-10-11**|**FMCW Radar Principles and Human Activity Recognition Systems: Foundations, Techniques, and Applications**|Ziqian Bi et.al.|[2410.08483](http://arxiv.org/abs/2410.08483)|null|
+|**2024-10-10**|**Revealing spoofing of quantum illumination using entanglement**|Jonathan N. Blakely et.al.|[2410.08353](http://arxiv.org/abs/2410.08353)|null|
+|**2024-10-10**|**Designing Unimodular Waveforms with Good Correlation Properties for Large-Scale MIMO Radar via Manifold Optimization Method**|Xuyang Zhao et.al.|[2410.08287](http://arxiv.org/abs/2410.08287)|null|
 |**2024-10-10**|**On the Detection of Aircraft Single Engine Taxi using Deep Learning Models**|Gabriel Jarry et.al.|[2410.07727](http://arxiv.org/abs/2410.07727)|null|
 |**2024-10-10**|**Unique Word-Based Frame Design for Bistatic Integrated Sensing and Communication**|Roberto Bomfin et.al.|[2410.07667](http://arxiv.org/abs/2410.07667)|null|
 |**2024-10-10**|**Simplified radar architecture based on information metasurface**|Si Ran Wang et.al.|[2410.07576](http://arxiv.org/abs/2410.07576)|null|
