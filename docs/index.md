@@ -68,6 +68,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-14**|**Online waveform selection for cognitive radar**|Thulasi Tholeti et.al.|[2410.10591](http://arxiv.org/abs/2410.10591)|null|
+|**2024-10-14**|**Differential reflectivity columns and hail -- linking C-band radar-based estimated column characteristics to crowdsourced hail observations in Switzerland**|Martin Aregger et.al.|[2410.10499](http://arxiv.org/abs/2410.10499)|null|
+|**2024-10-14**|**Regression Model for Speckled Data with Extremely Variability**|A. D. C. Nascimento et.al.|[2410.10482](http://arxiv.org/abs/2410.10482)|null|
+|**2024-10-14**|**Tracing Human Stress from Physiological Signals using UWB Radar**|Jia Xu et.al.|[2410.10155](http://arxiv.org/abs/2410.10155)|null|
+|**2024-10-14**|**NeRF-enabled Analysis-Through-Synthesis for ISAR Imaging of Small Everyday Objects with Sparse and Noisy UWB Radar Data**|Md Farhan Tasnim Oshim et.al.|[2410.10085](http://arxiv.org/abs/2410.10085)|null|
+|**2024-10-13**|**Efficient ICBased Solutions for Medical Devices and Automotive Radars**|Behnam Moradi Shahrbabak et.al.|[2410.10027](http://arxiv.org/abs/2410.10027)|null|
+|**2024-10-13**|**EMWaveNet: Physically Explainable Neural Network Based on Microwave Propagation for SAR Target Recognition**|Zhuoxuan Li et.al.|[2410.09749](http://arxiv.org/abs/2410.09749)|null|
+|**2024-10-13**|**t-READi: Transformer-Powered Robust and Efficient Multimodal Inference for Autonomous Driving**|Pengfei Hu et.al.|[2410.09747](http://arxiv.org/abs/2410.09747)|null|
+|**2024-10-11**|**Crowd Size Estimation for Non-Uniform Spatial Distributions with mmWave Radar**|Anurag Pallaprolu et.al.|[2410.09200](http://arxiv.org/abs/2410.09200)|null|
 |**2024-10-11**|**A physics-guided neural network for flooding area detection using SAR imagery and local river gauge observations**|Monika Gierszewska et.al.|[2410.08837](http://arxiv.org/abs/2410.08837)|null|
 |**2024-10-11**|**Multi-Functional RIS for a Multi-Functional System: Integrating Sensing, Communication, and Wireless Power Transfer**|Ahmed Magbool et.al.|[2410.08715](http://arxiv.org/abs/2410.08715)|null|
 |**2024-10-11**|**radarODE-MTL: A Multi-Task Learning Framework with Eccentric Gradient Alignment for Robust Radar-Based ECG Reconstruction**|Yuanyuan Zhang et.al.|[2410.08656](http://arxiv.org/abs/2410.08656)|**[link](https://github.com/ZYY0844/radarODE-MTL)**|
