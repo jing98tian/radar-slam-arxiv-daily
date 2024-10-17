@@ -77,9 +77,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-16**|**DRIP: A Versatile Family of Space-Time ISAC Waveforms**|Dexin Wang et.al.|[2410.12746](http://arxiv.org/abs/2410.12746)|null|
+|**2024-10-16**|**Broadband millimeter-wave frequency mixer based on thin-film lithium niobate photonics**|Xiangzhi Xie et.al.|[2410.12426](http://arxiv.org/abs/2410.12426)|null|
+|**2024-10-16**|**Line Spectral Analysis Using the G-Filter: An Atomic Norm Minimization Approach**|Bin Zhu et.al.|[2410.12358](http://arxiv.org/abs/2410.12358)|null|
+|**2024-10-16**|**Modeling, Design, and Verification of An Active Transmissive RIS**|Rongguang Song et.al.|[2410.12355](http://arxiv.org/abs/2410.12355)|null|
 |**2024-10-15**|**Quantum-optical sensing and target detection**|Guo Yao Tham et.al.|[2410.11372](http://arxiv.org/abs/2410.11372)|null|
 |**2024-10-16**|**Azimuthal imaging of rock fractures by incorporating single borehole radar and optical data**|Jian Shen et.al.|[2410.11350](http://arxiv.org/abs/2410.11350)|null|
-|**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228](http://arxiv.org/abs/2410.11228)|null|
+|**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228](http://arxiv.org/abs/2410.11228)|**[link](https://github.com/vdigpku/teocc)**|
 |**2024-10-14**|**Online waveform selection for cognitive radar**|Thulasi Tholeti et.al.|[2410.10591](http://arxiv.org/abs/2410.10591)|null|
 |**2024-10-14**|**Differential reflectivity columns and hail -- linking C-band radar-based estimated column characteristics to crowdsourced hail observations in Switzerland**|Martin Aregger et.al.|[2410.10499](http://arxiv.org/abs/2410.10499)|null|
 |**2024-10-14**|**Regression Model for Speckled Data with Extremely Variability**|A. D. C. Nascimento et.al.|[2410.10482](http://arxiv.org/abs/2410.10482)|null|
