@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.16
+## Updated on 2024.10.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -69,7 +69,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-10-15**|**Quantum-optical sensing and target detection**|Guo Yao Tham et.al.|[2410.11372](http://arxiv.org/abs/2410.11372)|null|
-|**2024-10-15**|**Azimuthal imaging of rock fractures by incorporating single borehole radar and optical data**|Jian Shen et.al.|[2410.11350](http://arxiv.org/abs/2410.11350)|null|
+|**2024-10-16**|**Azimuthal imaging of rock fractures by incorporating single borehole radar and optical data**|Jian Shen et.al.|[2410.11350](http://arxiv.org/abs/2410.11350)|null|
 |**2024-10-15**|**TEOcc: Radar-camera Multi-modal Occupancy Prediction via Temporal Enhancement**|Zhiwei Lin et.al.|[2410.11228](http://arxiv.org/abs/2410.11228)|null|
 |**2024-10-14**|**Online waveform selection for cognitive radar**|Thulasi Tholeti et.al.|[2410.10591](http://arxiv.org/abs/2410.10591)|null|
 |**2024-10-14**|**Differential reflectivity columns and hail -- linking C-band radar-based estimated column characteristics to crowdsourced hail observations in Switzerland**|Martin Aregger et.al.|[2410.10499](http://arxiv.org/abs/2410.10499)|null|
