@@ -77,6 +77,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-17**|**Generative Adversarial Synthesis of Radar Point Cloud Scenes**|Muhammad Saad Nawaz et.al.|[2410.13526](http://arxiv.org/abs/2410.13526)|null|
+|**2024-10-17**|**On the Sensing Performance of OFDM-based ISAC under the Influence of Oscillator Phase Noise**|Lucas Giroto de Oliveira et.al.|[2410.13336](http://arxiv.org/abs/2410.13336)|null|
+|**2024-10-17**|**Sum Secrecy Rate Maximization for Full Duplex ISAC Systems**|Aleksandar Boljević et.al.|[2410.13102](http://arxiv.org/abs/2410.13102)|null|
+|**2024-10-16**|**DOA Estimation-Oriented Joint Array Partitioning and Beamforming Designs for ISAC Systems**|Rang Liu et.al.|[2410.12923](http://arxiv.org/abs/2410.12923)|null|
 |**2024-10-16**|**DRIP: A Versatile Family of Space-Time ISAC Waveforms**|Dexin Wang et.al.|[2410.12746](http://arxiv.org/abs/2410.12746)|null|
 |**2024-10-16**|**Broadband millimeter-wave frequency mixer based on thin-film lithium niobate photonics**|Xiangzhi Xie et.al.|[2410.12426](http://arxiv.org/abs/2410.12426)|null|
 |**2024-10-16**|**Line Spectral Analysis Using the G-Filter: An Atomic Norm Minimization Approach**|Bin Zhu et.al.|[2410.12358](http://arxiv.org/abs/2410.12358)|null|
