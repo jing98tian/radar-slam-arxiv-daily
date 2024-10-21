@@ -68,6 +68,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-18**|**Joint Space-Time Adaptive Processing and Beamforming Design for Cell-Free ISAC Systems**|Rang Liu et.al.|[2410.14642](http://arxiv.org/abs/2410.14642)|null|
+|**2024-10-18**|**Investigating the Capabilities of Deep Learning for Processing and Interpreting One-Shot Multi-offset GPR Data: A Numerical Case Study for Lunar and Martian Environments**|Iraklis Giannakis et.al.|[2410.14386](http://arxiv.org/abs/2410.14386)|null|
+|**2024-10-18**|**Spatial Quantization: Improving RRA Performance via Closely Spaced Elements Design**|Xiaocun Zong et.al.|[2410.14253](http://arxiv.org/abs/2410.14253)|null|
+|**2024-10-18**|**Extreme Precipitation Nowcasting using Multi-Task Latent Diffusion Models**|Li Chaorong et.al.|[2410.14103](http://arxiv.org/abs/2410.14103)|null|
 |**2024-10-17**|**Generative Adversarial Synthesis of Radar Point Cloud Scenes**|Muhammad Saad Nawaz et.al.|[2410.13526](http://arxiv.org/abs/2410.13526)|null|
 |**2024-10-17**|**On the Sensing Performance of OFDM-based ISAC under the Influence of Oscillator Phase Noise**|Lucas Giroto de Oliveira et.al.|[2410.13336](http://arxiv.org/abs/2410.13336)|null|
 |**2024-10-17**|**Sum Secrecy Rate Maximization for Full Duplex ISAC Systems**|Aleksandar Boljević et.al.|[2410.13102](http://arxiv.org/abs/2410.13102)|null|
