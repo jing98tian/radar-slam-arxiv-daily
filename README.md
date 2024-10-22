@@ -77,6 +77,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-21**|**Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data**|Nikos Sakellariou et.al.|[2410.16089](http://arxiv.org/abs/2410.16089)|null|
+|**2024-10-21**|**Harnessing single polarization doppler weather radars for tracking Desert Locust Swarms**|N. A. Anjita et.al.|[2410.15901](http://arxiv.org/abs/2410.15901)|null|
 |**2024-10-18**|**Joint Space-Time Adaptive Processing and Beamforming Design for Cell-Free ISAC Systems**|Rang Liu et.al.|[2410.14642](http://arxiv.org/abs/2410.14642)|null|
 |**2024-10-18**|**Investigating the Capabilities of Deep Learning for Processing and Interpreting One-Shot Multi-offset GPR Data: A Numerical Case Study for Lunar and Martian Environments**|Iraklis Giannakis et.al.|[2410.14386](http://arxiv.org/abs/2410.14386)|null|
 |**2024-10-18**|**Spatial Quantization: Improving RRA Performance via Closely Spaced Elements Design**|Xiaocun Zong et.al.|[2410.14253](http://arxiv.org/abs/2410.14253)|null|
