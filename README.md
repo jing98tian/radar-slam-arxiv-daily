@@ -77,6 +77,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-22**|**Resource-Efficient Sensor Fusion via System-Wide Dynamic Gated Neural Networks**|Chetna Singhal et.al.|[2410.16723](http://arxiv.org/abs/2410.16723)|null|
 |**2024-10-21**|**Multi-Sensor Fusion for UAV Classification Based on Feature Maps of Image and Radar Data**|Nikos Sakellariou et.al.|[2410.16089](http://arxiv.org/abs/2410.16089)|null|
 |**2024-10-21**|**Harnessing single polarization doppler weather radars for tracking Desert Locust Swarms**|N. A. Anjita et.al.|[2410.15901](http://arxiv.org/abs/2410.15901)|null|
 |**2024-10-18**|**Joint Space-Time Adaptive Processing and Beamforming Design for Cell-Free ISAC Systems**|Rang Liu et.al.|[2410.14642](http://arxiv.org/abs/2410.14642)|null|
