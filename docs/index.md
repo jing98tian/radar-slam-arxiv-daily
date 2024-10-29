@@ -68,6 +68,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-28**|**A minimal model of the deep-convection lifecycle and its verification in remote-sensing observations**|Tobias Bölle et.al.|[2410.20887](http://arxiv.org/abs/2410.20887)|null|
+|**2024-10-24**|**Radar and Camera Fusion for Object Detection and Tracking: A Comprehensive Survey**|Kun Shi et.al.|[2410.19872](http://arxiv.org/abs/2410.19872)|null|
 |**2024-10-24**|**Sensing Accuracy Optimization for Communication-assisted Dual-baseline UAV-InSAR**|Mohamed-Amine Lahmeri et.al.|[2410.18848](http://arxiv.org/abs/2410.18848)|null|
 |**2024-10-23**|**POMDP-Driven Cognitive Massive MIMO Radar: Joint Target Detection-Tracking In Unknown Disturbances**|Imad Bouhou et.al.|[2410.17967](http://arxiv.org/abs/2410.17967)|null|
 |**2024-10-23**|**Truly Sub-Nyquist Method Based Matrix Pencil and CRT with Super Resolution**|Huiguang Zhang et.al.|[2410.17841](http://arxiv.org/abs/2410.17841)|null|
