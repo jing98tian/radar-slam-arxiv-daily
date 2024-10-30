@@ -68,6 +68,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-10-29**|**On Regularisation of Coherent Imagery with Proximal Methods**|F. M. Watson et.al.|[2410.22161](http://arxiv.org/abs/2410.22161)|null|
+|**2024-10-29**|**Analyzing Noise Models and Advanced Filtering Algorithms for Image Enhancement**|Sahil Ali Akbar et.al.|[2410.21946](http://arxiv.org/abs/2410.21946)|**[link](https://github.com/SahilAliAkbar/Image_Noise_Analysis)**|
 |**2024-10-28**|**A minimal model of the deep-convection lifecycle and its verification in remote-sensing observations**|Tobias Bölle et.al.|[2410.20887](http://arxiv.org/abs/2410.20887)|null|
 |**2024-10-24**|**Radar and Camera Fusion for Object Detection and Tracking: A Comprehensive Survey**|Kun Shi et.al.|[2410.19872](http://arxiv.org/abs/2410.19872)|null|
 |**2024-10-24**|**Sensing Accuracy Optimization for Communication-assisted Dual-baseline UAV-InSAR**|Mohamed-Amine Lahmeri et.al.|[2410.18848](http://arxiv.org/abs/2410.18848)|null|
