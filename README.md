@@ -77,6 +77,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166](http://arxiv.org/abs/2410.24166)|null|
+|**2024-10-31**|**AllClear: A Comprehensive Dataset and Benchmark for Cloud Removal in Satellite Imagery**|Hangyu Zhou et.al.|[2410.23891](http://arxiv.org/abs/2410.23891)|null|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
 |**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159](http://arxiv.org/abs/2410.23159)|**[link](https://github.com/argenycw/facl)**|
 |**2024-10-30**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
