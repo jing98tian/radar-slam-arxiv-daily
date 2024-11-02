@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.01
+## Updated on 2024.11.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -68,8 +68,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166](http://arxiv.org/abs/2410.24166)|null|
-|**2024-10-31**|**AllClear: A Comprehensive Dataset and Benchmark for Cloud Removal in Satellite Imagery**|Hangyu Zhou et.al.|[2410.23891](http://arxiv.org/abs/2410.23891)|null|
+|**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166](http://arxiv.org/abs/2410.24166)|**[link](https://github.com/christianbresciani/nscep-spiking-NN)**|
+|**2024-10-31**|**AllClear: A Comprehensive Dataset and Benchmark for Cloud Removal in Satellite Imagery**|Hangyu Zhou et.al.|[2410.23891](http://arxiv.org/abs/2410.23891)|**[link](https://github.com/zhou-hangyu/allclear)**|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
 |**2024-10-30**|**Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting**|Chiu-Wai Yan et.al.|[2410.23159](http://arxiv.org/abs/2410.23159)|**[link](https://github.com/argenycw/facl)**|
 |**2024-10-30**|**RSNet: A Light Framework for The Detection of Multi-scale Remote Sensing Targets**|Hongyu Chen et.al.|[2410.23073](http://arxiv.org/abs/2410.23073)|null|
