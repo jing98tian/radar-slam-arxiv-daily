@@ -21,7 +21,7 @@ layout: default
 |**2024-02-25**|**Modeling Point Uncertainty in Radar SLAM**|Yang Xu et.al.|[2402.16082](http://arxiv.org/abs/2402.16082)|null|
 |**2023-11-25**|**UWB Radar SLAM: an Anchorless Approach in Vision Denied Indoor Environments**|H. A. G. C. Premachandra et.al.|[2311.14970](http://arxiv.org/abs/2311.14970)|null|
 |**2024-04-29**|**Radarize: Enhancing Radar SLAM with Generalizable Doppler-Based Odometry**|Emerson Sie et.al.|[2311.11260](http://arxiv.org/abs/2311.11260)|null|
-|**2023-09-18**|**RaLF: Flow-based Global and Metric Radar Localization in LiDAR Maps**|Abhijeet Nayak et.al.|[2309.09875](http://arxiv.org/abs/2309.09875)|null|
+|**2024-11-04**|**RaLF: Flow-based Global and Metric Radar Localization in LiDAR Maps**|Abhijeet Nayak et.al.|[2309.09875](http://arxiv.org/abs/2309.09875)|null|
 |**2023-09-15**|**Resource Optimization Using A Step-by-step Scheme in Wireless Sensing and Localization Networks**|Ruihang Zhang et.al.|[2309.08396](http://arxiv.org/abs/2309.08396)|null|
 |**2023-11-05**|**ClusterFusion: Leveraging Radar Spatial Features for Radar-Camera 3D Object Detection in Autonomous Vehicles**|Irfan Tito Kurniawan et.al.|[2309.03734](http://arxiv.org/abs/2309.03734)|null|
 |**2023-06-02**|**Bi-LRFusion: Bi-Directional LiDAR-Radar Fusion for 3D Dynamic Object Detection**|Yingjie Wang et.al.|[2306.01438](http://arxiv.org/abs/2306.01438)|**[link](https://github.com/jessiew0806/bi-lrfusion)**|
@@ -68,6 +68,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-04**|**SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.|[2411.02220](http://arxiv.org/abs/2411.02220)|null|
+|**2024-11-04**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099](http://arxiv.org/abs/2411.02099)|null|
+|**2024-11-04**|**Multitarget Bistatic MIMO RADAR**|Nadeem Dar et.al.|[2411.02072](http://arxiv.org/abs/2411.02072)|null|
+|**2024-11-03**|**A Visual Question Answering Method for SAR Ship: Breaking the Requirement for Multimodal Dataset Construction and Model Fine-Tuning**|Fei Wang et.al.|[2411.01445](http://arxiv.org/abs/2411.01445)|null|
+|**2024-11-03**|**Mapping Global Floods with 10 Years of Satellite Radar Data**|Amit Misra et.al.|[2411.01411](http://arxiv.org/abs/2411.01411)|null|
+|**2024-11-01**|**MAROON: A Framework for the Joint Characterization of Near-Field High-Resolution Radar and Optical Depth Imaging Techniques**|Vanessa Wirth et.al.|[2411.00527](http://arxiv.org/abs/2411.00527)|null|
+|**2024-11-01**|**Cross-modal semantic segmentation for indoor environmental perception using single-chip millimeter-wave radar raw data**|Hairuo Hu et.al.|[2411.00499](http://arxiv.org/abs/2411.00499)|null|
+|**2024-11-01**|**Fundamental Trade-offs in Quantized Hybrid Radar Fusion: A CRB-Rate Perspective**|Akhileswar Chowdary et.al.|[2411.00496](http://arxiv.org/abs/2411.00496)|null|
+|**2024-11-01**|**Argus: Multi-View Egocentric Human Mesh Reconstruction Based on Stripped-Down Wearable mmWave Add-on**|Di Duan et.al.|[2411.00419](http://arxiv.org/abs/2411.00419)|null|
+|**2024-11-01**|**Power Source Allocation for RIS-aided Integrating Sensing, Communication, and Power Transfer Systems Based on NOMA**|Yue Xiu et.al.|[2411.00334](http://arxiv.org/abs/2411.00334)|null|
 |**2024-10-31**|**Approaches to human activity recognition via passive radar**|Christian Bresciani et.al.|[2410.24166](http://arxiv.org/abs/2410.24166)|**[link](https://github.com/christianbresciani/nscep-spiking-NN)**|
 |**2024-10-31**|**AllClear: A Comprehensive Dataset and Benchmark for Cloud Removal in Satellite Imagery**|Hangyu Zhou et.al.|[2410.23891](http://arxiv.org/abs/2410.23891)|**[link](https://github.com/zhou-hangyu/allclear)**|
 |**2024-10-30**|**EMMA: End-to-End Multimodal Model for Autonomous Driving**|Jyh-Jing Hwang et.al.|[2410.23262](http://arxiv.org/abs/2410.23262)|null|
