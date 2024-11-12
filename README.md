@@ -77,6 +77,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**Multi-Static Cell-Free Massive MIMO ISAC: Performance Analysis and Power Allocation**|Nhan Thanh Nguyen et.al.|[2411.06747](http://arxiv.org/abs/2411.06747)|null|
+|**2024-11-11**|**DiffSR: Learning Radar Reflectivity Synthesis via Diffusion Model from Satellite Observations**|Xuming He et.al.|[2411.06714](http://arxiv.org/abs/2411.06714)|null|
+|**2024-11-10**|**Estimating the strength of Lorentzian distribution in non-commutative geometery by solar system tests**|Rui-Bo Wang et.al.|[2411.06628](http://arxiv.org/abs/2411.06628)|null|
+|**2024-11-10**|**Enabling ISAC in Real World: Beam-Based User Identification with Machine Learning**|Umut Demirhan et.al.|[2411.06578](http://arxiv.org/abs/2411.06578)|null|
+|**2024-11-10**|**SuperResolution Radar Gesture Recognitio**|Netanel Blumenfeld et.al.|[2411.06410](http://arxiv.org/abs/2411.06410)|null|
+|**2024-11-09**|**Low Dynamic Range for RIS-aided Bistatic Integrated Sensing and Communication**|Ahmad Bazzi et.al.|[2411.06117](http://arxiv.org/abs/2411.06117)|null|
+|**2024-11-08**|**MIPD: A Multi-sensory Interactive Perception Dataset for Embodied Intelligent Driving**|Zhiwei Li et.al.|[2411.05881](http://arxiv.org/abs/2411.05881)|null|
 |**2024-11-05**|**Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey**|Zhongling Huang et.al.|[2411.05027](http://arxiv.org/abs/2411.05027)|null|
 |**2024-11-07**|**Progressive Multi-Level Alignments for Semi-Supervised Domain Adaptation SAR Target Recognition Using Simulated Data**|Xinzheng Zhang et.al.|[2411.04711](http://arxiv.org/abs/2411.04711)|null|
 |**2024-11-07**|**Reciprocal Point Learning Network with Large Electromagnetic Kernel for SAR Open-Set Recognition**|Xiayang Xiao et.al.|[2411.04693](http://arxiv.org/abs/2411.04693)|null|
