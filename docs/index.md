@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.11
+## Updated on 2024.11.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -42,7 +42,7 @@ layout: default
 |**2024-09-10**|**Heterogeneous LiDAR Dataset for Benchmarking Robust Localization in Diverse Degenerate Scenarios**|Zhiqiang Chen et.al.|[2409.04961](http://arxiv.org/abs/2409.04961)|**[link](https://github.com/PengYu-Team/GEODE_dataset)**|
 |**2024-08-21**|**Informed, Constrained, Aligned: A Field Analysis on Degeneracy-aware Point Cloud Registration in the Wild**|Turcan Tuna et.al.|[2408.11809](http://arxiv.org/abs/2408.11809)|null|
 |**2024-07-29**|**A flexible framework for accurate LiDAR odometry, map manipulation, and localization**|José Luis Blanco-Claraco et.al.|[2407.20465](http://arxiv.org/abs/2407.20465)|**[link](https://github.com/molaorg/mola)**|
-|**2024-07-11**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
+|**2024-11-10**|**SGLC: Semantic Graph-Guided Coarse-Fine-Refine Full Loop Closing for LiDAR SLAM**|Neng Wang et.al.|[2407.08106](http://arxiv.org/abs/2407.08106)|**[link](https://github.com/nubot-nudt/sglc)**|
 |**2024-06-17**|**DRIP: Discriminative Rotation-Invariant Pole Landmark Descriptor for 3D LiDAR Localization**|Dingrui Li et.al.|[2406.11266](http://arxiv.org/abs/2406.11266)|null|
 |**2024-04-23**|**2DLIW-SLAM:2D LiDAR-Inertial-Wheel Odometry with Real-Time Loop Closure**|Bin Zhang et.al.|[2404.07644](http://arxiv.org/abs/2404.07644)|**[link](https://github.com/littledang/2dliw-slam)**|
 |**2024-04-06**|**Automated Lane Change Behavior Prediction and Environmental Perception Based on SLAM Technology**|Han Lei et.al.|[2404.04492](http://arxiv.org/abs/2404.04492)|null|
@@ -75,7 +75,7 @@ layout: default
 |**2024-11-06**|**Multi-branch Spatio-Temporal Graph Neural Network For Efficient Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2411.04055](http://arxiv.org/abs/2411.04055)|null|
 |**2024-11-06**|**Energy Score-based Pseudo-Label Filtering and Adaptive Loss for Imbalanced Semi-supervised SAR target recognition**|Xinzheng Zhang et.al.|[2411.03959](http://arxiv.org/abs/2411.03959)|null|
 |**2024-11-05**|**Rainfall regression from C-band Synthetic Aperture Radar using Multi-Task Generative Adversarial Networks**|Aurélien Colin et.al.|[2411.03480](http://arxiv.org/abs/2411.03480)|null|
-|**2024-11-06**|**Statistical Radar Cross Section Characterization for Indoor Factory Targets**|Ali Waqar Azim et.al.|[2411.03206](http://arxiv.org/abs/2411.03206)|null|
+|**2024-11-08**|**Statistical Radar Cross Section Characterization for Indoor Factory Targets**|Ali Waqar Azim et.al.|[2411.03206](http://arxiv.org/abs/2411.03206)|null|
 |**2024-11-05**|**Newtonized Orthogonal Matching Pursuit for High-Resolution Target Detection in Sparse OFDM ISAC Systems**|Syed Najaf Haider Shah et.al.|[2411.03191](http://arxiv.org/abs/2411.03191)|null|
 |**2024-11-05**|**CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**|Jisong Kim et.al.|[2411.03013](http://arxiv.org/abs/2411.03013)|null|
 |**2024-11-05**|**Super-resolution generalized eigenvalue method with truly sub-Nyquist sampling**|Baoguo Liu et.al.|[2411.02700](http://arxiv.org/abs/2411.02700)|null|
