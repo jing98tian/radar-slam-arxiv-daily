@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.11.12
+## Updated on 2024.11.13
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -70,7 +70,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2024-11-11**|**Multi-Static Cell-Free Massive MIMO ISAC: Performance Analysis and Power Allocation**|Nhan Thanh Nguyen et.al.|[2411.06747](http://arxiv.org/abs/2411.06747)|null|
 |**2024-11-11**|**DiffSR: Learning Radar Reflectivity Synthesis via Diffusion Model from Satellite Observations**|Xuming He et.al.|[2411.06714](http://arxiv.org/abs/2411.06714)|null|
-|**2024-11-10**|**Estimating the strength of Lorentzian distribution in non-commutative geometery by solar system tests**|Rui-Bo Wang et.al.|[2411.06628](http://arxiv.org/abs/2411.06628)|null|
+|**2024-11-12**|**Estimating the strength of Lorentzian distribution in non-commutative geometry by solar system tests**|Rui-Bo Wang et.al.|[2411.06628](http://arxiv.org/abs/2411.06628)|null|
 |**2024-11-10**|**Enabling ISAC in Real World: Beam-Based User Identification with Machine Learning**|Umut Demirhan et.al.|[2411.06578](http://arxiv.org/abs/2411.06578)|null|
 |**2024-11-10**|**SuperResolution Radar Gesture Recognitio**|Netanel Blumenfeld et.al.|[2411.06410](http://arxiv.org/abs/2411.06410)|null|
 |**2024-11-09**|**Low Dynamic Range for RIS-aided Bistatic Integrated Sensing and Communication**|Ahmad Bazzi et.al.|[2411.06117](http://arxiv.org/abs/2411.06117)|null|
