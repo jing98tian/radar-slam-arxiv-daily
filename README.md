@@ -77,6 +77,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699](http://arxiv.org/abs/2411.07699)|null|
+|**2024-11-11**|**XPoint: A Self-Supervised Visual-State-Space based Architecture for Multispectral Image Registration**|Ismail Can Yagmur et.al.|[2411.07430](http://arxiv.org/abs/2411.07430)|**[link](https://github.com/canyagmur/xpoint)**|
 |**2024-11-11**|**Multi-Static Cell-Free Massive MIMO ISAC: Performance Analysis and Power Allocation**|Nhan Thanh Nguyen et.al.|[2411.06747](http://arxiv.org/abs/2411.06747)|null|
 |**2024-11-11**|**DiffSR: Learning Radar Reflectivity Synthesis via Diffusion Model from Satellite Observations**|Xuming He et.al.|[2411.06714](http://arxiv.org/abs/2411.06714)|null|
 |**2024-11-12**|**Estimating the strength of Lorentzian distribution in non-commutative geometry by solar system tests**|Rui-Bo Wang et.al.|[2411.06628](http://arxiv.org/abs/2411.06628)|null|
