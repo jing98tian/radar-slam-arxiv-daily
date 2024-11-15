@@ -68,6 +68,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-14**|**ISAC Super-Resolution Receiver via Lifted Atomic Norm Minimization**|Iman Valiulahi et.al.|[2411.09495](http://arxiv.org/abs/2411.09495)|null|
+|**2024-11-14**|**Noncontact Multi-Point Vital Sign Monitoring with mmWave MIMO Radar**|Wei Ren et.al.|[2411.09201](http://arxiv.org/abs/2411.09201)|null|
+|**2024-11-14**|**Performance Boundaries and Tradeoffs in Super-Resolution Imaging Technologies for Space Targets**|XiaoLe He et.al.|[2411.09155](http://arxiv.org/abs/2411.09155)|null|
+|**2024-11-14**|**STAR-RIS Enabled ISAC Systems: Joint Rate Splitting and Beamforming Optimization**|Yuan Liu et.al.|[2411.09154](http://arxiv.org/abs/2411.09154)|null|
 |**2024-11-13**|**V2X-R: Cooperative LiDAR-4D Radar Fusion for 3D Object Detection with Denoising Diffusion**|Xun Huang et.al.|[2411.08402](http://arxiv.org/abs/2411.08402)|**[link](https://github.com/ylwhxht/v2x-r)**|
 |**2024-11-12**|**Well-posedness of a Variable-Exponent Telegraph Equation Applied to Image Despeckling**|Sudeb Majee et.al.|[2411.08175](http://arxiv.org/abs/2411.08175)|null|
 |**2024-11-12**|**RINO: Accurate, Robust Radar-Inertial Odometry with Non-Iterative Estimation**|Shuocheng Yang et.al.|[2411.07699](http://arxiv.org/abs/2411.07699)|null|
