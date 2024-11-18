@@ -77,6 +77,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293](http://arxiv.org/abs/2411.10293)|null|
+|**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[2411.10291](http://arxiv.org/abs/2411.10291)|null|
+|**2024-11-15**|**A Random Process Model Useful for Describing Radar Clutter**|K. James Sangston et.al.|[2411.10263](http://arxiv.org/abs/2411.10263)|null|
+|**2024-11-15**|**Architecture Proposal for 6G Systems Integrating Sensing and Communication**|Peter Gersing et.al.|[2411.10138](http://arxiv.org/abs/2411.10138)|null|
+|**2024-11-15**|**EveGuard: Defeating Vibration-based Side-Channel Eavesdropping with Audio Adversarial Perturbations**|Jung-Woo Chang et.al.|[2411.10034](http://arxiv.org/abs/2411.10034)|null|
+|**2024-11-15**|**mmSpyVR: Exploiting mmWave Radar for Penetrating Obstacles to Uncover Privacy Vulnerability of Virtual Reality**|Luoyu Mei et.al.|[2411.09914](http://arxiv.org/abs/2411.09914)|**[link](https://github.com/luoyumei1-a/mmspyvr)**|
+|**2024-11-14**|**Virtual Array for Dual Function MIMO Radar Communication Systems using OTFS Waveforms**|Kailong Wang et.al.|[2411.09777](http://arxiv.org/abs/2411.09777)|null|
+|**2024-11-14**|**Assessing the detection of the Yarkovsky effect using Gaia DR3 and FPR catalogues**|Karolina Dziadura et.al.|[2411.09750](http://arxiv.org/abs/2411.09750)|null|
 |**2024-11-14**|**ISAC Super-Resolution Receiver via Lifted Atomic Norm Minimization**|Iman Valiulahi et.al.|[2411.09495](http://arxiv.org/abs/2411.09495)|null|
 |**2024-11-14**|**Noncontact Multi-Point Vital Sign Monitoring with mmWave MIMO Radar**|Wei Ren et.al.|[2411.09201](http://arxiv.org/abs/2411.09201)|null|
 |**2024-11-14**|**Performance Boundaries and Tradeoffs in Super-Resolution Imaging Technologies for Space Targets**|XiaoLe He et.al.|[2411.09155](http://arxiv.org/abs/2411.09155)|null|
