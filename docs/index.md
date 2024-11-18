@@ -82,8 +82,8 @@ layout: default
 |**2024-11-10**|**Enabling ISAC in Real World: Beam-Based User Identification with Machine Learning**|Umut Demirhan et.al.|[2411.06578](http://arxiv.org/abs/2411.06578)|null|
 |**2024-11-10**|**SuperResolution Radar Gesture Recognitio**|Netanel Blumenfeld et.al.|[2411.06410](http://arxiv.org/abs/2411.06410)|null|
 |**2024-11-09**|**Low Dynamic Range for RIS-aided Bistatic Integrated Sensing and Communication**|Ahmad Bazzi et.al.|[2411.06117](http://arxiv.org/abs/2411.06117)|null|
-|**2024-11-08**|**MIPD: A Multi-sensory Interactive Perception Dataset for Embodied Intelligent Driving**|Zhiwei Li et.al.|[2411.05881](http://arxiv.org/abs/2411.05881)|null|
-|**2024-11-05**|**Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey**|Zhongling Huang et.al.|[2411.05027](http://arxiv.org/abs/2411.05027)|null|
+|**2024-11-08**|**MIPD: A Multi-sensory Interactive Perception Dataset for Embodied Intelligent Driving**|Zhiwei Li et.al.|[2411.05881](http://arxiv.org/abs/2411.05881)|**[link](https://github.com/BUCT-IUSRC/Dataset__MIPD)**|
+|**2024-11-05**|**Generative Artificial Intelligence Meets Synthetic Aperture Radar: A Survey**|Zhongling Huang et.al.|[2411.05027](http://arxiv.org/abs/2411.05027)|**[link](https://github.com/xai4sar/genaixsar)**|
 |**2024-11-07**|**Progressive Multi-Level Alignments for Semi-Supervised Domain Adaptation SAR Target Recognition Using Simulated Data**|Xinzheng Zhang et.al.|[2411.04711](http://arxiv.org/abs/2411.04711)|null|
 |**2024-11-07**|**Reciprocal Point Learning Network with Large Electromagnetic Kernel for SAR Open-Set Recognition**|Xiayang Xiao et.al.|[2411.04693](http://arxiv.org/abs/2411.04693)|null|
 |**2024-11-06**|**Urban Flood Mapping Using Satellite Synthetic Aperture Radar Data: A Review of Characteristics, Approaches and Datasets**|Jie Zhao et.al.|[2411.04153](http://arxiv.org/abs/2411.04153)|null|
