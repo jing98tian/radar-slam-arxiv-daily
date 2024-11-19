@@ -68,6 +68,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-18**|**FERT: Real-Time Facial Expression Recognition with Short-Range FMCW Radar**|Sabri Mustafa Kahya et.al.|[2411.11619](http://arxiv.org/abs/2411.11619)|null|
+|**2024-11-18**|**The ADUULM-360 Dataset -- A Multi-Modal Dataset for Depth Estimation in Adverse Weather**|Markus Schön et.al.|[2411.11455](http://arxiv.org/abs/2411.11455)|null|
+|**2024-11-17**|**V2X-Radar: A Multi-modal Dataset with 4D Radar for Cooperative Perception**|Lei Yang et.al.|[2411.10962](http://arxiv.org/abs/2411.10962)|null|
+|**2024-11-17**|**Beamforming Design and Multi-User Scheduling in Transmissive RIS Enabled Distributed Cooperative ISAC Networks with RSMA**|Ziwei Liu et.al.|[2411.10960](http://arxiv.org/abs/2411.10960)|null|
+|**2024-11-16**|**C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation**|Jeonghyeok Do et.al.|[2411.10788](http://arxiv.org/abs/2411.10788)|null|
+|**2024-11-16**|**Performance Analysis and Power Allocation for Massive MIMO ISAC Systems**|Nhan Thanh Nguyen et.al.|[2411.10723](http://arxiv.org/abs/2411.10723)|null|
 |**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293](http://arxiv.org/abs/2411.10293)|null|
 |**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[2411.10291](http://arxiv.org/abs/2411.10291)|null|
 |**2024-11-15**|**A Random Process Model Useful for Describing Radar Clutter**|K. James Sangston et.al.|[2411.10263](http://arxiv.org/abs/2411.10263)|null|
