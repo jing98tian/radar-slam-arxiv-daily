@@ -69,6 +69,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311](http://arxiv.org/abs/2411.13311)|**[link](https://github.com/tue-mps/refnet)**|
+|**2024-11-20**|**Simultaneous Communication and Tracking using Fused Bistatic Measurements**|Avinash M et.al.|[2411.13201](http://arxiv.org/abs/2411.13201)|null|
+|**2024-11-20**|**Coexistence of Radar and Communication with Rate-Splitting Wireless Access**|Anup Mishra et.al.|[2411.13188](http://arxiv.org/abs/2411.13188)|null|
+|**2024-11-20**|**Machine learned reconstruction of tsunami dynamics from sparse observations**|Edward McDugald et.al.|[2411.12948](http://arxiv.org/abs/2411.12948)|null|
+|**2024-11-19**|**Tree Species Classification using Machine Learning and 3D Tomographic SAR -- a case study in Northern Europe**|Colverd Grace et.al.|[2411.12897](http://arxiv.org/abs/2411.12897)|null|
 |**2024-11-19**|**OrigamiPlot: An R Package and Shiny Web App Enhanced Visualizations for Multivariate Data**|Yiwen Lu et.al.|[2411.12674](http://arxiv.org/abs/2411.12674)|null|
 |**2024-11-19**|**ISAC Super-Resolution Receivers: The Effect of Different Dictionary Matrices**|Iman Valiulahi et.al.|[2411.12672](http://arxiv.org/abs/2411.12672)|null|
 |**2024-11-19**|**Leadsee-Precip: A Deep Learning Diagnostic Model for Precipitation**|Weiwen Ji et.al.|[2411.12640](http://arxiv.org/abs/2411.12640)|null|
