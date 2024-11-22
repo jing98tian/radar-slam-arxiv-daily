@@ -78,6 +78,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-21**|**Quantum illumination advantage in quantum Doppler radar**|Rongyu Wei et.al.|[2411.14414](http://arxiv.org/abs/2411.14414)|null|
+|**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311](http://arxiv.org/abs/2411.13311)|**[link](https://github.com/tue-mps/refnet)**|
 |**2024-11-20**|**Simultaneous Communication and Tracking using Fused Bistatic Measurements**|Avinash M et.al.|[2411.13201](http://arxiv.org/abs/2411.13201)|null|
 |**2024-11-20**|**Coexistence of Radar and Communication with Rate-Splitting Wireless Access**|Anup Mishra et.al.|[2411.13188](http://arxiv.org/abs/2411.13188)|null|
