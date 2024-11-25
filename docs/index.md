@@ -69,6 +69,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Efficient Radar Modulation Recognition via a Noise-Aware Ensemble Neural Network**|Do-Hyun Park et.al.|[2411.15104](http://arxiv.org/abs/2411.15104)|null|
+|**2024-11-22**|**Resolution-Adaptive Micro-Doppler Spectrogram for Human Activity Recognition**|Do-Hyun Park et.al.|[2411.15057](http://arxiv.org/abs/2411.15057)|null|
+|**2024-11-22**|**MSSF: A 4D Radar and Camera Fusion Framework With Multi-Stage Sampling for 3D Object Detection in Autonomous Driving**|Hongsi Liu et.al.|[2411.15016](http://arxiv.org/abs/2411.15016)|null|
+|**2024-11-22**|**Fast High-Quality Enhanced Imaging Algorithm for Layered Dielectric Targets Based on MMW MIMO-SAR System**|Xu Chen et.al.|[2411.14837](http://arxiv.org/abs/2411.14837)|null|
+|**2024-11-22**|**mmWave Radar for Sit-to-Stand Analysis: A Comparative Study with Wearables and Kinect**|Shuting Hu et.al.|[2411.14656](http://arxiv.org/abs/2411.14656)|null|
 |**2024-11-21**|**Quantum illumination advantage in quantum Doppler radar**|Rongyu Wei et.al.|[2411.14414](http://arxiv.org/abs/2411.14414)|null|
 |**2024-11-21**|**Multitask Learning for SAR Ship Detection with Gaussian-Mask Joint Segmentation**|Ming Zhao et.al.|[2411.13847](http://arxiv.org/abs/2411.13847)|null|
 |**2024-11-20**|**A Resource Efficient Fusion Network for Object Detection in Bird's-Eye View using Camera and Raw Radar Data**|Kavin Chandrasekaran et.al.|[2411.13311](http://arxiv.org/abs/2411.13311)|**[link](https://github.com/tue-mps/refnet)**|
