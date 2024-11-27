@@ -78,6 +78,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**A Digital Engineering Approach to Testing Modern AI and Complex Systems**|Joseph R. Guerci et.al.|[2411.17479](http://arxiv.org/abs/2411.17479)|null|
+|**2024-11-26**|**Loosely coupled 4D-Radar-Inertial Odometry for Ground Robots**|Lucia Coto Elena et.al.|[2411.17289](http://arxiv.org/abs/2411.17289)|**[link](https://github.com/robotics-upo/4D-Radar-Odom)**|
+|**2024-11-26**|**Mono-drive single-sideband modulation via optical delay lines on thin-film lithium niobate**|Yikun Chen et.al.|[2411.17070](http://arxiv.org/abs/2411.17070)|null|
+|**2024-11-25**|**Performance Evaluation of Deep Learning-Based State Estimation: A Comparative Study of KalmanNet**|Arian Mehrfard et.al.|[2411.16930](http://arxiv.org/abs/2411.16930)|null|
 |**2024-11-24**|**A Tunable Despeckling Neural Network Stabilized via Diffusion Equation**|Yi Ran et.al.|[2411.15921](http://arxiv.org/abs/2411.15921)|null|
 |**2024-11-24**|**Near-Range Environmental Perception for Inland Waterway Vessels: A Comparative Study of LiDAR and Automotive FMCW RADAR Sensors**|R. Herrmann et.al.|[2411.15901](http://arxiv.org/abs/2411.15901)|null|
 |**2024-11-24**|**Text-Guided Coarse-to-Fine Fusion Network for Robust Remote Sensing Visual Question Answering**|Zhicheng Zhao et.al.|[2411.15770](http://arxiv.org/abs/2411.15770)|null|
