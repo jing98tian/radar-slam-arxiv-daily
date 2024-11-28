@@ -69,6 +69,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Target Tracking: Statistics of Successive Successful Target Detection in Automotive Radar Networks**|Gourab Ghatak et.al.|[2411.18252](http://arxiv.org/abs/2411.18252)|null|
 |**2024-11-26**|**A Digital Engineering Approach to Testing Modern AI and Complex Systems**|Joseph R. Guerci et.al.|[2411.17479](http://arxiv.org/abs/2411.17479)|null|
 |**2024-11-26**|**Loosely coupled 4D-Radar-Inertial Odometry for Ground Robots**|Lucia Coto Elena et.al.|[2411.17289](http://arxiv.org/abs/2411.17289)|**[link](https://github.com/robotics-upo/4D-Radar-Odom)**|
 |**2024-11-26**|**Mono-drive single-sideband modulation via optical delay lines on thin-film lithium niobate**|Yikun Chen et.al.|[2411.17070](http://arxiv.org/abs/2411.17070)|null|
