@@ -69,6 +69,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
+|**2024-11-28**|**Skeleton Detection Using Dual Radars with Integration of Dual-View CNN Models and mmPose**|Masaharu Kodama et.al.|[2411.19251](http://arxiv.org/abs/2411.19251)|null|
+|**2024-11-28**|**Dual-functional microwave photonic system for concurrent radar and secure communication via radar signal masking**|Taixia Shi et.al.|[2411.18851](http://arxiv.org/abs/2411.18851)|null|
 |**2024-11-27**|**Target Tracking: Statistics of Successive Successful Target Detection in Automotive Radar Networks**|Gourab Ghatak et.al.|[2411.18252](http://arxiv.org/abs/2411.18252)|null|
 |**2024-11-26**|**A Digital Engineering Approach to Testing Modern AI and Complex Systems**|Joseph R. Guerci et.al.|[2411.17479](http://arxiv.org/abs/2411.17479)|null|
 |**2024-11-26**|**Loosely coupled 4D-Radar-Inertial Odometry for Ground Robots**|Lucia Coto Elena et.al.|[2411.17289](http://arxiv.org/abs/2411.17289)|**[link](https://github.com/robotics-upo/4D-Radar-Odom)**|
