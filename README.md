@@ -42,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-02**|**LiDAR SLAMMOT based on Confidence-guided Data Association**|Susu Fang et.al.|[2412.01041](http://arxiv.org/abs/2412.01041)|null|
 |**2024-11-19**|**LiV-GS: LiDAR-Vision Integration for 3D Gaussian Splatting SLAM in Outdoor Environments**|Renxiang Xiao et.al.|[2411.12185](http://arxiv.org/abs/2411.12185)|null|
 |**2024-10-03**|**LiDAR Inertial Odometry And Mapping Using Learned Registration-Relevant Features**|Zihao Dong et.al.|[2410.02961](http://arxiv.org/abs/2410.02961)|null|
 |**2024-09-27**|**FlashMix: Fast Map-Free LiDAR Localization via Feature Mixing and Contrastive-Constrained Accelerated Training**|Raktim Gautam Goswami et.al.|[2410.00702](http://arxiv.org/abs/2410.00702)|**[link](https://github.com/raktimgg/flashmix)**|
@@ -78,6 +79,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-03**|**3D Face Reconstruction From Radar Images**|Valentin Braeutigam et.al.|[2412.02403](http://arxiv.org/abs/2412.02403)|null|
+|**2024-12-03**|**Radar-based Measurement of the Body Movements of Multiple Students in Classroom Environments**|Yu Oshima et.al.|[2412.02184](http://arxiv.org/abs/2412.02184)|null|
+|**2024-12-03**|**ASANet: Asymmetric Semantic Aligning Network for RGB and SAR image land cover classification**|Pan Zhang et.al.|[2412.02044](http://arxiv.org/abs/2412.02044)|**[link](https://github.com/whu-pzhang/asanet)**|
+|**2024-12-01**|**Quantum Information Processing, Sensing and Communications: Their Myths, Realities and Futures**|Lajos Hanzo et.al.|[2412.00987](http://arxiv.org/abs/2412.00987)|null|
+|**2024-12-03**|**Tomographic SAR Reconstruction for Forest Height Estimation**|Grace Colverd et.al.|[2412.00903](http://arxiv.org/abs/2412.00903)|null|
+|**2024-12-01**|**Dynamic Interference Suppression for Radar and Communication Cohabitation**|Tan Le et.al.|[2412.00697](http://arxiv.org/abs/2412.00697)|null|
+|**2024-11-30**|**A conditional Generative Adversarial network model for the Weather4Cast 2024 Challenge**|Atharva Deshpande et.al.|[2412.00451](http://arxiv.org/abs/2412.00451)|null|
+|**2024-11-30**|**Fine Grained Analysis and Optimization of Large Scale Automotive Radar Networks**|Mohammad Taha Shah et.al.|[2412.00441](http://arxiv.org/abs/2412.00441)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
 |**2024-11-28**|**Skeleton Detection Using Dual Radars with Integration of Dual-View CNN Models and mmPose**|Masaharu Kodama et.al.|[2411.19251](http://arxiv.org/abs/2411.19251)|null|
 |**2024-11-28**|**Dual-functional microwave photonic system for concurrent radar and secure communication via radar signal masking**|Taixia Shi et.al.|[2411.18851](http://arxiv.org/abs/2411.18851)|null|
