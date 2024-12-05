@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.04
+## Updated on 2024.12.05
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -75,7 +75,7 @@ layout: default
 |**2024-12-03**|**ASANet: Asymmetric Semantic Aligning Network for RGB and SAR image land cover classification**|Pan Zhang et.al.|[2412.02044](http://arxiv.org/abs/2412.02044)|**[link](https://github.com/whu-pzhang/asanet)**|
 |**2024-12-01**|**Quantum Information Processing, Sensing and Communications: Their Myths, Realities and Futures**|Lajos Hanzo et.al.|[2412.00987](http://arxiv.org/abs/2412.00987)|null|
 |**2024-12-03**|**Tomographic SAR Reconstruction for Forest Height Estimation**|Grace Colverd et.al.|[2412.00903](http://arxiv.org/abs/2412.00903)|null|
-|**2024-12-01**|**Dynamic Interference Suppression for Radar and Communication Cohabitation**|Tan Le et.al.|[2412.00697](http://arxiv.org/abs/2412.00697)|null|
+|**2024-12-04**|**DISCO-Dynamic Interference Suppression for Radar and Communication Cohabitation**|Tan Le et.al.|[2412.00697](http://arxiv.org/abs/2412.00697)|null|
 |**2024-11-30**|**A conditional Generative Adversarial network model for the Weather4Cast 2024 Challenge**|Atharva Deshpande et.al.|[2412.00451](http://arxiv.org/abs/2412.00451)|null|
 |**2024-11-30**|**Fine Grained Analysis and Optimization of Large Scale Automotive Radar Networks**|Mohammad Taha Shah et.al.|[2412.00441](http://arxiv.org/abs/2412.00441)|null|
 |**2024-11-29**|**SpaRC: Sparse Radar-Camera Fusion for 3D Object Detection**|Philipp Wolters et.al.|[2411.19860](http://arxiv.org/abs/2411.19860)|null|
