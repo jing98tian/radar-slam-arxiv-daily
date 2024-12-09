@@ -80,6 +80,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-06**|**Compound Gaussian Radar Clutter Model With Positive Tempered Alpha-Stable Texture**|Xingxing Liao et.al.|[2412.05174](http://arxiv.org/abs/2412.05174)|null|
+|**2024-12-06**|**A Practical Examination of AI-Generated Text Detectors for Large Language Models**|Brian Tufts et.al.|[2412.05139](http://arxiv.org/abs/2412.05139)|null|
+|**2024-12-06**|**Hard Math -- Easy UVM: Pragmatic solutions for verifying hardware algorithms using UVM**|Mark Litterick et.al.|[2412.04919](http://arxiv.org/abs/2412.04919)|null|
+|**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821](http://arxiv.org/abs/2412.04821)|null|
+|**2024-12-06**|**Utilizing WaveFunctionCollapse Algorithm for Procedural Generation of Terrains using Remotely Sensed Elevation Data**|Seyedparsa Dajkhosh et.al.|[2412.04688](http://arxiv.org/abs/2412.04688)|null|
+|**2024-12-05**|**Generalized Recorrupted-to-Recorrupted: Self-Supervised Learning Beyond Gaussian Noise**|Brayan Monroy et.al.|[2412.04648](http://arxiv.org/abs/2412.04648)|null|
 |**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
 |**2024-12-03**|**3D Face Reconstruction From Radar Images**|Valentin Braeutigam et.al.|[2412.02403](http://arxiv.org/abs/2412.02403)|null|
 |**2024-12-03**|**Radar-based Measurement of the Body Movements of Multiple Students in Classroom Environments**|Yu Oshima et.al.|[2412.02184](http://arxiv.org/abs/2412.02184)|null|
