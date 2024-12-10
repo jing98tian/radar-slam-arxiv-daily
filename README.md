@@ -80,6 +80,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-09**|**Cramér-Rao Bound Analysis and Beamforming Design for 3D Extended Target in ISAC: From Optimization to Learning Approaches**|Yiqiu Wang et.al.|[2412.06353](http://arxiv.org/abs/2412.06353)|null|
+|**2024-12-09**|**Reconfigurable Holographic Surface-aided Distributed MIMO Radar Systems**|Qian Li et.al.|[2412.06279](http://arxiv.org/abs/2412.06279)|null|
+|**2024-12-08**|**A Novel Technosignature Search in the Breakthrough Listen Green Bank Telescope Archive**|Caleb Painter et.al.|[2412.05786](http://arxiv.org/abs/2412.05786)|null|
+|**2024-12-07**|**DM-SBL: Channel Estimation under Structured Interference**|Yifan Wang et.al.|[2412.05582](http://arxiv.org/abs/2412.05582)|null|
 |**2024-12-06**|**Compound Gaussian Radar Clutter Model With Positive Tempered Alpha-Stable Texture**|Xingxing Liao et.al.|[2412.05174](http://arxiv.org/abs/2412.05174)|null|
 |**2024-12-06**|**A Practical Examination of AI-Generated Text Detectors for Large Language Models**|Brian Tufts et.al.|[2412.05139](http://arxiv.org/abs/2412.05139)|null|
 |**2024-12-06**|**Hard Math -- Easy UVM: Pragmatic solutions for verifying hardware algorithms using UVM**|Mark Litterick et.al.|[2412.04919](http://arxiv.org/abs/2412.04919)|null|
