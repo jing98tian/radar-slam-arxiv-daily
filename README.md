@@ -81,6 +81,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-11**|**DAKD: Data Augmentation and Knowledge Distillation using Diffusion Models for SAR Oil Spill Segmentation**|Jaeho Moon et.al.|[2412.08116](http://arxiv.org/abs/2412.08116)|null|
 |**2024-12-10**|**DSFEC: Efficient and Deployable Deep Radar Object Detection**|Gayathri Dandugula et.al.|[2412.07411](http://arxiv.org/abs/2412.07411)|null|
 |**2024-12-10**|**Detection with Uncertainty in Target Direction for Dual Functional Radar and Communication Systems**|Mateen Ashraf et.al.|[2412.07245](http://arxiv.org/abs/2412.07245)|null|
 |**2024-12-09**|**Cramér-Rao Bound Analysis and Beamforming Design for 3D Extended Target in ISAC: From Optimization to Learning Approaches**|Yiqiu Wang et.al.|[2412.06353](http://arxiv.org/abs/2412.06353)|null|
