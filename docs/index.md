@@ -83,7 +83,7 @@ layout: default
 |**2024-12-06**|**A Practical Examination of AI-Generated Text Detectors for Large Language Models**|Brian Tufts et.al.|[2412.05139](http://arxiv.org/abs/2412.05139)|null|
 |**2024-12-06**|**Hard Math -- Easy UVM: Pragmatic solutions for verifying hardware algorithms using UVM**|Mark Litterick et.al.|[2412.04919](http://arxiv.org/abs/2412.04919)|null|
 |**2024-12-06**|**CCS: Continuous Learning for Customized Incremental Wireless Sensing Services**|Qunhang Fu et.al.|[2412.04821](http://arxiv.org/abs/2412.04821)|null|
-|**2024-12-06**|**Utilizing WaveFunctionCollapse Algorithm for Procedural Generation of Terrains using Remotely Sensed Elevation Data**|Seyedparsa Dajkhosh et.al.|[2412.04688](http://arxiv.org/abs/2412.04688)|null|
+|**2024-12-06**|**Utilizing WaveFunctionCollapse Algorithm for Procedural Generation of Terrains using Remotely Sensed Elevation Data**|Seyedparsa Dajkhosh et.al.|[2412.04688](http://arxiv.org/abs/2412.04688)|**[link](https://github.com/parsadaj/wavefunctioncollapse)**|
 |**2024-12-05**|**Generalized Recorrupted-to-Recorrupted: Self-Supervised Learning Beyond Gaussian Noise**|Brayan Monroy et.al.|[2412.04648](http://arxiv.org/abs/2412.04648)|null|
 |**2024-12-05**|**MOANA: Multi-Radar Dataset for Maritime Odometry and Autonomous Navigation Application**|Hyesu Jang et.al.|[2412.03887](http://arxiv.org/abs/2412.03887)|null|
 |**2024-12-03**|**3D Face Reconstruction From Radar Images**|Valentin Braeutigam et.al.|[2412.02403](http://arxiv.org/abs/2412.02403)|null|
@@ -130,7 +130,7 @@ layout: default
 |**2024-11-17**|**Beamforming Design and Multi-User Scheduling in Transmissive RIS Enabled Distributed Cooperative ISAC Networks with RSMA**|Ziwei Liu et.al.|[2411.10960](http://arxiv.org/abs/2411.10960)|null|
 |**2024-11-16**|**C-DiffSET: Leveraging Latent Diffusion for SAR-to-EO Image Translation with Confidence-Guided Reliable Object Generation**|Jeonghyeok Do et.al.|[2411.10788](http://arxiv.org/abs/2411.10788)|**[link](https://github.com/KAIST-VICLab/C-DiffSET_site)**|
 |**2024-11-16**|**Performance Analysis and Power Allocation for Massive MIMO ISAC Systems**|Nhan Thanh Nguyen et.al.|[2411.10723](http://arxiv.org/abs/2411.10723)|null|
-|**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293](http://arxiv.org/abs/2411.10293)|null|
+|**2024-11-15**|**RETR: Multi-View Radar Detection Transformer for Indoor Perception**|Ryoma Yataka et.al.|[2411.10293](http://arxiv.org/abs/2411.10293)|**[link](https://github.com/merlresearch/radar-detection-transformer)**|
 |**2024-11-15**|**Moving Forward: A Review of Autonomous Driving Software and Hardware Systems**|Xu Wang et.al.|[2411.10291](http://arxiv.org/abs/2411.10291)|null|
 |**2024-11-15**|**A Random Process Model Useful for Describing Radar Clutter**|K. James Sangston et.al.|[2411.10263](http://arxiv.org/abs/2411.10263)|null|
 |**2024-11-15**|**Architecture Proposal for 6G Systems Integrating Sensing and Communication**|Peter Gersing et.al.|[2411.10138](http://arxiv.org/abs/2411.10138)|null|
@@ -162,7 +162,7 @@ layout: default
 |**2024-11-05**|**Rainfall regression from C-band Synthetic Aperture Radar using Multi-Task Generative Adversarial Networks**|Aurélien Colin et.al.|[2411.03480](http://arxiv.org/abs/2411.03480)|null|
 |**2024-11-08**|**Statistical Radar Cross Section Characterization for Indoor Factory Targets**|Ali Waqar Azim et.al.|[2411.03206](http://arxiv.org/abs/2411.03206)|null|
 |**2024-11-05**|**Newtonized Orthogonal Matching Pursuit for High-Resolution Target Detection in Sparse OFDM ISAC Systems**|Syed Najaf Haider Shah et.al.|[2411.03191](http://arxiv.org/abs/2411.03191)|null|
-|**2024-11-05**|**CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**|Jisong Kim et.al.|[2411.03013](http://arxiv.org/abs/2411.03013)|null|
+|**2024-11-05**|**CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection**|Jisong Kim et.al.|[2411.03013](http://arxiv.org/abs/2411.03013)|**[link](https://github.com/mjseong0414/CRT-Fusion)**|
 |**2024-11-05**|**Super-resolution generalized eigenvalue method with truly sub-Nyquist sampling**|Baoguo Liu et.al.|[2411.02700](http://arxiv.org/abs/2411.02700)|null|
 |**2024-11-04**|**SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.|[2411.02220](http://arxiv.org/abs/2411.02220)|null|
 |**2024-11-07**|**Differentially Private Integrated Decision Gradients (IDG-DP) for Radar-based Human Activity Recognition**|Idris Zakariyya et.al.|[2411.02099](http://arxiv.org/abs/2411.02099)|**[link](https://github.com/izakariyya/idg-dp)**|
