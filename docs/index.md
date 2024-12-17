@@ -72,6 +72,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-16**|**Rate-Splitting Multiple Access for Integrated Sensing and Communications: A First Experimental Study**|Xinze Lyu et.al.|[2412.12037](http://arxiv.org/abs/2412.12037)|null|
+|**2024-12-16**|**Soil moisture estimation of bare and vegetation-covered areas using a P/L/C-band SAR**|Gian Oré et.al.|[2412.11874](http://arxiv.org/abs/2412.11874)|null|
+|**2024-12-16**|**Ant Nest Detection Using Underground P-Band TomoSAR**|Gian Oré et.al.|[2412.11865](http://arxiv.org/abs/2412.11865)|null|
+|**2024-12-16**|**Multimodal LLM for Intelligent Transportation Systems**|Dexter Le et.al.|[2412.11683](http://arxiv.org/abs/2412.11683)|null|
+|**2024-12-16**|**RADARSAT Constellation Mission Compact Polarisation SAR Data for Burned Area Mapping with Deep Learning**|Yu Zhao et.al.|[2412.11561](http://arxiv.org/abs/2412.11561)|null|
+|**2024-12-16**|**On-the-Fly Interrogation of Mobile Passive Sensors from the Fusion of Optical and Radar Data**|Ali Hadj Djilani et.al.|[2412.11558](http://arxiv.org/abs/2412.11558)|null|
+|**2024-12-16**|**HGSFusion: Radar-Camera Fusion with Hybrid Generation and Synchronization for 3D Object Detection**|Zijian Gu et.al.|[2412.11489](http://arxiv.org/abs/2412.11489)|**[link](https://github.com/garfield-cpp/hgsfusion)**|
+|**2024-12-16**|**Data-driven Precipitation Nowcasting Using Satellite Imagery**|Young-Jae Park et.al.|[2412.11480](http://arxiv.org/abs/2412.11480)|null|
+|**2024-12-15**|**Reconfigurable Intelligent Surface-Aided Secure Integrated Radar and Communication Systems**|Tong-Xing Zheng et.al.|[2412.11020](http://arxiv.org/abs/2412.11020)|null|
+|**2024-12-14**|**OmniHD-Scenes: A Next-Generation Multimodal Dataset for Autonomous Driving**|Lianqing Zheng et.al.|[2412.10734](http://arxiv.org/abs/2412.10734)|null|
 |**2024-12-13**|**A model-based approach for transforming InSAR-derived vertical land motion from a local to a global reference frame**|Mahmoud Reshadati et.al.|[2412.10282](http://arxiv.org/abs/2412.10282)|null|
 |**2024-12-11**|**DAKD: Data Augmentation and Knowledge Distillation using Diffusion Models for SAR Oil Spill Segmentation**|Jaeho Moon et.al.|[2412.08116](http://arxiv.org/abs/2412.08116)|null|
 |**2024-12-10**|**DSFEC: Efficient and Deployable Deep Radar Object Detection**|Gayathri Dandugula et.al.|[2412.07411](http://arxiv.org/abs/2412.07411)|null|
