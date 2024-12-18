@@ -72,6 +72,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799](http://arxiv.org/abs/2412.12799)|**[link](https://github.com/liyih/rctrans)**|
+|**2024-12-17**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725](http://arxiv.org/abs/2412.12725)|null|
+|**2024-12-17**|**Photonic Terahertz Phased Array**|Li Niu et.al.|[2412.12623](http://arxiv.org/abs/2412.12623)|null|
+|**2024-12-17**|**Multi-Domain Features Guided Supervised Contrastive Learning for Radar Target Detection**|Junjie Wang et.al.|[2412.12620](http://arxiv.org/abs/2412.12620)|null|
+|**2024-12-17**|**PBVS 2024 Solution: Self-Supervised Learning and Sampling Strategies for SAR Classification in Extreme Long-Tail Distribution**|Yuhyun Kim et.al.|[2412.12565](http://arxiv.org/abs/2412.12565)|null|
+|**2024-12-17**|**A MARL Based Multi-Target Tracking Algorithm Under Jamming Against Radar**|Ziang Wang et.al.|[2412.12547](http://arxiv.org/abs/2412.12547)|null|
 |**2024-12-16**|**Rate-Splitting Multiple Access for Integrated Sensing and Communications: A First Experimental Study**|Xinze Lyu et.al.|[2412.12037](http://arxiv.org/abs/2412.12037)|null|
 |**2024-12-16**|**Soil moisture estimation of bare and vegetation-covered areas using a P/L/C-band SAR**|Gian Oré et.al.|[2412.11874](http://arxiv.org/abs/2412.11874)|null|
 |**2024-12-16**|**Ant Nest Detection Using Underground P-Band TomoSAR**|Gian Oré et.al.|[2412.11865](http://arxiv.org/abs/2412.11865)|null|
