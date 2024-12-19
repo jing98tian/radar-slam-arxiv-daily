@@ -72,6 +72,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-18**|**4D Radar-Inertial Odometry based on Gaussian Modeling and Multi-Hypothesis Scan Matching**|Fernando Amodeo et.al.|[2412.13639](http://arxiv.org/abs/2412.13639)|**[link](https://github.com/robotics-upo/gaussian-rio)**|
+|**2024-12-17**|**RIS-Aided Radar Imaging Utilizing the Virtual Source Principle**|Furkan H. Ilgac et.al.|[2412.13291](http://arxiv.org/abs/2412.13291)|null|
 |**2024-12-17**|**RCTrans: Radar-Camera Transformer via Radar Densifier and Sequential Decoder for 3D Object Detection**|Yiheng Li et.al.|[2412.12799](http://arxiv.org/abs/2412.12799)|**[link](https://github.com/liyih/rctrans)**|
 |**2024-12-17**|**RaCFormer: Towards High-Quality 3D Object Detection via Query-based Radar-Camera Fusion**|Xiaomeng Chu et.al.|[2412.12725](http://arxiv.org/abs/2412.12725)|null|
 |**2024-12-17**|**Photonic Terahertz Phased Array**|Li Niu et.al.|[2412.12623](http://arxiv.org/abs/2412.12623)|null|
