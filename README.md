@@ -42,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513](http://arxiv.org/abs/2412.07513)|null|
 |**2024-12-03**|**SuperLoc: The Key to Robust LiDAR-Inertial Localization Lies in Predicting Alignment Risks**|Shibo Zhao et.al.|[2412.02901](http://arxiv.org/abs/2412.02901)|null|
 |**2024-12-02**|**LiDAR SLAMMOT based on Confidence-guided Data Association**|Susu Fang et.al.|[2412.01041](http://arxiv.org/abs/2412.01041)|null|
@@ -81,6 +82,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-23**|**Dataset for Real-World Human Action Detection Using FMCW mmWave Radar**|Dylan jayabahu et.al.|[2412.17517](http://arxiv.org/abs/2412.17517)|null|
+|**2024-12-23**|**Joint Multitarget Detection and Tracking with mmWave Radar**|Jiang Zhu et.al.|[2412.17211](http://arxiv.org/abs/2412.17211)|null|
+|**2024-12-22**|**Design of Frequency Index Modulated Waveforms for Integrated SAR and Communication on High-Altitude Platforms (HAPs)**|Bang Huang et.al.|[2412.17035](http://arxiv.org/abs/2412.17035)|null|
+|**2024-12-22**|**Graph Learning-based Regional Heavy Rainfall Prediction Using Low-Cost Rain Gauges**|Edwin Salcedo et.al.|[2412.16842](http://arxiv.org/abs/2412.16842)|null|
+|**2024-12-22**|**Technical Report: Towards Spatial Feature Regularization in Deep-Learning-Based Array-SAR Reconstruction**|Yu Ren et.al.|[2412.16828](http://arxiv.org/abs/2412.16828)|null|
+|**2024-12-21**|**Beamspace-based Sensing in Dynamic Joint Communication and Sensing Systems**|D. R. Raghavendra et.al.|[2412.16661](http://arxiv.org/abs/2412.16661)|null|
+|**2024-12-20**|**LiRCDepth: Lightweight Radar-Camera Depth Estimation via Knowledge Distillation and Uncertainty Guidance**|Huawei Sun et.al.|[2412.16380](http://arxiv.org/abs/2412.16380)|null|
 |**2024-12-20**|**iRadar: Synthesizing Millimeter-Waves from Wearable Inertial Inputs for Human Gesture Sensing**|Huanqi Yang et.al.|[2412.15980](http://arxiv.org/abs/2412.15980)|null|
 |**2024-12-20**|**Mask-RadarNet: Enhancing Transformer With Spatial-Temporal Semantic Context for Radar Object Detection in Autonomous Driving**|Yuzhi Wu et.al.|[2412.15595](http://arxiv.org/abs/2412.15595)|null|
 |**2024-12-19**|**EarthDial: Turning Multi-sensory Earth Observations to Interactive Dialogues**|Sagar Soni et.al.|[2412.15190](http://arxiv.org/abs/2412.15190)|null|
