@@ -82,6 +82,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-24**|**OMG-HD: A High-Resolution AI Weather Model for End-to-End Forecasts from Observations**|Pengcheng Zhao et.al.|[2412.18239](http://arxiv.org/abs/2412.18239)|null|
+|**2024-12-24**|**Band Prompting Aided SAR and Multi-Spectral Data Fusion Framework for Local Climate Zone Classification**|Haiyan Lan et.al.|[2412.18235](http://arxiv.org/abs/2412.18235)|null|
+|**2024-12-24**|**SAR Despeckling via Log-Yeo-Johnson Transformation and Sparse Representation**|Xuran Hu et.al.|[2412.18121](http://arxiv.org/abs/2412.18121)|null|
+|**2024-12-23**|**Antenna Health-Aware Selective Beamforming for Hardware-Constrained DFRC Systems II**|Anis Hamadouche et.al.|[2412.17881](http://arxiv.org/abs/2412.17881)|null|
+|**2024-12-23**|**Antenna Health-Aware Selective Beamforming for Hardware-Constrained DFRC Systems I**|Anis Hamadouche et.al.|[2412.17880](http://arxiv.org/abs/2412.17880)|null|
 |**2024-12-23**|**Dataset for Real-World Human Action Detection Using FMCW mmWave Radar**|Dylan jayabahu et.al.|[2412.17517](http://arxiv.org/abs/2412.17517)|null|
 |**2024-12-23**|**Joint Multitarget Detection and Tracking with mmWave Radar**|Jiang Zhu et.al.|[2412.17211](http://arxiv.org/abs/2412.17211)|null|
 |**2024-12-22**|**Design of Frequency Index Modulated Waveforms for Integrated SAR and Communication on High-Altitude Platforms (HAPs)**|Bang Huang et.al.|[2412.17035](http://arxiv.org/abs/2412.17035)|null|
