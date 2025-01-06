@@ -82,6 +82,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-03**|**Light Interaction With a Space-Time-Modulated Josephson Junction Array and Application to Angular-Frequency Beam Multiplexing**|Sajjad Taravati et.al.|[2501.01842](http://arxiv.org/abs/2501.01842)|null|
 |**2025-01-02**|**Quantum Computing for Partition Function Estimation of a Markov Random Field in a Radar Anomaly Detection Problem**|Timothe Presles et.al.|[2501.01154](http://arxiv.org/abs/2501.01154)|null|
 |**2024-12-30**|**Sequential Maximum-Likelihood Estimation of Wideband Polynomial-Phase Signals on Sensor Array**|Kaleb Debre et.al.|[2412.20975](http://arxiv.org/abs/2412.20975)|null|
 |**2024-12-30**|**Generative Deep Synthesis of MIMO Sensing Waveforms with Desired Transmit Beampattern**|Vesa Saarinen et.al.|[2412.20883](http://arxiv.org/abs/2412.20883)|null|
