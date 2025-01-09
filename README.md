@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -36,7 +36,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -78,7 +78,7 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 ## Radar
 
@@ -86,7 +86,7 @@
 |---|---|---|---|---|
 |**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793](http://arxiv.org/abs/2501.03793)|null|
 |**2025-01-07**|**Radar Signal Recognition through Self-Supervised Learning and Domain Adaptation**|Zi Huang et.al.|[2501.03461](http://arxiv.org/abs/2501.03461)|**[link](https://github.com/abcxyzi/radcharssl)**|
-|**2025-01-06**|**A Parallel-plate Capacitor-Effect in Earth's Dayside Ionosphere**|Magnus F Ivarsen et.al.|[2501.03174](http://arxiv.org/abs/2501.03174)|null|
+|**2025-01-08**|**A Parallel-plate Capacitor-Effect in Earth's Dayside Ionosphere**|Magnus F Ivarsen et.al.|[2501.03174](http://arxiv.org/abs/2501.03174)|null|
 |**2025-01-06**|**Benefit evaluation of V2X-enhanced braking in view obstructed crossing use cases**|Jan Zimmermann et.al.|[2501.03069](http://arxiv.org/abs/2501.03069)|null|
 |**2025-01-06**|**Modeling measurements for quantitative imaging subsurface targets**|Arnold Kim et.al.|[2501.02696](http://arxiv.org/abs/2501.02696)|null|
 |**2025-01-05**|**Low RCS High-Gain Broadband Substrate Integrated Waveguide Antenna Based on Elliptical Polarization Conversion Metasurface**|Cuiqin Zhao et.al.|[2501.02536](http://arxiv.org/abs/2501.02536)|null|
@@ -952,7 +952,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20250108>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250109>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

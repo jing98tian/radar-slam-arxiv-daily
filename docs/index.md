@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.08
+## Updated on 2025.01.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -77,7 +77,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-01-07**|**STAR-RIS Aided Dynamic Scatterers Tracking for Integrated Sensing and Communications**|Muye Li et.al.|[2501.03793](http://arxiv.org/abs/2501.03793)|null|
 |**2025-01-07**|**Radar Signal Recognition through Self-Supervised Learning and Domain Adaptation**|Zi Huang et.al.|[2501.03461](http://arxiv.org/abs/2501.03461)|**[link](https://github.com/abcxyzi/radcharssl)**|
-|**2025-01-06**|**A Parallel-plate Capacitor-Effect in Earth's Dayside Ionosphere**|Magnus F Ivarsen et.al.|[2501.03174](http://arxiv.org/abs/2501.03174)|null|
+|**2025-01-08**|**A Parallel-plate Capacitor-Effect in Earth's Dayside Ionosphere**|Magnus F Ivarsen et.al.|[2501.03174](http://arxiv.org/abs/2501.03174)|null|
 |**2025-01-06**|**Benefit evaluation of V2X-enhanced braking in view obstructed crossing use cases**|Jan Zimmermann et.al.|[2501.03069](http://arxiv.org/abs/2501.03069)|null|
 |**2025-01-06**|**Modeling measurements for quantitative imaging subsurface targets**|Arnold Kim et.al.|[2501.02696](http://arxiv.org/abs/2501.02696)|null|
 |**2025-01-05**|**Low RCS High-Gain Broadband Substrate Integrated Waveguide Antenna Based on Elliptical Polarization Conversion Metasurface**|Cuiqin Zhao et.al.|[2501.02536](http://arxiv.org/abs/2501.02536)|null|
