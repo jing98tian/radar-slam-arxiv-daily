@@ -75,6 +75,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-10**|**Enhancing, Refining, and Fusing: Towards Robust Multi-Scale and Dense Ship Detection**|Congxia Zhao et.al.|[2501.06053](http://arxiv.org/abs/2501.06053)|null|
+|**2025-01-10**|**Monitoring of tectonic deformation in the seismic gap of the Mentawai Islands using ALOS-1 and ALOS-2**|Pakhrur Razi et.al.|[2501.06012](http://arxiv.org/abs/2501.06012)|null|
+|**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997](http://arxiv.org/abs/2501.05997)|null|
+|**2025-01-09**|**Approximate Supervised Object Distance Estimation on Unmanned Surface Vehicles**|Benjamin Kiefer et.al.|[2501.05567](http://arxiv.org/abs/2501.05567)|null|
 |**2025-01-09**|**Comparison Study: Glacier Calving Front Delineation in Synthetic Aperture Radar Images With Deep Learning**|Nora Gourmelon et.al.|[2501.05281](http://arxiv.org/abs/2501.05281)|**[link](https://github.com/pcdurham/see_ice)**|
 |**2025-01-09**|**An Algorithmic Approach for Causal Health Equity: A Look at Race Differentials in Intensive Care Unit (ICU) Outcomes**|Drago Plecko et.al.|[2501.05197](http://arxiv.org/abs/2501.05197)|null|
 |**2025-01-08**|**RSAR: Restricted State Angle Resolver and Rotated SAR Benchmark**|Xin Zhang et.al.|[2501.04440](http://arxiv.org/abs/2501.04440)|**[link](https://github.com/zhasion/rsar)**|
