@@ -75,6 +75,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-13**|**SynthSoM: A synthetic intelligent multi-modal sensing-communication dataset for Synesthesia of Machines (SoM)**|Xiang Cheng et.al.|[2501.07459](http://arxiv.org/abs/2501.07459)|null|
+|**2025-01-13**|**PrecipDiff: Leveraging image diffusion models to enhance satellite-based precipitation observations**|Ting-Yu Dai et.al.|[2501.07447](http://arxiv.org/abs/2501.07447)|null|
+|**2025-01-13**|**A4O: All Trigger for One sample**|Duc Anh Vu et.al.|[2501.07192](http://arxiv.org/abs/2501.07192)|null|
+|**2025-01-13**|**Advancing Single-Snapshot DOA Estimation with Siamese Neural Networks for Sparse Linear Arrays**|Ruxin Zheng et.al.|[2501.07008](http://arxiv.org/abs/2501.07008)|**[link](https://github.com/ruxinzh/snns_sla)**|
+|**2025-01-12**|**Robust Phantom-Assisted Framework for Multi-Person Localization and Vital Signs Monitoring Using MIMO FMCW Radar**|Yonathan Eder et.al.|[2501.06755](http://arxiv.org/abs/2501.06755)|null|
+|**2025-01-11**|**Reinforcement Learning for Enhancing Sensing Estimation in Bistatic ISAC Systems with UAV Swarms**|Obed Morrison Atsu et.al.|[2501.06454](http://arxiv.org/abs/2501.06454)|null|
+|**2025-01-11**|**Target Detection in ISAC Systems with Active RISs: A Multi-Perspective Observation Approach**|Shoushuo Zhang et.al.|[2501.06449](http://arxiv.org/abs/2501.06449)|null|
+|**2025-01-10**|**Over-the-Air FEEL with Integrated Sensing: Joint Scheduling and Beamforming Design**|Saba Asaad et.al.|[2501.06334](http://arxiv.org/abs/2501.06334)|null|
 |**2025-01-10**|**Enhancing, Refining, and Fusing: Towards Robust Multi-Scale and Dense Ship Detection**|Congxia Zhao et.al.|[2501.06053](http://arxiv.org/abs/2501.06053)|null|
 |**2025-01-10**|**Monitoring of tectonic deformation in the seismic gap of the Mentawai Islands using ALOS-1 and ALOS-2**|Pakhrur Razi et.al.|[2501.06012](http://arxiv.org/abs/2501.06012)|null|
 |**2025-01-10**|**Minimizing Occlusion Effect on Multi-View Camera Perception in BEV with Multi-Sensor Fusion**|Sanjay Kumar et.al.|[2501.05997](http://arxiv.org/abs/2501.05997)|null|
