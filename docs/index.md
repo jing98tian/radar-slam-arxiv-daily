@@ -75,6 +75,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-14**|**Automotive Elevation Mapping with Interferometric Synthetic Aperture Radar**|Leyla A. Kabuli et.al.|[2501.08495](http://arxiv.org/abs/2501.08495)|null|
+|**2025-01-14**|**FARE: A Deep Learning-Based Framework for Radar-based Face Recognition and Out-of-distribution Detection**|Sabri Mustafa Kahya et.al.|[2501.08440](http://arxiv.org/abs/2501.08440)|null|
 |**2025-01-14**|**SAR Strikes Back: A New Hope for RSVQA**|Lucrezia Tosato et.al.|[2501.08131](http://arxiv.org/abs/2501.08131)|null|
 |**2025-01-14**|**A resource management approach for concurrent operation of RF functionalities**|Pascal Marquardt et.al.|[2501.07981](http://arxiv.org/abs/2501.07981)|null|
 |**2025-01-14**|**Cloud Removal With PolSAR-Optical Data Fusion Using A Two-Flow Residual Network**|Yuxi Wang et.al.|[2501.07901](http://arxiv.org/abs/2501.07901)|null|
