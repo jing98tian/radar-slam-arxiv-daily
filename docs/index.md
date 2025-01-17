@@ -35,6 +35,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203](http://arxiv.org/abs/2501.09203)|null|
 |**2025-01-05**|**Neural Error Covariance Estimation for Precise LiDAR Localization**|Minoo Dolatabadi et.al.|[2501.02558](http://arxiv.org/abs/2501.02558)|null|
 |**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166](http://arxiv.org/abs/2501.02166)|**[link](https://github.com/sdwyc/rolo)**|
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
@@ -75,6 +76,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597](http://arxiv.org/abs/2501.09597)|null|
+|**2025-01-16**|**Joint Antenna Selection and Beamforming Design for Active RIS-aided ISAC Systems**|Wei Ma et.al.|[2501.09400](http://arxiv.org/abs/2501.09400)|null|
+|**2025-01-16**|**SE-BSFV: Online Subspace Learning based Shadow Enhancement and Background Suppression for ViSAR under Complex Background**|Shangqu Yan et.al.|[2501.09341](http://arxiv.org/abs/2501.09341)|null|
+|**2025-01-15**|**Use of Ground Penetrating Radar to Map the Tree Roots**|Xiaolong Liang et.al.|[2501.09130](http://arxiv.org/abs/2501.09130)|null|
+|**2025-01-15**|**Deep Self-Supervised Disturbance Mapping with the OPERA Sentinel-1 Radiometric Terrain Corrected SAR Backscatter Product**|Harris Hardiman-Mostow et.al.|[2501.09129](http://arxiv.org/abs/2501.09129)|null|
 |**2025-01-14**|**Automotive Elevation Mapping with Interferometric Synthetic Aperture Radar**|Leyla A. Kabuli et.al.|[2501.08495](http://arxiv.org/abs/2501.08495)|null|
 |**2025-01-14**|**FARE: A Deep Learning-Based Framework for Radar-based Face Recognition and Out-of-distribution Detection**|Sabri Mustafa Kahya et.al.|[2501.08440](http://arxiv.org/abs/2501.08440)|null|
 |**2025-01-14**|**SAR Strikes Back: A New Hope for RSVQA**|Lucrezia Tosato et.al.|[2501.08131](http://arxiv.org/abs/2501.08131)|null|
