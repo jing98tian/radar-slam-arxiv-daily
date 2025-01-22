@@ -85,6 +85,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**CCESAR: Coastline Classification-Extraction From SAR Images Using CNN-U-Net Combination**|Vidhu Arora et.al.|[2501.12384](http://arxiv.org/abs/2501.12384)|null|
+|**2025-01-21**|**Sum Rate Enhancement using Machine Learning for Semi-Self Sensing Hybrid RIS-Enabled ISAC in THz Bands**|Sara Farrag Mobarak et.al.|[2501.12353](http://arxiv.org/abs/2501.12353)|null|
+|**2025-01-21**|**Bayesian Despeckling of Structured Sources**|Ali Zafari et.al.|[2501.11860](http://arxiv.org/abs/2501.11860)|null|
+|**2025-01-20**|**Integrated Long-range Sensing and Communications in Multi Target Scenarios using CP-OFDM**|Benedikt Geiger et.al.|[2501.11591](http://arxiv.org/abs/2501.11591)|null|
+|**2025-01-20**|**Joint Optimization of Geometric and Probabilistic Constellation Shaping for OFDM-ISAC Systems**|Benedikt Geiger et.al.|[2501.11583](http://arxiv.org/abs/2501.11583)|null|
+|**2025-01-20**|**Automatic Labelling & Semantic Segmentation with 4D Radar Tensors**|Botao Sun et.al.|[2501.11351](http://arxiv.org/abs/2501.11351)|null|
+|**2025-01-20**|**Physics-Informed Machine Learning for Efficient Reconfigurable Intelligent Surface Design**|Zhen Zhang et.al.|[2501.11323](http://arxiv.org/abs/2501.11323)|null|
+|**2025-01-19**|**Advanced technology in railway track monitoring using the GPR Technique: A Review**|Farhad Kooban et.al.|[2501.11132](http://arxiv.org/abs/2501.11132)|null|
+|**2025-01-19**|**Design and Prototyping of Filtering Active STAR-RIS with Adjustable Power Splitting**|Rongguang Song et.al.|[2501.11062](http://arxiv.org/abs/2501.11062)|null|
+|**2025-01-19**|**Few-shot Human Motion Recognition through Multi-Aspect mmWave FMCW Radar Data**|Hao Fan et.al.|[2501.11028](http://arxiv.org/abs/2501.11028)|null|
 |**2025-01-17**|**MutualForce: Mutual-Aware Enhancement for 4D Radar-LiDAR 3D Object Detection**|Xiangyuan Peng et.al.|[2501.10266](http://arxiv.org/abs/2501.10266)|null|
 |**2025-01-16**|**Reducing the Sensitivity of Neural Physics Simulators to Mesh Topology via Pretraining**|Nathan Vaska et.al.|[2501.09597](http://arxiv.org/abs/2501.09597)|null|
 |**2025-01-16**|**Joint Antenna Selection and Beamforming Design for Active RIS-aided ISAC Systems**|Wei Ma et.al.|[2501.09400](http://arxiv.org/abs/2501.09400)|null|
