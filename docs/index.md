@@ -76,9 +76,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Indoor Channel Characterization with Extremely Large Reconfigurable Intelligent Surfaces at $300$ GHz**|Fabio Cardoso et.al.|[2501.12752](http://arxiv.org/abs/2501.12752)|null|
 |**2025-01-21**|**CCESAR: Coastline Classification-Extraction From SAR Images Using CNN-U-Net Combination**|Vidhu Arora et.al.|[2501.12384](http://arxiv.org/abs/2501.12384)|null|
 |**2025-01-21**|**Sum Rate Enhancement using Machine Learning for Semi-Self Sensing Hybrid RIS-Enabled ISAC in THz Bands**|Sara Farrag Mobarak et.al.|[2501.12353](http://arxiv.org/abs/2501.12353)|null|
 |**2025-01-21**|**Bayesian Despeckling of Structured Sources**|Ali Zafari et.al.|[2501.11860](http://arxiv.org/abs/2501.11860)|null|
+|**2025-01-22**|**SE(3)-Based Trajectory Optimization and Target Tracking in UAV-Enabled ISAC Systems**|Dongxiao Xu et.al.|[2501.11687](http://arxiv.org/abs/2501.11687)|null|
 |**2025-01-20**|**Integrated Long-range Sensing and Communications in Multi Target Scenarios using CP-OFDM**|Benedikt Geiger et.al.|[2501.11591](http://arxiv.org/abs/2501.11591)|null|
 |**2025-01-20**|**Joint Optimization of Geometric and Probabilistic Constellation Shaping for OFDM-ISAC Systems**|Benedikt Geiger et.al.|[2501.11583](http://arxiv.org/abs/2501.11583)|null|
 |**2025-01-20**|**Automatic Labelling & Semantic Segmentation with 4D Radar Tensors**|Botao Sun et.al.|[2501.11351](http://arxiv.org/abs/2501.11351)|null|
