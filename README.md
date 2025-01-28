@@ -85,6 +85,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-27**|**An FPGA-Based Neuro-Fuzzy Sensor for Personalized Driving Assistance**|Óscar Mata-Carballeira et.al.|[2501.16212](http://arxiv.org/abs/2501.16212)|null|
+|**2025-01-27**|**One-Bit Sigma-Delta DFRC Waveform Design: Using Quantization Noise for Radar Probing**|Wai-Yiu Keung et.al.|[2501.15868](http://arxiv.org/abs/2501.15868)|null|
+|**2025-01-26**|**Intelligent Surface Assisted Radar Stealth Against Unauthorized ISAC**|Fan Xu et.al.|[2501.15536](http://arxiv.org/abs/2501.15536)|null|
+|**2025-01-26**|**Doracamom: Joint 3D Detection and Occupancy Prediction with Multi-view 4D Radars and Cameras for Omnidirectional Perception**|Lianqing Zheng et.al.|[2501.15394](http://arxiv.org/abs/2501.15394)|null|
+|**2025-01-26**|**MetaOcc: Surround-View 4D Radar and Camera Fusion Framework for 3D Occupancy Prediction with Dual Training Strategies**|Long Yang et.al.|[2501.15384](http://arxiv.org/abs/2501.15384)|**[link](https://github.com/lucasyang567/metaocc)**|
+|**2025-01-25**|**Fusion of Millimeter-wave Radar and Pulse Oximeter Data for Low-burden Diagnosis of Obstructive Sleep Apnea-Hypopnea Syndrome**|Wei Wang et.al.|[2501.15264](http://arxiv.org/abs/2501.15264)|null|
+|**2025-01-25**|**Target Localization with a Coprime Multistatic MIMO Radar via Coupled Canonical Polyadic Decomposition Based on Joint EVD**|Guo-Zhao Liao et.al.|[2501.15136](http://arxiv.org/abs/2501.15136)|null|
 |**2025-01-24**|**WaveMax: Radar Waveform Design via Convex Maximization of FrFT Phase Retrieval**|Samuel Pinilla et.al.|[2501.14164](http://arxiv.org/abs/2501.14164)|null|
 |**2025-01-23**|**EgoHand: Ego-centric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMUs**|Yizhe Lv et.al.|[2501.13805](http://arxiv.org/abs/2501.13805)|**[link](https://github.com/whisperyi/mmvr)**|
 |**2025-01-23**|**A Transformer-based Autoregressive Decoder Architecture for Hierarchical Text Classification**|Younes Yousef et.al.|[2501.13598](http://arxiv.org/abs/2501.13598)|**[link](https://github.com/yousef-younes/radar)**|
