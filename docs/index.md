@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.01.27
+## Updated on 2025.01.28
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -79,7 +79,7 @@ layout: default
 |**2025-01-24**|**WaveMax: Radar Waveform Design via Convex Maximization of FrFT Phase Retrieval**|Samuel Pinilla et.al.|[2501.14164](http://arxiv.org/abs/2501.14164)|null|
 |**2025-01-23**|**EgoHand: Ego-centric Hand Pose Estimation and Gesture Recognition with Head-mounted Millimeter-wave Radar and IMUs**|Yizhe Lv et.al.|[2501.13805](http://arxiv.org/abs/2501.13805)|**[link](https://github.com/whisperyi/mmvr)**|
 |**2025-01-23**|**A Transformer-based Autoregressive Decoder Architecture for Hierarchical Text Classification**|Younes Yousef et.al.|[2501.13598](http://arxiv.org/abs/2501.13598)|**[link](https://github.com/yousef-younes/radar)**|
-|**2025-01-23**|**A Dual-Polarization Feature Fusion Network for Radar Automatic Target Recognition Based On HRRP Sequence**|Yangbo Zhou et.al.|[2501.13541](http://arxiv.org/abs/2501.13541)|null|
+|**2025-01-23**|**A Dual-Polarization Feature Fusion Network for Radar Automatic Target Recognition Based On HRRP Sequence**|Yangbo Zhou et.al.|[2501.13541](http://arxiv.org/abs/2501.13541)|**[link](https://github.com/xmpan/dpffn)**|
 |**2025-01-23**|**Deep Multi-modal Neural Receiver for 6G Vehicular Communication**|Osama Saleem et.al.|[2501.13464](http://arxiv.org/abs/2501.13464)|null|
 |**2025-01-23**|**NUDT4MSTAR: A New Dataset and Benchmark Towards SAR Target Recognition in the Wild**|Yongxiang Liu et.al.|[2501.13354](http://arxiv.org/abs/2501.13354)|**[link](https://github.com/waterdisappear/nudt4mstar)**|
 |**2025-01-22**|**Indoor Channel Characterization with Extremely Large Reconfigurable Intelligent Surfaces at $300$ GHz**|Fabio Cardoso et.al.|[2501.12752](http://arxiv.org/abs/2501.12752)|null|
