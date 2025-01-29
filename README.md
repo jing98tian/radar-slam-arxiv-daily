@@ -85,6 +85,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-28**|**CoRe-Net: Co-Operational Regressor Network with Progressive Transfer Learning for Blind Radar Signal Restoration**|Muhammad Uzair Zahid et.al.|[2501.17125](http://arxiv.org/abs/2501.17125)|null|
+|**2025-01-28**|**Federated Learning Strategies for Coordinated Beamforming in Multicell ISAC**|Lai Jiang et.al.|[2501.16951](http://arxiv.org/abs/2501.16951)|null|
+|**2025-01-28**|**Drop size distribution from laboratory experiments based on single-drop fragmentation and comparison with aerial in-situ measurements**|Shubham Chakraborty et.al.|[2501.16686](http://arxiv.org/abs/2501.16686)|null|
 |**2025-01-27**|**An FPGA-Based Neuro-Fuzzy Sensor for Personalized Driving Assistance**|Óscar Mata-Carballeira et.al.|[2501.16212](http://arxiv.org/abs/2501.16212)|null|
 |**2025-01-27**|**One-Bit Sigma-Delta DFRC Waveform Design: Using Quantization Noise for Radar Probing**|Wai-Yiu Keung et.al.|[2501.15868](http://arxiv.org/abs/2501.15868)|null|
 |**2025-01-26**|**Intelligent Surface Assisted Radar Stealth Against Unauthorized ISAC**|Fan Xu et.al.|[2501.15536](http://arxiv.org/abs/2501.15536)|null|
