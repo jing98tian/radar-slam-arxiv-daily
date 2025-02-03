@@ -42,6 +42,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
 |**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203](http://arxiv.org/abs/2501.09203)|null|
 |**2025-01-05**|**Neural Error Covariance Estimation for Precise LiDAR Localization**|Minoo Dolatabadi et.al.|[2501.02558](http://arxiv.org/abs/2501.02558)|null|
@@ -86,6 +87,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-31**|**Dark Matter and Energy-Momentum Squared Gravity**|H. R. Fazlollahi et.al.|[2501.19141](http://arxiv.org/abs/2501.19141)|null|
+|**2025-01-30**|**A New Statistical Approach to the Performance Analysis of Vision-based Localization**|Haozhou Hu et.al.|[2501.18758](http://arxiv.org/abs/2501.18758)|null|
 |**2025-01-30**|**Near-Field SAR Imaging of Moving Targets on Roads**|Raz Rajwan et.al.|[2501.18579](http://arxiv.org/abs/2501.18579)|null|
 |**2025-01-30**|**Signaling Design for Noncoherent Distributed Integrated Sensing and Communication Systems**|Kawon Han et.al.|[2501.18264](http://arxiv.org/abs/2501.18264)|null|
 |**2025-01-29**|**TransRAD: Retentive Vision Transformer for Enhanced Radar Object Detection**|Lei Cheng et.al.|[2501.17977](http://arxiv.org/abs/2501.17977)|**[link](https://github.com/radar-lab/transrad)**|
