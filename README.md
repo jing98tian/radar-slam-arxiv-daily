@@ -19,6 +19,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**|Hanjun Kim et.al.|[2502.01946](http://arxiv.org/abs/2502.01946)|null|
 |**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576](http://arxiv.org/abs/2408.11576)|**[link](https://github.com/igmr-rwth/randt-slam)**|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600](http://arxiv.org/abs/2405.00600)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
@@ -87,6 +88,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-04**|**DeepForest: Sensing Into Self-Occluding Volumes of Vegetation With Aerial Imaging**|Mohamed Youssef et.al.|[2502.02171](http://arxiv.org/abs/2502.02171)|null|
+|**2025-02-04**|**ISAC MIMO Systems with OTFS Waveforms and Virtual Arrays**|Kailong Wang et.al.|[2502.01952](http://arxiv.org/abs/2502.01952)|null|
+|**2025-02-04**|**HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**|Hanjun Kim et.al.|[2502.01946](http://arxiv.org/abs/2502.01946)|null|
+|**2025-02-04**|**Toward a Low-Cost Perception System in Autonomous Vehicles: A Spectrum Learning Approach**|Mohammed Alsakabi et.al.|[2502.01940](http://arxiv.org/abs/2502.01940)|null|
+|**2025-02-03**|**Bayesian Approximation-Based Trajectory Prediction and Tracking with 4D Radar**|Dong-In Kim et.al.|[2502.01357](http://arxiv.org/abs/2502.01357)|null|
+|**2025-02-03**|**Multi-target Range, Doppler and Angle estimation in MIMO-FMCW Radar with Limited Measurements**|Chandrashekhar Rai et.al.|[2502.01147](http://arxiv.org/abs/2502.01147)|null|
+|**2025-02-03**|**Multi-Resolution SAR and Optical Remote Sensing Image Registration Methods: A Review, Datasets, and Future Perspectives**|Wenfei Zhang et.al.|[2502.01002](http://arxiv.org/abs/2502.01002)|null|
+|**2025-02-02**|**EKF-Based Radar-Inertial Odometry with Online Temporal Calibration**|Changseung Kim et.al.|[2502.00661](http://arxiv.org/abs/2502.00661)|null|
+|**2025-01-31**|**CerraData-4MM: A multimodal benchmark dataset on Cerrado for land use and land cover classification**|Mateus de Souza Miranda et.al.|[2502.00083](http://arxiv.org/abs/2502.00083)|null|
 |**2025-01-31**|**Dark Matter and Energy-Momentum Squared Gravity**|H. R. Fazlollahi et.al.|[2501.19141](http://arxiv.org/abs/2501.19141)|null|
 |**2025-01-30**|**A New Statistical Approach to the Performance Analysis of Vision-based Localization**|Haozhou Hu et.al.|[2501.18758](http://arxiv.org/abs/2501.18758)|null|
 |**2025-01-30**|**Near-Field SAR Imaging of Moving Targets on Roads**|Raz Rajwan et.al.|[2501.18579](http://arxiv.org/abs/2501.18579)|null|
