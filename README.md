@@ -89,6 +89,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-07**|**Towards Smarter Sensing: 2D Clutter Mitigation in RL-Driven Cognitive MIMO Radar**|Adam Umra et.al.|[2502.04967](http://arxiv.org/abs/2502.04967)|null|
+|**2025-02-07**|**Joint Beamforming Design for Integrated Sensing and Communication Systems with Hybrid-Colluding Eavesdroppers**|Meiding Liu et.al.|[2502.04912](http://arxiv.org/abs/2502.04912)|null|
+|**2025-02-07**|**SelaFD:Seamless Adaptation of Vision Transformer Fine-tuning for Radar-based Human Activity**|Yijun Wang et.al.|[2502.04740](http://arxiv.org/abs/2502.04740)|null|
+|**2025-02-07**|**OTFS-ISAC System with Sub-Nyquist ADC Sampling Rate**|Henglin Pu et.al.|[2502.04663](http://arxiv.org/abs/2502.04663)|null|
 |**2025-02-05**|**Single Antenna Terahertz Sensing using Preconfigured Metasurfaces**|Furkan Ilgac et.al.|[2502.03291](http://arxiv.org/abs/2502.03291)|null|
 |**2025-02-05**|**Development of Radar and Optical Tracking of Near-Earth Asteroids at the University of Tasmania**|Oliver James White et.al.|[2502.02890](http://arxiv.org/abs/2502.02890)|null|
 |**2025-02-03**|**Earth Detecting Earth: At what distance could Earth's constellation of technosignatures be detected with present-day technology?**|Sofia Z. Sheikh et.al.|[2502.02614](http://arxiv.org/abs/2502.02614)|null|
