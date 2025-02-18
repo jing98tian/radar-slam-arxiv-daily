@@ -43,6 +43,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**Anti-Degeneracy Scheme for Lidar SLAM based on Particle Filter in Geometry Feature-Less Environments**|Yanbin Li et.al.|[2502.11486](http://arxiv.org/abs/2502.11486)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
 |**2025-01-31**|**LiDAR Loop Closure Detection using Semantic Graphs with Graph Attention Networks**|Liudi Yang et.al.|[2501.19382](http://arxiv.org/abs/2501.19382)|**[link](https://github.com/crepuscularlight/semanticloopclosure)**|
 |**2025-01-30**|**Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems**|Liudi Yang et.al.|[2501.18110](http://arxiv.org/abs/2501.18110)|null|
@@ -89,6 +90,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-17**|**QoS based resource management for concurrent operation using MCTS**|Sebastian Durst et.al.|[2502.11938](http://arxiv.org/abs/2502.11938)|null|
+|**2025-02-17**|**Statistical and Deterministic RCS Characterization for ISAC Channel Modeling**|Ali Waqar Azim et.al.|[2502.11540](http://arxiv.org/abs/2502.11540)|null|
+|**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461](http://arxiv.org/abs/2502.11461)|null|
+|**2025-02-16**|**Improved VMD Based Remote Heartbeat Estimation Utilizing 60GHz mmWave Radar**|Boyuan Gu et.al.|[2502.11042](http://arxiv.org/abs/2502.11042)|null|
+|**2025-02-15**|**Multi-objective Aerial IRS-assisted ISAC Optimization via Generative AI-enhanced Deep Reinforcement Learning**|Wenwen Xie et.al.|[2502.10687](http://arxiv.org/abs/2502.10687)|null|
+|**2025-02-14**|**Multi-view 3D surface reconstruction from SAR images by inverse rendering**|Emile Barbier--Renard et.al.|[2502.10492](http://arxiv.org/abs/2502.10492)|null|
 |**2025-02-14**|**MITO: Enabling Non-Line-of-Sight Perception using Millimeter-waves through Real-World Datasets and Simulation Tools**|Laura Dodds et.al.|[2502.10259](http://arxiv.org/abs/2502.10259)|null|
 |**2025-02-14**|**Physics-Informed Generative Modeling of Wireless Channels**|Benedikt Böck et.al.|[2502.10137](http://arxiv.org/abs/2502.10137)|null|
 |**2025-02-13**|**Sequential Covariance Fitting for InSAR Phase Linking**|Dana El Hajjar et.al.|[2502.09248](http://arxiv.org/abs/2502.09248)|null|
