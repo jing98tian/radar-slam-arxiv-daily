@@ -14,7 +14,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-02-04**|**HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**|Hanjun Kim et.al.|[2502.01946](http://arxiv.org/abs/2502.01946)|null|
+|**2025-02-18**|**HeRCULES: Heterogeneous Radar Dataset in Complex Urban Environment for Multi-session Radar SLAM**|Hanjun Kim et.al.|[2502.01946](http://arxiv.org/abs/2502.01946)|null|
 |**2024-08-21**|**RaNDT SLAM: Radar SLAM Based on Intensity-Augmented Normal Distributions Transform**|Maximilian Hilger et.al.|[2408.11576](http://arxiv.org/abs/2408.11576)|**[link](https://github.com/igmr-rwth/randt-slam)**|
 |**2024-05-01**|**Radar-Based Localization For Autonomous Ground Vehicles In Suburban Neighborhoods**|Andrew J. Kramer et.al.|[2405.00600](http://arxiv.org/abs/2405.00600)|null|
 |**2024-04-05**|**Towards introspective loop closure in 4D radar SLAM**|Maximilian Hilger et.al.|[2404.03940](http://arxiv.org/abs/2404.03940)|null|
@@ -81,6 +81,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
+|**2025-02-18**|**Beyond Diagonal RIS for ISAC Network: Statistical Analysis and Network Parameter Estimation**|Thanh Luan Nguyen et.al.|[2502.12916](http://arxiv.org/abs/2502.12916)|null|
+|**2025-02-18**|**Radar Network for Gait Monitoring: Technology and Validation**|Ignacio E. López-Delgado et.al.|[2502.12696](http://arxiv.org/abs/2502.12696)|null|
+|**2025-02-17**|**VIC: Evasive Video Game Cheating via Virtual Machine Introspection**|Panicos Karkallis et.al.|[2502.12322](http://arxiv.org/abs/2502.12322)|null|
 |**2025-02-17**|**QoS based resource management for concurrent operation using MCTS**|Sebastian Durst et.al.|[2502.11938](http://arxiv.org/abs/2502.11938)|null|
 |**2025-02-17**|**Statistical and Deterministic RCS Characterization for ISAC Channel Modeling**|Ali Waqar Azim et.al.|[2502.11540](http://arxiv.org/abs/2502.11540)|null|
 |**2025-02-17**|**Doppler Correspondence: Non-Iterative Scan Matching With Doppler Velocity-Based Correspondence**|Jiwoo Kim et.al.|[2502.11461](http://arxiv.org/abs/2502.11461)|null|
