@@ -81,6 +81,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**The NavINST Dataset for Multi-Sensor Autonomous Navigation**|Paulo Ricardo Marques de Araujo et.al.|[2502.13863](http://arxiv.org/abs/2502.13863)|null|
+|**2025-02-19**|**First Glimpse on Physical Layer Security in Internet of Vehicles: Transformed from Communication Interference to Sensing Interference**|Kaixuan Li et.al.|[2502.13634](http://arxiv.org/abs/2502.13634)|null|
+|**2025-02-19**|**Multi-Target Radar Search and Track Using Sequence-Capable Deep Reinforcement Learning**|Jan-Hendrik Ewers et.al.|[2502.13584](http://arxiv.org/abs/2502.13584)|null|
+|**2025-02-19**|**Research on the Offshore Marine Communication Environment Based on Satellite Remote Sensing Data**|Hanyue Ni et.al.|[2502.13437](http://arxiv.org/abs/2502.13437)|null|
+|**2025-02-19**|**System-level Analysis of Dual-Mode Networked Sensing: ISAC Integration & Coordination Gains**|Yasser Nabil et.al.|[2502.13348](http://arxiv.org/abs/2502.13348)|null|
 |**2025-02-18**|**RobuRCDet: Enhancing Robustness of Radar-Camera Fusion in Bird's Eye View for 3D Object Detection**|Jingtong Yue et.al.|[2502.13071](http://arxiv.org/abs/2502.13071)|null|
 |**2025-02-18**|**Beyond Diagonal RIS for ISAC Network: Statistical Analysis and Network Parameter Estimation**|Thanh Luan Nguyen et.al.|[2502.12916](http://arxiv.org/abs/2502.12916)|null|
 |**2025-02-18**|**Radar Network for Gait Monitoring: Technology and Validation**|Ignacio E. López-Delgado et.al.|[2502.12696](http://arxiv.org/abs/2502.12696)|null|
