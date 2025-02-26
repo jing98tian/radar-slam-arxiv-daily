@@ -90,6 +90,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-25**|**Monolithic On-Chip Phononic Chiral Anomalous Bulk States on LiNbO3 Thin-films**|Zhe Li et.al.|[2502.18385](http://arxiv.org/abs/2502.18385)|null|
+|**2025-02-25**|**Monitoring snow avalanches from SAR data with deep learning**|Filippo Maria Bianchi et.al.|[2502.18157](http://arxiv.org/abs/2502.18157)|null|
+|**2025-02-25**|**A New Paradigm for Reconfigurable Intelligent Surface Design: Multi-port Network Method**|Zhen Zhang et.al.|[2502.18074](http://arxiv.org/abs/2502.18074)|null|
+|**2025-02-25**|**Designing Waveforms with Adjustable PAPR for Integrated Sensing and Communication**|Ahmad Bazzi et.al.|[2502.17938](http://arxiv.org/abs/2502.17938)|null|
+|**2025-02-25**|**Joint Communication and Radar Sensing for Terahertz Space-Air-Ground Integrated Networks (SAGIN)**|Chong Han et.al.|[2502.17811](http://arxiv.org/abs/2502.17811)|null|
+|**2025-02-25**|**Terahertz Aerospace Communications: Enabling Technologies and Future Directions**|Weijun Gao et.al.|[2502.17808](http://arxiv.org/abs/2502.17808)|null|
+|**2025-02-25**|**STQS: A Unified System Architecture for Spatial Temporal Quantum Sensing**|Anastashia Jebraeilli et.al.|[2502.17778](http://arxiv.org/abs/2502.17778)|null|
+|**2025-02-24**|**A Machine Learning Approach for Design of Frequency Selective Surface based Radar Absorbing Material via Image Prediction**|Vijay Kumar Sutrakar et.al.|[2502.17534](http://arxiv.org/abs/2502.17534)|null|
 |**2025-02-22**|**Integrating Weather Station Data and Radar for Precipitation Nowcasting: SmaAt-fUsion and SmaAt-Krige-GNet**|Aleksej Cornelissen et.al.|[2502.16116](http://arxiv.org/abs/2502.16116)|null|
 |**2025-02-21**|**Estimating Vehicle Speed on Roadways Using RNNs and Transformers: A Video-based Approach**|Sai Krishna Reddy Mareddy et.al.|[2502.15545](http://arxiv.org/abs/2502.15545)|null|
 |**2025-02-21**|**Depth-aware Fusion Method based on Image and 4D Radar Spectrum for 3D Object Detection**|Yue Sun et.al.|[2502.15516](http://arxiv.org/abs/2502.15516)|null|
