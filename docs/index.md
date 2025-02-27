@@ -81,6 +81,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-26**|**Design of Cavity Backed Slotted Antenna using Machine Learning Regression Model**|Vijay Kumar Sutrakar et.al.|[2502.19164](http://arxiv.org/abs/2502.19164)|null|
+|**2025-02-26**|**Design of Resistive Frequency Selective Surface based Radar Absorbing Structure-A Deep Learning Approach**|Vijay Kumar Sutrakar et.al.|[2502.19151](http://arxiv.org/abs/2502.19151)|null|
+|**2025-02-26**|**KAN-powered large-target detection for automotive radar**|Vinay Kulkarni et.al.|[2502.19000](http://arxiv.org/abs/2502.19000)|null|
+|**2025-02-26**|**A Dynamic UAVs Cooperative Suppressive Jamming Method with Joint Task Assignment and Bandwidth Allocation**|Ruiqing Han et.al.|[2502.18957](http://arxiv.org/abs/2502.18957)|null|
+|**2025-02-26**|**Towards ISAC RIS-Enabled Passive Radar Target Localization**|Ahmad Bazzi et.al.|[2502.18787](http://arxiv.org/abs/2502.18787)|null|
+|**2025-02-25**|**Multi-class Seismic Building Damage Assessment from InSAR Imagery using Quadratic Variational Causal Bayesian Inference**|Xuechun Li et.al.|[2502.18546](http://arxiv.org/abs/2502.18546)|null|
 |**2025-02-25**|**Monolithic On-Chip Phononic Chiral Anomalous Bulk States on LiNbO3 Thin-films**|Zhe Li et.al.|[2502.18385](http://arxiv.org/abs/2502.18385)|null|
 |**2025-02-25**|**Monitoring snow avalanches from SAR data with deep learning**|Filippo Maria Bianchi et.al.|[2502.18157](http://arxiv.org/abs/2502.18157)|null|
 |**2025-02-25**|**A New Paradigm for Reconfigurable Intelligent Surface Design: Multi-port Network Method**|Zhen Zhang et.al.|[2502.18074](http://arxiv.org/abs/2502.18074)|null|
