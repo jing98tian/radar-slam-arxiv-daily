@@ -90,6 +90,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-28**|**HoloMine: A Synthetic Dataset for Buried Landmines Recognition using Microwave Holographic Imaging**|Emanuele Vivoli et.al.|[2502.21054](http://arxiv.org/abs/2502.21054)|null|
+|**2025-02-28**|**A Demo of Radar Sensing Aided Rotatable Antenna for Wireless Communication System**|Qi Dai et.al.|[2502.21036](http://arxiv.org/abs/2502.21036)|null|
+|**2025-02-28**|**EDENet: Echo Direction Encoding Network for Place Recognition Based on Ground Penetrating Radar**|Pengyu Zhang et.al.|[2502.20643](http://arxiv.org/abs/2502.20643)|null|
 |**2025-02-27**|**Cell-Free Integrated Sensing and Communication: Principles, Advances, and Future Directions**|Diluka Galappaththige et.al.|[2502.20345](http://arxiv.org/abs/2502.20345)|null|
 |**2025-02-28**|**FuseGrasp: Radar-Camera Fusion for Robotic Grasping of Transparent Objects**|Hongyu Deng et.al.|[2502.20037](http://arxiv.org/abs/2502.20037)|null|
 |**2025-02-26**|**Design of Cavity Backed Slotted Antenna using Machine Learning Regression Model**|Vijay Kumar Sutrakar et.al.|[2502.19164](http://arxiv.org/abs/2502.19164)|null|
