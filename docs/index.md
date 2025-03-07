@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.06
+## Updated on 2025.03.07
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -84,7 +84,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-03-05**|**4D Radar Ground Truth Augmentation with LiDAR-to-4D Radar Data Synthesis**|Woo-Jin Jung et.al.|[2503.03637](http://arxiv.org/abs/2503.03637)|null|
-|**2025-03-05**|**Efficient detection of entanglement by stimulated disentanglement**|Nir Nechushtan et.al.|[2503.03583](http://arxiv.org/abs/2503.03583)|null|
+|**2025-03-06**|**Efficient detection of entanglement by stimulated disentanglement**|Nir Nechushtan et.al.|[2503.03583](http://arxiv.org/abs/2503.03583)|null|
 |**2025-03-05**|**BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation**|Hiep Truong Cong et.al.|[2503.03280](http://arxiv.org/abs/2503.03280)|null|
 |**2025-03-05**|**Car-STAGE: Automated framework for large-scale high-dimensional simulated time-series data generation based on user-defined criteria**|Asma A. Almutairi et.al.|[2503.03100](http://arxiv.org/abs/2503.03100)|null|
 |**2025-03-05**|**Quantum-enhanced radio-frequency photonic distributed imaging**|Haowei Shi et.al.|[2503.03075](http://arxiv.org/abs/2503.03075)|null|
