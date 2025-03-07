@@ -92,6 +92,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-06**|**Ambiguity Function Analysis and Optimization of Frequency-Hopping MIMO Radar with Movable Antennas**|Xiang Chen et.al.|[2503.04407](http://arxiv.org/abs/2503.04407)|null|
 |**2025-03-05**|**4D Radar Ground Truth Augmentation with LiDAR-to-4D Radar Data Synthesis**|Woo-Jin Jung et.al.|[2503.03637](http://arxiv.org/abs/2503.03637)|null|
 |**2025-03-06**|**Efficient detection of entanglement by stimulated disentanglement**|Nir Nechushtan et.al.|[2503.03583](http://arxiv.org/abs/2503.03583)|null|
 |**2025-03-05**|**BEVMOSNet: Multimodal Fusion for BEV Moving Object Segmentation**|Hiep Truong Cong et.al.|[2503.03280](http://arxiv.org/abs/2503.03280)|null|
