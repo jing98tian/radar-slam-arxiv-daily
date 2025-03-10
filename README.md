@@ -92,6 +92,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629](http://arxiv.org/abs/2503.05629)|null|
+|**2025-03-07**|**Deep Frequency Attention Networks for Single Snapshot Sparse Array Interpolation**|Ruxin Zheng et.al.|[2503.05486](http://arxiv.org/abs/2503.05486)|null|
+|**2025-03-07**|**A Hybrid Approach for Extending Automotive Radar Operation to NLOS Urban Scenarios**|Aviran Gal et.al.|[2503.05413](http://arxiv.org/abs/2503.05413)|null|
+|**2025-03-07**|**Intelligent Reflecting Surface-Aided Electromagnetic Stealth over Extended Regions**|Qingjie Wu et.al.|[2503.05205](http://arxiv.org/abs/2503.05205)|null|
+|**2025-03-06**|**Joint Delay-Doppler Estimation using OFDMA Payloads for Integrated Sensing and Communications**|Marc Miranda et.al.|[2503.04960](http://arxiv.org/abs/2503.04960)|null|
+|**2025-03-06**|**MarsLGPR: Mars Rover Localization with Ground Penetrating Radar**|Anja Sheppard et.al.|[2503.04944](http://arxiv.org/abs/2503.04944)|null|
+|**2025-03-06**|**Out-of-Distribution Radar Detection in Compound Clutter and Thermal Noise through Variational Autoencoders**|Y A Rouzoumka et.al.|[2503.04861](http://arxiv.org/abs/2503.04861)|null|
 |**2025-03-06**|**Ambiguity Function Analysis and Optimization of Frequency-Hopping MIMO Radar with Movable Antennas**|Xiang Chen et.al.|[2503.04407](http://arxiv.org/abs/2503.04407)|null|
 |**2025-03-05**|**4D Radar Ground Truth Augmentation with LiDAR-to-4D Radar Data Synthesis**|Woo-Jin Jung et.al.|[2503.03637](http://arxiv.org/abs/2503.03637)|null|
 |**2025-03-06**|**Efficient detection of entanglement by stimulated disentanglement**|Nir Nechushtan et.al.|[2503.03583](http://arxiv.org/abs/2503.03583)|null|
