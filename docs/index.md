@@ -83,6 +83,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-10**|**European supercell thunderstorms -- an underestimated current threat and an increasing future hazard**|Monika Feldmann et.al.|[2503.07466](http://arxiv.org/abs/2503.07466)|null|
+|**2025-03-10**|**Efficient data-driven flow modeling for accurate passive scalar advection in submesoscale domains**|Karlo Jakac et.al.|[2503.07452](http://arxiv.org/abs/2503.07452)|null|
+|**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/abs/2503.07435)|null|
+|**2025-03-10**|**Data-Driven Calibration Technique for Quantitative Inversion**|Zacharie Idriss et.al.|[2503.07316](http://arxiv.org/abs/2503.07316)|null|
+|**2025-03-10**|**A Deep Learning Architecture for Land Cover Mapping Using Spatio-Temporal Sentinel-1 Features**|Luigi Russo et.al.|[2503.07230](http://arxiv.org/abs/2503.07230)|null|
+|**2025-03-10**|**Power Allocation for Coordinated Multi-Point Aided ISAC Systems**|Jianpeng Zou et.al.|[2503.07139](http://arxiv.org/abs/2503.07139)|null|
+|**2025-03-10**|**Adaptive Extensive Cancellation Algorithm and Harmonic Enhanced Heart Rate Estimation based on MMWave Radar**|Hui Tang et.al.|[2503.07062](http://arxiv.org/abs/2503.07062)|null|
+|**2025-03-10**|**Availability-aware Sensor Fusion via Unified Canonical Space for 4D Radar, LiDAR, and Camera**|Dong-Hee Paek et.al.|[2503.07029](http://arxiv.org/abs/2503.07029)|null|
+|**2025-03-09**|**Cell-Free MIMO-ISAC: Joint Location and Velocity Estimation and Fundamental CRLB Analysis**|Guoqing Xia et.al.|[2503.06766](http://arxiv.org/abs/2503.06766)|null|
+|**2025-03-09**|**Pulse Processing -- Overview and Challenges**|Jonathan H. Manton et.al.|[2503.06408](http://arxiv.org/abs/2503.06408)|null|
 |**2025-03-07**|**Exploring FMCW Radars and Feature Maps for Activity Recognition: A Benchmark Study**|Ali Samimi Fard et.al.|[2503.05629](http://arxiv.org/abs/2503.05629)|null|
 |**2025-03-07**|**Deep Frequency Attention Networks for Single Snapshot Sparse Array Interpolation**|Ruxin Zheng et.al.|[2503.05486](http://arxiv.org/abs/2503.05486)|null|
 |**2025-03-07**|**A Hybrid Approach for Extending Automotive Radar Operation to NLOS Urban Scenarios**|Aviran Gal et.al.|[2503.05413](http://arxiv.org/abs/2503.05413)|null|
