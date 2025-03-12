@@ -92,6 +92,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-11**|**Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding**|Tim Steinke et.al.|[2503.08474](http://arxiv.org/abs/2503.08474)|null|
+|**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
+|**2025-03-11**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[2503.08068](http://arxiv.org/abs/2503.08068)|null|
+|**2025-03-11**|**How Does CP Length Affect the Sensing Range for OFDM-ISAC?**|Xiaoli Xu et.al.|[2503.08062](http://arxiv.org/abs/2503.08062)|null|
+|**2025-03-10**|**Modifying Range-Doppler geometry frameworks to process Spotlight SAR imagery in Polar Format**|Piyush S. Agram et.al.|[2503.07889](http://arxiv.org/abs/2503.07889)|null|
 |**2025-03-10**|**European supercell thunderstorms -- an underestimated current threat and an increasing future hazard**|Monika Feldmann et.al.|[2503.07466](http://arxiv.org/abs/2503.07466)|null|
 |**2025-03-10**|**Efficient data-driven flow modeling for accurate passive scalar advection in submesoscale domains**|Karlo Jakac et.al.|[2503.07452](http://arxiv.org/abs/2503.07452)|null|
 |**2025-03-10**|**Open-Set Gait Recognition from Sparse mmWave Radar Point Clouds**|Riccardo Mazzieri et.al.|[2503.07435](http://arxiv.org/abs/2503.07435)|null|
