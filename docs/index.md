@@ -83,6 +83,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-12**|**Optimal ISAC Beamforming Structure and Efficient Algorithms for Sum Rate and CRLB Balancing**|Tianyu Fang et.al.|[2503.09489](http://arxiv.org/abs/2503.09489)|null|
+|**2025-03-12**|**Using Co-Located Range and Doppler Radars for Initial Orbit Determination**|Cristina Parigini et.al.|[2503.09135](http://arxiv.org/abs/2503.09135)|null|
+|**2025-03-11**|**Beam Selection in ISAC using Contextual Bandit with Multi-modal Transformer and Transfer Learning**|Mohammad Farzanullah et.al.|[2503.08937](http://arxiv.org/abs/2503.08937)|null|
+|**2025-03-11**|**SIMAC: A Semantic-Driven Integrated Multimodal Sensing And Communication Framework**|Yubo Peng et.al.|[2503.08726](http://arxiv.org/abs/2503.08726)|null|
 |**2025-03-11**|**Collaborative Dynamic 3D Scene Graphs for Open-Vocabulary Urban Scene Understanding**|Tim Steinke et.al.|[2503.08474](http://arxiv.org/abs/2503.08474)|null|
 |**2025-03-11**|**Talk2PC: Enhancing 3D Visual Grounding through LiDAR and Radar Point Clouds Fusion for Autonomous Driving**|Runwei Guan et.al.|[2503.08336](http://arxiv.org/abs/2503.08336)|null|
 |**2025-03-11**|**Simulating Automotive Radar with Lidar and Camera Inputs**|Peili Song et.al.|[2503.08068](http://arxiv.org/abs/2503.08068)|null|
