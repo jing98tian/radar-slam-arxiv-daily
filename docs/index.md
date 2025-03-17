@@ -36,6 +36,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|null|
+|**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|null|
 |**2025-03-03**|**Balancing Act: Trading Off Doppler Odometry and Map Registration for Efficient Lidar Localization**|Katya M. Papais et.al.|[2503.02107](http://arxiv.org/abs/2503.02107)|null|
 |**2025-02-17**|**Anti-Degeneracy Scheme for Lidar SLAM based on Particle Filter in Geometry Feature-Less Environments**|Yanbin Li et.al.|[2502.11486](http://arxiv.org/abs/2502.11486)|null|
 |**2025-02-04**|**SiLVR: Scalable Lidar-Visual Radiance Field Reconstruction with Uncertainty Quantification**|Yifu Tao et.al.|[2502.02657](http://arxiv.org/abs/2502.02657)|null|
@@ -83,6 +85,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|null|
+|**2025-03-14**|**Artefact Analysis of Multistatic Three-Dimensional SAR Imaging with Two Linear Trajectories**|Daniel Andre et.al.|[2503.11323](http://arxiv.org/abs/2503.11323)|null|
+|**2025-03-14**|**A Multi-Objective Evaluation Framework for Analyzing Utility-Fairness Trade-Offs in Machine Learning Systems**|Gökhan Özbulak et.al.|[2503.11120](http://arxiv.org/abs/2503.11120)|null|
+|**2025-03-14**|**Joint Optimization of Resource Allocation and Radar Receiver Selection in Integrated Communication-Radar Systems**|Chen Zhong et.al.|[2503.11111](http://arxiv.org/abs/2503.11111)|null|
+|**2025-03-14**|**MobiVital: Self-supervised Time-series Quality Estimation for Contactless Respiration Monitoring Using UWB Radar**|Ziqi Wang et.al.|[2503.11064](http://arxiv.org/abs/2503.11064)|null|
+|**2025-03-13**|**Panopticon: Advancing Any-Sensor Foundation Models for Earth Observation**|Leonard Waldmann et.al.|[2503.10845](http://arxiv.org/abs/2503.10845)|null|
+|**2025-03-13**|**3D Extended Object Tracking based on Extruded B-Spline Side View Profiles**|Longfei Han et.al.|[2503.10730](http://arxiv.org/abs/2503.10730)|null|
 |**2025-03-13**|**Radar: Fast Long-Context Decoding for Any Transformer**|Yongchang Hao et.al.|[2503.10571](http://arxiv.org/abs/2503.10571)|null|
 |**2025-03-13**|**TARS: Traffic-Aware Radar Scene Flow Estimation**|Jialong Wu et.al.|[2503.10210](http://arxiv.org/abs/2503.10210)|null|
 |**2025-03-13**|**Quadratic Transform for Fractional Programs in Signal Processing and Machine Learning**|Kaiming Shen et.al.|[2503.09977](http://arxiv.org/abs/2503.09977)|null|
