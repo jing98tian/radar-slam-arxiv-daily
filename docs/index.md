@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.16
+## Updated on 2025.03.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -44,7 +44,7 @@ layout: default
 |**2025-01-15**|**Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures**|Pengru Deng et.al.|[2501.09203](http://arxiv.org/abs/2501.09203)|null|
 |**2025-01-05**|**Neural Error Covariance Estimation for Precise LiDAR Localization**|Minoo Dolatabadi et.al.|[2501.02558](http://arxiv.org/abs/2501.02558)|null|
 |**2025-01-04**|**ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle**|Yinchuan Wang et.al.|[2501.02166](http://arxiv.org/abs/2501.02166)|**[link](https://github.com/sdwyc/rolo)**|
-|**2025-03-01**|**Balancing Accuracy and Efficiency for Large-Scale SLAM: A Minimal Subset Approach for Scalable Loop Closures**|Nikolaos Stathoulopoulos et.al.|[2501.01791](http://arxiv.org/abs/2501.01791)|null|
+|**2025-03-01**|**Balancing Accuracy and Efficiency for Large-Scale SLAM: A Minimal Subset Approach for Scalable Loop Closures**|Nikolaos Stathoulopoulos et.al.|[2501.01791](http://arxiv.org/abs/2501.01791)|**[link](https://github.com/ltu-rai/opt-key)**|
 |**2024-12-23**|**Selective Kalman Filter: When and How to Fuse Multi-Sensor Information to Overcome Degeneracy in SLAM**|Jie Xu et.al.|[2412.17235](http://arxiv.org/abs/2412.17235)|null|
 |**2024-12-10**|**A Real-time Degeneracy Sensing and Compensation Method for Enhanced LiDAR SLAM**|Zongbo Liao et.al.|[2412.07513](http://arxiv.org/abs/2412.07513)|null|
 |**2024-12-03**|**SuperLoc: The Key to Robust LiDAR-Inertial Localization Lies in Predicting Alignment Risks**|Shibo Zhao et.al.|[2412.02901](http://arxiv.org/abs/2412.02901)|null|
@@ -87,7 +87,7 @@ layout: default
 |**2025-03-13**|**TARS: Traffic-Aware Radar Scene Flow Estimation**|Jialong Wu et.al.|[2503.10210](http://arxiv.org/abs/2503.10210)|null|
 |**2025-03-13**|**Quadratic Transform for Fractional Programs in Signal Processing and Machine Learning**|Kaiming Shen et.al.|[2503.09977](http://arxiv.org/abs/2503.09977)|null|
 |**2025-03-12**|**Edge AI-Powered Real-Time Decision-Making for Autonomous Vehicles in Adverse Weather Conditions**|Milad Rahmati et.al.|[2503.09638](http://arxiv.org/abs/2503.09638)|null|
-|**2025-03-12**|**Optimal ISAC Beamforming Structure and Efficient Algorithms for Sum Rate and CRLB Balancing**|Tianyu Fang et.al.|[2503.09489](http://arxiv.org/abs/2503.09489)|null|
+|**2025-03-12**|**Optimal ISAC Beamforming Structure and Efficient Algorithms for Sum Rate and CRLB Balancing**|Tianyu Fang et.al.|[2503.09489](http://arxiv.org/abs/2503.09489)|**[link](https://github.com/Nostalgia2022/OBS-for-CRLB-ISAC)**|
 |**2025-03-12**|**Using Co-Located Range and Doppler Radars for Initial Orbit Determination**|Cristina Parigini et.al.|[2503.09135](http://arxiv.org/abs/2503.09135)|null|
 |**2025-03-11**|**Beam Selection in ISAC using Contextual Bandit with Multi-modal Transformer and Transfer Learning**|Mohammad Farzanullah et.al.|[2503.08937](http://arxiv.org/abs/2503.08937)|null|
 |**2025-03-11**|**SIMAC: A Semantic-Driven Integrated Multimodal Sensing And Communication Framework**|Yubo Peng et.al.|[2503.08726](http://arxiv.org/abs/2503.08726)|null|
