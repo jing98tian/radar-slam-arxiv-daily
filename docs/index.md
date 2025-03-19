@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.18
+## Updated on 2025.03.19
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -36,6 +36,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660](http://arxiv.org/abs/2503.12660)|null|
 |**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|null|
 |**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|null|
 |**2025-03-03**|**Balancing Act: Trading Off Doppler Odometry and Map Registration for Efficient Lidar Localization**|Katya M. Papais et.al.|[2503.02107](http://arxiv.org/abs/2503.02107)|null|
@@ -85,6 +86,15 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252](http://arxiv.org/abs/2503.13252)|null|
+|**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073](http://arxiv.org/abs/2503.13073)|null|
+|**2025-03-17**|**Moment-based Characterization of Spatially Distributed Sources in SAR Tomography**|Colin Cros et.al.|[2503.12975](http://arxiv.org/abs/2503.12975)|null|
+|**2025-03-17**|**A Block-Sparse Bayesian Learning Algorithm with Dictionary Parameter Estimation for Multi-Sensor Data Fusion**|Jakob Möderl et.al.|[2503.12913](http://arxiv.org/abs/2503.12913)|null|
+|**2025-03-17**|**High-Resolution Range-Doppler Imaging from One-Bit PMCW Radar via Generative Adversarial Networks**|Jingxian Wang et.al.|[2503.12841](http://arxiv.org/abs/2503.12841)|null|
+|**2025-03-15**|**Optimal Hybrid Transmit Beamforming for mm-Wave Integrated Sensing and Communication**|Jitendra Singh et.al.|[2503.12129](http://arxiv.org/abs/2503.12129)|null|
+|**2025-03-15**|**Dynamic IRS Allocation for Spectrum-Sharing MIMO Communication and Radar Systems**|Daniyal Munir et.al.|[2503.12005](http://arxiv.org/abs/2503.12005)|null|
+|**2025-03-15**|**Low Range-Doppler Sidelobe ISAC Waveform Design: A Low-Complexity Approach**|Peishi Li et.al.|[2503.11949](http://arxiv.org/abs/2503.11949)|null|
+|**2025-03-14**|**A Survey on SAR ship classification using Deep Learning**|Ch Muhammad Awais et.al.|[2503.11906](http://arxiv.org/abs/2503.11906)|null|
 |**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|null|
 |**2025-03-14**|**Artefact Analysis of Multistatic Three-Dimensional SAR Imaging with Two Linear Trajectories**|Daniel Andre et.al.|[2503.11323](http://arxiv.org/abs/2503.11323)|null|
 |**2025-03-14**|**A Multi-Objective Evaluation Framework for Analyzing Utility-Fairness Trade-Offs in Machine Learning Systems**|Gökhan Özbulak et.al.|[2503.11120](http://arxiv.org/abs/2503.11120)|null|
