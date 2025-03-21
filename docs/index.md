@@ -86,6 +86,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-20**|**Distributed Algorithm for Cooperative Joint Localization and Tracking Using Multiple-Input Multiple-Output Radars**|Astrid Holm Filtenborg Kitchen et.al.|[2503.16236](http://arxiv.org/abs/2503.16236)|null|
+|**2025-03-19**|**A Speech Production Model for Radar: Connecting Speech Acoustics with Radar-Measured Vibrations**|Isabella Lenz et.al.|[2503.15627](http://arxiv.org/abs/2503.15627)|null|
 |**2025-03-19**|**Variational Message Passing-based Multiobject Tracking for MIMO-Radars using Raw Sensor Signals**|Anders Malthe Westerkam et.al.|[2503.15246](http://arxiv.org/abs/2503.15246)|null|
 |**2025-03-19**|**Detection and Ranging Beyond the Canonical Resolution Limit**|Nathaniel J. Fuller et.al.|[2503.15230](http://arxiv.org/abs/2503.15230)|null|
 |**2025-03-19**|**Sig2text, a Vision-language model for Non-cooperative Radar Signal Parsing**|Hancong Feng KaiLI Jiang Bin tang et.al.|[2503.15213](http://arxiv.org/abs/2503.15213)|null|
