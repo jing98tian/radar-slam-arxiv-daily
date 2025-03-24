@@ -95,6 +95,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-21**|**On the Sensing Performance of FMCW-based Integrated Sensing and Communications with Arbitrary Constellations**|Daniel Gil Gaviria et.al.|[2503.17215](http://arxiv.org/abs/2503.17215)|null|
+|**2025-03-21**|**Radar-Guided Polynomial Fitting for Metric Depth Estimation**|Patrick Rim et.al.|[2503.17182](http://arxiv.org/abs/2503.17182)|null|
+|**2025-03-21**|**Fast Quantum Amplitude Encoding of Typical Classical Data**|Vittorio Pagni et.al.|[2503.17113](http://arxiv.org/abs/2503.17113)|null|
+|**2025-03-21**|**R2LDM: An Efficient 4D Radar Super-Resolution Framework Leveraging Diffusion Model**|Boyuan Zheng et.al.|[2503.17097](http://arxiv.org/abs/2503.17097)|null|
+|**2025-03-21**|**Targetless 6DoF Calibration of LiDAR and 2D Scanning Radar Based on Cylindrical Occupancy**|Weimin Wang et.al.|[2503.17002](http://arxiv.org/abs/2503.17002)|null|
+|**2025-03-21**|**Joint Beamforming and Trajectory Optimization for Multi-UAV-Assisted Integrated Sensing and Communication Systems**|Yan Kyaw Tun et.al.|[2503.16915](http://arxiv.org/abs/2503.16915)|null|
+|**2025-03-21**|**Improving mmWave based Hand Hygiene Monitoring through Beam Steering and Combining Techniques**|Isura Nirmal et.al.|[2503.16764](http://arxiv.org/abs/2503.16764)|null|
 |**2025-03-20**|**Distributed Algorithm for Cooperative Joint Localization and Tracking Using Multiple-Input Multiple-Output Radars**|Astrid Holm Filtenborg Kitchen et.al.|[2503.16236](http://arxiv.org/abs/2503.16236)|null|
 |**2025-03-19**|**A Speech Production Model for Radar: Connecting Speech Acoustics with Radar-Measured Vibrations**|Isabella Lenz et.al.|[2503.15627](http://arxiv.org/abs/2503.15627)|null|
 |**2025-03-19**|**Variational Message Passing-based Multiobject Tracking for MIMO-Radars using Raw Sensor Signals**|Anders Malthe Westerkam et.al.|[2503.15246](http://arxiv.org/abs/2503.15246)|null|
