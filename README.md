@@ -43,6 +43,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-22**|**LightLoc: Learning Outdoor LiDAR Localization at Light Speed**|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|null|
 |**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660](http://arxiv.org/abs/2503.12660)|null|
 |**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|**[link](https://github.com/nubot-nudt/bevdiffloc)**|
 |**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|**[link](https://github.com/nubot-nudt/sg-slam)**|
@@ -95,6 +96,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-24**|**Zak-OTFS for Identification of Linear Time-Varying Systems**|Danish Nisar et.al.|[2503.18900](http://arxiv.org/abs/2503.18900)|null|
+|**2025-03-24**|**Clutter Tracking using Variational Message Passing**|Anders Malthe Westerkam et.al.|[2503.18692](http://arxiv.org/abs/2503.18692)|null|
+|**2025-03-24**|**Movable Antenna Enabled ISAC: Tackling Slow Antenna Movement, Dynamic RCS, and Imperfect CSI via Two-timescale Optimizati**|Ata Khalili et.al.|[2503.18547](http://arxiv.org/abs/2503.18547)|null|
+|**2025-03-24**|**Ground Penetrating Radar-Assisted Multimodal Robot Odometry Using Subsurface Feature Matrix**|Haifeng Li et.al.|[2503.18301](http://arxiv.org/abs/2503.18301)|null|
+|**2025-03-23**|**A Two-Stage Rotation-Based Super-Resolution Signature Estimation for Spatial Wideband Systems**|Chandrashekhar Rai et.al.|[2503.18111](http://arxiv.org/abs/2503.18111)|null|
+|**2025-03-22**|**Wideband Cognitive Radio for Joint Communication and Sensing: Optimization of Subcarrier Allocation and beamforming**|Diluka Galappaththige et.al.|[2503.17601](http://arxiv.org/abs/2503.17601)|null|
 |**2025-03-21**|**On the Sensing Performance of FMCW-based Integrated Sensing and Communications with Arbitrary Constellations**|Daniel Gil Gaviria et.al.|[2503.17215](http://arxiv.org/abs/2503.17215)|null|
 |**2025-03-21**|**Radar-Guided Polynomial Fitting for Metric Depth Estimation**|Patrick Rim et.al.|[2503.17182](http://arxiv.org/abs/2503.17182)|null|
 |**2025-03-21**|**Fast Quantum Amplitude Encoding of Typical Classical Data**|Vittorio Pagni et.al.|[2503.17113](http://arxiv.org/abs/2503.17113)|null|
