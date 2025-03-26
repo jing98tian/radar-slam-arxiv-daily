@@ -87,6 +87,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798](http://arxiv.org/abs/2503.19798)|null|
+|**2025-03-25**|**How to RETIRE Tabular Data in Favor of Discrete Digital Signal Representation**|Paweł Zyblewski et.al.|[2503.19733](http://arxiv.org/abs/2503.19733)|null|
+|**2025-03-25**|**Recover from Horcrux: A Spectrogram Augmentation Method for Cardiac Feature Monitoring from Radar Signal Components**|Yuanyuan Zhang et.al.|[2503.19649](http://arxiv.org/abs/2503.19649)|null|
+|**2025-03-25**|**M $^2$ CD: A Unified MultiModal Framework for Optical-SAR Change Detection with Mixture of Experts and Self-Distillation**|Ziyuan Liu et.al.|[2503.19406](http://arxiv.org/abs/2503.19406)|null|
 |**2025-03-24**|**Zak-OTFS for Identification of Linear Time-Varying Systems**|Danish Nisar et.al.|[2503.18900](http://arxiv.org/abs/2503.18900)|null|
 |**2025-03-24**|**Clutter Tracking using Variational Message Passing**|Anders Malthe Westerkam et.al.|[2503.18692](http://arxiv.org/abs/2503.18692)|null|
 |**2025-03-24**|**Movable Antenna Enabled ISAC: Tackling Slow Antenna Movement, Dynamic RCS, and Imperfect CSI via Two-timescale Optimizati**|Ata Khalili et.al.|[2503.18547](http://arxiv.org/abs/2503.18547)|null|
