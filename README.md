@@ -43,7 +43,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-03-22**|**LightLoc: Learning Outdoor LiDAR Localization at Light Speed**|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|null|
+|**2025-03-22**|**LightLoc: Learning Outdoor LiDAR Localization at Light Speed**|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|**[link](https://github.com/liw95/lightloc)**|
 |**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660](http://arxiv.org/abs/2503.12660)|null|
 |**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|**[link](https://github.com/nubot-nudt/bevdiffloc)**|
 |**2025-03-14**|**Leveraging Semantic Graphs for Efficient and Robust LiDAR SLAM**|Neng Wang et.al.|[2503.11145](http://arxiv.org/abs/2503.11145)|**[link](https://github.com/nubot-nudt/sg-slam)**|
@@ -96,6 +96,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-27**|**Polarization-Aware Antenna Selection for Joint Radar and Communication in XL-MIMO Systems**|Ahmed Naeem et.al.|[2503.21537](http://arxiv.org/abs/2503.21537)|null|
+|**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[2503.21232](http://arxiv.org/abs/2503.21232)|null|
+|**2025-03-27**|**Value of risk-contact data from digital contact monitoring apps in infectious disease modeling**|Martijn H. H. Schoot Uiterkamp et.al.|[2503.21228](http://arxiv.org/abs/2503.21228)|null|
+|**2025-03-26**|**RIS-Enabled Self-Localization with FMCW Radar**|Hyowon Kim et.al.|[2503.21021](http://arxiv.org/abs/2503.21021)|null|
+|**2025-03-26**|**Size Constraint on Hayabusa2 Extended Mission Rendezvous Target 1998~KY $_{26}$ via VLT/VISIR Non-detection**|Jin Beniyama et.al.|[2503.20891](http://arxiv.org/abs/2503.20891)|null|
 |**2025-03-25**|**A Spatiotemporal Radar-Based Precipitation Model for Water Level Prediction and Flood Forecasting**|Sakshi Dhankhar et.al.|[2503.19943](http://arxiv.org/abs/2503.19943)|null|
 |**2025-03-25**|**Unpaired Object-Level SAR-to-Optical Image Translation for Aircraft with Keypoints-Guided Diffusion Models**|Ruixi You et.al.|[2503.19798](http://arxiv.org/abs/2503.19798)|null|
 |**2025-03-25**|**How to RETIRE Tabular Data in Favor of Discrete Digital Signal Representation**|Paweł Zyblewski et.al.|[2503.19733](http://arxiv.org/abs/2503.19733)|null|
