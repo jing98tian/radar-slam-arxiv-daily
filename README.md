@@ -96,6 +96,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-28**|**Using Machine Learning for Lunar Mineralogy-I: Hyperspectral Imaging of Volcanic Samples**|Fatemeh Fazel Hesar et.al.|[2503.22617](http://arxiv.org/abs/2503.22617)|null|
+|**2025-03-28**|**Assessing Foundation Models for Sea Ice Type Segmentation in Sentinel-1 SAR Imagery**|Samira Alkaee Taleghan et.al.|[2503.22516](http://arxiv.org/abs/2503.22516)|null|
+|**2025-03-28**|**mmHRR: Monitoring Heart Rate Recovery with Millimeter Wave Radar**|Ziheng Mao et.al.|[2503.22202](http://arxiv.org/abs/2503.22202)|null|
+|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|null|
+|**2025-03-26**|**Low-Rank Adaptation of Pre-Trained Stable Diffusion for Rigid-Body Target ISAR Imaging**|Boan Zhang et.al.|[2503.21823](http://arxiv.org/abs/2503.21823)|null|
 |**2025-03-27**|**Polarization-Aware Antenna Selection for Joint Radar and Communication in XL-MIMO Systems**|Ahmed Naeem et.al.|[2503.21537](http://arxiv.org/abs/2503.21537)|null|
 |**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[2503.21232](http://arxiv.org/abs/2503.21232)|null|
 |**2025-03-27**|**Value of risk-contact data from digital contact monitoring apps in infectious disease modeling**|Martijn H. H. Schoot Uiterkamp et.al.|[2503.21228](http://arxiv.org/abs/2503.21228)|null|
