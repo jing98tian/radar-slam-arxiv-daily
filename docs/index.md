@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -94,7 +94,7 @@ layout: default
 |**2025-03-26**|**Low-Rank Adaptation of Pre-Trained Stable Diffusion for Rigid-Body Target ISAR Imaging**|Boan Zhang et.al.|[2503.21823](http://arxiv.org/abs/2503.21823)|null|
 |**2025-03-27**|**Polarization-Aware Antenna Selection for Joint Radar and Communication in XL-MIMO Systems**|Ahmed Naeem et.al.|[2503.21537](http://arxiv.org/abs/2503.21537)|null|
 |**2025-03-27**|**Knowledge Graphs as World Models for Semantic Material-Aware Obstacle Handling in Autonomous Vehicles**|Ayush Bheemaiah et.al.|[2503.21232](http://arxiv.org/abs/2503.21232)|null|
-|**2025-03-27**|**Value of risk-contact data from digital contact monitoring apps in infectious disease modeling**|Martijn H. H. Schoot Uiterkamp et.al.|[2503.21228](http://arxiv.org/abs/2503.21228)|null|
+|**2025-03-27**|**Value of risk-contact data from digital contact monitoring apps in infectious disease modeling**|Martijn H. H. Schoot Uiterkamp et.al.|[2503.21228](http://arxiv.org/abs/2503.21228)|**[link](https://github.com/mhhschootuiterkamp/DCM-data-integration-in-SEIR-models)**|
 |**2025-03-26**|**RIS-Enabled Self-Localization with FMCW Radar**|Hyowon Kim et.al.|[2503.21021](http://arxiv.org/abs/2503.21021)|null|
 |**2025-03-26**|**Size Constraint on Hayabusa2 Extended Mission Rendezvous Target 1998~KY $_{26}$ via VLT/VISIR Non-detection**|Jin Beniyama et.al.|[2503.20891](http://arxiv.org/abs/2503.20891)|null|
 |**2025-03-25**|**A Spatiotemporal Radar-Based Precipitation Model for Water Level Prediction and Flood Forecasting**|Sakshi Dhankhar et.al.|[2503.19943](http://arxiv.org/abs/2503.19943)|null|
