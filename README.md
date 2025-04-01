@@ -43,6 +43,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|null|
 |**2025-03-22**|**LightLoc: Learning Outdoor LiDAR Localization at Light Speed**|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|**[link](https://github.com/liw95/lightloc)**|
 |**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660](http://arxiv.org/abs/2503.12660)|null|
 |**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|**[link](https://github.com/nubot-nudt/bevdiffloc)**|
@@ -96,6 +97,12 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253](http://arxiv.org/abs/2503.24253)|null|
+|**2025-03-31**|**4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey**|Xiangyuan Peng et.al.|[2503.24091](http://arxiv.org/abs/2503.24091)|null|
+|**2025-03-31**|**Reliable Traffic Monitoring Using Low-Cost Doppler Radar Units**|Mishay Naidoo et.al.|[2503.23926](http://arxiv.org/abs/2503.23926)|null|
+|**2025-03-30**|**Zak-OTFS for Mutually Unbiased Sensing and Communication**|Nishant Mehrotra et.al.|[2503.23540](http://arxiv.org/abs/2503.23540)|null|
+|**2025-03-30**|**SpINR: Neural Volumetric Reconstruction for FMCW Radars**|Harshvardhan Takawale et.al.|[2503.23313](http://arxiv.org/abs/2503.23313)|null|
+|**2025-03-28**|**CLuP-Based Dual-Deconvolution in Automotive ISAC Scenarios**|Jonathan Monsalve et.al.|[2503.22889](http://arxiv.org/abs/2503.22889)|null|
 |**2025-03-28**|**Using Machine Learning for Lunar Mineralogy-I: Hyperspectral Imaging of Volcanic Samples**|Fatemeh Fazel Hesar et.al.|[2503.22617](http://arxiv.org/abs/2503.22617)|null|
 |**2025-03-28**|**Assessing Foundation Models for Sea Ice Type Segmentation in Sentinel-1 SAR Imagery**|Samira Alkaee Taleghan et.al.|[2503.22516](http://arxiv.org/abs/2503.22516)|null|
 |**2025-03-28**|**mmHRR: Monitoring Heart Rate Recovery with Millimeter Wave Radar**|Ziheng Mao et.al.|[2503.22202](http://arxiv.org/abs/2503.22202)|null|
