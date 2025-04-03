@@ -97,6 +97,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-02**|**Quantum Meets SAR: A Novel Range-Doppler Algorithm for Next-Gen Earth Observation**|Khalil Al Salahat et.al.|[2504.01832](http://arxiv.org/abs/2504.01832)|null|
+|**2025-04-02**|**Antenna Selection for Enhancing Privacy in Radar-Based Vital Sign Monitoring Systems**|Zhihao Tao et.al.|[2504.01820](http://arxiv.org/abs/2504.01820)|null|
+|**2025-04-02**|**SCNR Maximization for MIMO ISAC Assisted by Fluid Antenna System**|Yuqi Ye et.al.|[2504.01372](http://arxiv.org/abs/2504.01372)|null|
+|**2025-04-01**|**NeuRadar: Neural Radiance Fields for Automotive Radar Point Clouds**|Mahan Rafidashti et.al.|[2504.00859](http://arxiv.org/abs/2504.00859)|null|
+|**2025-04-01**|**Spatiotemporal Synchronization of Distributed Arrays using Particle-Based Loopy Belief Propagation**|Benjamin J. B. Deutschmann et.al.|[2504.00744](http://arxiv.org/abs/2504.00744)|null|
+|**2025-04-01**|**Deep Learning-Based Extended Target Tracking in ISAC Systems**|Yiqiu Wang et.al.|[2504.00576](http://arxiv.org/abs/2504.00576)|null|
+|**2025-04-01**|**AttentiveGRU: Recurrent Spatio-Temporal Modeling for Advanced Radar-Based BEV Object Detection**|Loveneet Saini et.al.|[2504.00559](http://arxiv.org/abs/2504.00559)|null|
+|**2025-04-01**|**Adaptive Radar Detection in joint Range and Azimuth based on the Hierarchical Latent Variable Model**|Linjie Yan et.al.|[2504.00361](http://arxiv.org/abs/2504.00361)|null|
 |**2025-03-31**|**Deep Learning-Based Data Fusion of 6G Sensing and Inertial Information for Target Positioning: Experimental Validation**|Karthik Muthineni et.al.|[2503.24253](http://arxiv.org/abs/2503.24253)|null|
 |**2025-03-31**|**4D mmWave Radar in Adverse Environments for Autonomous Driving: A Survey**|Xiangyuan Peng et.al.|[2503.24091](http://arxiv.org/abs/2503.24091)|null|
 |**2025-03-31**|**Reliable Traffic Monitoring Using Low-Cost Doppler Radar Units**|Mishay Naidoo et.al.|[2503.23926](http://arxiv.org/abs/2503.23926)|null|
