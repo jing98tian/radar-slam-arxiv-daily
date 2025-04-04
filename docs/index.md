@@ -36,7 +36,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|null|
+|**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|**[link](https://github.com/prbonn/enm-mcl)**|
 |**2025-03-22**|**LightLoc: Learning Outdoor LiDAR Localization at Light Speed**|Wen Li et.al.|[2503.17814](http://arxiv.org/abs/2503.17814)|**[link](https://github.com/liw95/lightloc)**|
 |**2025-03-16**|**KISS-SLAM: A Simple, Robust, and Accurate 3D LiDAR SLAM System With Enhanced Generalization Capabilities**|Tiziano Guadagnino et.al.|[2503.12660](http://arxiv.org/abs/2503.12660)|null|
 |**2025-03-14**|**BEVDiffLoc: End-to-End LiDAR Global Localization in BEV View based on Diffusion Model**|Ziyue Wang et.al.|[2503.11372](http://arxiv.org/abs/2503.11372)|**[link](https://github.com/nubot-nudt/bevdiffloc)**|
@@ -88,6 +88,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
+|**2025-04-03**|**Utilizing 5G NR SSB Blocks for Passive Detection and Localization of Low-Altitude Drones**|Palatip Jopanya et.al.|[2504.02641](http://arxiv.org/abs/2504.02641)|null|
+|**2025-04-03**|**Probabilistic Simulation of Aircraft Descent via a Hybrid Physics-Data Approach**|Amy Hodgkin et.al.|[2504.02529](http://arxiv.org/abs/2504.02529)|null|
 |**2025-04-02**|**Quantum Meets SAR: A Novel Range-Doppler Algorithm for Next-Gen Earth Observation**|Khalil Al Salahat et.al.|[2504.01832](http://arxiv.org/abs/2504.01832)|null|
 |**2025-04-02**|**Antenna Selection for Enhancing Privacy in Radar-Based Vital Sign Monitoring Systems**|Zhihao Tao et.al.|[2504.01820](http://arxiv.org/abs/2504.01820)|null|
 |**2025-04-02**|**SCNR Maximization for MIMO ISAC Assisted by Fluid Antenna System**|Yuqi Ye et.al.|[2504.01372](http://arxiv.org/abs/2504.01372)|null|
