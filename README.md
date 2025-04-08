@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -37,7 +37,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -91,14 +91,14 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-04-04**|**Multimodal Diffusion Bridge with Attention-Based SAR Fusion for Satellite Image Cloud Removal**|Yuyang Hu et.al.|[2504.03607](http://arxiv.org/abs/2504.03607)|null|
-|**2025-04-04**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438](http://arxiv.org/abs/2504.03438)|null|
+|**2025-04-07**|**ZFusion: An Effective Fuser of Camera and 4D Radar for 3D Object Perception in Autonomous Driving**|Sheng Yang et.al.|[2504.03438](http://arxiv.org/abs/2504.03438)|null|
 |**2025-04-04**|**SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding**|Yimin Wei et.al.|[2504.03254](http://arxiv.org/abs/2504.03254)|null|
 |**2025-04-04**|**RingMoE: Mixture-of-Modality-Experts Multi-Modal Foundation Models for Universal Remote Sensing Image Interpretation**|Hanbo Bi et.al.|[2504.03166](http://arxiv.org/abs/2504.03166)|null|
 |**2025-04-03**|**Multi-Head Adaptive Graph Convolution Network for Sparse Point Cloud-Based Human Activity Recognition**|Vincent Gbouna Zakka et.al.|[2504.02778](http://arxiv.org/abs/2504.02778)|**[link](https://github.com/Gbouna/MAK-GCN)**|
@@ -1222,7 +1222,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
