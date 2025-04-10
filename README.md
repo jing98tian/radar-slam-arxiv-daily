@@ -97,6 +97,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-09**|**Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation**|Thomas Kerdreux et.al.|[2504.06962](http://arxiv.org/abs/2504.06962)|null|
+|**2025-04-09**|**Sensing-Oriented Adaptive Resource Allocation Designs for OFDM-ISAC Systems**|Peishi Li et.al.|[2504.06605](http://arxiv.org/abs/2504.06605)|null|
 |**2025-04-08**|**Chernoff Information Bottleneck for Covert Quantum Target Sensing**|Giuseppe Ortolano et.al.|[2504.06217](http://arxiv.org/abs/2504.06217)|null|
 |**2025-04-08**|**Unimodular Waveform Design for Integrated Sensing and Communication MIMO System via Manifold Optimization**|Jiangtao Wang et.al.|[2504.05829](http://arxiv.org/abs/2504.05829)|null|
 |**2025-04-07**|**Resource-Efficient Beam Prediction in mmWave Communications with Multimodal Realistic Simulation Framework**|Yu Min Park et.al.|[2504.05187](http://arxiv.org/abs/2504.05187)|null|
