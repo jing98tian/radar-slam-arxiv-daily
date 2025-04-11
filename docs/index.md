@@ -88,6 +88,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-10**|**Foreign Signal Radar**|Wei Jiao et.al.|[2504.07855](http://arxiv.org/abs/2504.07855)|null|
+|**2025-04-10**|**System Concept and Demonstration of Bistatic MIMO-OFDM-based ISAC**|Lucas Giroto de Oliveira et.al.|[2504.07600](http://arxiv.org/abs/2504.07600)|null|
+|**2025-04-10**|**RIS-Aided Integrated Sensing and Communication Waveform Design With Tunable PAPR**|Jinlong Wu et.al.|[2504.07442](http://arxiv.org/abs/2504.07442)|null|
+|**2025-04-10**|**WS-DETR: Robust Water Surface Object Detection through Vision-Radar Fusion with Detection Transformer**|Huilin Yin et.al.|[2504.07441](http://arxiv.org/abs/2504.07441)|null|
+|**2025-04-10**|**State Estimation Using Particle Filtering in Adaptive Machine Learning Methods: Integrating Q-Learning and NEAT Algorithms with Noisy Radar Measurements**|Wonjin Song et.al.|[2504.07393](http://arxiv.org/abs/2504.07393)|null|
 |**2025-04-09**|**Efficient Self-Supervised Learning for Earth Observation via Dynamic Dataset Curation**|Thomas Kerdreux et.al.|[2504.06962](http://arxiv.org/abs/2504.06962)|null|
 |**2025-04-09**|**Sensing-Oriented Adaptive Resource Allocation Designs for OFDM-ISAC Systems**|Peishi Li et.al.|[2504.06605](http://arxiv.org/abs/2504.06605)|null|
 |**2025-04-08**|**Chernoff Information Bottleneck for Covert Quantum Target Sensing**|Giuseppe Ortolano et.al.|[2504.06217](http://arxiv.org/abs/2504.06217)|null|
