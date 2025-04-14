@@ -88,6 +88,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-11**|**COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails**|Miguel Espinosa et.al.|[2504.08548](http://arxiv.org/abs/2504.08548)|null|
+|**2025-04-11**|**Joint Transmit Waveform and Receive Filter Design for ISAC System with Jamming**|Yuan Shu et.al.|[2504.08520](http://arxiv.org/abs/2504.08520)|null|
+|**2025-04-11**|**SARFormer -- An Acquisition Parameter Aware Vision Transformer for Synthetic Aperture Radar Data**|Jonathan Prexl et.al.|[2504.08441](http://arxiv.org/abs/2504.08441)|null|
+|**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
+|**2025-04-10**|**Benchmarking Suite for Synthetic Aperture Radar Imagery Anomaly Detection (SARIAD) Algorithms**|Lucian Chauvina et.al.|[2504.08115](http://arxiv.org/abs/2504.08115)|null|
+|**2025-04-10**|**Patch distribution modeling framework adaptive cosine estimator (PaDiM-ACE) for anomaly detection and localization in synthetic aperture radar imagery**|Angelina Ibarra et.al.|[2504.08049](http://arxiv.org/abs/2504.08049)|null|
 |**2025-04-10**|**Foreign Signal Radar**|Wei Jiao et.al.|[2504.07855](http://arxiv.org/abs/2504.07855)|null|
 |**2025-04-10**|**System Concept and Demonstration of Bistatic MIMO-OFDM-based ISAC**|Lucas Giroto de Oliveira et.al.|[2504.07600](http://arxiv.org/abs/2504.07600)|null|
 |**2025-04-10**|**RIS-Aided Integrated Sensing and Communication Waveform Design With Tunable PAPR**|Jinlong Wu et.al.|[2504.07442](http://arxiv.org/abs/2504.07442)|null|
