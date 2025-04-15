@@ -88,6 +88,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-14**|**Better Coherence, Better Height: Fusing Physical Models and Deep Learning for Forest Height Estimation from Interferometric SAR Data**|Ragini Bal Mahesh et.al.|[2504.10395](http://arxiv.org/abs/2504.10395)|null|
+|**2025-04-14**|**Frequency Hopping Waveform Design for Secure Integrated Sensing and Communications**|Ali Khandan Boroujeni et.al.|[2504.10052](http://arxiv.org/abs/2504.10052)|null|
+|**2025-04-14**|**Physical Scales Matter: The Role of Receptive Fields and Advection in Satellite-Based Thunderstorm Nowcasting with Convolutional Neural Networks**|Christoph Metzl et.al.|[2504.09994](http://arxiv.org/abs/2504.09994)|null|
+|**2025-04-14**|**Passive Channel Charting: Locating Passive Targets using Wi-Fi Channel State Information**|Florian Euchner et.al.|[2504.09924](http://arxiv.org/abs/2504.09924)|null|
+|**2025-04-14**|**Parameter Convergence Detector Based on VAMP Deep Unfolding: A Novel Radar Constant False Alarm Rate Detection Algorithm**|Haoyun Zhang et.al.|[2504.09912](http://arxiv.org/abs/2504.09912)|null|
+|**2025-04-14**|**A Novel Radar Constant False Alarm Rate Detection Algorithm Based on VAMP Deep Unfolding**|Haoyun Zhang et.al.|[2504.09907](http://arxiv.org/abs/2504.09907)|null|
+|**2025-04-14**|**RadarLLM: Empowering Large Language Models to Understand Human Motion from Millimeter-wave Point Cloud Sequence**|Zengyuan Lai et.al.|[2504.09862](http://arxiv.org/abs/2504.09862)|null|
+|**2025-04-13**|**Millimeter-Wave Joint Radar and Communications With an RIS-Integrated Array**|Steven Rivetti et.al.|[2504.09636](http://arxiv.org/abs/2504.09636)|null|
+|**2025-04-13**|**Tight tradeoff relation and optimal measurement for multi-parameter quantum estimation**|Lingna Wang et.al.|[2504.09490](http://arxiv.org/abs/2504.09490)|null|
+|**2025-04-12**|**RICCARDO: Radar Hit Prediction and Convolution for Camera-Radar 3D Object Detection**|Yunfei Long et.al.|[2504.09086](http://arxiv.org/abs/2504.09086)|null|
 |**2025-04-11**|**COP-GEN-Beta: Unified Generative Modelling of COPernicus Imagery Thumbnails**|Miguel Espinosa et.al.|[2504.08548](http://arxiv.org/abs/2504.08548)|null|
 |**2025-04-11**|**Joint Transmit Waveform and Receive Filter Design for ISAC System with Jamming**|Yuan Shu et.al.|[2504.08520](http://arxiv.org/abs/2504.08520)|null|
 |**2025-04-11**|**SARFormer -- An Acquisition Parameter Aware Vision Transformer for Synthetic Aperture Radar Data**|Jonathan Prexl et.al.|[2504.08441](http://arxiv.org/abs/2504.08441)|null|
