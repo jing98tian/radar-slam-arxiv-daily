@@ -88,6 +88,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-15**|**TerraMesh: A Planetary Mosaic of Multimodal Earth Observation Data**|Benedikt Blumenstiel et.al.|[2504.11172](http://arxiv.org/abs/2504.11172)|null|
+|**2025-04-15**|**K-means Enhanced Density Gradient Analysis for Urban and Transport Metrics Using Multi-Modal Satellite Imagery**|P. Tomkiewicz et.al.|[2504.11128](http://arxiv.org/abs/2504.11128)|null|
+|**2025-04-14**|**Visual anemometry of natural vegetation from their leaf motion**|Roni H. Goldshmid et.al.|[2504.10584](http://arxiv.org/abs/2504.10584)|null|
 |**2025-04-14**|**Better Coherence, Better Height: Fusing Physical Models and Deep Learning for Forest Height Estimation from Interferometric SAR Data**|Ragini Bal Mahesh et.al.|[2504.10395](http://arxiv.org/abs/2504.10395)|null|
 |**2025-04-14**|**Frequency Hopping Waveform Design for Secure Integrated Sensing and Communications**|Ali Khandan Boroujeni et.al.|[2504.10052](http://arxiv.org/abs/2504.10052)|null|
 |**2025-04-14**|**Physical Scales Matter: The Role of Receptive Fields and Advection in Satellite-Based Thunderstorm Nowcasting with Convolutional Neural Networks**|Christoph Metzl et.al.|[2504.09994](http://arxiv.org/abs/2504.09994)|null|
