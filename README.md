@@ -99,6 +99,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-17**|**EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery**|Wei Zhang et.al.|[2504.12795](http://arxiv.org/abs/2504.12795)|null|
+|**2025-04-16**|**Assessing the Spatial and Temporal Risk of HPAIV Transmission to Danish Cattle via Wild Birds**|You Chang et.al.|[2504.12432](http://arxiv.org/abs/2504.12432)|null|
+|**2025-04-15**|**3D Object Reconstruction with mmWave Radars**|Samah Hussein et.al.|[2504.12348](http://arxiv.org/abs/2504.12348)|null|
 |**2025-04-16**|**RADLER: Radar Object Detection Leveraging Semantic 3D City Models and Self-Supervised Radar-Image Learning**|Yuan Luo et.al.|[2504.12167](http://arxiv.org/abs/2504.12167)|null|
 |**2025-04-16**|**Deep Generative Models for Bayesian Inference on High-Rate Sensor Data: Applications in Automotive Radar and Medical Imaging**|Tristan S. W. Stevens et.al.|[2504.12154](http://arxiv.org/abs/2504.12154)|null|
 |**2025-04-16**|**RadMamba: Efficient Human Activity Recognition through Radar-based Micro-Doppler-Oriented Mamba State-Space Model**|Yizhuo Wu et.al.|[2504.12039](http://arxiv.org/abs/2504.12039)|null|
