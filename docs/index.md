@@ -90,6 +90,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-18**|**DenSe-AdViT: A novel Vision Transformer for Dense SAR Object Detection**|Yang Zhang et.al.|[2504.13638](http://arxiv.org/abs/2504.13638)|null|
+|**2025-04-17**|**Focus3D: A Practical Method to Adaptively Focus ISAR Data and Provide 3-D Information for Automatic Target Recognition**|John R. Bennett et.al.|[2504.13321](http://arxiv.org/abs/2504.13321)|null|
+|**2025-04-17**|**SAR Object Detection with Self-Supervised Pretraining and Curriculum-Aware Sampling**|Yasin Almalioglu et.al.|[2504.13310](http://arxiv.org/abs/2504.13310)|null|
 |**2025-04-17**|**EarthGPT-X: Enabling MLLMs to Flexibly and Comprehensively Understand Multi-Source Remote Sensing Imagery**|Wei Zhang et.al.|[2504.12795](http://arxiv.org/abs/2504.12795)|null|
 |**2025-04-18**|**Assessing the Spatial and Temporal Risk of HPAIV Transmission to Danish Cattle via Wild Birds**|You Chang et.al.|[2504.12432](http://arxiv.org/abs/2504.12432)|null|
 |**2025-04-15**|**3D Object Reconstruction with mmWave Radars**|Samah Hussein et.al.|[2504.12348](http://arxiv.org/abs/2504.12348)|null|
