@@ -90,6 +90,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-22**|**RaSCL: Radar to Satellite Crossview Localization**|Blerim Abdullai et.al.|[2504.15899](http://arxiv.org/abs/2504.15899)|null|
+|**2025-04-21**|**Field Report on Ground Penetrating Radar for Localization at the Mars Desert Research Station**|Anja Sheppard et.al.|[2504.15455](http://arxiv.org/abs/2504.15455)|null|
+|**2025-04-21**|**Dual Laser Self-Injection Locking to a Micro Fabry-Perot for Low Phase Noise Millimeter-wave Generation**|William Groman et.al.|[2504.15361](http://arxiv.org/abs/2504.15361)|null|
+|**2025-04-21**|**Bayesian Federated Learning for Continual Training**|Usevalad Milasheuski et.al.|[2504.15328](http://arxiv.org/abs/2504.15328)|null|
 |**2025-04-22**|**Radar Code Design for the Joint Optimization of Detection Performance and Measurement Accuracy in Track Maintenance**|Tao Fan et.al.|[2504.14885](http://arxiv.org/abs/2504.14885)|null|
 |**2025-04-20**|**Binary cyclic codes from permutation polynomials over $\mathbb{F}_{2^m}$**|Mrinal Kanti Bose et.al.|[2504.14674](http://arxiv.org/abs/2504.14674)|null|
 |**2025-04-22**|**Talk is Not Always Cheap: Promoting Wireless Sensing Models with Text Prompts**|Zhenkui Yang et.al.|[2504.14621](http://arxiv.org/abs/2504.14621)|**[link](https://github.com/yangzhenkui/witalk)**|
