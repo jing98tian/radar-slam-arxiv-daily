@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.22
+## Updated on 2025.04.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -90,9 +90,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-04-21**|**Radar Code Design for the Joint Optimization of Detection Performance and Measurement Accuracy in Track Maintenance**|Tao Fan et.al.|[2504.14885](http://arxiv.org/abs/2504.14885)|null|
+|**2025-04-22**|**Radar Code Design for the Joint Optimization of Detection Performance and Measurement Accuracy in Track Maintenance**|Tao Fan et.al.|[2504.14885](http://arxiv.org/abs/2504.14885)|null|
 |**2025-04-20**|**Binary cyclic codes from permutation polynomials over $\mathbb{F}_{2^m}$**|Mrinal Kanti Bose et.al.|[2504.14674](http://arxiv.org/abs/2504.14674)|null|
-|**2025-04-20**|**Talk is Not Always Cheap: Promoting Wireless Sensing Models with Text Prompts**|Zhenkui Yang et.al.|[2504.14621](http://arxiv.org/abs/2504.14621)|**[link](https://github.com/yangzhenkui/witalk)**|
+|**2025-04-22**|**Talk is Not Always Cheap: Promoting Wireless Sensing Models with Text Prompts**|Zhenkui Yang et.al.|[2504.14621](http://arxiv.org/abs/2504.14621)|**[link](https://github.com/yangzhenkui/witalk)**|
 |**2025-04-20**|**RadarTrack: Enhancing Ego-Vehicle Speed Estimation with Single-chip mmWave Radar**|Argha Sen et.al.|[2504.14495](http://arxiv.org/abs/2504.14495)|null|
 |**2025-04-20**|**Estimating Soil Electrical Parameters in the Canadian High Arctic from Impedance Measurements of the MIST Antenna Above the Surface**|I. Hendricksen et.al.|[2504.14444](http://arxiv.org/abs/2504.14444)|null|
 |**2025-04-19**|**Exploiting Symmetric Non-Convexity for Multi-Objective Symbol-Level DFRC Signal Design**|Ly V. Nguyen et.al.|[2504.14281](http://arxiv.org/abs/2504.14281)|null|
