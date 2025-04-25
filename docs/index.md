@@ -90,6 +90,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-24**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
+|**2025-04-24**|**Integrated Sensing and Communications for Unsourced Random Access: A Spectrum Sharing Compressive Sensing Approach**|Zhentian Zhang et.al.|[2504.17629](http://arxiv.org/abs/2504.17629)|null|
+|**2025-04-24**|**Automotive Radar Multi-Frame Track-Before-Detect Algorithm Considering Self-Positioning Errors**|Wujun Li et.al.|[2504.17155](http://arxiv.org/abs/2504.17155)|null|
+|**2025-04-23**|**Sparse Phased Array Optimization Using Deep Learning**|David Lu et.al.|[2504.17073](http://arxiv.org/abs/2504.17073)|null|
+|**2025-04-23**|**Diffusion Probabilistic Models for Compressive SAR Imaging**|Odysseas Pappas et.al.|[2504.17053](http://arxiv.org/abs/2504.17053)|null|
+|**2025-04-23**|**Unsupervised Time-Series Signal Analysis with Autoencoders and Vision Transformers: A Review of Architectures and Applications**|Hossein Ahmadi et.al.|[2504.16972](http://arxiv.org/abs/2504.16972)|null|
 |**2025-04-23**|**Association-Based Track-Before-Detect with Object Contribution Probabilities**|Thomas Kropfreiter et.al.|[2504.16814](http://arxiv.org/abs/2504.16814)|null|
 |**2025-04-23**|**MTSGL: Multi-Task Structure Guided Learning for Robust and Interpretable SAR Aircraft Recognition**|Qishan He et.al.|[2504.16467](http://arxiv.org/abs/2504.16467)|null|
 |**2025-04-23**|**Advancing Radar Hand Gesture Recognition: A Hybrid Spectrum Synthetic Framework Merging Simulation with Neural Networks**|Jiaqi Tang et.al.|[2504.16423](http://arxiv.org/abs/2504.16423)|null|
