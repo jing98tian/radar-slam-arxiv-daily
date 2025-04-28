@@ -99,6 +99,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-25**|**Characterization of Long-Term Stable Photonic Microwaves based on a Difference Frequency Comb**|S. Mueller et.al.|[2504.18470](http://arxiv.org/abs/2504.18470)|null|
+|**2025-04-25**|**SSA-UNet: Advanced Precipitation Nowcasting via Channel Shuffling**|Marco Turzi et.al.|[2504.18309](http://arxiv.org/abs/2504.18309)|null|
 |**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
 |**2025-04-24**|**Integrated Sensing and Communications for Unsourced Random Access: A Spectrum Sharing Compressive Sensing Approach**|Zhentian Zhang et.al.|[2504.17629](http://arxiv.org/abs/2504.17629)|null|
 |**2025-04-24**|**Automotive Radar Multi-Frame Track-Before-Detect Algorithm Considering Self-Positioning Errors**|Wujun Li et.al.|[2504.17155](http://arxiv.org/abs/2504.17155)|null|
