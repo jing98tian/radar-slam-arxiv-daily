@@ -91,6 +91,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-29**|**On the Secrecy-Sensing Optimization of RIS-assisted Full-Duplex Integrated Sensing and Communication Network**|Elmehdi Illi et.al.|[2504.20912](http://arxiv.org/abs/2504.20912)|null|
+|**2025-04-29**|**A Quantum Range-Doppler Algorithm for Synthetic Aperture Radar Image Formation**|Alessandro Giovagnoli et.al.|[2504.20811](http://arxiv.org/abs/2504.20811)|null|
+|**2025-04-29**|**Parametrized Stacked Intelligent Metasurfaces for Bistatic Integrated Sensing and Communications**|Kuranage Roche Rayan Ranasinghe et.al.|[2504.20661](http://arxiv.org/abs/2504.20661)|null|
+|**2025-04-29**|**Disjoint Delay-Doppler Estimation in OTFS ISAC with Deep Learning-aided Path Detection**|Mauro Marchese et.al.|[2504.20659](http://arxiv.org/abs/2504.20659)|null|
+|**2025-04-29**|**Sense-then-Charge: Wireless Power Transfer to Unresponsive Devices with Unknown Location**|Amirhossein Azarbahram et.al.|[2504.20580](http://arxiv.org/abs/2504.20580)|null|
+|**2025-04-29**|**BEER: Biochemical Estimator and Explorer of Residues -- A Comprehensive Software Suite for Protein Sequence Analysis**|Saumyak Mukherjee et.al.|[2504.20561](http://arxiv.org/abs/2504.20561)|null|
+|**2025-04-29**|**A Case Study of the Tornadic Supercell in the province of Pampanga, Philippines (27 May 2024)**|Generich H. Capuli et.al.|[2504.20559](http://arxiv.org/abs/2504.20559)|null|
+|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339](http://arxiv.org/abs/2504.20339)|null|
 |**2025-04-27**|**Target Detection for ISAC with TDD Transmission**|Marcus Henninger et.al.|[2504.19260](http://arxiv.org/abs/2504.19260)|null|
 |**2025-04-27**|**LRFusionPR: A Polar BEV-Based LiDAR-Radar Fusion Network for Place Recognition**|Zhangshuo Qi et.al.|[2504.19186](http://arxiv.org/abs/2504.19186)|null|
 |**2025-04-27**|**Comparison Research of Millimeter-Wave/Infrared Co-aperture Reflector Antenna Systems Based on a Specialized Film**|Zongze Li et.al.|[2504.19150](http://arxiv.org/abs/2504.19150)|null|
