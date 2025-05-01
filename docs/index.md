@@ -91,6 +91,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
+|**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699](http://arxiv.org/abs/2504.21699)|null|
+|**2025-04-30**|**Electromagnetic Modelling of Extended Targets in a Distributed Antenna System**|Baptiste Sambon et.al.|[2504.21388](http://arxiv.org/abs/2504.21388)|null|
+|**2025-04-30**|**Waveform Design Based on Mutual Information Upper Bound For Joint Detection and Estimation**|Ruofeng Yu et.al.|[2504.21322](http://arxiv.org/abs/2504.21322)|null|
 |**2025-04-29**|**On the Secrecy-Sensing Optimization of RIS-assisted Full-Duplex Integrated Sensing and Communication Network**|Elmehdi Illi et.al.|[2504.20912](http://arxiv.org/abs/2504.20912)|null|
 |**2025-04-29**|**A Quantum Range-Doppler Algorithm for Synthetic Aperture Radar Image Formation**|Alessandro Giovagnoli et.al.|[2504.20811](http://arxiv.org/abs/2504.20811)|null|
 |**2025-04-29**|**Parametrized Stacked Intelligent Metasurfaces for Bistatic Integrated Sensing and Communications**|Kuranage Roche Rayan Ranasinghe et.al.|[2504.20661](http://arxiv.org/abs/2504.20661)|null|
