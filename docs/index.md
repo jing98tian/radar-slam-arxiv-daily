@@ -91,6 +91,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-01**|**Physical Limits and Optimal Synthesis of Beyond Diagonal Anomalous Scatterers**|Mats Gustafsson et.al.|[2505.00691](http://arxiv.org/abs/2505.00691)|null|
+|**2025-05-01**|**Synthesizing and Identifying Noise Levels in Autonomous Vehicle Camera Radar Datasets**|Mathis Morales et.al.|[2505.00584](http://arxiv.org/abs/2505.00584)|null|
+|**2025-05-01**|**Field-scale soil moisture estimated from Sentinel-1 SAR data using a knowledge-guided deep learning approach**|Yi Yu et.al.|[2505.00265](http://arxiv.org/abs/2505.00265)|null|
 |**2025-04-30**|**Smart Environmental Monitoring of Marine Pollution using Edge AI**|Mohamed Moursi et.al.|[2504.21759](http://arxiv.org/abs/2504.21759)|null|
 |**2025-04-30**|**REHEARSE-3D: A Multi-modal Emulated Rain Dataset for 3D Point Cloud De-raining**|Abu Mohammed Raisuddin et.al.|[2504.21699](http://arxiv.org/abs/2504.21699)|null|
 |**2025-04-30**|**Electromagnetic Modelling of Extended Targets in a Distributed Antenna System**|Baptiste Sambon et.al.|[2504.21388](http://arxiv.org/abs/2504.21388)|null|
