@@ -101,6 +101,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-05**|**Multimodal Deep Learning-Empowered Beam Prediction in Future THz ISAC Systems**|Kai Zhang et.al.|[2505.02381](http://arxiv.org/abs/2505.02381)|null|
+|**2025-05-03**|**Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images**|Siddharth Kothari et.al.|[2505.01884](http://arxiv.org/abs/2505.01884)|null|
+|**2025-05-03**|**Pinching Antenna-enabled ISAC Systems: Exploiting Look-Angle Dependence of RCS for Target Diversity**|Ata Khalili et.al.|[2505.01777](http://arxiv.org/abs/2505.01777)|null|
+|**2025-05-02**|**Multimodal and Multiview Deep Fusion for Autonomous Marine Navigation**|Dimitrios Dagdilelis et.al.|[2505.01615](http://arxiv.org/abs/2505.01615)|null|
 |**2025-05-02**|**Toward Teach and Repeat Across Seasonal Deep Snow Accumulation**|Matěj Boxan et.al.|[2505.01339](http://arxiv.org/abs/2505.01339)|null|
 |**2025-05-02**|**Simultaneous Multi-Beam Radar with Full Range Resolution exploiting Space-Code Beamforming**|P. Pon Surendar et.al.|[2505.01265](http://arxiv.org/abs/2505.01265)|null|
 |**2025-05-01**|**mmSnap: Bayesian One-Shot Fusion in a Self-Calibrated mmWave Radar Network**|Anirban Banik et.al.|[2505.00857](http://arxiv.org/abs/2505.00857)|null|
