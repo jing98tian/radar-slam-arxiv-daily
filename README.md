@@ -101,6 +101,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
+|**2025-05-06**|**Rapid diagnostics of reconfigurable intelligent surfaces using space-time-coding modulation**|Yi Ning Zheng et.al.|[2505.03266](http://arxiv.org/abs/2505.03266)|null|
+|**2025-05-06**|**Bayesian full waveform inversion with sequential surrogate model refinement**|Giovanni Angelo Meles et.al.|[2505.03246](http://arxiv.org/abs/2505.03246)|null|
 |**2025-05-05**|**Multimodal Deep Learning-Empowered Beam Prediction in Future THz ISAC Systems**|Kai Zhang et.al.|[2505.02381](http://arxiv.org/abs/2505.02381)|null|
 |**2025-05-06**|**Adversarial Robustness of Deep Learning Models for Inland Water Body Segmentation from SAR Images**|Siddharth Kothari et.al.|[2505.01884](http://arxiv.org/abs/2505.01884)|null|
 |**2025-05-03**|**Pinching Antenna-enabled ISAC Systems: Exploiting Look-Angle Dependence of RCS for Target Diversity**|Ata Khalili et.al.|[2505.01777](http://arxiv.org/abs/2505.01777)|null|
