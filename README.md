@@ -101,6 +101,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-07**|**Do We Still Need to Work on Odometry for Autonomous Driving?**|Cedric Le Gentil et.al.|[2505.04438](http://arxiv.org/abs/2505.04438)|null|
+|**2025-05-05**|**From Spaceborn to Airborn: SAR Image Synthesis Using Foundation Models for Multi-Scale Adaptation**|Solène Debuysère et.al.|[2505.03844](http://arxiv.org/abs/2505.03844)|null|
 |**2025-05-06**|**CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting**|Huawei Sun et.al.|[2505.03679](http://arxiv.org/abs/2505.03679)|null|
 |**2025-05-06**|**Rapid diagnostics of reconfigurable intelligent surfaces using space-time-coding modulation**|Yi Ning Zheng et.al.|[2505.03266](http://arxiv.org/abs/2505.03266)|null|
 |**2025-05-06**|**Bayesian full waveform inversion with sequential surrogate model refinement**|Giovanni Angelo Meles et.al.|[2505.03246](http://arxiv.org/abs/2505.03246)|null|
