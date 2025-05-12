@@ -131,11 +131,11 @@
 |**2025-04-29**|**Sense-then-Charge: Wireless Power Transfer to Unresponsive Devices with Unknown Location**|Amirhossein Azarbahram et.al.|[2504.20580](http://arxiv.org/abs/2504.20580)|null|
 |**2025-04-29**|**BEER: Biochemical Estimator and Explorer of Residues -- A Comprehensive Software Suite for Protein Sequence Analysis**|Saumyak Mukherjee et.al.|[2504.20561](http://arxiv.org/abs/2504.20561)|null|
 |**2025-04-30**|**A Case Study of the Tornadic Supercell in the Province of Pampanga, Philippines (27 May 2024)**|Generich H. Capuli et.al.|[2504.20559](http://arxiv.org/abs/2504.20559)|null|
-|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339](http://arxiv.org/abs/2504.20339)|null|
+|**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339](http://arxiv.org/abs/2504.20339)|**[link](https://github.com/utiasasrl/dro)**|
 |**2025-04-27**|**Target Detection for ISAC with TDD Transmission**|Marcus Henninger et.al.|[2504.19260](http://arxiv.org/abs/2504.19260)|null|
-|**2025-04-27**|**LRFusionPR: A Polar BEV-Based LiDAR-Radar Fusion Network for Place Recognition**|Zhangshuo Qi et.al.|[2504.19186](http://arxiv.org/abs/2504.19186)|null|
+|**2025-04-27**|**LRFusionPR: A Polar BEV-Based LiDAR-Radar Fusion Network for Place Recognition**|Zhangshuo Qi et.al.|[2504.19186](http://arxiv.org/abs/2504.19186)|**[link](https://github.com/qizs-bit/lrfusionpr)**|
 |**2025-04-27**|**Comparison Research of Millimeter-Wave/Infrared Co-aperture Reflector Antenna Systems Based on a Specialized Film**|Zongze Li et.al.|[2504.19150](http://arxiv.org/abs/2504.19150)|null|
-|**2025-04-27**|**PAD: Phase-Amplitude Decoupling Fusion for Multi-Modal Land Cover Classification**|Huiling Zheng et.al.|[2504.19136](http://arxiv.org/abs/2504.19136)|null|
+|**2025-04-27**|**PAD: Phase-Amplitude Decoupling Fusion for Multi-Modal Land Cover Classification**|Huiling Zheng et.al.|[2504.19136](http://arxiv.org/abs/2504.19136)|**[link](https://github.com/ranfeng2/pad)**|
 |**2025-04-26**|**R-Sparse R-CNN: SAR Ship Detection Based on Background-Aware Sparse Learnable Proposals**|Kamirul Kamirul et.al.|[2504.18959](http://arxiv.org/abs/2504.18959)|null|
 |**2025-04-26**|**DMA Reception for Simultaneous Area-Wide Sensing and Multi-User Uplink Communications**|Ioannis Gavras et.al.|[2504.18843](http://arxiv.org/abs/2504.18843)|null|
 |**2025-04-26**|**Reservoir-enhanced Segment Anything Model for Subsurface Diagnosis**|Xiren Zhou et.al.|[2504.18802](http://arxiv.org/abs/2504.18802)|null|
@@ -191,8 +191,8 @@
 |**2025-04-11**|**Joint Transmit Waveform and Receive Filter Design for ISAC System with Jamming**|Yuan Shu et.al.|[2504.08520](http://arxiv.org/abs/2504.08520)|null|
 |**2025-04-11**|**SARFormer -- An Acquisition Parameter Aware Vision Transformer for Synthetic Aperture Radar Data**|Jonathan Prexl et.al.|[2504.08441](http://arxiv.org/abs/2504.08441)|null|
 |**2025-04-10**|**Enhanced Cooperative Perception Through Asynchronous Vehicle to Infrastructure Framework with Delay Mitigation for Connected and Automated Vehicles**|Nithish Kumar Saravanan et.al.|[2504.08172](http://arxiv.org/abs/2504.08172)|null|
-|**2025-04-10**|**Benchmarking Suite for Synthetic Aperture Radar Imagery Anomaly Detection (SARIAD) Algorithms**|Lucian Chauvina et.al.|[2504.08115](http://arxiv.org/abs/2504.08115)|null|
-|**2025-04-10**|**Patch distribution modeling framework adaptive cosine estimator (PaDiM-ACE) for anomaly detection and localization in synthetic aperture radar imagery**|Angelina Ibarra et.al.|[2504.08049](http://arxiv.org/abs/2504.08049)|null|
+|**2025-04-10**|**Benchmarking Suite for Synthetic Aperture Radar Imagery Anomaly Detection (SARIAD) Algorithms**|Lucian Chauvina et.al.|[2504.08115](http://arxiv.org/abs/2504.08115)|**[link](https://github.com/advanced-vision-and-learning-lab/sariad)**|
+|**2025-04-10**|**Patch distribution modeling framework adaptive cosine estimator (PaDiM-ACE) for anomaly detection and localization in synthetic aperture radar imagery**|Angelina Ibarra et.al.|[2504.08049](http://arxiv.org/abs/2504.08049)|**[link](https://github.com/advanced-vision-and-learning-lab/padim-ace)**|
 |**2025-04-10**|**Foreign Signal Radar**|Wei Jiao et.al.|[2504.07855](http://arxiv.org/abs/2504.07855)|null|
 |**2025-04-10**|**System Concept and Demonstration of Bistatic MIMO-OFDM-based ISAC**|Lucas Giroto de Oliveira et.al.|[2504.07600](http://arxiv.org/abs/2504.07600)|null|
 |**2025-04-10**|**RIS-Aided Integrated Sensing and Communication Waveform Design With Tunable PAPR**|Jinlong Wu et.al.|[2504.07442](http://arxiv.org/abs/2504.07442)|null|
