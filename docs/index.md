@@ -92,6 +92,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-12**|**FD-RIO: Fast Dense Radar Inertial Odometry**|Nader J. Abu-Alrub et.al.|[2505.07694](http://arxiv.org/abs/2505.07694)|null|
+|**2025-05-12**|**Approximate MLE of High-Dimensional STAP Covariance Matrices with Banded & Spiked Structure -- A Convex Relaxation Approach**|Shashwat Jain et.al.|[2505.07643](http://arxiv.org/abs/2505.07643)|null|
+|**2025-05-12**|**Securing Genomic Data Against Inference Attacks in Federated Learning Environments**|Chetan Pathade et.al.|[2505.07188](http://arxiv.org/abs/2505.07188)|null|
+|**2025-05-11**|**VALISENS: A Validated Innovative Multi-Sensor System for Cooperative Automated Driving**|Lei Wan et.al.|[2505.06980](http://arxiv.org/abs/2505.06980)|null|
+|**2025-05-11**|**Time-Modulated EM Skins for Integrated Sensing and Communications**|Lorenzo Poli et.al.|[2505.06909](http://arxiv.org/abs/2505.06909)|null|
+|**2025-05-10**|**RESAR-BEV: An Explainable Progressive Residual Autoregressive Approach for Camera-Radar Fusion in BEV Segmentation**|Zhiwen Zeng et.al.|[2505.06515](http://arxiv.org/abs/2505.06515)|null|
+|**2025-05-10**|**Monopulse Parameter Estimation based on MIMO-STCA Radar in the Presence of Multiple Mainlobe Jammings**|Huake Wang et.al.|[2505.06495](http://arxiv.org/abs/2505.06495)|null|
 |**2025-05-09**|**Collecting Human Motion Data in Large and Occlusion-Prone Environments using Ultra-Wideband Localization**|Janik Kaden et.al.|[2505.05851](http://arxiv.org/abs/2505.05851)|null|
 |**2025-05-07**|**Do We Still Need to Work on Odometry for Autonomous Driving?**|Cedric Le Gentil et.al.|[2505.04438](http://arxiv.org/abs/2505.04438)|null|
 |**2025-05-11**|**From Spaceborne to Airborne: SAR Image Synthesis Using Foundation Models for Multi-Scale Adaptation**|Solene Debuysere et.al.|[2505.03844](http://arxiv.org/abs/2505.03844)|null|
