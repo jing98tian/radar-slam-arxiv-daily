@@ -38,6 +38,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
+|**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
 |**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654](http://arxiv.org/abs/2504.19654)|null|
 |**2025-04-18**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634](http://arxiv.org/abs/2504.11634)|**[link](https://github.com/wayne-dwa/doppler-slam)**|
 |**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|**[link](https://github.com/prbonn/enm-mcl)**|
@@ -92,6 +94,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-13**|**Polar motion of Venus**|PL. Phan et.al.|[2505.08780](http://arxiv.org/abs/2505.08780)|null|
+|**2025-05-13**|**3GPP-Compliant Radar Cross Section Characterization of Indoor Factory Targets**|Ali Waqar Azim et.al.|[2505.08754](http://arxiv.org/abs/2505.08754)|null|
+|**2025-05-13**|**How are research data referenced? The use case of the research data repository RADAR**|Dorothea Strecker et.al.|[2505.08533](http://arxiv.org/abs/2505.08533)|null|
+|**2025-05-13**|**Dual-UAV-Enabled Secure Communication and Sensing for A2G-ISAC Systems with Maneuverable Jamming**|Libiao Lou et.al.|[2505.08523](http://arxiv.org/abs/2505.08523)|null|
+|**2025-05-13**|**Non-contact Vital Signs Detection in Dynamic Environments**|Shuai Sun et.al.|[2505.08366](http://arxiv.org/abs/2505.08366)|null|
+|**2025-05-13**|**N $^2$ LoS: Single-Tag mmWave Backscatter for Robust Non-Line-of-Sight Localization**|Zhenguo Shi et.al.|[2505.08240](http://arxiv.org/abs/2505.08240)|null|
+|**2025-05-13**|**Performance Analysis of Cooperative Integrated Sensing and Communications for 6G Networks**|Dongsheng Sui et.al.|[2505.08221](http://arxiv.org/abs/2505.08221)|null|
 |**2025-05-12**|**FD-RIO: Fast Dense Radar Inertial Odometry**|Nader J. Abu-Alrub et.al.|[2505.07694](http://arxiv.org/abs/2505.07694)|null|
 |**2025-05-12**|**Approximate MLE of High-Dimensional STAP Covariance Matrices with Banded & Spiked Structure -- A Convex Relaxation Approach**|Shashwat Jain et.al.|[2505.07643](http://arxiv.org/abs/2505.07643)|null|
 |**2025-05-12**|**Securing Genomic Data Against Inference Attacks in Federated Learning Environments**|Chetan Pathade et.al.|[2505.07188](http://arxiv.org/abs/2505.07188)|null|
