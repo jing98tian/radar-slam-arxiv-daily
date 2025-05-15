@@ -94,6 +94,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422](http://arxiv.org/abs/2505.09422)|null|
+|**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356](http://arxiv.org/abs/2505.09356)|**[link](https://github.com/gt-arc/apr-transformer)**|
+|**2025-05-14**|**A Surrogate Model for the Forward Design of Multi-layered Metasurface-based Radar Absorbing Structures**|Vineetha Joy et.al.|[2505.09251](http://arxiv.org/abs/2505.09251)|null|
+|**2025-05-14**|**Optimum and Adaptive Complex-Valued Bilinear Filters**|Bernhard Plaimer et.al.|[2505.09215](http://arxiv.org/abs/2505.09215)|null|
+|**2025-05-14**|**Mainlobe Jamming Suppression Using MIMO-STCA Radar**|Huake Wang et.al.|[2505.09112](http://arxiv.org/abs/2505.09112)|null|
+|**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103](http://arxiv.org/abs/2505.09103)|null|
 |**2025-05-13**|**Polar motion of Venus**|PL. Phan et.al.|[2505.08780](http://arxiv.org/abs/2505.08780)|null|
 |**2025-05-13**|**3GPP-Compliant Radar Cross Section Characterization of Indoor Factory Targets**|Ali Waqar Azim et.al.|[2505.08754](http://arxiv.org/abs/2505.08754)|null|
 |**2025-05-13**|**How are research data referenced? The use case of the research data repository RADAR**|Dorothea Strecker et.al.|[2505.08533](http://arxiv.org/abs/2505.08533)|null|
