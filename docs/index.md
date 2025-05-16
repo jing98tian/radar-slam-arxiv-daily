@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.15
+## Updated on 2025.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -99,7 +99,7 @@ layout: default
 |**2025-05-14**|**A Surrogate Model for the Forward Design of Multi-layered Metasurface-based Radar Absorbing Structures**|Vineetha Joy et.al.|[2505.09251](http://arxiv.org/abs/2505.09251)|null|
 |**2025-05-14**|**Optimum and Adaptive Complex-Valued Bilinear Filters**|Bernhard Plaimer et.al.|[2505.09215](http://arxiv.org/abs/2505.09215)|null|
 |**2025-05-14**|**Mainlobe Jamming Suppression Using MIMO-STCA Radar**|Huake Wang et.al.|[2505.09112](http://arxiv.org/abs/2505.09112)|null|
-|**2025-05-14**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103](http://arxiv.org/abs/2505.09103)|null|
+|**2025-05-15**|**VGC-RIO: A Tightly Integrated Radar-Inertial Odometry with Spatial Weighted Doppler Velocity and Local Geometric Constrained RCS Histograms**|Jianguang Xiang et.al.|[2505.09103](http://arxiv.org/abs/2505.09103)|null|
 |**2025-05-13**|**Polar motion of Venus**|PL. Phan et.al.|[2505.08780](http://arxiv.org/abs/2505.08780)|null|
 |**2025-05-13**|**3GPP-Compliant Radar Cross Section Characterization of Indoor Factory Targets**|Ali Waqar Azim et.al.|[2505.08754](http://arxiv.org/abs/2505.08754)|null|
 |**2025-05-13**|**How are research data referenced? The use case of the research data repository RADAR**|Dorothea Strecker et.al.|[2505.08533](http://arxiv.org/abs/2505.08533)|null|
