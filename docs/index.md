@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.16
+## Updated on 2025.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -94,6 +94,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**RainPro-8: An Efficient Deep Learning Model to Estimate Rainfall Probabilities Over 8 Hours**|Rafael Pablos Sarabia et.al.|[2505.10271](http://arxiv.org/abs/2505.10271)|null|
+|**2025-05-15**|**CFARNet: Learning-Based High-Resolution Multi-Target Detection for Rainbow Beam Radar**|Qiushi Liang et.al.|[2505.10150](http://arxiv.org/abs/2505.10150)|null|
+|**2025-05-15**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[2505.10016](http://arxiv.org/abs/2505.10016)|null|
+|**2025-05-15**|**Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior**|Yanlong Yang et.al.|[2505.09887](http://arxiv.org/abs/2505.09887)|null|
 |**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422](http://arxiv.org/abs/2505.09422)|null|
 |**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356](http://arxiv.org/abs/2505.09356)|**[link](https://github.com/gt-arc/apr-transformer)**|
 |**2025-05-14**|**A Surrogate Model for the Forward Design of Multi-layered Metasurface-based Radar Absorbing Structures**|Vineetha Joy et.al.|[2505.09251](http://arxiv.org/abs/2505.09251)|null|

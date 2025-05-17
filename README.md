@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.16
+## Updated on 2025.05.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -97,12 +97,16 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-15**|**RainPro-8: An Efficient Deep Learning Model to Estimate Rainfall Probabilities Over 8 Hours**|Rafael Pablos Sarabia et.al.|[2505.10271](http://arxiv.org/abs/2505.10271)|null|
+|**2025-05-15**|**CFARNet: Learning-Based High-Resolution Multi-Target Detection for Rainbow Beam Radar**|Qiushi Liang et.al.|[2505.10150](http://arxiv.org/abs/2505.10150)|null|
+|**2025-05-15**|**Application of YOLOv8 in monocular downward multiple Car Target detection**|Shijie Lyu et.al.|[2505.10016](http://arxiv.org/abs/2505.10016)|null|
+|**2025-05-15**|**Unsupervised Radar Point Cloud Enhancement via Arbitrary LiDAR Guided Diffusion Prior**|Yanlong Yang et.al.|[2505.09887](http://arxiv.org/abs/2505.09887)|null|
 |**2025-05-14**|**MoRAL: Motion-aware Multi-Frame 4D Radar and LiDAR Fusion for Robust 3D Object Detection**|Xiangyuan Peng et.al.|[2505.09422](http://arxiv.org/abs/2505.09422)|null|
 |**2025-05-14**|**APR-Transformer: Initial Pose Estimation for Localization in Complex Environments through Absolute Pose Regression**|Srinivas Ravuri et.al.|[2505.09356](http://arxiv.org/abs/2505.09356)|**[link](https://github.com/gt-arc/apr-transformer)**|
 |**2025-05-14**|**A Surrogate Model for the Forward Design of Multi-layered Metasurface-based Radar Absorbing Structures**|Vineetha Joy et.al.|[2505.09251](http://arxiv.org/abs/2505.09251)|null|
@@ -1360,7 +1364,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20250516>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250517>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
