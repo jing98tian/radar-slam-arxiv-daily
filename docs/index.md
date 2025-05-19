@@ -146,8 +146,8 @@ layout: default
 |**2025-04-29**|**A Quantum Range-Doppler Algorithm for Synthetic Aperture Radar Image Formation**|Alessandro Giovagnoli et.al.|[2504.20811](http://arxiv.org/abs/2504.20811)|null|
 |**2025-04-29**|**Parametrized Stacked Intelligent Metasurfaces for Bistatic Integrated Sensing and Communications**|Kuranage Roche Rayan Ranasinghe et.al.|[2504.20661](http://arxiv.org/abs/2504.20661)|null|
 |**2025-04-29**|**Disjoint Delay-Doppler Estimation in OTFS ISAC with Deep Learning-aided Path Detection**|Mauro Marchese et.al.|[2504.20659](http://arxiv.org/abs/2504.20659)|null|
-|**2025-04-29**|**Sense-then-Charge: Wireless Power Transfer to Unresponsive Devices with Unknown Location**|Amirhossein Azarbahram et.al.|[2504.20580](http://arxiv.org/abs/2504.20580)|null|
-|**2025-04-29**|**BEER: Biochemical Estimator and Explorer of Residues -- A Comprehensive Software Suite for Protein Sequence Analysis**|Saumyak Mukherjee et.al.|[2504.20561](http://arxiv.org/abs/2504.20561)|null|
+|**2025-04-29**|**Sense-then-Charge: Wireless Power Transfer to Unresponsive Devices with Unknown Location**|Amirhossein Azarbahram et.al.|[2504.20580](http://arxiv.org/abs/2504.20580)|**[link](https://github.com/amiraz96/STC-WPT)**|
+|**2025-04-29**|**BEER: Biochemical Estimator and Explorer of Residues -- A Comprehensive Software Suite for Protein Sequence Analysis**|Saumyak Mukherjee et.al.|[2504.20561](http://arxiv.org/abs/2504.20561)|**[link](https://github.com/chemgame/BEER)**|
 |**2025-04-30**|**A Case Study of the Tornadic Supercell in the Province of Pampanga, Philippines (27 May 2024)**|Generich H. Capuli et.al.|[2504.20559](http://arxiv.org/abs/2504.20559)|null|
 |**2025-04-29**|**DRO: Doppler-Aware Direct Radar Odometry**|Cedric Le Gentil et.al.|[2504.20339](http://arxiv.org/abs/2504.20339)|**[link](https://github.com/utiasasrl/dro)**|
 |**2025-04-27**|**Target Detection for ISAC with TDD Transmission**|Marcus Henninger et.al.|[2504.19260](http://arxiv.org/abs/2504.19260)|null|
@@ -156,10 +156,10 @@ layout: default
 |**2025-04-27**|**PAD: Phase-Amplitude Decoupling Fusion for Multi-Modal Land Cover Classification**|Huiling Zheng et.al.|[2504.19136](http://arxiv.org/abs/2504.19136)|**[link](https://github.com/ranfeng2/pad)**|
 |**2025-04-26**|**R-Sparse R-CNN: SAR Ship Detection Based on Background-Aware Sparse Learnable Proposals**|Kamirul Kamirul et.al.|[2504.18959](http://arxiv.org/abs/2504.18959)|null|
 |**2025-04-26**|**DMA Reception for Simultaneous Area-Wide Sensing and Multi-User Uplink Communications**|Ioannis Gavras et.al.|[2504.18843](http://arxiv.org/abs/2504.18843)|null|
-|**2025-04-26**|**Reservoir-enhanced Segment Anything Model for Subsurface Diagnosis**|Xiren Zhou et.al.|[2504.18802](http://arxiv.org/abs/2504.18802)|null|
+|**2025-04-26**|**Reservoir-enhanced Segment Anything Model for Subsurface Diagnosis**|Xiren Zhou et.al.|[2504.18802](http://arxiv.org/abs/2504.18802)|**[link](https://github.com/zhouxr6066/Res-SAM)**|
 |**2025-04-25**|**Characterization of Long-Term Stable Photonic Microwaves based on a Difference Frequency Comb**|S. Mueller et.al.|[2504.18470](http://arxiv.org/abs/2504.18470)|null|
 |**2025-04-25**|**SSA-UNet: Advanced Precipitation Nowcasting via Channel Shuffling**|Marco Turzi et.al.|[2504.18309](http://arxiv.org/abs/2504.18309)|null|
-|**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|null|
+|**2025-04-25**|**Hierarchical and Multimodal Data for Daily Activity Understanding**|Ghazal Kaviani et.al.|[2504.17696](http://arxiv.org/abs/2504.17696)|**[link](https://github.com/olivesgatech/DARai)**|
 |**2025-04-24**|**Integrated Sensing and Communications for Unsourced Random Access: A Spectrum Sharing Compressive Sensing Approach**|Zhentian Zhang et.al.|[2504.17629](http://arxiv.org/abs/2504.17629)|null|
 |**2025-04-24**|**Automotive Radar Multi-Frame Track-Before-Detect Algorithm Considering Self-Positioning Errors**|Wujun Li et.al.|[2504.17155](http://arxiv.org/abs/2504.17155)|null|
 |**2025-04-23**|**Sparse Phased Array Optimization Using Deep Learning**|David Lu et.al.|[2504.17073](http://arxiv.org/abs/2504.17073)|null|
