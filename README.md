@@ -103,6 +103,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-19**|**Ocean wave spectrum reconstruction from HF radar data and its application to wave height estimation**|Kaede Watanabe et.al.|[2505.13132](http://arxiv.org/abs/2505.13132)|null|
+|**2025-05-19**|**WHALES: an optimized retracker for satellite radar altimeter waveforms in sea state applications**|Marcello Passaro et.al.|[2505.12881](http://arxiv.org/abs/2505.12881)|null|
+|**2025-05-18**|**DNOI-4DRO: Deep 4D Radar Odometry with Differentiable Neural-Optimization Iterations**|Shouyi Lu et.al.|[2505.12310](http://arxiv.org/abs/2505.12310)|null|
 |**2025-05-16**|**Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks**|Wesley A Suttle et.al.|[2505.11461](http://arxiv.org/abs/2505.11461)|null|
 |**2025-05-16**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yinsicheng Jiang et.al.|[2505.11415](http://arxiv.org/abs/2505.11415)|null|
 |**2025-05-16**|**MmWave-LoRadar Empowered Vehicular Integrated Sensing and Communication Systems: LoRa Meets FMCW**|Yi Tao et.al.|[2505.11173](http://arxiv.org/abs/2505.11173)|null|
