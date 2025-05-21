@@ -94,6 +94,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-20**|**RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**|Wenjun Hou et.al.|[2505.14318](http://arxiv.org/abs/2505.14318)|**[link](https://github.com/wjhou/Radar)**|
+|**2025-05-20**|**4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision**|Ruihan Liu et.al.|[2505.13905](http://arxiv.org/abs/2505.13905)|null|
+|**2025-05-20**|**RainfalLTE: A Zero-effect Rainfall Sensing System Utilizing Existing LTE Infrastructure**|Xianbin Jiang et.al.|[2505.13818](http://arxiv.org/abs/2505.13818)|null|
+|**2025-05-19**|**Non-Invasive Arterial Pulse Detection with Millimeter-wave Radar and Comparison With Photoplethysmography**|Nima Bahmani et.al.|[2505.13663](http://arxiv.org/abs/2505.13663)|null|
 |**2025-05-19**|**Ocean wave spectrum reconstruction from HF radar data and its application to wave height estimation**|Kaede Watanabe et.al.|[2505.13132](http://arxiv.org/abs/2505.13132)|null|
 |**2025-05-19**|**WHALES: an optimized retracker for satellite radar altimeter waveforms in sea state applications**|Marcello Passaro et.al.|[2505.12881](http://arxiv.org/abs/2505.12881)|null|
 |**2025-05-18**|**DNOI-4DRO: Deep 4D Radar Odometry with Differentiable Neural-Optimization Iterations**|Shouyi Lu et.al.|[2505.12310](http://arxiv.org/abs/2505.12310)|null|
