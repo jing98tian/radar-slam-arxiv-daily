@@ -94,6 +94,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-21**|**A Deep Learning Framework for Two-Dimensional, Multi-Frequency Propagation Factor Estimation**|Sarah E. Wessinger et.al.|[2505.15802](http://arxiv.org/abs/2505.15802)|null|
+|**2025-05-21**|**Visual Question Answering on Multiple Remote Sensing Image Modalities**|Hichem Boussaid et.al.|[2505.15401](http://arxiv.org/abs/2505.15401)|null|
+|**2025-05-21**|**Improving Beam Granularity Performance of Reconfigurable Refelctarray Radars via Spatial Quantization and Phase Quantization Approach**|Xiaocun Zong et.al.|[2505.15029](http://arxiv.org/abs/2505.15029)|null|
 |**2025-05-20**|**RADAR: Enhancing Radiology Report Generation with Supplementary Knowledge Injection**|Wenjun Hou et.al.|[2505.14318](http://arxiv.org/abs/2505.14318)|**[link](https://github.com/wjhou/Radar)**|
 |**2025-05-20**|**4D-ROLLS: 4D Radar Occupancy Learning via LiDAR Supervision**|Ruihan Liu et.al.|[2505.13905](http://arxiv.org/abs/2505.13905)|null|
 |**2025-05-20**|**RainfalLTE: A Zero-effect Rainfall Sensing System Utilizing Existing LTE Infrastructure**|Xianbin Jiang et.al.|[2505.13818](http://arxiv.org/abs/2505.13818)|null|
