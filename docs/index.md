@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.22
+## Updated on 2025.05.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -94,6 +94,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-22**|**Chirp Delay-Doppler Domain Modulation: A New Paradigm of Integrated Sensing and Communication for Autonomous Vehicles**|Zhuoran Li et.al.|[2505.16807](http://arxiv.org/abs/2505.16807)|null|
+|**2025-05-22**|**MCP-RADAR: A Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models**|Xuanqi Gao et.al.|[2505.16700](http://arxiv.org/abs/2505.16700)|null|
+|**2025-05-22**|**Coverage Path Planning For Multi-view SAR-UAV Observation System Under Energy Constraint**|Deyu Song et.al.|[2505.16389](http://arxiv.org/abs/2505.16389)|null|
+|**2025-05-21**|**RadarRGBD A Multi-Sensor Fusion Dataset for Perception with RGB-D and mmWave Radar**|Tieshuai Song et.al.|[2505.15860](http://arxiv.org/abs/2505.15860)|null|
 |**2025-05-21**|**A Deep Learning Framework for Two-Dimensional, Multi-Frequency Propagation Factor Estimation**|Sarah E. Wessinger et.al.|[2505.15802](http://arxiv.org/abs/2505.15802)|null|
 |**2025-05-21**|**Visual Question Answering on Multiple Remote Sensing Image Modalities**|Hichem Boussaid et.al.|[2505.15401](http://arxiv.org/abs/2505.15401)|null|
 |**2025-05-21**|**Improving Beam Granularity Performance of Reconfigurable Refelctarray Radars via Spatial Quantization and Phase Quantization Approach**|Xiaocun Zong et.al.|[2505.15029](http://arxiv.org/abs/2505.15029)|null|
