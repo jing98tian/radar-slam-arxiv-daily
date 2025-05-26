@@ -94,6 +94,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-23**|**Hephaestus Minicubes: A Global, Multi-Modal Dataset for Volcanic Unrest Monitoring**|Nikolas Papadopoulos et.al.|[2505.17782](http://arxiv.org/abs/2505.17782)|null|
+|**2025-05-23**|**RQR3D: Reparametrizing the regression targets for BEV-based 3D object detection**|Ozsel Kilinc et.al.|[2505.17732](http://arxiv.org/abs/2505.17732)|null|
+|**2025-05-23**|**HoloLLM: Multisensory Foundation Model for Language-Grounded Human Sensing and Reasoning**|Chuhao Zhou et.al.|[2505.17645](http://arxiv.org/abs/2505.17645)|null|
+|**2025-05-23**|**Distance Estimation in Outdoor Driving Environments Using Phase-only Correlation Method with Event Cameras**|Masataka Kobayashi et.al.|[2505.17582](http://arxiv.org/abs/2505.17582)|null|
+|**2025-05-23**|**Enhancing Fourier-based Doppler Resolution with Diffusion Models**|Denisa Qosja et.al.|[2505.17567](http://arxiv.org/abs/2505.17567)|null|
 |**2025-05-22**|**Chirp Delay-Doppler Domain Modulation: A New Paradigm of Integrated Sensing and Communication for Autonomous Vehicles**|Zhuoran Li et.al.|[2505.16807](http://arxiv.org/abs/2505.16807)|**[link](https://github.com/lizhuoran0/2025-ieee-network-chirpdelaydopplermodulationisac)**|
 |**2025-05-22**|**MCP-RADAR: A Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models**|Xuanqi Gao et.al.|[2505.16700](http://arxiv.org/abs/2505.16700)|null|
 |**2025-05-22**|**Coverage Path Planning For Multi-view SAR-UAV Observation System Under Energy Constraint**|Deyu Song et.al.|[2505.16389](http://arxiv.org/abs/2505.16389)|null|
