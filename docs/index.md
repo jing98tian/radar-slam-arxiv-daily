@@ -106,7 +106,7 @@ layout: default
 |**2025-05-20**|**RainfalLTE: A Zero-effect Rainfall Sensing System Utilizing Existing LTE Infrastructure**|Xianbin Jiang et.al.|[2505.13818](http://arxiv.org/abs/2505.13818)|null|
 |**2025-05-19**|**Non-Invasive Arterial Pulse Detection with Millimeter-wave Radar and Comparison With Photoplethysmography**|Nima Bahmani et.al.|[2505.13663](http://arxiv.org/abs/2505.13663)|null|
 |**2025-05-19**|**Ocean wave spectrum reconstruction from HF radar data and its application to wave height estimation**|Kaede Watanabe et.al.|[2505.13132](http://arxiv.org/abs/2505.13132)|null|
-|**2025-05-19**|**WHALES: an optimized retracker for satellite radar altimeter waveforms in sea state applications**|Marcello Passaro et.al.|[2505.12881](http://arxiv.org/abs/2505.12881)|null|
+|**2025-05-19**|**WHALES: an optimized retracker for satellite radar altimeter waveforms in sea state applications**|Marcello Passaro et.al.|[2505.12881](http://arxiv.org/abs/2505.12881)|**[link](https://github.com/ne62rut/whales)**|
 |**2025-05-18**|**DNOI-4DRO: Deep 4D Radar Odometry with Differentiable Neural-Optimization Iterations**|Shouyi Lu et.al.|[2505.12310](http://arxiv.org/abs/2505.12310)|null|
 |**2025-05-16**|**Signal attenuation enables scalable decentralized multi-agent reinforcement learning over networks**|Wesley A Suttle et.al.|[2505.11461](http://arxiv.org/abs/2505.11461)|null|
 |**2025-05-21**|**MoE-CAP: Benchmarking Cost, Accuracy and Performance of Sparse Mixture-of-Experts Systems**|Yinsicheng Jiang et.al.|[2505.11415](http://arxiv.org/abs/2505.11415)|null|
@@ -308,7 +308,7 @@ layout: default
 |**2025-03-19**|**Joint Design of Radar Receive Filter and Unimodular ISAC Waveform with Sidelobe Level Control**|Kecheng Zhang et.al.|[2503.15054](http://arxiv.org/abs/2503.15054)|null|
 |**2025-03-18**|**Principal Component Maximization: A Novel Method for SAR Image Formation from Raw Data without System Parameters**|Huizhang Yang et.al.|[2503.14303](http://arxiv.org/abs/2503.14303)|null|
 |**2025-03-18**|**Joint Array Partitioning and Beamforming Designs in ISAC Systems: A Bayesian CRB Perspective**|Rang Liu et.al.|[2503.13870](http://arxiv.org/abs/2503.13870)|null|
-|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252](http://arxiv.org/abs/2503.13252)|null|
+|**2025-03-17**|**Digital Beamforming Enhanced Radar Odometry**|Jingqi Jiang et.al.|[2503.13252](http://arxiv.org/abs/2503.13252)|**[link](https://github.com/SenseRoboticsLab/DBE-Radar)**|
 |**2025-03-17**|**DehazeMamba: SAR-guided Optical Remote Sensing Image Dehazing with Adaptive State Space Model**|Zhicheng Zhao et.al.|[2503.13073](http://arxiv.org/abs/2503.13073)|null|
 |**2025-03-17**|**Moment-based Characterization of Spatially Distributed Sources in SAR Tomography**|Colin Cros et.al.|[2503.12975](http://arxiv.org/abs/2503.12975)|null|
 |**2025-03-17**|**A Block-Sparse Bayesian Learning Algorithm with Dictionary Parameter Estimation for Multi-Sensor Data Fusion**|Jakob Möderl et.al.|[2503.12913](http://arxiv.org/abs/2503.12913)|null|
@@ -1011,7 +1011,7 @@ layout: default
 |**2024-05-29**|**Integrated Communication and Imaging: Design, Analysis, and Performances of COSMIC Waveforms**|Marco Manzoni et.al.|[2405.19481](http://arxiv.org/abs/2405.19481)|null|
 |**2024-05-29**|**Implications of in-ice volume scattering for radio-frequency neutrino experiments**|A. Nozdrina et.al.|[2405.19472](http://arxiv.org/abs/2405.19472)|null|
 |**2024-05-29**|**FUSU: A Multi-temporal-source Land Use Change Segmentation Dataset for Fine-grained Urban Semantic Understanding**|Shuai Yuan et.al.|[2405.19055](http://arxiv.org/abs/2405.19055)|**[link](https://github.com/yuanshuai0914/fusu)**|
-|**2024-05-30**|**Continuously Optimizing Radar Placement with Model Predictive Path Integrals**|Michael Potter et.al.|[2405.18999](http://arxiv.org/abs/2405.18999)|null|
+|**2024-05-30**|**Continuously Optimizing Radar Placement with Model Predictive Path Integrals**|Michael Potter et.al.|[2405.18999](http://arxiv.org/abs/2405.18999)|**[link](https://github.com/mlpotter/optimaltrackingandcontrol)**|
 |**2024-05-28**|**Joint Radar Sensing, Location, and Communication Resources Optimization in 6G Network**|Haijun Zhang et.al.|[2405.18205](http://arxiv.org/abs/2405.18205)|null|
 |**2024-05-27**|**Enhanced Automotive Radar Collaborative Sensing By Exploiting Constructive Interference**|Lifan Xu et.al.|[2405.17297](http://arxiv.org/abs/2405.17297)|null|
 |**2024-05-27**|**SCaRL- A Synthetic Multi-Modal Dataset for Autonomous Driving**|Avinash Nittur Ramesh et.al.|[2405.17030](http://arxiv.org/abs/2405.17030)|null|
