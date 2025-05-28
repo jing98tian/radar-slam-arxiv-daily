@@ -104,6 +104,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-27**|**Distribution Bounds on the Conditional ROC in a Poisson Field of Interferers and Clutters**|Gourab Ghatak et.al.|[2505.21456](http://arxiv.org/abs/2505.21456)|null|
+|**2025-05-27**|**Dual-Wavelength Brillouin Lasers as compact Opto-Terahertz References for Low-Noise Microwave Synthesis**|Scott C. Egbert et.al.|[2505.21416](http://arxiv.org/abs/2505.21416)|null|
+|**2025-05-27**|**DisasterM3: A Remote Sensing Vision-Language Dataset for Disaster Damage Assessment and Response**|Junjue Wang et.al.|[2505.21089](http://arxiv.org/abs/2505.21089)|null|
+|**2025-05-27**|**RF4D:Neural Radar Fields for Novel View Synthesis in Outdoor Dynamic Scenes**|Jiarui Zhang et.al.|[2505.20967](http://arxiv.org/abs/2505.20967)|null|
+|**2025-05-27**|**Analysis of Joint Radar and Communication in Disaster Scenarios**|Ahmet Burak Ozyurt et.al.|[2505.20931](http://arxiv.org/abs/2505.20931)|null|
+|**2025-05-27**|**Stereo Radargrammetry Using Deep Learning from Airborne SAR Images**|Tatsuya Sasayama et.al.|[2505.20876](http://arxiv.org/abs/2505.20876)|null|
+|**2025-05-27**|**A Unified RCS Modeling of Typical Targets for 3GPP ISAC Channel Standardization and Experimental Analysis**|Yuxiang Zhang et.al.|[2505.20673](http://arxiv.org/abs/2505.20673)|null|
 |**2025-05-26**|**Target Tracking via LiDAR-RADAR Sensor Fusion for Autonomous Racing**|Marcello Cellina et.al.|[2505.20043](http://arxiv.org/abs/2505.20043)|null|
 |**2025-05-26**|**Interpretable Augmented Physics-Based Model for Estimation and Tracking**|Ondřej Straka et.al.|[2505.19953](http://arxiv.org/abs/2505.19953)|null|
 |**2025-05-26**|**Power allocation for cell-free MIMO integrated sensing and communication**|Guoqing Xia et.al.|[2505.19845](http://arxiv.org/abs/2505.19845)|null|
