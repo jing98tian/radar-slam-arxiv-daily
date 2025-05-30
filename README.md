@@ -45,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System**|Simón Martínez-Rozas et.al.|[2505.23457](http://arxiv.org/abs/2505.23457)|null|
 |**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340](http://arxiv.org/abs/2505.18340)|**[link](https://github.com/miriammaximo/mcl-dlf)**|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
 |**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
@@ -104,6 +105,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-29**|**Multilook Coherent Imaging: Theoretical Guarantees and Algorithms**|Xi Chen et.al.|[2505.23594](http://arxiv.org/abs/2505.23594)|null|
+|**2025-05-29**|**LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals**|Yanbin Wang et.al.|[2505.23454](http://arxiv.org/abs/2505.23454)|null|
+|**2025-05-28**|**Superoscillations and Physical Applications**|Andrew N. Jordan et.al.|[2505.22925](http://arxiv.org/abs/2505.22925)|null|
+|**2025-05-28**|**Temporal Convolutional Autoencoder for Interference Mitigation in FMCW Radar Altimeters**|Charles E. Thornton et.al.|[2505.22783](http://arxiv.org/abs/2505.22783)|null|
 |**2025-05-28**|**RC-AutoCalib: An End-to-End Radar-Camera Automatic Calibration Network**|Van-Tin Luu et.al.|[2505.22427](http://arxiv.org/abs/2505.22427)|null|
 |**2025-05-28**|**Target Localization with Coprime Multistatic MIMO Radar via Coupled Canonical Polyadic Decomposition Based on Joint Eigenvalue Decomposition**|Guo-Zhao Liao et.al.|[2505.21965](http://arxiv.org/abs/2505.21965)|null|
 |**2025-05-29**|**SHARAD Illuminates Deeper Martian Subsurface Structures with a Boost from Very Large Rolls of the MRO Spacecraft**|Nathaniel E. Putzig et.al.|[2505.21810](http://arxiv.org/abs/2505.21810)|null|
