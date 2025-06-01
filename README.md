@@ -105,7 +105,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-29**|**Multilook Coherent Imaging: Theoretical Guarantees and Algorithms**|Xi Chen et.al.|[2505.23594](http://arxiv.org/abs/2505.23594)|null|
+|**2025-05-29**|**Multilook Coherent Imaging: Theoretical Guarantees and Algorithms**|Xi Chen et.al.|[2505.23594](http://arxiv.org/abs/2505.23594)|**[link](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)**|
 |**2025-05-29**|**LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals**|Yanbin Wang et.al.|[2505.23454](http://arxiv.org/abs/2505.23454)|null|
 |**2025-05-28**|**Superoscillations and Physical Applications**|Andrew N. Jordan et.al.|[2505.22925](http://arxiv.org/abs/2505.22925)|null|
 |**2025-05-28**|**Temporal Convolutional Autoencoder for Interference Mitigation in FMCW Radar Altimeters**|Charles E. Thornton et.al.|[2505.22783](http://arxiv.org/abs/2505.22783)|null|
