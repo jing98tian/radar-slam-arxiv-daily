@@ -96,6 +96,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-30**|**Coordinated Beamforming for RIS-Empowered ISAC Systems over Secure Low-Altitude Networks**|Chunjie Wang et.al.|[2505.24804](http://arxiv.org/abs/2505.24804)|null|
+|**2025-05-30**|**Detecting Airborne Objects with 5G NR Radars**|Steve Blandino et.al.|[2505.24763](http://arxiv.org/abs/2505.24763)|null|
+|**2025-05-30**|**Optical frequency division referenced to microhertz-linewidth quantum-noise-limited lasers**|Jiahao Hu et.al.|[2505.24557](http://arxiv.org/abs/2505.24557)|null|
+|**2025-05-30**|**Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors**|Andrea Pedrotti et.al.|[2505.24523](http://arxiv.org/abs/2505.24523)|null|
+|**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|
+|**2025-05-30**|**Multi-Waveguide Pinching Antennas for ISAC**|Weihao Mao et.al.|[2505.24307](http://arxiv.org/abs/2505.24307)|null|
+|**2025-05-29**|**DeepTopoNet: A Framework for Subglacial Topography Estimation on the Greenland Ice Sheets**|Bayu Adhi Tama et.al.|[2505.23980](http://arxiv.org/abs/2505.23980)|null|
 |**2025-05-29**|**Multilook Coherent Imaging: Theoretical Guarantees and Algorithms**|Xi Chen et.al.|[2505.23594](http://arxiv.org/abs/2505.23594)|**[link](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)**|
 |**2025-05-29**|**LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals**|Yanbin Wang et.al.|[2505.23454](http://arxiv.org/abs/2505.23454)|null|
 |**2025-05-28**|**Superoscillations and Physical Applications**|Andrew N. Jordan et.al.|[2505.22925](http://arxiv.org/abs/2505.22925)|null|
