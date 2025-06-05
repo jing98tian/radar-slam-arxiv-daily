@@ -96,6 +96,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-04**|**Improving Post-Processing for Quantitative Precipitation Forecasting Using Deep Learning: Learning Precipitation Physics from High-Resolution Observations**|ChangJae Lee et.al.|[2506.03842](http://arxiv.org/abs/2506.03842)|null|
 |**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
 |**2025-06-03**|**Advanced microwave photonic waveform editing: enabling the evolution of radar systems into joint radar and spectrum sensing systems**|Chi Jiang et.al.|[2506.02583](http://arxiv.org/abs/2506.02583)|null|
 |**2025-06-02**|**Unified Interference-Aware Water-Filling for QoS-Constrained Communication, Sensing, and JRC**|Ahmed Naeem et.al.|[2506.01400](http://arxiv.org/abs/2506.01400)|null|
