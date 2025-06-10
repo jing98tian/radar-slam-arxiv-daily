@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.09
+## Updated on 2025.06.10
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -41,7 +41,7 @@ layout: default
 |**2025-05-29**|**Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System**|Simón Martínez-Rozas et.al.|[2505.23457](http://arxiv.org/abs/2505.23457)|null|
 |**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340](http://arxiv.org/abs/2505.18340)|**[link](https://github.com/miriammaximo/mcl-dlf)**|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
-|**2025-05-13**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
+|**2025-06-08**|**SKiD-SLAM: Robust, Lightweight, and Distributed Multi-Robot LiDAR SLAM in Resource-Constrained Field Environments**|Hogyun Kim et.al.|[2505.08230](http://arxiv.org/abs/2505.08230)|null|
 |**2025-04-28**|**Transformation & Translation Occupancy Grid Mapping: 2-Dimensional Deep Learning Refined SLAM**|Leon Davies et.al.|[2504.19654](http://arxiv.org/abs/2504.19654)|null|
 |**2025-04-18**|**Doppler-SLAM: Doppler-Aided Radar-Inertial and LiDAR-Inertial Simultaneous Localization and Mapping**|Dong Wang et.al.|[2504.11634](http://arxiv.org/abs/2504.11634)|**[link](https://github.com/wayne-dwa/doppler-slam)**|
 |**2025-03-30**|**Improving Indoor Localization Accuracy by Using an Efficient Implicit Neural Map Representation**|Haofei Kuang et.al.|[2503.23480](http://arxiv.org/abs/2503.23480)|**[link](https://github.com/prbonn/enm-mcl)**|
@@ -96,8 +96,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281](http://arxiv.org/abs/2506.06281)|null|
+|**2025-06-06**|**Robust sensor fusion against on-vehicle sensor staleness**|Meng Fan et.al.|[2506.05780](http://arxiv.org/abs/2506.05780)|null|
+|**2025-06-05**|**Towards Reliable Identification of Diffusion-based Image Manipulations**|Alex Costanzino et.al.|[2506.05466](http://arxiv.org/abs/2506.05466)|null|
+|**2025-06-05**|**U-NetMN and SegNetMN: Modified U-Net and SegNet models for bimodal SAR image segmentation**|Marwane Kzadri et.al.|[2506.05444](http://arxiv.org/abs/2506.05444)|null|
 |**2025-06-05**|**Through-the-Wall Radar Human Activity Recognition WITHOUT Using Neural Networks**|Weicheng Gao et.al.|[2506.05169](http://arxiv.org/abs/2506.05169)|null|
-|**2025-06-05**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008](http://arxiv.org/abs/2506.05008)|null|
+|**2025-06-09**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008](http://arxiv.org/abs/2506.05008)|null|
 |**2025-06-05**|**Design of OTFS Signals with Pulse Shaping and Window Function for OTFS-Based Radar**|Liangchen Sun et.al.|[2506.04861](http://arxiv.org/abs/2506.04861)|null|
 |**2025-06-05**|**Spectral Efficiency Maximization for mmWave MIMO-Aided Integrated Sensing and Communication Under Practical Constraints**|Jitendra Singh et.al.|[2506.04683](http://arxiv.org/abs/2506.04683)|null|
 |**2025-06-04**|**Improving Post-Processing for Quantitative Precipitation Forecasting Using Deep Learning: Learning Precipitation Physics from High-Resolution Observations**|ChangJae Lee et.al.|[2506.03842](http://arxiv.org/abs/2506.03842)|null|
