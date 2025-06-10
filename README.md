@@ -105,6 +105,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-09**|**Low-Complexity Super-Resolution Signature Estimation of XL-MIMO FMCW Radar**|Chandrashekhar Rai et.al.|[2506.07979](http://arxiv.org/abs/2506.07979)|null|
+|**2025-06-09**|**An Efficient Method for Evaluating the Feasibility of Spaceborne SAR for Ocean Ship Detection**|Anatolii Kononov et.al.|[2506.07686](http://arxiv.org/abs/2506.07686)|null|
+|**2025-06-09**|**Robust Transceiver Design for RIS Enhanced Dual-Functional Radar-Communication with Movable Antenna**|Ran Yang et.al.|[2506.07610](http://arxiv.org/abs/2506.07610)|null|
+|**2025-06-09**|**A Unified Anti-Jamming Design in Complex Environments Based on Cross-Modal Fusion and Intelligent Decision-Making**|Huake Wang et.al.|[2506.07532](http://arxiv.org/abs/2506.07532)|null|
+|**2025-06-08**|**RADAR: Recall Augmentation through Deferred Asynchronous Retrieval**|Amit Jaspal et.al.|[2506.07261](http://arxiv.org/abs/2506.07261)|null|
+|**2025-06-08**|**Near-Field Integrated Sensing and Communication for Multi-Target Indication**|Hang Ruan et.al.|[2506.07052](http://arxiv.org/abs/2506.07052)|null|
+|**2025-06-08**|**From Swath to Full-Disc: Advancing Precipitation Retrieval with Multimodal Knowledge Expansion**|Zheng Wang et.al.|[2506.07050](http://arxiv.org/abs/2506.07050)|null|
+|**2025-06-08**|**Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text**|Yize Cheng et.al.|[2506.07001](http://arxiv.org/abs/2506.07001)|null|
+|**2025-06-07**|**SAR2Struct: Extracting 3D Semantic Structural Representation of Aircraft Targets from Single-View SAR Image**|Ziyu Yue et.al.|[2506.06757](http://arxiv.org/abs/2506.06757)|null|
 |**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281](http://arxiv.org/abs/2506.06281)|null|
 |**2025-06-06**|**Robust sensor fusion against on-vehicle sensor staleness**|Meng Fan et.al.|[2506.05780](http://arxiv.org/abs/2506.05780)|null|
 |**2025-06-05**|**Towards Reliable Identification of Diffusion-based Image Manipulations**|Alex Costanzino et.al.|[2506.05466](http://arxiv.org/abs/2506.05466)|null|
