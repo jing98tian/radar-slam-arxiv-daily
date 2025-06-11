@@ -105,6 +105,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-10**|**Hardware Limitations and Optimization Approach in 1-Bit RIS Design at 28 GHz**|Hossein Rezaei et.al.|[2506.08930](http://arxiv.org/abs/2506.08930)|null|
+|**2025-06-10**|**Extended Spherical Geometry Algorithm for Spaceborne SAR Processing in Stripmap and TOPS Imaging Modes**|Xinhua Mao et.al.|[2506.08620](http://arxiv.org/abs/2506.08620)|null|
+|**2025-06-09**|**RADAR: Benchmarking Language Models on Imperfect Tabular Data**|Ken Gu et.al.|[2506.08249](http://arxiv.org/abs/2506.08249)|null|
+|**2025-06-09**|**Using Satellite Images And Self-supervised Machine Learning Networks To Detect Water Hidden Under Vegetation**|Ioannis Iakovidis et.al.|[2506.08214](http://arxiv.org/abs/2506.08214)|null|
+|**2025-06-09**|**Spectral Domain Neural Reconstruction for Passband FMCW Radars**|Harshvardhan Takawale et.al.|[2506.08163](http://arxiv.org/abs/2506.08163)|null|
 |**2025-06-09**|**Low-Complexity Super-Resolution Signature Estimation of XL-MIMO FMCW Radar**|Chandrashekhar Rai et.al.|[2506.07979](http://arxiv.org/abs/2506.07979)|null|
 |**2025-06-09**|**An Efficient Method for Evaluating the Feasibility of Spaceborne SAR for Ocean Ship Detection**|Anatolii Kononov et.al.|[2506.07686](http://arxiv.org/abs/2506.07686)|null|
 |**2025-06-09**|**Robust Transceiver Design for RIS Enhanced Dual-Functional Radar-Communication with Movable Antenna**|Ran Yang et.al.|[2506.07610](http://arxiv.org/abs/2506.07610)|null|
