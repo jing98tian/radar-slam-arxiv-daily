@@ -96,6 +96,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-12**|**Automotive Radar Online Channel Imbalance Estimation via NLMS**|Esmaeil Kavousi Ghafi et.al.|[2506.10841](http://arxiv.org/abs/2506.10841)|null|
+|**2025-06-12**|**Multi-Dress-State Engineered Rydberg Electrometry: Achieving 100-MHz-level Instantaneous-Bandwidth**|Yuhan Yan et.al.|[2506.10541](http://arxiv.org/abs/2506.10541)|null|
+|**2025-06-12**|**Analyzing the performance of a V2X-enhanced braking system in real-world crash situations**|Jan Zimmermann et.al.|[2506.10535](http://arxiv.org/abs/2506.10535)|null|
+|**2025-06-12**|**Self-learning signal classifier for decameter coherent scatter radars**|Oleg Berngardt et.al.|[2506.10305](http://arxiv.org/abs/2506.10305)|null|
 |**2025-06-11**|**An Interpretable Two-Stage Feature Decomposition Method for Deep Learning-based SAR ATR**|Chenwei Wang et.al.|[2506.09377](http://arxiv.org/abs/2506.09377)|null|
 |**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217](http://arxiv.org/abs/2506.09217)|null|
 |**2025-06-10**|**Hardware Limitations and Optimization Approach in 1-Bit RIS Design at 28 GHz**|Hossein Rezaei et.al.|[2506.08930](http://arxiv.org/abs/2506.08930)|null|
