@@ -110,7 +110,7 @@
 |**2025-06-12**|**Analyzing the performance of a V2X-enhanced braking system in real-world crash situations**|Jan Zimmermann et.al.|[2506.10535](http://arxiv.org/abs/2506.10535)|null|
 |**2025-06-12**|**Self-learning signal classifier for decameter coherent scatter radars**|Oleg Berngardt et.al.|[2506.10305](http://arxiv.org/abs/2506.10305)|null|
 |**2025-06-11**|**An Interpretable Two-Stage Feature Decomposition Method for Deep Learning-based SAR ATR**|Chenwei Wang et.al.|[2506.09377](http://arxiv.org/abs/2506.09377)|null|
-|**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217](http://arxiv.org/abs/2506.09217)|null|
+|**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217](http://arxiv.org/abs/2506.09217)|**[link](https://github.com/datadrivenwheels/pcd_python)**|
 |**2025-06-10**|**Hardware Limitations and Optimization Approach in 1-Bit RIS Design at 28 GHz**|Hossein Rezaei et.al.|[2506.08930](http://arxiv.org/abs/2506.08930)|null|
 |**2025-06-10**|**Extended Spherical Geometry Algorithm for Spaceborne SAR Processing in Stripmap and TOPS Imaging Modes**|Xinhua Mao et.al.|[2506.08620](http://arxiv.org/abs/2506.08620)|null|
 |**2025-06-09**|**RADAR: Benchmarking Language Models on Imperfect Tabular Data**|Ken Gu et.al.|[2506.08249](http://arxiv.org/abs/2506.08249)|null|
