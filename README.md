@@ -129,7 +129,7 @@
 |**2025-06-08**|**RADAR: Recall Augmentation through Deferred Asynchronous Retrieval**|Amit Jaspal et.al.|[2506.07261](http://arxiv.org/abs/2506.07261)|null|
 |**2025-06-08**|**Near-Field Integrated Sensing and Communication for Multi-Target Indication**|Hang Ruan et.al.|[2506.07052](http://arxiv.org/abs/2506.07052)|null|
 |**2025-06-08**|**From Swath to Full-Disc: Advancing Precipitation Retrieval with Multimodal Knowledge Expansion**|Zheng Wang et.al.|[2506.07050](http://arxiv.org/abs/2506.07050)|null|
-|**2025-06-08**|**Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text**|Yize Cheng et.al.|[2506.07001](http://arxiv.org/abs/2506.07001)|null|
+|**2025-06-08**|**Adversarial Paraphrasing: A Universal Attack for Humanizing AI-Generated Text**|Yize Cheng et.al.|[2506.07001](http://arxiv.org/abs/2506.07001)|**[link](https://github.com/chengez/adversarial-paraphrasing)**|
 |**2025-06-07**|**SAR2Struct: Extracting 3D Semantic Structural Representation of Aircraft Targets from Single-View SAR Image**|Ziyu Yue et.al.|[2506.06757](http://arxiv.org/abs/2506.06757)|null|
 |**2025-06-06**|**TerraFM: A Scalable Foundation Model for Unified Multisensor Earth Observation**|Muhammad Sohail Danish et.al.|[2506.06281](http://arxiv.org/abs/2506.06281)|null|
 |**2025-06-06**|**Robust sensor fusion against on-vehicle sensor staleness**|Meng Fan et.al.|[2506.05780](http://arxiv.org/abs/2506.05780)|null|
@@ -139,7 +139,7 @@
 |**2025-06-09**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008](http://arxiv.org/abs/2506.05008)|null|
 |**2025-06-05**|**Design of OTFS Signals with Pulse Shaping and Window Function for OTFS-Based Radar**|Liangchen Sun et.al.|[2506.04861](http://arxiv.org/abs/2506.04861)|null|
 |**2025-06-05**|**Spectral Efficiency Maximization for mmWave MIMO-Aided Integrated Sensing and Communication Under Practical Constraints**|Jitendra Singh et.al.|[2506.04683](http://arxiv.org/abs/2506.04683)|null|
-|**2025-06-04**|**Improving Post-Processing for Quantitative Precipitation Forecasting Using Deep Learning: Learning Precipitation Physics from High-Resolution Observations**|ChangJae Lee et.al.|[2506.03842](http://arxiv.org/abs/2506.03842)|null|
+|**2025-06-04**|**Improving Post-Processing for Quantitative Precipitation Forecasting Using Deep Learning: Learning Precipitation Physics from High-Resolution Observations**|ChangJae Lee et.al.|[2506.03842](http://arxiv.org/abs/2506.03842)|**[link](https://github.com/hunter3789/deep-learning-qpf)**|
 |**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
 |**2025-06-03**|**Advanced microwave photonic waveform editing: enabling the evolution of radar systems into joint radar and spectrum sensing systems**|Chi Jiang et.al.|[2506.02583](http://arxiv.org/abs/2506.02583)|null|
 |**2025-06-02**|**Unified Interference-Aware Water-Filling for QoS-Constrained Communication, Sensing, and JRC**|Ahmed Naeem et.al.|[2506.01400](http://arxiv.org/abs/2506.01400)|null|
@@ -153,10 +153,10 @@
 |**2025-05-30**|**Coordinated Beamforming for RIS-Empowered ISAC Systems over Secure Low-Altitude Networks**|Chunjie Wang et.al.|[2505.24804](http://arxiv.org/abs/2505.24804)|null|
 |**2025-05-30**|**Detecting Airborne Objects with 5G NR Radars**|Steve Blandino et.al.|[2505.24763](http://arxiv.org/abs/2505.24763)|null|
 |**2025-05-30**|**Optical frequency division referenced to microhertz-linewidth quantum-noise-limited lasers**|Jiahao Hu et.al.|[2505.24557](http://arxiv.org/abs/2505.24557)|null|
-|**2025-05-30**|**Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors**|Andrea Pedrotti et.al.|[2505.24523](http://arxiv.org/abs/2505.24523)|null|
+|**2025-05-30**|**Stress-testing Machine Generated Text Detection: Shifting Language Models Writing Style to Fool Detectors**|Andrea Pedrotti et.al.|[2505.24523](http://arxiv.org/abs/2505.24523)|**[link](https://github.com/gpucce/control_mgt)**|
 |**2025-05-30**|**Deformable Attention Mechanisms Applied to Object Detection, case of Remote Sensing**|Anasse Boutayeb et.al.|[2505.24489](http://arxiv.org/abs/2505.24489)|null|
 |**2025-05-30**|**Multi-Waveguide Pinching Antennas for ISAC**|Weihao Mao et.al.|[2505.24307](http://arxiv.org/abs/2505.24307)|null|
-|**2025-05-29**|**DeepTopoNet: A Framework for Subglacial Topography Estimation on the Greenland Ice Sheets**|Bayu Adhi Tama et.al.|[2505.23980](http://arxiv.org/abs/2505.23980)|null|
+|**2025-05-29**|**DeepTopoNet: A Framework for Subglacial Topography Estimation on the Greenland Ice Sheets**|Bayu Adhi Tama et.al.|[2505.23980](http://arxiv.org/abs/2505.23980)|**[link](https://github.com/bayuat/deeptoponet)**|
 |**2025-05-29**|**Multilook Coherent Imaging: Theoretical Guarantees and Algorithms**|Xi Chen et.al.|[2505.23594](http://arxiv.org/abs/2505.23594)|**[link](https://github.com/Computational-Imaging-RU/Bagged-DIP-Speckle)**|
 |**2025-05-29**|**LCB-CV-UNet: Enhanced Detector for High Dynamic Range Radar Signals**|Yanbin Wang et.al.|[2505.23454](http://arxiv.org/abs/2505.23454)|null|
 |**2025-05-28**|**Superoscillations and Physical Applications**|Andrew N. Jordan et.al.|[2505.22925](http://arxiv.org/abs/2505.22925)|null|
@@ -1034,7 +1034,7 @@
 |**2024-06-30**|**Active-RIS-Aided Covert Communications in NOMA-Inspired ISAC Wireless Systems**|Miaomiao Zhu et.al.|[2407.00579](http://arxiv.org/abs/2407.00579)|null|
 |**2024-06-27**|**Constant Modulus Waveform Design with Interference Exploitation for DFRC Systems: A Block-Level Optimization Approach**|Byunghyun Lee et.al.|[2406.18951](http://arxiv.org/abs/2406.18951)|null|
 |**2024-06-27**|**RAVE: A Framework for Radar Ego-Velocity Estimation**|Vlaho-Josip Štironja et.al.|[2406.18850](http://arxiv.org/abs/2406.18850)|**[link](https://bitbucket.org/unizg-fer-lamor/rave)**|
-|**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765](http://arxiv.org/abs/2406.18765)|null|
+|**2024-06-26**|**WV-Net: A foundation model for SAR WV-mode satellite imagery trained using contrastive self-supervised learning on 10 million images**|Yannik Glaser et.al.|[2406.18765](http://arxiv.org/abs/2406.18765)|**[link](https://github.com/hawaii-ai/wvnet)**|
 |**2024-06-26**|**Multicarrier ISAC: Advances in Waveform Design, Signal Processing and Learning under Non-Idealities**|Visa Koivunen et.al.|[2406.18476](http://arxiv.org/abs/2406.18476)|null|
 |**2024-06-28**|**High Resolution Millimeter Wave Imaging Based on FMCW Radar Systems at W-Band**|Shahrokh Hamidi et.al.|[2406.18244](http://arxiv.org/abs/2406.18244)|null|
 |**2024-06-26**|**Multi-heterodyne differential absorption lidar based on dual-comb spectroscopy for simultaneous greenhouse gas and wind speed measurements**|William Patiño Rosas et.al.|[2406.18208](http://arxiv.org/abs/2406.18208)|null|
