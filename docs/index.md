@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.15
+## Updated on 2025.06.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -96,6 +96,12 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-13**|**O2Former:Direction-Aware and Multi-Scale Query Enhancement for SAR Ship Instance Segmentation**|F. Gao et.al.|[2506.11913](http://arxiv.org/abs/2506.11913)|null|
+|**2025-06-13**|**Radar Ranging Using Rydberg Atomic Homodyne Receiver**|Minze Chen et.al.|[2506.11833](http://arxiv.org/abs/2506.11833)|null|
+|**2025-06-13**|**MMWiLoc: A Multi-Sensor Dataset and Robust Device-Free Localization Method Using Commercial Off-The-Shelf Millimeter Wave Wi-Fi Devices**|Wenbo Ding et.al.|[2506.11540](http://arxiv.org/abs/2506.11540)|null|
+|**2025-06-13**|**Joint Angle and Velocity-Estimation for Target Localization in Bistatic mmWave MIMO Radar in the Presence of Clutter**|Priyanka Maity et.al.|[2506.11497](http://arxiv.org/abs/2506.11497)|null|
+|**2025-06-13**|**Design and Simulation of Vehicle Motion Tracking System using a Youla Controller Output Observation System**|Rongfei Li et.al.|[2506.11386](http://arxiv.org/abs/2506.11386)|null|
+|**2025-06-12**|**Design of 3D Beamforming and Deployment Strategies for ISAC-based HAPS Systems**|Xue Zhang et.al.|[2506.11294](http://arxiv.org/abs/2506.11294)|null|
 |**2025-06-12**|**Automotive Radar Online Channel Imbalance Estimation via NLMS**|Esmaeil Kavousi Ghafi et.al.|[2506.10841](http://arxiv.org/abs/2506.10841)|null|
 |**2025-06-12**|**Multi-Dress-State Engineered Rydberg Electrometry: Achieving 100-MHz-level Instantaneous-Bandwidth**|Yuhan Yan et.al.|[2506.10541](http://arxiv.org/abs/2506.10541)|null|
 |**2025-06-12**|**Analyzing the performance of a V2X-enhanced braking system in real-world crash situations**|Jan Zimmermann et.al.|[2506.10535](http://arxiv.org/abs/2506.10535)|null|
