@@ -105,6 +105,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Joint Analysis of Optical and SAR Vegetation Indices for Vineyard Monitoring: Assessing Biomass Dynamics and Phenological Stages over Po Valley, Italy**|Andrea Bergamaschi et.al.|[2506.13327](http://arxiv.org/abs/2506.13327)|null|
+|**2025-06-16**|**Quantitative Comparison of Fine-Tuning Techniques for Pretrained Latent Diffusion Models in the Generation of Unseen SAR Image Concepts**|Solène Debuysère et.al.|[2506.13307](http://arxiv.org/abs/2506.13307)|null|
+|**2025-06-16**|**DoA Estimation using MUSIC with Range/Doppler Multiplexing for MIMO-OFDM Radar**|Murat Babek Salman et.al.|[2506.13258](http://arxiv.org/abs/2506.13258)|null|
+|**2025-06-16**|**On secure UAV-aided ISCC systems**|Hongjiang Lei et.al.|[2506.13137](http://arxiv.org/abs/2506.13137)|null|
+|**2025-06-16**|**Autonomous 3D Moving Target Encirclement and Interception with Range measurement**|Fen Liu et.al.|[2506.13106](http://arxiv.org/abs/2506.13106)|null|
+|**2025-06-16**|**Beyond the First Read: AI-Assisted Perceptual Error Detection in Chest Radiography Accounting for Interobserver Variability**|Adhrith Vutukuri et.al.|[2506.13049](http://arxiv.org/abs/2506.13049)|null|
+|**2025-06-15**|**Scene-aware SAR ship detection guided by unsupervised sea-land segmentation**|Han Ke et.al.|[2506.12775](http://arxiv.org/abs/2506.12775)|null|
 |**2025-06-13**|**O2Former:Direction-Aware and Multi-Scale Query Enhancement for SAR Ship Instance Segmentation**|F. Gao et.al.|[2506.11913](http://arxiv.org/abs/2506.11913)|null|
 |**2025-06-13**|**Radar Ranging Using Rydberg Atomic Homodyne Receiver**|Minze Chen et.al.|[2506.11833](http://arxiv.org/abs/2506.11833)|null|
 |**2025-06-13**|**MMWiLoc: A Multi-Sensor Dataset and Robust Device-Free Localization Method Using Commercial Off-The-Shelf Millimeter Wave Wi-Fi Devices**|Wenbo Ding et.al.|[2506.11540](http://arxiv.org/abs/2506.11540)|null|
