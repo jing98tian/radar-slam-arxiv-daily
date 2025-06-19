@@ -96,6 +96,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation**|Xingrui Qin et.al.|[2506.15560](http://arxiv.org/abs/2506.15560)|null|
+|**2025-06-18**|**Convolutional Feature Enhancement and Attention Fusion BiFPN for Ship Detection in SAR Images**|Liangjie Meng et.al.|[2506.15231](http://arxiv.org/abs/2506.15231)|null|
+|**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175](http://arxiv.org/abs/2506.15175)|null|
+|**2025-06-17**|**Demonstrating Superresolution in Radar Range Estimation Using a Denoising Autoencoder**|Robert Czupryniak et.al.|[2506.14906](http://arxiv.org/abs/2506.14906)|null|
 |**2025-06-17**|**Active InSAR monitoring of building damage in Gaza during the Israel-Hamas War**|Corey Scher et.al.|[2506.14730](http://arxiv.org/abs/2506.14730)|null|
 |**2025-06-17**|**M2BeamLLM: Multimodal Sensing-empowered mmWave Beam Prediction with Large Language Models**|Can Zheng et.al.|[2506.14532](http://arxiv.org/abs/2506.14532)|null|
 |**2025-06-17**|**Uncertainty-Driven Radar-Inertial Fusion for Instantaneous 3D Ego-Velocity Estimation**|Prashant Kumar Rai et.al.|[2506.14294](http://arxiv.org/abs/2506.14294)|null|
