@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -38,6 +38,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-18**|**PRISM-Loc: a Lightweight Long-range LiDAR Localization in Urban Environments with Topological Maps**|Kirill Muravyev et.al.|[2506.15849](http://arxiv.org/abs/2506.15849)|null|
 |**2025-05-29**|**Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System**|Simón Martínez-Rozas et.al.|[2505.23457](http://arxiv.org/abs/2505.23457)|null|
 |**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340](http://arxiv.org/abs/2505.18340)|**[link](https://github.com/miriammaximo/mcl-dlf)**|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
@@ -96,6 +97,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-20**|**SDDiff: Boost Radar Perception via Spatial-Doppler Diffusion**|Shengpeng Wang et.al.|[2506.16936](http://arxiv.org/abs/2506.16936)|null|
+|**2025-06-19**|**Quantum Artificial Intelligence for Secure Autonomous Vehicle Navigation: An Architectural Proposal**|Hemanth Kannamarlapudi et.al.|[2506.16000](http://arxiv.org/abs/2506.16000)|null|
 |**2025-06-18**|**RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation**|Xingrui Qin et.al.|[2506.15560](http://arxiv.org/abs/2506.15560)|null|
 |**2025-06-18**|**Convolutional Feature Enhancement and Attention Fusion BiFPN for Ship Detection in SAR Images**|Liangjie Meng et.al.|[2506.15231](http://arxiv.org/abs/2506.15231)|null|
 |**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175](http://arxiv.org/abs/2506.15175)|null|

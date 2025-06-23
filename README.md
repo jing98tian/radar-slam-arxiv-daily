@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,12 +39,13 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Lidar SLAM
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-18**|**PRISM-Loc: a Lightweight Long-range LiDAR Localization in Urban Environments with Topological Maps**|Kirill Muravyev et.al.|[2506.15849](http://arxiv.org/abs/2506.15849)|null|
 |**2025-05-29**|**Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System**|Simón Martínez-Rozas et.al.|[2505.23457](http://arxiv.org/abs/2505.23457)|null|
 |**2025-05-23**|**A Coarse to Fine 3D LiDAR Localization with Deep Local Features for Long Term Robot Navigation in Large Environments**|Míriam Máximo et.al.|[2505.18340](http://arxiv.org/abs/2505.18340)|**[link](https://github.com/miriammaximo/mcl-dlf)**|
 |**2025-05-13**|**MDF: Multi-Modal Data Fusion with CNN-Based Object Detection for Enhanced Indoor Localization Using LiDAR-SLAM**|Saqi Hussain Kalan et.al.|[2505.08388](http://arxiv.org/abs/2505.08388)|null|
@@ -99,12 +100,14 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-20**|**SDDiff: Boost Radar Perception via Spatial-Doppler Diffusion**|Shengpeng Wang et.al.|[2506.16936](http://arxiv.org/abs/2506.16936)|null|
+|**2025-06-19**|**Quantum Artificial Intelligence for Secure Autonomous Vehicle Navigation: An Architectural Proposal**|Hemanth Kannamarlapudi et.al.|[2506.16000](http://arxiv.org/abs/2506.16000)|null|
 |**2025-06-18**|**RaCalNet: Radar Calibration Network for Sparse-Supervised Metric Depth Estimation**|Xingrui Qin et.al.|[2506.15560](http://arxiv.org/abs/2506.15560)|null|
 |**2025-06-18**|**Convolutional Feature Enhancement and Attention Fusion BiFPN for Ship Detection in SAR Images**|Liangjie Meng et.al.|[2506.15231](http://arxiv.org/abs/2506.15231)|null|
 |**2025-06-18**|**SHeRLoc: Synchronized Heterogeneous Radar Place Recognition for Cross-Modal Localization**|Hanjun Kim et.al.|[2506.15175](http://arxiv.org/abs/2506.15175)|null|
@@ -1478,7 +1481,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
