@@ -136,7 +136,7 @@
 |**2025-06-10**|**Perception Characteristics Distance: Measuring Stability and Robustness of Perception System in Dynamic Conditions under a Certain Decision Rule**|Boyu Jiang et.al.|[2506.09217](http://arxiv.org/abs/2506.09217)|**[link](https://github.com/datadrivenwheels/pcd_python)**|
 |**2025-06-10**|**Hardware Limitations and Optimization Approach in 1-Bit RIS Design at 28 GHz**|Hossein Rezaei et.al.|[2506.08930](http://arxiv.org/abs/2506.08930)|null|
 |**2025-06-10**|**Extended Spherical Geometry Algorithm for Spaceborne SAR Processing in Stripmap and TOPS Imaging Modes**|Xinhua Mao et.al.|[2506.08620](http://arxiv.org/abs/2506.08620)|null|
-|**2025-06-09**|**RADAR: Benchmarking Language Models on Imperfect Tabular Data**|Ken Gu et.al.|[2506.08249](http://arxiv.org/abs/2506.08249)|null|
+|**2025-06-09**|**RADAR: Benchmarking Language Models on Imperfect Tabular Data**|Ken Gu et.al.|[2506.08249](http://arxiv.org/abs/2506.08249)|**[link](https://github.com/kenqgu/radar)**|
 |**2025-06-09**|**Using Satellite Images And Self-supervised Machine Learning Networks To Detect Water Hidden Under Vegetation**|Ioannis Iakovidis et.al.|[2506.08214](http://arxiv.org/abs/2506.08214)|null|
 |**2025-06-09**|**Spectral Domain Neural Reconstruction for Passband FMCW Radars**|Harshvardhan Takawale et.al.|[2506.08163](http://arxiv.org/abs/2506.08163)|null|
 |**2025-06-09**|**Low-Complexity Super-Resolution Signature Estimation of XL-MIMO FMCW Radar**|Chandrashekhar Rai et.al.|[2506.07979](http://arxiv.org/abs/2506.07979)|null|
@@ -152,12 +152,12 @@
 |**2025-06-06**|**Robust sensor fusion against on-vehicle sensor staleness**|Meng Fan et.al.|[2506.05780](http://arxiv.org/abs/2506.05780)|null|
 |**2025-06-05**|**Towards Reliable Identification of Diffusion-based Image Manipulations**|Alex Costanzino et.al.|[2506.05466](http://arxiv.org/abs/2506.05466)|null|
 |**2025-06-05**|**U-NetMN and SegNetMN: Modified U-Net and SegNet models for bimodal SAR image segmentation**|Marwane Kzadri et.al.|[2506.05444](http://arxiv.org/abs/2506.05444)|null|
-|**2025-06-05**|**Through-the-Wall Radar Human Activity Recognition WITHOUT Using Neural Networks**|Weicheng Gao et.al.|[2506.05169](http://arxiv.org/abs/2506.05169)|null|
+|**2025-06-05**|**Through-the-Wall Radar Human Activity Recognition WITHOUT Using Neural Networks**|Weicheng Gao et.al.|[2506.05169](http://arxiv.org/abs/2506.05169)|**[link](https://github.com/joeybgofficial/through-the-wall-radar-human-activity-recognition-without-using-neural-networks)**|
 |**2025-06-09**|**Structure-Aware Radar-Camera Depth Estimation**|Fuyi Zhang et.al.|[2506.05008](http://arxiv.org/abs/2506.05008)|null|
 |**2025-06-05**|**Design of OTFS Signals with Pulse Shaping and Window Function for OTFS-Based Radar**|Liangchen Sun et.al.|[2506.04861](http://arxiv.org/abs/2506.04861)|null|
 |**2025-06-05**|**Spectral Efficiency Maximization for mmWave MIMO-Aided Integrated Sensing and Communication Under Practical Constraints**|Jitendra Singh et.al.|[2506.04683](http://arxiv.org/abs/2506.04683)|null|
 |**2025-06-04**|**Improving Post-Processing for Quantitative Precipitation Forecasting Using Deep Learning: Learning Precipitation Physics from High-Resolution Observations**|ChangJae Lee et.al.|[2506.03842](http://arxiv.org/abs/2506.03842)|**[link](https://github.com/hunter3789/deep-learning-qpf)**|
-|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|null|
+|**2025-06-03**|**Simulate Any Radar: Attribute-Controllable Radar Simulation via Waveform Parameter Embedding**|Weiqing Xiao et.al.|[2506.03134](http://arxiv.org/abs/2506.03134)|**[link](https://github.com/zhuxing0/sa-radar)**|
 |**2025-06-03**|**Advanced microwave photonic waveform editing: enabling the evolution of radar systems into joint radar and spectrum sensing systems**|Chi Jiang et.al.|[2506.02583](http://arxiv.org/abs/2506.02583)|null|
 |**2025-06-02**|**Unified Interference-Aware Water-Filling for QoS-Constrained Communication, Sensing, and JRC**|Ahmed Naeem et.al.|[2506.01400](http://arxiv.org/abs/2506.01400)|null|
 |**2025-06-02**|**RadarSplat: Radar Gaussian Splatting for High-Fidelity Data Synthesis and 3D Reconstruction of Autonomous Driving Scenes**|Pou-Chun Kung et.al.|[2506.01379](http://arxiv.org/abs/2506.01379)|null|
@@ -280,7 +280,7 @@
 |**2025-04-27**|**LRFusionPR: A Polar BEV-Based LiDAR-Radar Fusion Network for Place Recognition**|Zhangshuo Qi et.al.|[2504.19186](http://arxiv.org/abs/2504.19186)|**[link](https://github.com/qizs-bit/lrfusionpr)**|
 |**2025-04-27**|**Comparison Research of Millimeter-Wave/Infrared Co-aperture Reflector Antenna Systems Based on a Specialized Film**|Zongze Li et.al.|[2504.19150](http://arxiv.org/abs/2504.19150)|null|
 |**2025-04-27**|**PAD: Phase-Amplitude Decoupling Fusion for Multi-Modal Land Cover Classification**|Huiling Zheng et.al.|[2504.19136](http://arxiv.org/abs/2504.19136)|**[link](https://github.com/ranfeng2/pad)**|
-|**2025-04-26**|**R-Sparse R-CNN: SAR Ship Detection Based on Background-Aware Sparse Learnable Proposals**|Kamirul Kamirul et.al.|[2504.18959](http://arxiv.org/abs/2504.18959)|null|
+|**2025-04-26**|**R-Sparse R-CNN: SAR Ship Detection Based on Background-Aware Sparse Learnable Proposals**|Kamirul Kamirul et.al.|[2504.18959](http://arxiv.org/abs/2504.18959)|**[link](https://github.com/ka-mirul/r-sparse-r-cnn)**|
 |**2025-04-26**|**DMA Reception for Simultaneous Area-Wide Sensing and Multi-User Uplink Communications**|Ioannis Gavras et.al.|[2504.18843](http://arxiv.org/abs/2504.18843)|null|
 |**2025-04-26**|**Reservoir-enhanced Segment Anything Model for Subsurface Diagnosis**|Xiren Zhou et.al.|[2504.18802](http://arxiv.org/abs/2504.18802)|**[link](https://github.com/zhouxr6066/Res-SAM)**|
 |**2025-04-25**|**Characterization of Long-Term Stable Photonic Microwaves based on a Difference Frequency Comb**|S. Mueller et.al.|[2504.18470](http://arxiv.org/abs/2504.18470)|null|
