@@ -98,6 +98,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-25**|**Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch**|Lei Liu et.al.|[2506.20513](http://arxiv.org/abs/2506.20513)|null|
+|**2025-06-25**|**Transformer Based Multi-Target Bernoulli Tracking for Maritime Radar**|Caden Sweeney et.al.|[2506.20319](http://arxiv.org/abs/2506.20319)|null|
+|**2025-06-25**|**Sensing-Aware Transmit Waveform/Receive Filter Design for OFDM-MBS Systems**|Xinghe Li et.al.|[2506.20231](http://arxiv.org/abs/2506.20231)|null|
+|**2025-06-25**|**Assessing the Ship Motion Prediction Capabilities of the Open-Source Model NEMOH Against Field Observations**|Tianshi Yu et.al.|[2506.20186](http://arxiv.org/abs/2506.20186)|null|
 |**2025-06-24**|**Vision Transformer-Based Time-Series Image Reconstruction for Cloud-Filling Applications**|Lujun Li et.al.|[2506.19591](http://arxiv.org/abs/2506.19591)|null|
 |**2025-06-24**|**SMARTIES: Spectrum-Aware Multi-Sensor Auto-Encoder for Remote Sensing Images**|Gencer Sumbul et.al.|[2506.19585](http://arxiv.org/abs/2506.19585)|null|
 |**2025-06-24**|**From High-SNR Radar Signal to ECG: A Transfer Learning Model with Cardio-Focusing Algorithm for Scenarios with Limited Data**|Yuanyuan Zhang et.al.|[2506.19358](http://arxiv.org/abs/2506.19358)|null|
