@@ -45,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077](http://arxiv.org/abs/2506.21077)|null|
 |**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016](http://arxiv.org/abs/2506.18016)|null|
 |**2025-06-18**|**PRISM-Loc: a Lightweight Long-range LiDAR Localization in Urban Environments with Topological Maps**|Kirill Muravyev et.al.|[2506.15849](http://arxiv.org/abs/2506.15849)|null|
 |**2025-05-29**|**Long Duration Inspection of GNSS-Denied Environments with a Tethered UAV-UGV Marsupial System**|Simón Martínez-Rozas et.al.|[2505.23457](http://arxiv.org/abs/2505.23457)|null|
@@ -107,6 +108,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-26**|**Constant Modulus Waveforms for IoT-Centric Integrated Sensing and Communications**|Tian Han et.al.|[2506.21078](http://arxiv.org/abs/2506.21078)|null|
+|**2025-06-26**|**ThermalDiffusion: Visual-to-Thermal Image-to-Image Translation for Autonomous Navigation**|Shruti Bansal et.al.|[2506.20969](http://arxiv.org/abs/2506.20969)|null|
+|**2025-06-26**|**Explainable AI for Radar Resource Management: Modified LIME in Deep Reinforcement Learning**|Ziyang Lu et.al.|[2506.20916](http://arxiv.org/abs/2506.20916)|null|
+|**2025-06-25**|**An Imaging Radar Using a Rydberg Atom Receiver**|William J. Watterson et.al.|[2506.20862](http://arxiv.org/abs/2506.20862)|null|
+|**2025-06-25**|**Multi-Objective Reinforcement Learning for Cognitive Radar Resource Management**|Ziyang Lu et.al.|[2506.20853](http://arxiv.org/abs/2506.20853)|null|
+|**2025-06-25**|**Learning-Based Resource Management in Integrated Sensing and Communication Systems**|Ziyang Lu et.al.|[2506.20849](http://arxiv.org/abs/2506.20849)|null|
+|**2025-06-25**|**Spiking Neural Networks for SAR Interferometric Phase Unwrapping: A Theoretical Framework for Energy-Efficient Processing**|Marc Bara et.al.|[2506.20782](http://arxiv.org/abs/2506.20782)|null|
 |**2025-06-25**|**Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch**|Lei Liu et.al.|[2506.20513](http://arxiv.org/abs/2506.20513)|null|
 |**2025-06-25**|**Transformer Based Multi-Target Bernoulli Tracking for Maritime Radar**|Caden Sweeney et.al.|[2506.20319](http://arxiv.org/abs/2506.20319)|null|
 |**2025-06-25**|**Sensing-Aware Transmit Waveform/Receive Filter Design for OFDM-MBS Systems**|Xinghe Li et.al.|[2506.20231](http://arxiv.org/abs/2506.20231)|null|
