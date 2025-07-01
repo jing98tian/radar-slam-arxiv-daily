@@ -108,6 +108,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-30**|**The impacts of tropospheric gravity wave-generated MSTIDs on skywaves at middle latitude North American sector observed and modeled using SuperDARN HF radars**|S. Chakraborty et.al.|[2506.23984](http://arxiv.org/abs/2506.23984)|null|
+|**2025-06-30**|**Wireless Propagation Parameter Estimation with Convolutional Neural Networks**|Steffen Schieler et.al.|[2506.23621](http://arxiv.org/abs/2506.23621)|null|
+|**2025-06-30**|**A Fast and Accurate 3-D Reconstruction Algorithm for Near-Range Microwave Imaging with Handheld Synthetic Aperture Radar**|Lei Wang et.al.|[2506.23568](http://arxiv.org/abs/2506.23568)|null|
+|**2025-06-30**|**Automatic Phase Calibration for High-resolution mmWave Sensing via Ambient Radio Anchors**|Ruixu Geng et.al.|[2506.23472](http://arxiv.org/abs/2506.23472)|null|
+|**2025-06-29**|**Integrated Polarimetric Sensing and Communication with Polarization-Reconfigurable Arrays**|Byunghyun Lee et.al.|[2506.23410](http://arxiv.org/abs/2506.23410)|null|
+|**2025-06-29**|**Joint Trajectory and Resource Optimization for HAPs-SAR Systems with Energy-Aware Constraints**|Bang Huang et.al.|[2506.23248](http://arxiv.org/abs/2506.23248)|null|
+|**2025-06-28**|**Differentiable Radar Ambiguity Functions: Mathematical Formulation and Computational Implementation**|Marc Bara Iniesta et.al.|[2506.22935](http://arxiv.org/abs/2506.22935)|null|
 |**2025-06-27**|**A Deep Learning framework for building damage assessment using VHR SAR and geospatial data: demonstration on the 2023 Turkiye Earthquake**|Luigi Russo et.al.|[2506.22338](http://arxiv.org/abs/2506.22338)|null|
 |**2025-06-27**|**ASVSim (AirSim for Surface Vehicles): A High-Fidelity Simulation Framework for Autonomous Surface Vehicle Research**|Bavo Lesy et.al.|[2506.22174](http://arxiv.org/abs/2506.22174)|null|
 |**2025-06-27**|**Cross-modal Ship Re-Identification via Optical and SAR Imagery: A Novel Dataset and Method**|Han Wang et.al.|[2506.22027](http://arxiv.org/abs/2506.22027)|null|
