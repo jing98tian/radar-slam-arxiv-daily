@@ -108,6 +108,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-02**|**Measurement-based Evaluation of CNN-based Detection and Estimation for ISAC Systems**|Steffen Schieler et.al.|[2507.01799](http://arxiv.org/abs/2507.01799)|null|
+|**2025-07-02**|**SSL4SAR: Self-Supervised Learning for Glacier Calving Front Extraction from SAR Imagery**|Nora Gourmelon et.al.|[2507.01747](http://arxiv.org/abs/2507.01747)|null|
+|**2025-07-02**|**Vision-Aided ISAC in Low-Altitude Economy Networks via De-Diffused Visual Priors**|Yulan Gao et.al.|[2507.01574](http://arxiv.org/abs/2507.01574)|null|
+|**2025-07-02**|**AI and Remote Sensing for Resilient and Sustainable Built Environments: A Review of Current Methods, Open Data and Future Directions**|Ubada El Joulani et.al.|[2507.01547](http://arxiv.org/abs/2507.01547)|null|
+|**2025-07-02**|**Efficient Kilometer-Scale Precipitation Downscaling with Conditional Wavelet Diffusion**|Chugang Yi et.al.|[2507.01354](http://arxiv.org/abs/2507.01354)|null|
+|**2025-07-01**|**RaGNNarok: A Light-Weight Graph Neural Network for Enhancing Radar Point Clouds on Unmanned Ground Vehicles**|David Hunt et.al.|[2507.00937](http://arxiv.org/abs/2507.00937)|null|
+|**2025-07-01**|**Do Echo Top Heights Improve Deep Learning Nowcasts?**|Peter Pavlík et.al.|[2507.00845](http://arxiv.org/abs/2507.00845)|null|
+|**2025-07-01**|**Geological Everything Model 3D: A Promptable Foundation Model for Unified and Zero-Shot Subsurface Understanding**|Yimin Dou et.al.|[2507.00419](http://arxiv.org/abs/2507.00419)|null|
 |**2025-06-30**|**The impacts of tropospheric gravity wave-generated MSTIDs on skywaves at middle latitude North American sector observed and modeled using SuperDARN HF radars**|S. Chakraborty et.al.|[2506.23984](http://arxiv.org/abs/2506.23984)|null|
 |**2025-06-30**|**Wireless Propagation Parameter Estimation with Convolutional Neural Networks**|Steffen Schieler et.al.|[2506.23621](http://arxiv.org/abs/2506.23621)|null|
 |**2025-06-30**|**A Fast and Accurate 3-D Reconstruction Algorithm for Near-Range Microwave Imaging with Handheld Synthetic Aperture Radar**|Lei Wang et.al.|[2506.23568](http://arxiv.org/abs/2506.23568)|null|
