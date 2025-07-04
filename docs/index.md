@@ -99,6 +99,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-03**|**Track-before-detect in RIS-aided Integrated Sensing and Communication**|Georgios Mylonopoulos et.al.|[2507.02352](http://arxiv.org/abs/2507.02352)|null|
+|**2025-07-03**|**STAR-RIS Transceivers: Integrated Sensing and Communication with Pulsed Signals**|Hedieh Taremizadeh et.al.|[2507.02346](http://arxiv.org/abs/2507.02346)|null|
+|**2025-07-03**|**Localized kernel method for separation of linear chirps**|Eric Mason et.al.|[2507.02262](http://arxiv.org/abs/2507.02262)|null|
 |**2025-07-02**|**Measurement-based Evaluation of CNN-based Detection and Estimation for ISAC Systems**|Steffen Schieler et.al.|[2507.01799](http://arxiv.org/abs/2507.01799)|null|
 |**2025-07-02**|**SSL4SAR: Self-Supervised Learning for Glacier Calving Front Extraction from SAR Imagery**|Nora Gourmelon et.al.|[2507.01747](http://arxiv.org/abs/2507.01747)|null|
 |**2025-07-02**|**Vision-Aided ISAC in Low-Altitude Economy Networks via De-Diffused Visual Priors**|Yulan Gao et.al.|[2507.01574](http://arxiv.org/abs/2507.01574)|null|
