@@ -108,6 +108,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-07**|**Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing**|Colin Laganier et.al.|[2507.04842](http://arxiv.org/abs/2507.04842)|null|
+|**2025-07-07**|**DragonFly: Single mmWave Radar 3D Localization of Highly Dynamic Tags in GPS-Denied Environments**|Skanda Harisha et.al.|[2507.04602](http://arxiv.org/abs/2507.04602)|null|
+|**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587](http://arxiv.org/abs/2507.04587)|null|
+|**2025-07-06**|**Linking diffusive fields to virtual waves as their propagative duals**|Peter Burgholzer et.al.|[2507.04542](http://arxiv.org/abs/2507.04542)|null|
+|**2025-07-06**|**Dynamic Frequency Feature Fusion Network for Multi-Source Remote Sensing Data Classification**|Yikang Zhao et.al.|[2507.04510](http://arxiv.org/abs/2507.04510)|null|
+|**2025-07-06**|**Inverse Reinforcement Learning using Revealed Preferences and Passive Stochastic Optimization**|Vikram Krishnamurthy et.al.|[2507.04396](http://arxiv.org/abs/2507.04396)|null|
+|**2025-07-06**|**Adaptive Resource Management in Cognitive Radar via Deep Deterministic Policy Gradient**|Ziyang Lu et.al.|[2507.04195](http://arxiv.org/abs/2507.04195)|null|
+|**2025-07-05**|**Experimental Demonstration of Computational AoA Detection Using Conformal Frequency Diverse Metasurface Antennas**|Idban Alamzadeh et.al.|[2507.04178](http://arxiv.org/abs/2507.04178)|null|
+|**2025-07-05**|**Integrated Gaussian Processes for Robust and Adaptive Multi-Object Tracking**|Fred Lydeard et.al.|[2507.04116](http://arxiv.org/abs/2507.04116)|null|
+|**2025-07-05**|**SAFERad: A Framework to Enable Radar Data for Safety-Relevant Perception Tasks**|Tim Brühl et.al.|[2507.03959](http://arxiv.org/abs/2507.03959)|null|
 |**2025-07-03**|**Track-before-detect in RIS-aided Integrated Sensing and Communication**|Georgios Mylonopoulos et.al.|[2507.02352](http://arxiv.org/abs/2507.02352)|null|
 |**2025-07-03**|**STAR-RIS Transceivers: Integrated Sensing and Communication with Pulsed Signals**|Hedieh Taremizadeh et.al.|[2507.02346](http://arxiv.org/abs/2507.02346)|null|
 |**2025-07-03**|**Localized kernel method for separation of linear chirps**|Eric Mason et.al.|[2507.02262](http://arxiv.org/abs/2507.02262)|null|
