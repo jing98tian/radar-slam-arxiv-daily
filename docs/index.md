@@ -99,6 +99,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-08**|**RIS-Enabled Transmitter Design for Joint Radar and Communication**|Emanuele Grossi et.al.|[2507.06028](http://arxiv.org/abs/2507.06028)|null|
 |**2025-07-07**|**Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing**|Colin Laganier et.al.|[2507.04842](http://arxiv.org/abs/2507.04842)|null|
 |**2025-07-07**|**DragonFly: Single mmWave Radar 3D Localization of Highly Dynamic Tags in GPS-Denied Environments**|Skanda Harisha et.al.|[2507.04602](http://arxiv.org/abs/2507.04602)|null|
 |**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587](http://arxiv.org/abs/2507.04587)|null|
