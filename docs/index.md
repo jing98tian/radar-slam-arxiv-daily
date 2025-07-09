@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.08
+## Updated on 2025.07.09
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -102,7 +102,7 @@ layout: default
 |**2025-07-07**|**Efficient SAR Vessel Detection for FPGA-Based On-Satellite Sensing**|Colin Laganier et.al.|[2507.04842](http://arxiv.org/abs/2507.04842)|null|
 |**2025-07-07**|**DragonFly: Single mmWave Radar 3D Localization of Highly Dynamic Tags in GPS-Denied Environments**|Skanda Harisha et.al.|[2507.04602](http://arxiv.org/abs/2507.04602)|null|
 |**2025-07-07**|**CVFusion: Cross-View Fusion of 4D Radar and Camera for 3D Object Detection**|Hanzhi Zhong et.al.|[2507.04587](http://arxiv.org/abs/2507.04587)|null|
-|**2025-07-06**|**Linking diffusive fields to virtual waves as their propagative duals**|Peter Burgholzer et.al.|[2507.04542](http://arxiv.org/abs/2507.04542)|null|
+|**2025-07-08**|**Linking diffusive fields to virtual waves as their propagative duals**|Peter Burgholzer et.al.|[2507.04542](http://arxiv.org/abs/2507.04542)|null|
 |**2025-07-06**|**Dynamic Frequency Feature Fusion Network for Multi-Source Remote Sensing Data Classification**|Yikang Zhao et.al.|[2507.04510](http://arxiv.org/abs/2507.04510)|null|
 |**2025-07-06**|**Inverse Reinforcement Learning using Revealed Preferences and Passive Stochastic Optimization**|Vikram Krishnamurthy et.al.|[2507.04396](http://arxiv.org/abs/2507.04396)|null|
 |**2025-07-06**|**Adaptive Resource Management in Cognitive Radar via Deep Deterministic Policy Gradient**|Ziyang Lu et.al.|[2507.04195](http://arxiv.org/abs/2507.04195)|null|
