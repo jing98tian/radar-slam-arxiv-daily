@@ -108,6 +108,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-10**|**RADAR: a Radio-based Analytics for Dynamic Association and Recognition of pseudonyms in VANETs**|Giovanni Gambigliani Zoccoli et.al.|[2507.07732](http://arxiv.org/abs/2507.07732)|null|
+|**2025-07-10**|**ST-GRIT: Spatio-Temporal Graph Transformer For Internal Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2507.07389](http://arxiv.org/abs/2507.07389)|null|
+|**2025-07-10**|**GRIT: Graph Transformer For Internal Ice Layer Thickness Prediction**|Zesheng Liu et.al.|[2507.07388](http://arxiv.org/abs/2507.07388)|null|
+|**2025-07-09**|**mmFlux: Crowd Flow Analytics with Commodity mmWave MIMO Radar**|Anurag Pallaprolu et.al.|[2507.07331](http://arxiv.org/abs/2507.07331)|null|
+|**2025-07-09**|**A RIS-Enabled Computational Radar Coincidence Imaging**|Kavian Zirak et.al.|[2507.07285](http://arxiv.org/abs/2507.07285)|null|
+|**2025-07-09**|**Robust Multimodal Learning Framework For Intake Gesture Detection Using Contactless Radar and Wearable IMU Sensors**|Chunzhuo Wang et.al.|[2507.07261](http://arxiv.org/abs/2507.07261)|null|
+|**2025-07-09**|**Three-Dimensional Millimeter-Wave Imaging Using Active Incoherent Fourier Processing and Pulse Compression**|Jorge R. Colon-Berrios et.al.|[2507.07239](http://arxiv.org/abs/2507.07239)|null|
 |**2025-07-09**|**Precise Representation Model of SAR Saturated Interference: Mechanism and Verification**|Lunhao Duan et.al.|[2507.06932](http://arxiv.org/abs/2507.06932)|null|
 |**2025-07-09**|**SemRaFiner: Panoptic Segmentation in Sparse and Noisy Radar Point Clouds**|Matthias Zeller et.al.|[2507.06906](http://arxiv.org/abs/2507.06906)|null|
 |**2025-07-09**|**Graph Learning for Cooperative Cell-Free ISAC Systems: From Optimization to Estimation**|Peng Jiang et.al.|[2507.06612](http://arxiv.org/abs/2507.06612)|null|
