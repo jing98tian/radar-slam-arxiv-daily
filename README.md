@@ -108,6 +108,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Frequency-responsive RCS characteristics and scaling implications for ISAC development**|Saúl Fenollosa et.al.|[2507.12235](http://arxiv.org/abs/2507.12235)|null|
+|**2025-07-16**|**Novel Approach to Dual-Channel Estimation in Integrated Sensing and Communications for 6G**|Alejandro Castilla et.al.|[2507.12221](http://arxiv.org/abs/2507.12221)|null|
+|**2025-07-16**|**Enhancing Situational Awareness in ISAC Networks via Drone Swarms: A Real-World Channel Sounding Data Set**|Julia Beuster et.al.|[2507.12010](http://arxiv.org/abs/2507.12010)|null|
+|**2025-07-15**|**The Origin of Structure in the Auroral Ionosphere**|Magnus F Ivarsen et.al.|[2507.11755](http://arxiv.org/abs/2507.11755)|null|
+|**2025-07-15**|**Data-Driven Meta-Analysis and Public-Dataset Evaluation for Sensor-Based Gait Age Estimation**|Varun Velankar et.al.|[2507.11571](http://arxiv.org/abs/2507.11571)|null|
 |**2025-07-15**|**Sensing Accuracy Optimization for Multi-UAV SAR Interferometry with Data Offloading**|Mohamed-Amine Lahmeri et.al.|[2507.11284](http://arxiv.org/abs/2507.11284)|null|
 |**2025-07-15**|**Automatic Road Subsurface Distress Recognition from Ground Penetrating Radar Images using Deep Learning-based Cross-verification**|Chang Peng et.al.|[2507.11081](http://arxiv.org/abs/2507.11081)|null|
 |**2025-07-15**|**Dual RIS-Assisted Monostatic L-Band Radar Target Detection in NLoS Scenarios**|Salman Liaquat et.al.|[2507.11036](http://arxiv.org/abs/2507.11036)|null|
