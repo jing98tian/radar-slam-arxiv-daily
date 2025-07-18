@@ -108,6 +108,8 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-17**|**Effect of complex orography on numerical simulations of a downburst event in Spain**|Javier Diaz Fernandez et.al.|[2507.13303](http://arxiv.org/abs/2507.13303)|null|
+|**2025-07-17**|**Secure Pinching Antenna-aided ISAC**|Elmehdi Illi et.al.|[2507.13131](http://arxiv.org/abs/2507.13131)|null|
 |**2025-07-16**|**Frequency-responsive RCS characteristics and scaling implications for ISAC development**|Saúl Fenollosa et.al.|[2507.12235](http://arxiv.org/abs/2507.12235)|null|
 |**2025-07-16**|**Novel Approach to Dual-Channel Estimation in Integrated Sensing and Communications for 6G**|Alejandro Castilla et.al.|[2507.12221](http://arxiv.org/abs/2507.12221)|null|
 |**2025-07-16**|**Enhancing Situational Awareness in ISAC Networks via Drone Swarms: A Real-World Channel Sounding Data Set**|Julia Beuster et.al.|[2507.12010](http://arxiv.org/abs/2507.12010)|null|
