@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -39,7 +39,7 @@
 |**2022-10-25**|**MAROAM: Map-based Radar SLAM through Two-step Feature Selection**|Dequan Wang et.al.|[2210.13797](http://arxiv.org/abs/2210.13797)|null|
 |**2022-10-09**|**Fusing Event-based Camera and Radar for SLAM Using Spiking Neural Networks with Continual STDP Learning**|Ali Safa et.al.|[2210.04236](http://arxiv.org/abs/2210.04236)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Lidar SLAM
 
@@ -102,12 +102,17 @@
 |**2023-08-10**|**Robust Lifelong Indoor LiDAR Localization using the Area Graph**|Fujing Xie et.al.|[2308.05593](http://arxiv.org/abs/2308.05593)|null|
 |**2023-08-10**|**Occupancy Grid Map to Pose Graph-based Map: Robust BIM-based 2D-LiDAR Localization for Lifelong Indoor Navigation in Changing and Dynamic Environments**|Miguel Arturo Vega Torres et.al.|[2308.05443](http://arxiv.org/abs/2308.05443)|**[link](https://github.com/migvega/ogm2pgbm)**|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 ## Radar
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-18**|**Chameleon Gravity as an Alternative to Dark Matter**|Raziyeh Zaregonbadi et.al.|[2507.13972](http://arxiv.org/abs/2507.13972)|null|
+|**2025-07-18**|**Device-Free Localization Using Commercial UWB Transceivers**|Hyun Seok Lee et.al.|[2507.13938](http://arxiv.org/abs/2507.13938)|null|
+|**2025-07-18**|**A Quantum-assisted Attention U-Net for Building Segmentation over Tunis using Sentinel-1 Data**|Luigi Russo et.al.|[2507.13852](http://arxiv.org/abs/2507.13852)|null|
+|**2025-07-18**|**Simulation for Noncontact Radar-Based Physiological Sensing Using Depth-Camera-Derived Human 3D Model with Electromagnetic Scattering Analysis**|Kimitaka Sumi et.al.|[2507.13826](http://arxiv.org/abs/2507.13826)|null|
+|**2025-07-17**|**Space Shift Keying-Enabled ISAC for Efficient Debris Detection and Communication in LEO Satellite Networks**|Gedeon Ghislain Nkwewo Ngoufo et.al.|[2507.13526](http://arxiv.org/abs/2507.13526)|null|
 |**2025-07-17**|**Effect of complex orography on numerical simulations of a downburst event in Spain**|Javier Diaz Fernandez et.al.|[2507.13303](http://arxiv.org/abs/2507.13303)|null|
 |**2025-07-17**|**Secure Pinching Antenna-aided ISAC**|Elmehdi Illi et.al.|[2507.13131](http://arxiv.org/abs/2507.13131)|null|
 |**2025-07-16**|**Frequency-responsive RCS characteristics and scaling implications for ISAC development**|Saúl Fenollosa et.al.|[2507.12235](http://arxiv.org/abs/2507.12235)|null|
@@ -1572,7 +1577,7 @@
 |**2024-01-04**|**Radio Map-Based Spectrum Sharing for Joint Communication and Sensing**|Xionran Fang et.al.|[2401.02118](http://arxiv.org/abs/2401.02118)|null|
 |**2024-01-04**|**Performance Trade-off and Joint Waveform Design for MIMO-OFDM DFRC Systems**|Tianchen Liu et.al.|[2401.02081](http://arxiv.org/abs/2401.02081)|null|
 
-<p align=right>(<a href=#updated-on-20250720>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

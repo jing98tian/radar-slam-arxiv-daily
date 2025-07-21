@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.20
+## Updated on 2025.07.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Radar SLAM
@@ -99,6 +99,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-18**|**Chameleon Gravity as an Alternative to Dark Matter**|Raziyeh Zaregonbadi et.al.|[2507.13972](http://arxiv.org/abs/2507.13972)|null|
+|**2025-07-18**|**Device-Free Localization Using Commercial UWB Transceivers**|Hyun Seok Lee et.al.|[2507.13938](http://arxiv.org/abs/2507.13938)|null|
+|**2025-07-18**|**A Quantum-assisted Attention U-Net for Building Segmentation over Tunis using Sentinel-1 Data**|Luigi Russo et.al.|[2507.13852](http://arxiv.org/abs/2507.13852)|null|
+|**2025-07-18**|**Simulation for Noncontact Radar-Based Physiological Sensing Using Depth-Camera-Derived Human 3D Model with Electromagnetic Scattering Analysis**|Kimitaka Sumi et.al.|[2507.13826](http://arxiv.org/abs/2507.13826)|null|
+|**2025-07-17**|**Space Shift Keying-Enabled ISAC for Efficient Debris Detection and Communication in LEO Satellite Networks**|Gedeon Ghislain Nkwewo Ngoufo et.al.|[2507.13526](http://arxiv.org/abs/2507.13526)|null|
 |**2025-07-17**|**Effect of complex orography on numerical simulations of a downburst event in Spain**|Javier Diaz Fernandez et.al.|[2507.13303](http://arxiv.org/abs/2507.13303)|null|
 |**2025-07-17**|**Secure Pinching Antenna-aided ISAC**|Elmehdi Illi et.al.|[2507.13131](http://arxiv.org/abs/2507.13131)|null|
 |**2025-07-16**|**Frequency-responsive RCS characteristics and scaling implications for ISAC development**|Saúl Fenollosa et.al.|[2507.12235](http://arxiv.org/abs/2507.12235)|null|
