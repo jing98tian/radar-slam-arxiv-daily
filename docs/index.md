@@ -99,6 +99,13 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-21**|**Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**|Ahmad M. Nazar et.al.|[2507.15769](http://arxiv.org/abs/2507.15769)|null|
+|**2025-07-21**|**All-UWB SLAM Using UWB Radar and UWB AOA**|Charith Premachandra et.al.|[2507.15474](http://arxiv.org/abs/2507.15474)|null|
+|**2025-07-21**|**Robust ISAC Transceiver Beamforming Design under Low-Resolution AD/DA Converters**|Tiantian Xu et.al.|[2507.15373](http://arxiv.org/abs/2507.15373)|null|
+|**2025-07-20**|**Phase-optimised linearly-constrained minimum-variance beamformers**|Hugh L Kennedy et.al.|[2507.14937](http://arxiv.org/abs/2507.14937)|null|
+|**2025-07-20**|**Integrated Radio Sensing Capabilities for 6G Networks: AI/ML Perspective**|Victor Shatov et.al.|[2507.14856](http://arxiv.org/abs/2507.14856)|null|
+|**2025-07-20**|**RADAR-Radio Afterglow Detection and AI-driven Response: A Federated Framework for Gravitational Wave Event Follow-Up**|Parth Patel et.al.|[2507.14827](http://arxiv.org/abs/2507.14827)|null|
+|**2025-07-18**|**Age of Information Minimization in UAV-Enabled Integrated Sensing and Communication Systems**|Yu Bai et.al.|[2507.14299](http://arxiv.org/abs/2507.14299)|null|
 |**2025-07-18**|**Chameleon Gravity as an Alternative to Dark Matter**|Raziyeh Zaregonbadi et.al.|[2507.13972](http://arxiv.org/abs/2507.13972)|null|
 |**2025-07-18**|**Device-Free Localization Using Commercial UWB Transceivers**|Hyun Seok Lee et.al.|[2507.13938](http://arxiv.org/abs/2507.13938)|null|
 |**2025-07-18**|**A Quantum-assisted Attention U-Net for Building Segmentation over Tunis using Sentinel-1 Data**|Luigi Russo et.al.|[2507.13852](http://arxiv.org/abs/2507.13852)|null|
