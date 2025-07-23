@@ -45,6 +45,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**GFM-Planner: Perception-Aware Trajectory Planning with Geometric Feature Metric**|Yue Lin et.al.|[2507.16233](http://arxiv.org/abs/2507.16233)|null|
 |**2025-06-26**|**CURL-SLAM: Continuous and Compact LiDAR Mapping**|Kaicheng Zhang et.al.|[2506.21077](http://arxiv.org/abs/2506.21077)|null|
 |**2025-06-22**|**ADA-DPM: A Neural Descriptors-based Adaptive Noise Point Filtering Strategy for SLAM**|Yongxin Shao et.al.|[2506.18016](http://arxiv.org/abs/2506.18016)|null|
 |**2025-06-18**|**PRISM-Loc: a Lightweight Long-range LiDAR Localization in Urban Environments with Topological Maps**|Kirill Muravyev et.al.|[2506.15849](http://arxiv.org/abs/2506.15849)|null|
@@ -108,6 +109,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-22**|**Typicality with Feedback**|Thomas Sturma et.al.|[2507.16384](http://arxiv.org/abs/2507.16384)|null|
+|**2025-07-22**|**Joint Active and Passive Beamforming for Energy-Efficient STARS with Quantization and Element Selection in ISAC Systems**|Li-Hsiang Shen et.al.|[2507.16210](http://arxiv.org/abs/2507.16210)|null|
+|**2025-07-22**|**Meta-Reinforcement Learning Optimization for Movable Antenna-aided Full-Duplex CF-DFRC Systems with Carrier Frequency Offset**|Yue Xiu et.al.|[2507.16132](http://arxiv.org/abs/2507.16132)|null|
 |**2025-07-21**|**Multi-Modal Sensor Fusion for Proactive Blockage Prediction in mmWave Vehicular Networks**|Ahmad M. Nazar et.al.|[2507.15769](http://arxiv.org/abs/2507.15769)|null|
 |**2025-07-21**|**All-UWB SLAM Using UWB Radar and UWB AOA**|Charith Premachandra et.al.|[2507.15474](http://arxiv.org/abs/2507.15474)|null|
 |**2025-07-21**|**Robust ISAC Transceiver Beamforming Design under Low-Resolution AD/DA Converters**|Tiantian Xu et.al.|[2507.15373](http://arxiv.org/abs/2507.15373)|null|
