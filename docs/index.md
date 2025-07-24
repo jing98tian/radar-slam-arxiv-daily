@@ -100,6 +100,9 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**Joint Multi-Target Detection-Tracking in Cognitive Massive MIMO Radar via POMCP**|Imad Bouhou et.al.|[2507.17506](http://arxiv.org/abs/2507.17506)|null|
+|**2025-07-22**|**From Cracks to Crooks: YouTube as a Vector for Malware Distribution**|Iman Vakilinia et.al.|[2507.16996](http://arxiv.org/abs/2507.16996)|null|
+|**2025-07-22**|**RAPTAR: Radar Radiation Pattern Acquisition through Automated Collaborative Robotics**|Maaz Qureshi et.al.|[2507.16988](http://arxiv.org/abs/2507.16988)|null|
 |**2025-07-22**|**Typicality with Feedback**|Thomas Sturma et.al.|[2507.16384](http://arxiv.org/abs/2507.16384)|null|
 |**2025-07-22**|**Joint Active and Passive Beamforming for Energy-Efficient STARS with Quantization and Element Selection in ISAC Systems**|Li-Hsiang Shen et.al.|[2507.16210](http://arxiv.org/abs/2507.16210)|null|
 |**2025-07-22**|**Meta-Reinforcement Learning Optimization for Movable Antenna-aided Full-Duplex CF-DFRC Systems with Carrier Frequency Offset**|Yue Xiu et.al.|[2507.16132](http://arxiv.org/abs/2507.16132)|null|
