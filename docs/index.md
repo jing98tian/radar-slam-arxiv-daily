@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.11.26
+## Updated on 2025.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -8549,6 +8549,51 @@ layout: default
 |**2022-08-01**|**End-to-end View Synthesis via NeRF Attention**|Zelin Zhao et.al.|[2207.14741](http://arxiv.org/abs/2207.14741)|null|
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
+
+## Radar SLAM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**|Akash Vijay et.al.|[2511.21685](http://arxiv.org/abs/2511.21685)|null|
+|**2025-11-26**|**Multivalued backward stochastic differential equations with jumps and moving boundary**|Badr Elmansouri et.al.|[2511.21679](http://arxiv.org/abs/2511.21679)|null|
+|**2025-11-26**|**Event-driven eligibility propagation in large sparse networks: efficiency shaped by biological realism**|Agnes Korcsak-Gorzo et.al.|[2511.21674](http://arxiv.org/abs/2511.21674)|null|
+|**2025-11-26**|**Superalgebra deformations of web categories: Affine and cyclotomic webs**|Nicholas Davidson et.al.|[2511.21671](http://arxiv.org/abs/2511.21671)|null|
+|**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](http://arxiv.org/abs/2511.21663)|null|
+|**2025-11-26**|**FPGA-tailored algorithms for real-time decoding of quantum LDPC codes**|Satvik Maurya et.al.|[2511.21660](http://arxiv.org/abs/2511.21660)|null|
+|**2025-11-26**|**Nearly Tight Lower Bounds for Relaxed Locally Decodable Codes via Robust Daisies**|Guy Goldberg et.al.|[2511.21659](http://arxiv.org/abs/2511.21659)|null|
+|**2025-11-26**|**Fast 3D Ultrasound Localization Microscopy via Projection-based Processing Framework**|Jingke Zhang et.al.|[2511.21647](http://arxiv.org/abs/2511.21647)|null|
+|**2025-11-26**|**Factorisation conditions and causality for local measurements in QFT**|Robin Simmons et.al.|[2511.21644](http://arxiv.org/abs/2511.21644)|null|
+|**2025-11-26**|**Scale-Agnostic Kolmogorov-Arnold Geometry in Neural Networks**|Mathew Vanherreweghe et.al.|[2511.21626](http://arxiv.org/abs/2511.21626)|null|
+
+## LiDAR SLAM
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**|Akash Vijay et.al.|[2511.21685](http://arxiv.org/abs/2511.21685)|null|
+|**2025-11-26**|**Multivalued backward stochastic differential equations with jumps and moving boundary**|Badr Elmansouri et.al.|[2511.21679](http://arxiv.org/abs/2511.21679)|null|
+|**2025-11-26**|**Event-driven eligibility propagation in large sparse networks: efficiency shaped by biological realism**|Agnes Korcsak-Gorzo et.al.|[2511.21674](http://arxiv.org/abs/2511.21674)|null|
+|**2025-11-26**|**Superalgebra deformations of web categories: Affine and cyclotomic webs**|Nicholas Davidson et.al.|[2511.21671](http://arxiv.org/abs/2511.21671)|null|
+|**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](http://arxiv.org/abs/2511.21663)|null|
+|**2025-11-26**|**FPGA-tailored algorithms for real-time decoding of quantum LDPC codes**|Satvik Maurya et.al.|[2511.21660](http://arxiv.org/abs/2511.21660)|null|
+|**2025-11-26**|**Nearly Tight Lower Bounds for Relaxed Locally Decodable Codes via Robust Daisies**|Guy Goldberg et.al.|[2511.21659](http://arxiv.org/abs/2511.21659)|null|
+|**2025-11-26**|**Fast 3D Ultrasound Localization Microscopy via Projection-based Processing Framework**|Jingke Zhang et.al.|[2511.21647](http://arxiv.org/abs/2511.21647)|null|
+|**2025-11-26**|**Factorisation conditions and causality for local measurements in QFT**|Robin Simmons et.al.|[2511.21644](http://arxiv.org/abs/2511.21644)|null|
+|**2025-11-26**|**Scale-Agnostic Kolmogorov-Arnold Geometry in Neural Networks**|Mathew Vanherreweghe et.al.|[2511.21626](http://arxiv.org/abs/2511.21626)|null|
+
+## Radar Odometry
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2025-11-26**|**VibraWave: Sensing the Pulse of Polluted Waters**|Sagnik Ghosh et.al.|[2511.21456](http://arxiv.org/abs/2511.21456)|null|
+|**2025-11-26**|**Scalable Multisubject Vital Sign Monitoring With mmWave FMCW Radar and FPGA Prototyping**|Jewel Benny et.al.|[2511.21314](http://arxiv.org/abs/2511.21314)|null|
+|**2025-11-26**|**Neural NMPC through Signed Distance Field Encoding for Collision Avoidance**|Martin Jacquet et.al.|[2511.21312](http://arxiv.org/abs/2511.21312)|null|
+|**2025-11-26**|**Design and Measurements of mmWave FMCW Radar Based Non-Contact Multi-Patient Heart Rate and Breath Rate Monitoring System**|Jewel Benny et.al.|[2511.21255](http://arxiv.org/abs/2511.21255)|null|
+|**2025-11-26**|**Shift-Equivariant Complex-Valued Convolutional Neural Networks**|Quentin Gabot et.al.|[2511.21250](http://arxiv.org/abs/2511.21250)|null|
+|**2025-11-26**|**Dual Preintegration for Relative State Estimation**|Ruican Xia et.al.|[2511.21189](http://arxiv.org/abs/2511.21189)|null|
+|**2025-11-26**|**Scaling Foundation Models for Radar Scene Understanding**|Pushkal Mishra et.al.|[2511.21105](http://arxiv.org/abs/2511.21105)|null|
+|**2025-11-26**|**Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry**|Feiyang Pan et.al.|[2511.21083](http://arxiv.org/abs/2511.21083)|null|
+|**2025-11-26**|**Wavelet-Guided Water-Level Estimation for ISAC**|Ayoob Salari et.al.|[2511.20936](http://arxiv.org/abs/2511.20936)|null|
+|**2025-11-25**|**Estimating Fog Parameters from a Sequence of Stereo Images**|Yining Ding et.al.|[2511.20865](http://arxiv.org/abs/2511.20865)|null|
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

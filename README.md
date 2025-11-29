@@ -1,4 +1,4 @@
-## Updated on 2025.11.26
+## Updated on 2025.11.29
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -10,6 +10,9 @@
     <li><a href=#keypoint-detection>Keypoint Detection</a></li>
     <li><a href=#image-matching>Image Matching</a></li>
     <li><a href=#nerf>NeRF</a></li>
+    <li><a href=#radar-slam>Radar SLAM</a></li>
+    <li><a href=#lidar-slam>LiDAR SLAM</a></li>
+    <li><a href=#radar-odometry>Radar Odometry</a></li>
   </ol>
 </details>
 
@@ -1232,7 +1235,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
 
 ## SFM
 
@@ -2164,7 +2167,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -4963,7 +4966,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -5477,7 +5480,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
 
 ## Image Matching
 
@@ -6802,7 +6805,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
 
 ## NeRF
 
@@ -8568,7 +8571,58 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20251126>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+
+## Radar SLAM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-11-26**|**Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**|Akash Vijay et.al.|[2511.21685](http://arxiv.org/abs/2511.21685)|null|
+|**2025-11-26**|**Multivalued backward stochastic differential equations with jumps and moving boundary**|Badr Elmansouri et.al.|[2511.21679](http://arxiv.org/abs/2511.21679)|null|
+|**2025-11-26**|**Event-driven eligibility propagation in large sparse networks: efficiency shaped by biological realism**|Agnes Korcsak-Gorzo et.al.|[2511.21674](http://arxiv.org/abs/2511.21674)|null|
+|**2025-11-26**|**Superalgebra deformations of web categories: Affine and cyclotomic webs**|Nicholas Davidson et.al.|[2511.21671](http://arxiv.org/abs/2511.21671)|null|
+|**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](http://arxiv.org/abs/2511.21663)|null|
+|**2025-11-26**|**FPGA-tailored algorithms for real-time decoding of quantum LDPC codes**|Satvik Maurya et.al.|[2511.21660](http://arxiv.org/abs/2511.21660)|null|
+|**2025-11-26**|**Nearly Tight Lower Bounds for Relaxed Locally Decodable Codes via Robust Daisies**|Guy Goldberg et.al.|[2511.21659](http://arxiv.org/abs/2511.21659)|null|
+|**2025-11-26**|**Fast 3D Ultrasound Localization Microscopy via Projection-based Processing Framework**|Jingke Zhang et.al.|[2511.21647](http://arxiv.org/abs/2511.21647)|null|
+|**2025-11-26**|**Factorisation conditions and causality for local measurements in QFT**|Robin Simmons et.al.|[2511.21644](http://arxiv.org/abs/2511.21644)|null|
+|**2025-11-26**|**Scale-Agnostic Kolmogorov-Arnold Geometry in Neural Networks**|Mathew Vanherreweghe et.al.|[2511.21626](http://arxiv.org/abs/2511.21626)|null|
+
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+
+## LiDAR SLAM
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-11-26**|**Holographically Emergent Gauge Theory in Symmetric Quantum Circuits**|Akash Vijay et.al.|[2511.21685](http://arxiv.org/abs/2511.21685)|null|
+|**2025-11-26**|**Multivalued backward stochastic differential equations with jumps and moving boundary**|Badr Elmansouri et.al.|[2511.21679](http://arxiv.org/abs/2511.21679)|null|
+|**2025-11-26**|**Event-driven eligibility propagation in large sparse networks: efficiency shaped by biological realism**|Agnes Korcsak-Gorzo et.al.|[2511.21674](http://arxiv.org/abs/2511.21674)|null|
+|**2025-11-26**|**Superalgebra deformations of web categories: Affine and cyclotomic webs**|Nicholas Davidson et.al.|[2511.21671](http://arxiv.org/abs/2511.21671)|null|
+|**2025-11-26**|**Attention-Guided Patch-Wise Sparse Adversarial Attacks on Vision-Language-Action Models**|Naifu Zhang et.al.|[2511.21663](http://arxiv.org/abs/2511.21663)|null|
+|**2025-11-26**|**FPGA-tailored algorithms for real-time decoding of quantum LDPC codes**|Satvik Maurya et.al.|[2511.21660](http://arxiv.org/abs/2511.21660)|null|
+|**2025-11-26**|**Nearly Tight Lower Bounds for Relaxed Locally Decodable Codes via Robust Daisies**|Guy Goldberg et.al.|[2511.21659](http://arxiv.org/abs/2511.21659)|null|
+|**2025-11-26**|**Fast 3D Ultrasound Localization Microscopy via Projection-based Processing Framework**|Jingke Zhang et.al.|[2511.21647](http://arxiv.org/abs/2511.21647)|null|
+|**2025-11-26**|**Factorisation conditions and causality for local measurements in QFT**|Robin Simmons et.al.|[2511.21644](http://arxiv.org/abs/2511.21644)|null|
+|**2025-11-26**|**Scale-Agnostic Kolmogorov-Arnold Geometry in Neural Networks**|Mathew Vanherreweghe et.al.|[2511.21626](http://arxiv.org/abs/2511.21626)|null|
+
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
+
+## Radar Odometry
+
+|Publish Date|Title|Authors|PDF|Code|
+|---|---|---|---|---|
+|**2025-11-26**|**VibraWave: Sensing the Pulse of Polluted Waters**|Sagnik Ghosh et.al.|[2511.21456](http://arxiv.org/abs/2511.21456)|null|
+|**2025-11-26**|**Scalable Multisubject Vital Sign Monitoring With mmWave FMCW Radar and FPGA Prototyping**|Jewel Benny et.al.|[2511.21314](http://arxiv.org/abs/2511.21314)|null|
+|**2025-11-26**|**Neural NMPC through Signed Distance Field Encoding for Collision Avoidance**|Martin Jacquet et.al.|[2511.21312](http://arxiv.org/abs/2511.21312)|null|
+|**2025-11-26**|**Design and Measurements of mmWave FMCW Radar Based Non-Contact Multi-Patient Heart Rate and Breath Rate Monitoring System**|Jewel Benny et.al.|[2511.21255](http://arxiv.org/abs/2511.21255)|null|
+|**2025-11-26**|**Shift-Equivariant Complex-Valued Convolutional Neural Networks**|Quentin Gabot et.al.|[2511.21250](http://arxiv.org/abs/2511.21250)|null|
+|**2025-11-26**|**Dual Preintegration for Relative State Estimation**|Ruican Xia et.al.|[2511.21189](http://arxiv.org/abs/2511.21189)|null|
+|**2025-11-26**|**Scaling Foundation Models for Radar Scene Understanding**|Pushkal Mishra et.al.|[2511.21105](http://arxiv.org/abs/2511.21105)|null|
+|**2025-11-26**|**Dual-Agent Reinforcement Learning for Adaptive and Cost-Aware Visual-Inertial Odometry**|Feiyang Pan et.al.|[2511.21083](http://arxiv.org/abs/2511.21083)|null|
+|**2025-11-26**|**Wavelet-Guided Water-Level Estimation for ISAC**|Ayoob Salari et.al.|[2511.20936](http://arxiv.org/abs/2511.20936)|null|
+|**2025-11-25**|**Estimating Fog Parameters from a Sequence of Stereo Images**|Yining Ding et.al.|[2511.20865](http://arxiv.org/abs/2511.20865)|null|
+
+<p align=right>(<a href=#updated-on-20251129>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
